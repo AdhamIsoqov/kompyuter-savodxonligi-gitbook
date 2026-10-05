@@ -1,51 +1,172 @@
-# 24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash
+# 24-Mavzu: Barcha 4 Modul Bo'yicha Umumiy Takrorlash va Yakuniy Attestatsiya
 
 {% hint style="info" %}
-**Dars maqsadi:** Ushbu darsda 24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash bo'yicha nazariy va amaliy bilimlar o'rganiladi.
+**Dars maqsadi:** "Kompyuter Texnikasi Montajchisi va Raqamli Savodxonlik" kursi bo'yicha barcha 4 ta modulda (1. Apparat ta'minoti va OT; 2. MS Office; 3. Internet, Google va AI; 4. Axborot xavfsizligi) o'zlashtirilgan fundamental nazariy va amaliy kompetensiyalarni tizimlashtirish hamda yakuniy malaka attestatsiyasidan muvaffaqiyatli o'tish.
 {% endhint %}
 
-### 🎯 Kutilayotgan Ko'nikmalar
-* **Bilishingiz kerak:** Mavzuning asosiy qoidalari va standartlari.
-* **Bajara olishingiz kerak:** Mavzu bo'yicha amaliy topshiriqlarni mustaqil bajarish.
+### 🎯 Kutilayotgan Yakuniy Kompetensiyalar
+* **Bilishingiz kerak:**
+  * Kompyuter texnikasini apparat, dasturiy va tarmoq darajasida integratsiyalashgan boshqaruv prinsiplari.
+  * Korxona hujjatlar aylanishi va axborot xavfsizligi standartlari.
+  * Zamonaviy raqamli iqtisodiyotda AI va bulutli texnologiyalarning o'rni.
+* **Bajara olishingiz kerak:**
+  * Har qanday kompyuter nosozligini (apparat, dasturiy, tarmoq) mustaqil diagnostika qilish va bartaraf etish.
+  * Word, Excel va PowerPoint vositalarida murakkab loyihalarni to'liq professional darajada amalga oshirish.
+  * Axborot xavfsizligi, ma'lumotlar zaxirasi (Backup) va 2FA himoya devorlarini amaliyotda qo'llash.
 
 ---
 
-## 1. 📖 Nazariy Tushunchalar
+## 🎬 1. Video Dars
 
-[Mavzu nazariyasi ishlab chiqilmoqda...]
+{% hint style="info" %}
+**Video darslik:** Kursning yakuniy xulosasi va attestatsiyaga tayyorgarlik bo'yicha quyidagi videoni tomosha qiling:
+{% endhint %}
+
+[Iframe/Embed: 24-Mavzu Bo'yicha YouTube Video Dars Havolasi]
+
+---
+
+## 2. 📖 Kursning Katta Tizimli Xulosasi
+
+Ushbu kurs davomida siz noldan boshlab professional mutaxassis darajasigacha bo'lgan yo'lni bosib o'tdingiz:
+
+```
++-------------------------------------------------------------------------------+
+|         "KOMPYUTER MONTAJCHISI VA RAQAMLI SAVODXONLIK" BILIMLAR XARITASI       |
++-------------------------------------------------------------------------------+
+| 1-MODUL: APPARAT VA OS   │ 2-MODUL: MS OFFICE     │ 3-MODUL: INTERNET & AI    │
+| - 220V va ESD xavfsizligi│ - Word: Rasmiy hujjat  │ - Qidiruv operatorlari    │
+| - Windows & Multitasking │ - Excel: Formulalar/Graf│ - Gmail & Google Drive   │
+| - Fayllar & Qidiruv      │ - PowerPoint: Slaydlar │ - Videomuloqot & Telegram │
+| - Printer, Skaner & OCR  │ - Dinamik OLE aloqasi  │ - AI & Prompt Engineering │
+| - Profilaktika & Temp    │                        │                           │
++--------------------------+------------------------+---------------------------+
+                                        │
+                                        ▼
+             4-MODUL: AXBOROT XAVFSIZLIGI VA KIBERGIGIENA
+             - Kuchli parollar va 2FA (Ikki bosqichli himoya)
+             - Fishing, firibgarlik va kiberjinoyatlardan himoyalanish
+             - Raqamli madaniyat, etika va mualliflik huquqi
+```
 
 {% hint style="success" %}
-**Pro-Tip (Foydali Maslahat):**
-Ishni osonlashtirish uchun tezkor klaviatura yorliqlari va tavsiya etilgan standartlardan foydalaning.
+**Pro-Tip (Professional IT-Mutaxassisning "Oltin Qoidasi"):**
+Haqiqiy mutaxassis hech qachon muammo chiqishini kutib o'tirmaydi — u doimo profilaktika bilan shug'ullanadi:
+1. Haftalik zaxira nusxa (Backup) oling;
+2. Tizim va dasturlarni doimiy yangilang;
+3. Hech qachon shubhali fayl va havolalarni ochmang;
+4. Ish joyidan ketayotganda ekranni bloklang (`Win + L`).
 {% endhint %}
 
 ---
 
-## 2. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
+## 3. 💻 Katta Yakuniy Amaliy Imtihon (Final Lab Task)
 
-1. **1-Qadam:** Ishchi muhit va fayllarni tayyorlang.
-2. **2-Qadam:** Berilgan ko'rsatmalarga asosan amallarni bajaring.
+Ushbu yakuniy amaliy imtihonda siz butun kurs bo'yicha integratsiyalashgan yakuniy attestatsiya portfoliosini shakllantirasiz.
+
+### Kerakli Resurslar:
+* Kompyuter (Windows 10/11);
+* MS Office paketi (Word, Excel, PowerPoint);
+* Internet brauzeri va Google Drive;
+* Yakuniy attestatsiya shabloni.
+
+### 📄 Amaliy Mashg'ulot Shabloni:
+[Iframe/Embed: 24-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+
+> *Eslatma: Quyidagi 8 ta vazifani to'liq bajaring va har birining skrinshotini shablonga joylang.*
+
+### Bajarish Bosqichlari:
+
+1. **1-Vazifa (Tizim diagnostikasi):** `dxdiag` va Task Manager orqali kompyuteringiz CPU, RAM va SSD/HDD parametrlarini qayd eting.
+2. **2-Vazifa (Disk tozalash):** `%temp%` va `cleanmgr` orqali kesh fayllarni tozalab, diskdagi bo'sh joyni ko'rsating.
+3. **3-Vazifa (Excel hisobot):** Excelda 5 ta xodimning oylik maoshi, ustama va soliqlari hisoblangan jadval tuzing (`SUM`, `AVERAGE`, `IF` formulalari bilan) va unga ustunli diagramma chizing.
+4. **4-Vazifa (Word rasmiy xat):** Word dasturida davlat standartlariga mos rasmiy hisobot tayyorlang, Exceldagi jadval va diagrammani unga joylang hamda avtomatik mundarija qo'ying.
+5. **5-Vazifa (PowerPoint taqdimot):** Ushbu hisobot bo'yicha 5 slaydli qisqa taqdimot tuzing (Transitions va Fade animatsiyalari bilan).
+6. **6-Vazifa (Qidiruv mahorati):** Google qidiruvida `site:gov.uz filetype:pdf` operatori orqali topilgan bitta rasmiy davlat hujjatini yuklab oling.
+7. **7-Vazifa (Bulutli zaxira):** Barcha fayllarni bitta papkaga jamlang, Google Drive xizmatiga yuklang va unga "Viewer" huquqi bilan ochiq havola oling.
+8. **8-Vazifa (Kiberxavfsizlik):** O'z akkauntingizda 2FA yoqilganligini ko'rsatuvchi skrinshotni hisobot oxiriga biriktiring.
 
 {% hint style="warning" %}
-**Ehtiyot bo'ling:** Xatoliklarning oldini olish uchun amallarni ketma-ketlikda bajaring.
+**Ehtiyot bo'ling:**
+Yakuniy attestatsiya ishi har bir tinglovchi tomonidan mustaqil bajarilishi shart. Boshqa tinglovchilarning skrinshotlari yoki matnlaridan nusxa ko'chirish (Plagiat) qat'iyan man etiladi.
 {% endhint %}
 
 ---
 
-## 3. 🛠 Real Ish Vaziyati (Case-Study)
+## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
-**Muammo:** [Hayotiy muammo]
-**Yechim:** [Bosqichma-bosqich bartaraf etish]
+### Muammo:
+Kompaniyaning barcha kompyuterlari birdaniga sekinlashdi, printerlar ishlamay qoldi, tarmoqdagi umumiy fayllar ochilmay qoldi va ba'zi xodimlarning ekranda qizil xatolik oynalari paydo bo'ldi. Rahbariyat IT-montajchidan zudlik bilan tizimni to'liq tiklashni talab qildi.
+
+### Muammoning Kelib Chiqish Sababi:
+1) Bir xodim fishing xatidagi zararli faylni ochib, lokal tarmoqqa virus tarqatgan;
+2) Print Spooler xizmati navbatdagi buzilgan fayl tufayli qotib qolgan;
+3) Antivirus bazalari va Windows yangilanishlari 1 yildan buyon o'rnatilmagan.
+
+### Bosqichma-bosqich Yechim:
+1. **Lokal izolyatsiya:** Zararlangan kompyuterni zudlik bilan tarmoq kabelidan (yoki Wi-Fi dan) uzing.
+2. **Printerlarni qayta ishga tushirish:** `services.msc` orqali Print Spooler xizmatini to'xtatib, `C:\Windows\System32\spool\PRINTERS` papkasini tozalang va qayta yoqing.
+3. **Antivirus skaneri:** Barcha kompyuterlarda Windows Defender orqali to'liq tekshiruv (Full scan) o'tkazing va zararli dasturlarni karantinga oling.
+4. **Zaxiradan tiklash:** Muhim korxona ma'lumotlarini tashqi zaxira diskdan (Backup) qayta tiklang.
+5. **Xavfsizlik devori:** Barcha xodimlarning kompyuterlarida 2FA himoyasini joriy eting va xavfsizlik yangilanishlarini o'rnating.
 
 ---
 
-## 4. 📝 Bilimni Tekshirish (Quiz)
+## 5. 📝 Bilimni Tekshirish (Butun Kurs Bo'yicha Yakuniy Attestatsiya Testi)
 
-[Test savollari va tahlil]
+{% hint style="info" %}
+**Rasmiy Yakuniy Imtihon Testi:** Kursni muvaffaqiyatli tamomlash va sertifikatga ega bo'lish uchun quyidagi yakuniy attestatsiya Google Forms testini topshiring:
+{% endhint %}
+
+[Iframe/Embed: Kurs Bo'yicha Rasmiy Yakuniy Attestatsiya Test Havolasi]
+
+### ✍️ O'z-o'zini Tekshirish Uchun Yakuniy Test Savollari:
+
+#### Test 1: Kompyuter tizim blokini changdan tozalash vaqtida nima sababdan ventilyatorlarni ushlab turish kerak?
+- ( ) A) Chang xonaga tarqamasligi uchun
+- (x) B) Kuchli havo oqimida ventilyator motori teskari elektr toki ishlab chiqarib, platadagi mikrosxemani kuydirmasligi uchun
+- ( ) C) Ventilyator sinib ketmasligi uchun
+- ( ) D) Quvvat bloki yonib ketmasligi uchun
+*Izoh: Elektr dvigatellari mexanik aylantirilganda generatorga aylanadi va xavfli tok beradi.*
+
+#### Test 2: Word dasturida sarlavhalarga Heading 1 va Heading 2 uslublarini berish nima uchun zarur?
+- ( ) A) Faqat rangini chiroyli qilish uchun
+- (x) B) Hujjatda avtomatik mundarija (Table of Contents) shakllanishi uchun
+- ( ) C) Fayl hajmini kichraytirish uchun
+- ( ) D) Chop etishni tezlashtirish uchun
+*Izoh: Word aynan Heading uslubidagi matnlarni sahifa raqamlari bilan mundarijaga bog'laydi.*
+
+#### Test 3: Excelda `=SUM(A1:A5)` va `=A1+A5` formulalari o'rtasidagi farq nima?
+- ( ) A) Hech qanday farq yo'q
+- (x) B) `=SUM(A1:A5)` A1 dan A5 gacha bo'lgan barcha 5 ta katakni qo'shadi, `=A1+A5` esa faqat ikkita katakni qo'shadi
+- ( ) C) Birinchisi matnlar uchun, ikkinchisi sonlar uchun
+- ( ) D) Ikkinchisi xato formula
+*Izoh: Ikki nuqta (`:`) diapazonni, plyus (`+`) esa alohida kataklarni bildiradi.*
+
+#### Test 4: Akkauntlarni ruxsatsiz buzib kirishdan himoyalovchi eng samarali zamonaviy vosita qaysi?
+- ( ) A) Antivirus dasturi
+- (x) B) 2FA (Ikki bosqichli autentifikatsiya)
+- ( ) C) Monitorni o'chirish
+- ( ) D) Brauzer tarixini tozalash
+*Izoh: 2FA paroldan tashqari shaxsiy telefonga keluvchi bir martalik kod orqali kirishni talab qiladi.*
+
+#### Test 5: Google Drive bulutli xotirasidagi hujjatni boshqalarga ulashganda (Share) eng xavfsiz o'qish rejimi qaysi?
+- ( ) A) Editor
+- ( ) B) Owner
+- (x) C) Viewer (Ko'ruvchi)
+- ( ) D) Administrator
+*Izoh: Viewer huquqi begona shaxslarning ma'lumotni o'zgartirishi yoki o'chirib yuborishiga yo'l qo'ymaydi.*
+
+### 🤔 O'ylantiruvchi Mantiqiy Savollar:
+1. Kompyuter texnikasi montajchisi uchun texnik bilimlar bilan bir qatorda kiberxavfsizlik madaniyati nima uchun muhim?
+2. Sun'iy intellekt (AI) texnologiyalari kelajakda ofis xodimlarining kasbiy faoliyatiga qanday ta'sir ko'rsatadi?
+3. Nima sababdan har bir korxonada ma'lumotlar zaxirasi (3-2-1 qoidasi: 3 ta nusxa, 2 ta har xil tashuvchi, 1 ta tashqi bulut) saqlanishi shart?
 
 ---
 
-## 5. 🏠 Mustaqil Uyga Vazifa
+## 6. 🏠 Mustaqil Yakuniy Malaka Portfoliosi
 
-**Topshiriq:** [Uyga amaliy vazifa]
-**Topshirish formati:** .docx yoki .pdf
+### Topshiriq:
+Ushbu darsning "Katta Yakuniy Amaliy Imtihon" bo'limidagi barcha 8 ta topshiriqni ketma-ket bajarib, o'z shaxsiy **"Kompyuter Savodxonligi va Montajchilik Malaka Portfoliosi"** nomli keng qamrovli yakuniy hisobotini tayyorlang.
+
+**Topshirish formati:** Tayyorlangan to'liq portfolio hujjatini `FIO_24-Mavzu_Yakuniy_Portfolio.docx` yoki `.pdf` shaklida platformaga yuklang.
