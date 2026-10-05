@@ -1,0 +1,9 @@
+{
+  "title": "Kompyuter Texnikasi Montajchisi va Raqamli Savodxonlik",
+  "description": "GitBook interaktiv darslik qo'llanmasi",
+  "language": "uz",
+  "plugins": [
+    "hints",
+    "collapsible-chapters"
+  ]
+}
