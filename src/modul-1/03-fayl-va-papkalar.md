@@ -1,51 +1,192 @@
 # 03-Mavzu: Fayl va Papkalar Bilan Ishlash
 
 {% hint style="info" %}
-**Dars maqsadi:** Ushbu darsda 03-Mavzu: Fayl va Papkalar Bilan Ishlash bo'yicha nazariy va amaliy bilimlar o'rganiladi.
+**Dars maqsadi:** Windows fayl tizimi tuzilishi, File Explorer vositasida fayl va papkalarni professional boshqarish, iyerarxik kataloglar yaratish, fayllarni nusxalash (Copy), ko'chirish (Cut), savat (Recycle Bin) xavfsizligi va kengaytirilgan qidiruv filtrlarini to'liq o'zlashtirish.
 {% endhint %}
 
-### 🎯 Kutilayotgan Ko'nikmalar
-* **Bilishingiz kerak:** Mavzuning asosiy qoidalari va standartlari.
-* **Bajara olishingiz kerak:** Mavzu bo'yicha amaliy topshiriqlarni mustaqil bajarish.
+### 🎯 Kutilayotgan Kompetensiyalar
+* **Bilishingiz kerak:**
+  * Fayl va papkaning fundamental farqlari hamda mashhur fayl kengaytmalari (`.docx`, `.xlsx`, `.pptx`, `.pdf`, `.zip`, `.exe`).
+  * `Copy` (nusxalash) va `Cut` (ko'chirish) amallarining ishlash mexanizmi.
+  * Oddiy o'chirish (`Delete`) va butunlay yo'q qilish (`Shift + Delete`) oqibatlari.
+* **Bajara olishingiz kerak:**
+  * File Explorer'da ko'p bosqichli iyerarxik papkalar daraxtini yaratish.
+  * Fayllar nomini tezkor o'zgartirish (`F2`), guruhlab tanlash (`Ctrl + A`, `Shift + Click`, `Ctrl + Click`).
+  * Wildcard belgisi (`*`) orqali formati bo'yicha tezkor qidiruvni amalga oshirish (masalan: `*.xlsx`).
 
 ---
 
-## 1. 📖 Nazariy Tushunchalar
+## 🎬 1. Video Dars
 
-[Mavzu nazariyasi ishlab chiqilmoqda...]
+{% hint style="info" %}
+**Video ko'rsatma:** Darsni o'zlashtirishdan oldin File Explorer va fayllarni tartibga solish bo'yicha video darsni tomosha qiling:
+{% endhint %}
+
+[Iframe/Embed: 03-Mavzu Bo'yicha Video Dars (YouTube / Google Drive Havolasi)]
+
+---
+
+## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
+
+### 2.1. Fayl Tizimi Tushunchasi va File Explorer
+
+Kompyuterdagi barcha axborotlar fayllar ko'rinishida saqlanadi. Windows tizimida ma'lumotlarni tartibli boshqarish uchun **File Explorer (Проводник)** asosiy dastur hisoblanadi. Uni ochishning eng tez yo'li — `Win + E` tugmalari kombinatsiyasidir.
+
+```
+[Mening Kompyuterim (This PC)]
+   ├── Mahalli Disk (C:)  --> Operatsion tizim va dasturlar
+   └── Mahalli Disk (D:)  --> Foydalanuvchi ma'lumotlari va arxivlar
+         └── [Loyiha_2026] (Asosiy papka)
+               ├── [Hujjatlar]  --> .docx, .pdf fayllar
+               ├── [Jadvallar]  --> .xlsx hisobotlar
+               └── [Taqdimotlar]--> .pptx slaydlar
+```
+
+### 2.2. Copy (Nusxalash) vs Cut (Ko'chirish)
+
+Fayllarni boshqarishda eng ko'p ishlatiladigan va yangi boshlovchilar tez-tez adashtiradigan ikki asosiy amal taqqoslanishi:
+
+| Xususiyati | Nusxalash — COPY (`Ctrl + C`) | Ko'chirish — CUT (`Ctrl + X`) |
+| :--- | :--- | :--- |
+| **Asl nusxasi** | Asl joyida saqlanib qoladi | Asl joyidan o'chiriladi |
+| **Yangi joydagi natija** | Yangi joyda uning ikkinchi nusxasi paydo bo'ladi | Yangi joyga ko'chib o'tadi |
+| **Xotirada egallagan joyi**| 2 barobarga ortadi (ikkita alohida fayl) | O'zgarmaydi (bitta fayl bo'lib qoladi) |
+| **Vizual ko'rinishi** | Fayl belgisi o'zgarmaydi | `Ctrl + X` bosilgach, fayl belgisi yarim shaffof (xira) bo'ladi |
 
 {% hint style="success" %}
-**Pro-Tip (Foydali Maslahat):**
-Ishni osonlashtirish uchun tezkor klaviatura yorliqlari va tavsiya etilgan standartlardan foydalaning.
+**Pro-Tip (Fayllarni guruhlab belgilash):**
+* `Ctrl + A` — Papka ichidagi barcha fayllarni bir zumda belgilash.
+* `Shift + Strelka` — Ketma-ket joylashgan fayllar blokini birgalikda tanlash.
+* `Ctrl + Sichqoncha chap tugmasi` — Har xil joyda turgan fayllarni donalab (tanlab-tanlab) belgilash.
 {% endhint %}
+
+### 2.3. O'chirish Mexanizmi va Recycle Bin (Savat)
+
+Kompyuterda fayllarni o'chirish ikki xil usulda amalga oshiriladi:
+
+1. **Vaqtinchalik o'chirish (`Delete`):** Fayl diskdan yo'qolmaydi, balki operatsion tizimning maxsus himoya qutisi — **Recycle Bin (Savat)** ga tushadi. Agar fayl adashib o'chirilgan bo'lsa, Savatga kirib, fayl ustiga sichqonchaning o'ng tugmasini bosib **Restore (Восстановить)** buyrug'ini tanlash orqali uni o'z joyiga qaytarish mumkin.
+2. **Butunlay yo'q qilish (`Shift + Delete`):** Fayl savatga tushmasdan disk sektorlaridan to'g'ridan-to'g'ri o'chiriladi. Ushbu buyruqni berishda nihoyatda ehtiyotkor bo'lish zarur!
+
+### 2.4. File Explorer Qidiruv Tizimi va Wildcards (`*`)
+
+Agar kompyuteringizda minglab fayllar orasidan keraklisini topa olmasangiz, File Explorer qidiruv qatoriga maxsus filtrlarni kiritishingiz mumkin:
+* `Hisobot` — Nomi ichida "Hisobot" so'zi qatnashgan barcha fayllarni topadi.
+* `*.docx` — Barcha Microsoft Word hujjatlarini qidiradi.
+* `*.xlsx` — Barcha Excel jadvallarini qidiradi.
+* `Hujjat_2026_*.pdf` — "Hujjat_2026_" bilan boshlanuvchi barcha PDF fayllarni topadi.
 
 ---
 
-## 2. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
+## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
-1. **1-Qadam:** Ishchi muhit va fayllarni tayyorlang.
-2. **2-Qadam:** Berilgan ko'rsatmalarga asosan amallarni bajaring.
+Ushbu amaliy mashg'ulotda siz professional iyerarxik kataloglar strukturasini mustaqil qurasiz va fayllar oqimini tartiblaysiz.
+
+### Kerakli Resurslar:
+* Kompyuter (Windows 10/11);
+* File Explorer dasturi;
+* Amaliy topshiriq shabloni.
+
+### 📄 Amaliy Mashq Shabloni (Google Docs / MS Office):
+[Iframe/Embed: 03-Mavzu Amaliy Mashg'ulot Shabloni - Google Docs / MS Word Online]
+
+> *Eslatma: Shablondan nusxa oling va quyidagi amallarni bajargach, fayllar daraxti skrinshotini unga ilova qiling.*
+
+### Bajarish Bosqichlari:
+
+1. **1-Qadam:** `Win + E` tugmalari bilan File Explorer dasturini oching va **Hujjatlar (Documents)** jildiga kiring.
+2. **2-Qadam:** Bo'sh joyga o'ng tugmani bosib, yangi papka yarating va unga `Mening_Arxivim` deb nom bering (yoki `Ctrl + Shift + N` tezkor tugmasini bosing).
+3. **3-Qadam:** `Mening_Arxivim` papkasi ichiga kiring va uning ichida 3 ta alohida ichki papka yarating:
+   * `01_Matnlar`
+   * `02_Jadvallar`
+   * `03_Media`
+4. **4-Qadam:** `01_Matnlar` papkasi ichida yangi matnli fayl oching (O'ng tugma -> **New -> Text Document**) va unga `Reja_2026.txt` nomini bering.
+5. **5-Qadam (Nomini o'zgartirish):** Ushbu faylni tanlang va klaviaturadagi `F2` tugmasini bosing. Nomini `Yillik_Reja_2026.txt` ga o'zgartirib Enter bosing.
+6. **6-Qadam (Nusxalash - Copy):** Ushbu fayl ustida `Ctrl + C` tugmasini bosing, so'ng `02_Jadvallar` papkasiga o'tib `Ctrl + V` bosing (fayl ikkala papkada ham mavjud bo'ladi).
+7. **7-Qadam (Ko'chirish - Cut):** `02_Jadvallar` papkasidagi faylni `Ctrl + X` qiling va `03_Media` papkasiga o'tib `Ctrl + V` bosing (fayl jadvallar papkasidan o'chib, media papkasiga ko'chadi).
+8. **8-Qadam (Qidiruv):** `Mening_Arxivim` papkasining yuqori o'ng burchagidagi qidiruv qatoriga `*.txt` deb yozing va qidiruv natijalarini kuzating.
 
 {% hint style="warning" %}
-**Ehtiyot bo'ling:** Xatoliklarning oldini olish uchun amallarni ketma-ketlikda bajaring.
+**Ehtiyot bo'ling:**
+Hech qachon tizimli `C:\Windows` yoki `C:\Program Files` papkalari ichidagi fayllarni bilmasdan o'chirmang yoki nomini o'zgartirmang! Bu operatsion tizimning ishdan chiqishiga (Blue Screen of Death — BSOD) olib kelishi mumkin.
 {% endhint %}
 
 ---
 
-## 3. 🛠 Real Ish Vaziyati (Case-Study)
+## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
-**Muammo:** [Hayotiy muammo]
-**Yechim:** [Bosqichma-bosqich bartaraf etish]
+### Muammo:
+Buxgalteriya xodimi muhim oylik hisobot hujjati ustida 4 soat ishlagach, uni xato bilan boshqa papkaga ko'chirib yubordi yoki bexosdan klaviaturadagi `Delete` tugmasini bosib o'chirib yubordi. Xodim sarosimada, kompyuterda fayl joylashgan joyda hujjat yo'q.
+
+### Muammoning Kelib Chiqish Sababi:
+Fayl tasodifan o'chirilgan (Savatga tushgan) yoki noto'g'ri sichqoncha harakati oqibatida qo'shni papkaga sudrab yuborilgan (Drag & Drop xatosi).
+
+### Bosqichma-bosqich Yechim:
+1. **Zudlik bilan bekor qilish:** Agar hodisa hozirgina yuz bergan bo'lsa, File Explorer'da `Ctrl + Z` tugmasini bosing (oxirgi noto'g'ri ko'chirish yoki o'chirish amali darhol bekor qilinadi).
+2. **Savatni (Recycle Bin) tekshirish:** Agar vaqt o'tgan bo'lsa, Ish stolidagi **Recycle Bin** ikonkasini oching.
+3. Qidiruv qatoriga fayl nomini yozing yoki sanasi bo'yicha saralang.
+4. Topilgan fayl ustiga sichqonchaning o'ng tugmasini bosib **Restore (Восстановить)** buyrug'ini tanlang. Fayl o'z asl o'rniga tiklanadi.
+5. Agar savatda bo'lmasa, `Win + E` orqali butun `D:` disk bo'ylab `*.xlsx` yoki hisobot nomi bo'yicha umumiy qidiruv bering.
 
 ---
 
-## 4. 📝 Bilimni Tekshirish (Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
-[Test savollari va tahlil]
+{% hint style="info" %}
+**Onlayn Test:** 3-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+{% endhint %}
+
+[Iframe/Embed: 03-Mavzu Google Forms Rasmiy Test Havolasi]
+
+### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
+
+#### Test 1: File Explorer dasturini tezkor ochish klaviatura yorlig'i qaysi?
+- ( ) A) `Win + R`
+- (x) B) `Win + E`
+- ( ) C) `Alt + Tab`
+- ( ) D) `Ctrl + Shift + Esc`
+*Izoh: `Win + E` (Explorer) tugmasi barcha Windows versiyalarida fayl boshqaruvchisini ochadi.*
+
+#### Test 2: Fayl yoki papka nomini tezkor tahrirlash (Rename) uchun qaysi funksional tugma ishlatiladi?
+- ( ) A) `F1`
+- (x) B) `F2`
+- ( ) C) `F5`
+- ( ) D) `F12`
+*Izoh: `F2` tugmasi tanlangan har qanday obyekt nomini qayta yozish rejimiga o'tkazadi.*
+
+#### Test 3: Faylni savatga (Recycle Bin) yubormasdan butunlay o'chirish qaysi kombinatsiya bilan bajariladi?
+- ( ) A) `Ctrl + Delete`
+- ( ) B) `Alt + Delete`
+- (x) C) `Shift + Delete`
+- ( ) D) Faqat `Delete`
+*Izoh: `Shift + Delete` faylni savatni chetlab o'tib, doimiy o'chirib yuboradi.*
+
+#### Test 4: `Copy` (Ctrl+C) va `Cut` (Ctrl+X) o'rtasidagi asosiy farq nima?
+- (x) A) `Copy` da asl fayl joyida qoladi, `Cut` da esa asl fayl yangi joyga ko'chib o'tadi
+- ( ) B) `Cut` faqat matnlar uchun, `Copy` faqat rasmlar uchun ishlaydi
+- ( ) C) Ikkalasi ham bir xil natija beradi
+- ( ) D) `Copy` qilingan faylni qaytarib bo'lmaydi
+*Izoh: Nusxalashda fayl ko'payadi, ko'chirishda esa mavjud bitta fayl joyini o'zgartiradi.*
+
+#### Test 5: File Explorer'da kompyuterdagi barcha Excel fayllarini qidirish uchun qanday so'rov yoziladi?
+- ( ) A) `excel`
+- (x) B) `*.xlsx`
+- ( ) C) `all.tables`
+- ( ) D) `#excel`
+*Izoh: Yulduzcha (`*`) ixtiyoriy nomni bildiradi, `.xlsx` esa Excel fayllarining kengaytmasidir.*
+
+### 🤔 O'ylantiruvchi Mantiqiy Savollar:
+1. Nima uchun fayl kengaytmasini (masalan, `.docx` ni `.mp3` ga) qo'lda o'zgartirib qo'yish faylni ochilmaydigan qilib qo'yadi?
+2. `Ctrl + Z` kombinatsiyasi File Explorer muhitida qanday favqulodda yordam berishi mumkin?
+3. Tashqi USB fleshkadagi fayllar `Delete` tugmasi bilan o'chirilganda, ular kompyuterning Recycle Bin (Savat)iga tushadimi yoki yo'qmi? Nega?
 
 ---
 
-## 5. 🏠 Mustaqil Uyga Vazifa
+## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 
-**Topshiriq:** [Uyga amaliy vazifa]
-**Topshirish formati:** .docx yoki .pdf
+### Topshiriq:
+1. Kompyuteringizning `D:` yoki `C:\Hujjatlar` bo'limida o'zingizning shaxsiy yoki o'qish yo'nalishingiz bo'yicha kamida 3 pog'onali iyerarxik papkalar tizimini yarating.
+2. Har bir papkaga kamida bittadan matnli (`.txt` yoki `.docx`) mashq fayli joylang.
+3. Klaviaturadagi `Ctrl + Shift + N`, `F2`, `Ctrl + C`, `Ctrl + V` va `Ctrl + X` tugmalaridan foydalanish jarayonini sinab ko'ring.
+4. Yaratilgan papkalar daraxtini File Explorer chap panelida daraxt ko'rinishida ochib, to'liq skrinshot oling.
+
+**Topshirish formati:** Skrinshot va 3 ta mantiqiy savolga berilgan javoblarni `FIO_3-Mavzu_Fayllar.docx` faylida tayyorlab tizimga yuklang.
