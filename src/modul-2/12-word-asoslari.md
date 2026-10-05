@@ -78,7 +78,14 @@ Ushbu amaliy mashg'ulotda siz rasmiy ariza shablonini noldan davlat standartlari
 * Amaliy matn shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 12-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [12-Mavzu: Microsoft Word Asoslari — Shablonni ochish](https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali rasmiy arizani tayyorlang.*
 

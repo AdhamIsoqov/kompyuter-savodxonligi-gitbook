@@ -84,7 +84,14 @@ Ushbu amaliy mashg'ulotda siz kompyuterda mavjud printer sozlamalarini tahlil qi
 * O'rnatilgan "Microsoft Print to PDF" virtual printeri.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 06-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Shablonni ochish](https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam natijalarini hisobotga kiriting.*
 

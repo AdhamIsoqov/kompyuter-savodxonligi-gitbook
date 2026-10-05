@@ -85,7 +85,14 @@ Ushbu amaliy mashg'ulotda siz o'quv markazi talabalarining yakuniy imtihon balla
 * Amaliy mashg'ulot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 15-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Sheets (Jadval)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [15-Mavzu: Microsoft Excel Formulalari va Funksiyalari — Shablonni ochish](https://docs.google.com/spreadsheets/d/1KV61Xl2yennGNgE125YJrkJDmwTdVWjErLDFIQqzvd0/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/spreadsheets/d/1KV61Xl2yennGNgE125YJrkJDmwTdVWjErLDFIQqzvd0/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/1KV61Xl2yennGNgE125YJrkJDmwTdVWjErLDFIQqzvd0/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali barcha formulalarni kiritib chiqing.*
 

@@ -78,7 +78,14 @@ Ushbu amaliy mashg'ulotda siz kompyuteringizdagi audio va video multimedia quril
 * USB fleshka.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 08-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Shablonni ochish](https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va diagnostika bosqichlari natijalarini to'ldiring.*
 

@@ -71,7 +71,14 @@ Ushbu yakuniy amaliy imtihonda siz butun kurs bo'yicha integratsiyalashgan yakun
 * Yakuniy attestatsiya shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 24-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash — Shablonni ochish](https://docs.google.com/document/d/1Nu5oJosettjtepB2k8_seej9HpVmokJUYFiq01ta3_k/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1Nu5oJosettjtepB2k8_seej9HpVmokJUYFiq01ta3_k/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1Nu5oJosettjtepB2k8_seej9HpVmokJUYFiq01ta3_k/preview" %}
 
 > *Eslatma: Quyidagi 8 ta vazifani to'liq bajaring va har birining skrinshotini shablonga joylang.*
 

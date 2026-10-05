@@ -97,7 +97,14 @@ Ushbu amaliy topshiriqda siz Windows tizimida ko'p vazifali ish muhitini to'g'ri
 * Internet brauzeri (Google Chrome yoki Edge).
 
 ### 📄 Amaliy Mashq Shabloni (Google Docs / MS Office):
-[Iframe/Embed: 02-Mavzu Amaliy Mashg'ulot Shabloni - Google Docs / MS Word Online]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [02-Mavzu: Kompyuter Bilan Tanishuv va Arxitektura — Shablonni ochish](https://docs.google.com/document/d/1NPICLKBxLSTfZ7K0BTVTB_BkTIuYj2_b87wwip__bRc/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1NPICLKBxLSTfZ7K0BTVTB_BkTIuYj2_b87wwip__bRc/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1NPICLKBxLSTfZ7K0BTVTB_BkTIuYj2_b87wwip__bRc/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi qadamlarni bajarish davomida ekranni suratga olib (skrinshot) hisobotga joylang.*
 

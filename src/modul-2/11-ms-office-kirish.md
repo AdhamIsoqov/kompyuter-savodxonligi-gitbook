@@ -70,7 +70,14 @@ Ushbu amaliy mashg'ulotda siz kompyuteringizdagi Office paketining holatini teks
 * Microsoft Office dasturlar to'plami.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 11-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [11-Mavzu: Microsoft Office Paketiga Kirish — Shablonni ochish](https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadamni bajarib hisobotga joylang.*
 

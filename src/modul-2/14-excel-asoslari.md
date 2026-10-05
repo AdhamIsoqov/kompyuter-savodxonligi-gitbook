@@ -77,7 +77,14 @@ Ushbu mashg'ulotda siz korxona omboridagi kompyuter ehtiyot qismlari hisobi jadv
 * Amaliy mashg'ulot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 14-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Sheets (Jadval)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [14-Mavzu: Microsoft Excel Asoslari — Shablonni ochish](https://docs.google.com/spreadsheets/d/1lnWVjQzzTAilMCAjbXkGEK-YDSRxPFZDarsyi3KDmn8/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/spreadsheets/d/1lnWVjQzzTAilMCAjbXkGEK-YDSRxPFZDarsyi3KDmn8/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/1lnWVjQzzTAilMCAjbXkGEK-YDSRxPFZDarsyi3KDmn8/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali jadvalni to'ldiring.*
 

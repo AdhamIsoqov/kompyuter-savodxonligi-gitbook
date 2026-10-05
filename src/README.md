@@ -127,6 +127,17 @@ Mashg'ulotlarni to'laqonli bajarish uchun ishchi kompyuteringiz quyidagi talabla
 
 ---
 
+## 📁 Google Drive: Kursning Barcha Amaliy Shablonlari va Ishchi Daftarlari
+
+Kursdagi barcha 24 ta mavzuga tegishli amaliy topshiriqlar, laboratoriya ishlari hisobotlari va uy vazifasi shablonlari yagona ommaviy Google Drive jildida jamlangan:
+
+{% hint style="success" %}
+**📂 [Google Drive: Barcha Amaliy Mashg'ulotlar Jildi](https://drive.google.com/drive/folders/1rAYqBUzNnt0_pwBdwTk_RL-FKcsB1dux)**  
+Ushbu jild orqali istalgan darsning Google Docs hisobot varaqasini yoki Google Sheets jadvalini to'g'ridan-to'g'ri ochib, o'z Google Drive hisobingizga nusxalab olishingiz mumkin.
+{% endhint %}
+
+---
+
 ## 🚀 Keyingi Qadam
 
 Nazariy tushunchalar bilan tanishgan bo'lsangiz, birinchi amaliy qadamni xavfsizlik texnikasini o'rganishdan boshlaymiz:

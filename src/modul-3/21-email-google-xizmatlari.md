@@ -78,7 +78,14 @@ Ushbu mashg'ulotda siz Google Drive-da jamoaviy papka ochasiz va Google Docs orq
 * Shaxsiy Google akkaunt (Gmail).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 21-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [21-Mavzu: Elektron Pochta va Google Xizmatlari — Shablonni ochish](https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali bulutli fayllarni sozlang.*
 

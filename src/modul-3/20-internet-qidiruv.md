@@ -75,7 +75,14 @@ Ushbu amaliy mashg'ulotda siz Google qidiruv operatorlari yordamida rasmiy davla
 * Brauzer (Google Chrome yoki Microsoft Edge).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 20-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [20-Mavzu: Internet va Qidiruv Tizimlari — Shablonni ochish](https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi qidiruv amallari skrinshotlarini unga kiriting.*
 

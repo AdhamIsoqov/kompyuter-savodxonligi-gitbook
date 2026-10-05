@@ -69,7 +69,14 @@ Ushbu amaliy mashg'ulotda siz kompaniyaning 4 choraklik moliyaviy daromadlari as
 * Amaliy mashg'ulot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 16-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Sheets (Jadval)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [16-Mavzu: Microsoft Excel Diagrammalari — Shablonni ochish](https://docs.google.com/spreadsheets/d/1oAOR96dWiKQkPvVVo3Chzqz7CAd_XLVcAkY6wSjVYyA/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/spreadsheets/d/1oAOR96dWiKQkPvVVo3Chzqz7CAd_XLVcAkY6wSjVYyA/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/1oAOR96dWiKQkPvVVo3Chzqz7CAd_XLVcAkY6wSjVYyA/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadamni bajarib, hosil bo'lgan diagrammalarni unga joylang.*
 

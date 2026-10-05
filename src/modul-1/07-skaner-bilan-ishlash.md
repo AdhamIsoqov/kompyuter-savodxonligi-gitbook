@@ -87,7 +87,14 @@ Ushbu amaliy mashg'ulotda siz mavjud rasmdagi matnni Google Docs orqali bepul OC
 * Skanerlangan yoki telefonda suratga olingan har qanday kitob sahifasi (`.jpg` yoki `.png`).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 07-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [07-Mavzu: Skaner Bilan Ishlash va OCR — Shablonni ochish](https://docs.google.com/document/d/1gZ0StVV2J_ca0jz80NRzVb--tD-KCZzztbbGPU5X6RM/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1gZ0StVV2J_ca0jz80NRzVb--tD-KCZzztbbGPU5X6RM/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1gZ0StVV2J_ca0jz80NRzVb--tD-KCZzztbbGPU5X6RM/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali OCR qilingan matn natijasini hujjatga joylang.*
 

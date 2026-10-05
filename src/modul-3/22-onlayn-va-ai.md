@@ -75,7 +75,14 @@ Ushbu amaliy mashg'ulotda siz Google Meet uchrashuvini tashkil qilasiz va ChatGP
 * Sun'iy intellekt xizmati (ChatGPT, Google Gemini yoki Microsoft Copilot).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 22-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [22-Mavzu: Onlayn Xizmatlar va Sun'iy Intellekt Vositalari — Shablonni ochish](https://docs.google.com/document/d/13LeePnOLpmo7xPtfexoSHYTnBTSmLLhJH18xgg5oFcg/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/13LeePnOLpmo7xPtfexoSHYTnBTSmLLhJH18xgg5oFcg/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/13LeePnOLpmo7xPtfexoSHYTnBTSmLLhJH18xgg5oFcg/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam natijalarini to'ldiring.*
 

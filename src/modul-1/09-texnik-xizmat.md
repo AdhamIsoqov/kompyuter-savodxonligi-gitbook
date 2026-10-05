@@ -71,7 +71,14 @@ Ushbu mashg'ulotda siz kompyuteringiz xotirasi va xavfsizligini to'liq profilakt
 * `cleanmgr` va Windows Security utilitalari.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 09-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [09-Mavzu: Kompyuterga Texnik Xizmat Ko'rsatish — Shablonni ochish](https://docs.google.com/document/d/1SYGC5cpNusvTmzjwFisoA1KEskKltMCp6UnQUIj_PvY/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1SYGC5cpNusvTmzjwFisoA1KEskKltMCp6UnQUIj_PvY/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1SYGC5cpNusvTmzjwFisoA1KEskKltMCp6UnQUIj_PvY/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va tozalashgacha hamda tozalashdan keyingi bo'sh joy parametrlarini qayd eting.*
 

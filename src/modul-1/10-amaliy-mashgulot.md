@@ -65,7 +65,14 @@ Ushbu amaliy imtihonda siz ofis xodimi uchun yangi kompyuterni to'liq ishchi hol
 * Yakuniy amaliyot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 10-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [10-Mavzu: 1-Modul Yakuniy Amaliy Mashg'uloti — Shablonni ochish](https://docs.google.com/document/d/12yo3XZFrbDO31VGfPbTnx3nxfE035Hv5CTr6DDFz3rk/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/12yo3XZFrbDO31VGfPbTnx3nxfE035Hv5CTr6DDFz3rk/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/12yo3XZFrbDO31VGfPbTnx3nxfE035Hv5CTr6DDFz3rk/preview" %}
 
 > *Eslatma: Quyidagi 8 ta topshiriqni ketma-ket bajaring va har birining tasdiqlovchi skrinshotini shablonga joylang.*
 

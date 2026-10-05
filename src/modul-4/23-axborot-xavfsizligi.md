@@ -78,7 +78,14 @@ Ushbu amaliy mashg'ulotda siz o'z Google akkauntingiz xavfsizlik darajasini teks
 * Smartfon (SMS yoki tasdiqlash uchun).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 23-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [23-Mavzu: Axborot Xavfsizligi va Raqamli Madaniyat — Shablonni ochish](https://docs.google.com/document/d/110_t3xTQg_OKiXYBEet9JPAb_Y_svrKCNS6pYyNNJy4/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/110_t3xTQg_OKiXYBEet9JPAb_Y_svrKCNS6pYyNNJy4/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/110_t3xTQg_OKiXYBEet9JPAb_Y_svrKCNS6pYyNNJy4/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta xavfsizlik qadamini bajaring.*
 

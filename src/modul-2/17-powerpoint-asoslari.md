@@ -76,7 +76,14 @@ Ushbu amaliy mashg'ulotda siz "Raqamli Xavfsizlik" mavzusida 4 slayddan iborat p
 * Amaliy mashg'ulot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 17-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [17-Mavzu: Microsoft PowerPoint Asoslari — Shablonni ochish](https://docs.google.com/document/d/1VwB4J6wdNvwTTHPZdZ9pPsTP9XsJngxJV6KBK1fXtnE/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1VwB4J6wdNvwTTHPZdZ9pPsTP9XsJngxJV6KBK1fXtnE/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1VwB4J6wdNvwTTHPZdZ9pPsTP9XsJngxJV6KBK1fXtnE/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali slaydlarni tayyorlang.*
 

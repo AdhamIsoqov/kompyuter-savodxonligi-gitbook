@@ -87,7 +87,14 @@ Ushbu amaliy mashg'ulotda siz professional iyerarxik kataloglar strukturasini mu
 * Amaliy topshiriq shabloni.
 
 ### 📄 Amaliy Mashq Shabloni (Google Docs / MS Office):
-[Iframe/Embed: 03-Mavzu Amaliy Mashg'ulot Shabloni - Google Docs / MS Word Online]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [03-Mavzu: Fayl va Papkalar Bilan Ishlash — Shablonni ochish](https://docs.google.com/document/d/1Z0ih8BLr3txSa1UzvLMUHPbW4IDHi1Mm4y1k4jNPp24/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1Z0ih8BLr3txSa1UzvLMUHPbW4IDHi1Mm4y1k4jNPp24/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1Z0ih8BLr3txSa1UzvLMUHPbW4IDHi1Mm4y1k4jNPp24/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi amallarni bajargach, fayllar daraxti skrinshotini unga ilova qiling.*
 

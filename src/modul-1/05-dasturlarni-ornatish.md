@@ -92,7 +92,14 @@ Ushbu amaliy mashg'ulotda siz kompyuteringizdagi keraksiz dasturlarni aniqlab, u
 * O'quv mashqi uchun bepul utilita (masalan, 7-Zip yoki Notepad++ rasmiy saytidan).
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 05-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [05-Mavzu: Dasturlarni O'rnatish va Boshqarish — Shablonni ochish](https://docs.google.com/document/d/1Zg8xWTv4tMk9hqSYWEoSQtjd7LjexLI5LXSYQfrIKwc/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1Zg8xWTv4tMk9hqSYWEoSQtjd7LjexLI5LXSYQfrIKwc/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1Zg8xWTv4tMk9hqSYWEoSQtjd7LjexLI5LXSYQfrIKwc/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam natijalarini skrinshotlar bilan hujjatga to'ldiring.*
 

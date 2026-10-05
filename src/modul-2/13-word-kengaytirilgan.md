@@ -72,7 +72,14 @@ Ushbu amaliy mashg'ulotda siz jadvallar, SmartArt va avtomatik mundarijadan ibor
 * Amaliy mashg'ulot shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 13-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Shablonni ochish](https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadamni bajarib hisobotga joylang.*
 

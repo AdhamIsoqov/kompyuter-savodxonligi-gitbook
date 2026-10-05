@@ -62,7 +62,14 @@ Ushbu loyihada siz "Kompaniya Kompyuter Parkini Yangilash" mavzusida to'liq 3 ta
 * Amaliy loyiha topshiriq shabloni.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 19-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [19-Mavzu: 2-Modul Amaliy Loyihasi — Shablonni ochish](https://docs.google.com/document/d/12cIhpUlo_1P9LR2-Z4iJ1EBhhAmsRRI3pI5eKmKZD5w/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/12cIhpUlo_1P9LR2-Z4iJ1EBhhAmsRRI3pI5eKmKZD5w/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/12cIhpUlo_1P9LR2-Z4iJ1EBhhAmsRRI3pI5eKmKZD5w/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va quyidagi 3 ta bosqich natijalarini to'liq bajaring.*
 

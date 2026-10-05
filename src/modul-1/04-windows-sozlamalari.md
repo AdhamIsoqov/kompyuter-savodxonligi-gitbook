@@ -83,7 +83,14 @@ Ushbu mashg'ulotda siz kompyuteringiz xotirasini optimallashtirasiz va ishchi mu
 * Settings va Control Panel vositalari.
 
 ### 📄 Amaliy Mashg'ulot Shabloni:
-[Iframe/Embed: 04-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+{% hint style="success" %}
+**📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
+Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
+* 🌐 **Onlayn ko'rish va tahrirlash:** [04-Mavzu: Windows Sozlamalari va Boshqaruv Paneli — Shablonni ochish](https://docs.google.com/document/d/15BPfYjSgKEZBzQKdEuacwfxToPYEgkuI0x4MBJCRehw/edit?usp=sharing)
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/15BPfYjSgKEZBzQKdEuacwfxToPYEgkuI0x4MBJCRehw/copy)
+{% endhint %}
+
+{% embed url="https://docs.google.com/document/d/15BPfYjSgKEZBzQKdEuacwfxToPYEgkuI0x4MBJCRehw/preview" %}
 
 > *Eslatma: Shablondan nusxa oling va amallarni bajarish davomida olingan skrinshotlarni kiritib boring.*
 
