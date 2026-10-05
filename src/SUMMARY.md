@@ -36,4 +36,4 @@
 
 ---
 * [📖 Atamalar Lug'ati (Glossary)](glossary.md)
-* [📜 O'zgarishlar Jurnali (Changelog)](CHANGELOG.md)
+

@@ -1,7 +1,5 @@
 # 🖥️ "Kompyuter Texnikasi Montajchisi va Raqamli Savodxonlik" Kursiga Xush Kelibsiz!
 
-> 🏷️ **Darslik versiyasi:** `v1.1.0` | 📅 **Oxirgi yangilanish:** Oktyabr, 2026 | 📜 [Versiyalar tarixi (Changelog)](CHANGELOG.md)
-
 {% hint style="info" %}
 **Kurs maqsadi:** Zamonaviy kompyuter apparat va dasturiy ta'minotini professional darajada tushunish, kompyuter texnikasini sozlash, ta'mirlash, MS Office va Google bulutli vositalarida erkin ishlash hamda kiberxavfsizlik va sun'iy intellekt texnologiyalarini amaliyotga tatbiq etish ko'nikmalarini shakllantirish.
 {% endhint %}
