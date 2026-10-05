@@ -1,51 +1,179 @@
-# 17-Mavzu: Microsoft PowerPoint Asoslari
+# 17-Mavzu: Microsoft PowerPoint Asoslari: Professional Taqdimotlar Arxitekturasi
 
 {% hint style="info" %}
-**Dars maqsadi:** Ushbu darsda 17-Mavzu: Microsoft PowerPoint Asoslari bo'yicha nazariy va amaliy bilimlar o'rganiladi.
+**Dars maqsadi:** Microsoft PowerPoint dasturining interfeysi, slaydlar arxitekturasi va maketlari (Layouts), taqdimot dizayni (Themes/Variants), matn kiritish me'yorlari (6x6 qoidasi), vizual multimedia obyektlarini joylash hamda slaydlarni namoyish qilish (`F5` / `Shift + F5`) ko'nikmalarini egallash.
 {% endhint %}
 
-### 🎯 Kutilayotgan Ko'nikmalar
-* **Bilishingiz kerak:** Mavzuning asosiy qoidalari va standartlari.
-* **Bajara olishingiz kerak:** Mavzu bo'yicha amaliy topshiriqlarni mustaqil bajarish.
+### 🎯 Kutilayotgan Kompetensiyalar
+* **Bilishingiz kerak:**
+  * Professional taqdimotlar tayyorlashning "6x6 oltin qoidasi" (slaydni kitobga aylantirmaslik).
+  * Yangi taqdimot ochish (`Ctrl + N`) va yangi slayd qo'shish (`Ctrl + M`) o'rtasidagi farq.
+  * Slayd namoyishini boshidan boshlash (`F5`) va ayni ko'rilayotgan slayddan boshlash (`Shift + F5`).
+* **Bajara olishingiz kerak:**
+  * Mavzuga mos zamonaviy dizayn mavzulari (Themes) va ranglar gammasini tanlash.
+  * Ro'yxatlar (Bullets) va infografik rasmlarni slayd maketiga proporsional joylashtirish.
+  * Taqdimotchi rejimi (Presenter View) orqali eslatmalar bilan professional nutq so'zlash.
 
 ---
 
-## 1. 📖 Nazariy Tushunchalar
+## 🎬 1. Video Dars
 
-[Mavzu nazariyasi ishlab chiqilmoqda...]
+{% hint style="info" %}
+**Video darslik:** PowerPoint dasturida zamonaviy slaydlar yaratish asoslari bo'yicha quyidagi videoni tomosha qiling:
+{% endhint %}
+
+[Iframe/Embed: 17-Mavzu Bo'yicha YouTube Video Dars Havolasi]
+
+---
+
+## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
+
+### 2.1. Taqdimot Tayyorlashning "Oltin Qoidalari"
+
+Taqdimot — bu ma'ruzachining gaplarini so'zma-so'z ko'rsatuvchi kitob emas, balki nutqni vizual qo'llab-quvvatlovchi ko'rgazmali quroldir.
+
+| Qoida | Noto'g'ri Yondashuv | To'g'ri Professional Yondashuv |
+| :--- | :--- | :--- |
+| **Matn hajmi (6x6 qoidasi)** | Butun bir paragraf matnni slayddan o'qib berish | Maksimal 5–6 ta qator, har qatorda 5–6 ta kalit so'z |
+| **Shrift o'lchami** | Mayda (14–18 pt) shriftlar | Sarlavha: **36–44 pt**, Asosiy matn: **24–28 pt** |
+| **Ranglar kontrasti** | Oq fonga och sariq harflar | To'q fonda yorug' matn yoki oq fonda to'q ko'k/qora matn |
+| **Rasmlar roli** | Mavzuga aloqasiz xira kulgili stikerlar | Yuqori sifatli, ma'noli professional fotosuratlar |
+
+```
+[Slayd Maketlari (Slide Layouts)]
+  ├── Title Slide ========> Titul: Katta mavzu nomi va muallif
+  ├── Title and Content ==> Sarlavha va punktli ro'yxat (eng ko'p ishlatiladigan)
+  ├── Two Content ========> Ikkita obyekti yonma-yon solishtirish
+  └── Blank ==============> Erkin dizayn (faqat katta rasm yoki video uchun)
+```
 
 {% hint style="success" %}
-**Pro-Tip (Foydali Maslahat):**
-Ishni osonlashtirish uchun tezkor klaviatura yorliqlari va tavsiya etilgan standartlardan foydalaning.
+**Pro-Tip (Yangi slayd qo'shish yorlig'i):**
+Ko'pchilik yangi boshlovchilar yangi slayd qo'shish uchun adashib `Ctrl + N` ni bosib yuborishadi, natijada butunlay yangi bo'sh fayl ochilib ketadi!
+* Yangi slayd qo'shish — **`Ctrl + M`** (New Slide);
+* Yangi taqdimot fayli ochish — **`Ctrl + N`** (New File);
+* Slayddan aynan bir xil nusxa olish (Dublikat) — **`Ctrl + D`** (Duplicate Slide).
 {% endhint %}
+
+### 2.2. Slayd-shou Boshqaruv Tugmalari
+
+Taqdimotni auditoriyaga namoyish qilish vaqtida eng muhim tezkor tugmalar:
+
+* **`F5`** — Taqdimotni eng birinchi slayddan boshlab to'liq ekranda namoyish qilish.
+* **`Shift + F5`** — Ayni paytda tahrirlanayotgan joriy slayddan namoyishni boshlash.
+* **`B` (Black screen)** — Namoyish paytida ekranni bir zumda qora qilib o'chirish (auditoriya diqqatini slayddan o'zingizga qaratish uchun).
+* **`W` (White screen)** — Ekranni oppoq qilib ko'rsatish.
+* **`Esc`** — Taqdimot namoyishidan chiqish va tahrirlash rejimiga qaytish.
 
 ---
 
-## 2. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
+## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
-1. **1-Qadam:** Ishchi muhit va fayllarni tayyorlang.
-2. **2-Qadam:** Berilgan ko'rsatmalarga asosan amallarni bajaring.
+Ushbu amaliy mashg'ulotda siz "Raqamli Xavfsizlik" mavzusida 4 slayddan iborat professional taqdimot tayyorlaysiz.
+
+### Kerakli Resurslar:
+* Microsoft PowerPoint dasturi;
+* Amaliy mashg'ulot shabloni.
+
+### 📄 Amaliy Mashg'ulot Shabloni:
+[Iframe/Embed: 17-Mavzu Google Docs / MS Office Amaliy Mashq Shabloni Havolasi]
+
+> *Eslatma: Shablondan nusxa oling va quyidagi 6 ta qadam orqali slaydlarni tayyorlang.*
+
+### Bajarish Bosqichlari:
+
+1. **1-Qadam:** PowerPoint dasturida bo'sh taqdimot oching (**Blank Presentation**).
+2. **2-Qadam (Dizayn tanlash):** **Design** menyusiga o'ting va tayyor professional mavzulardan (Themes) birini (masalan: "Facet" yoki "Ion") tanlang.
+3. **3-Qadam (1-Slayd - Titul):** Sarlavhaga "RAQAMLI MADANIYAT VA XAVFSIZLIK", quyi sarlavhaga "Tayyorladi: O'quvchi F.I.Sh" deb yozing.
+4. **4-Qadam (2-Slayd qo'shish):** `Ctrl + M` bosing. Maketini **Title and Content** qilib tanlang. Sarlavhaga "Parollar Xavfsizligi" deb yozing, pastki maydonga 3 ta punktli ro'yxat (Bullets) kiriting:
+   * *Kamida 8–12 ta belgidan iborat bo'lishi;*
+   * *Katta va kichik harflar hamda raqamlar aralashmasi;*
+   * *Har 3 oyda parollarni yangilab turish.*
+5. **5-Qadam (3-Slayd - Taqqoslash):** `Ctrl + M` bosing, maketini **Two Content** qilib tanlang. Chap tomonga "Kuchli Parol Namunasi", o'ng tomonga "Zaif Parol Xatosi" deb yozing va solishtiring.
+6. **6-Qadam (4-Slayd - Xulosa va Rasm):** `Ctrl + M` bosing, **Insert -> Pictures** orqali mavzuga oid bitta rasm joylang va "E'tiboringiz uchun rahmat!" deb yozing. Faylni `Taqdimot_Asoslari.pptx` qilib saqlang.
 
 {% hint style="warning" %}
-**Ehtiyot bo'ling:** Xatoliklarning oldini olish uchun amallarni ketma-ketlikda bajaring.
+**Ehtiyot bo'ling:**
+Slayd foniga juda ko'p rangli, o'zi ham murakkab bo'lgan rasmni orqa fon qilib qo'ymang! Bunday fonda matnlar ko'rinmay ketadi va tomoshabinlarning ko'zini toliqtiradi.
 {% endhint %}
 
 ---
 
-## 3. 🛠 Real Ish Vaziyati (Case-Study)
+## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
-**Muammo:** [Hayotiy muammo]
-**Yechim:** [Bosqichma-bosqich bartaraf etish]
+### Muammo:
+Kompaniya marketing bo'limi yangi loyiha taqdimotini katta zalda investorlarga namoyish qildi. Ammo ma'ruzachi har bir slaydga Word hujjatidagi butun boshli abzaslarni (30 qatordan iborat mayda matnlarni) ko'chirib qo'ygan edi. Natijada zalning orqa qatorida o'tirganlar hech narsani o'qiy olmadi, ma'ruzachining o'zi esa orqasini auditoriyaga o'girib, slayddagi matnlarni birma-bir o'qib berish bilan band bo'ldi. Investorlar zerikib, loyihani rad etishdi.
+
+### Muammoning Kelib Chiqish Sababi:
+Taqdimotning eng asosiy maqsadi — vizuallashtirish ekanligi unutilgan va slayd kitobga aylantirib yuborilgan.
+
+### Bosqichma-bosqich Yechim:
+1. Slayddagi barcha uzun matnlarni o'chiring.
+2. Faqat eng asosiy **3–4 ta kalit iboralarni (Keywords)** qoldirib, ularni katta harflarda (28–32 pt) punktli ro'yxat qilib yozing.
+3. Raqamlarni ta'sirchan katta shriftda ajrating (masalan: "300% O'SISH").
+4. Yoniga mavzuni bir qarashda tushuntiruvchi bitta sifatli infografika yoki fotosurat joylashtiring.
+5. Ma'ruzachi tafsilotlarni slaydga yozmasdan, o'zi og'zaki nutqda ta'sirchan gapirib berishi shart!
 
 ---
 
-## 4. 📝 Bilimni Tekshirish (Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
-[Test savollari va tahlil]
+{% hint style="info" %}
+**Onlayn Test:** 17-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+{% endhint %}
+
+[Iframe/Embed: 17-Mavzu Google Forms Rasmiy Test Havolasi]
+
+### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
+
+#### Test 1: PowerPoint dasturida yangi slayd (Slide) qo'shish klaviatura yorlig'i qaysi?
+- ( ) A) `Ctrl + N`
+- (x) B) `Ctrl + M`
+- ( ) C) `Ctrl + S`
+- ( ) D) `Ctrl + Shift + N`
+*Izoh: `Ctrl + M` joriy taqdimotga yangi slayd qo'shadi, `Ctrl + N` esa yangi fayl ochadi.*
+
+#### Test 2: Taqdimot namoyishini (Slide Show) eng birinchi slayddan to'liq ekranda boshlash tugmasi qaysi?
+- ( ) A) `F1`
+- (x) B) `F5`
+- ( ) C) `Shift + F5`
+- ( ) D) `Enter`
+*Izoh: `F5` taqdimotni har doim 1-slayddan boshlab namoyish qiladi.*
+
+#### Test 3: Ayni ko'rilayotgan (tahrirlanayotgan) slaydning o'zidan namoyishni boshlash qaysi tugma bilan bajariladi?
+- ( ) A) `Ctrl + F5`
+- (x) B) `Shift + F5`
+- ( ) C) `Alt + F5`
+- ( ) D) `F11`
+*Izoh: `Shift + F5` ma'ruzachi to'xtagan slayddan prezentatsiyani davom ettiradi.*
+
+#### Test 4: Taqdimot slaydlari uchun tavsiya etiladigan "6x6 qoidasi" nimani anglatadi?
+- ( ) A) Slayd hajmi 6x6 metr bo'lishi kerak
+- (x) B) Slaydda 6 qatordan ko'p matn bo'lmasligi va har bir qatorda 6 tadan ortiq so'z bo'lmasligi lozim
+- ( ) C) Taqdimot 6 daqiqada tugashi kerak
+- ( ) D) 6 ta slayd yaratish kerak
+*Izoh: 6x6 qoidasi slaydni ortiqcha matn bilan to'ldirib yubormaslikning xalqaro standartidir.*
+
+#### Test 5: Slayddan aynan bir xil ikkinchi nusxa (Dublikat) olish tezkor yorlig'i qaysi?
+- ( ) A) `Ctrl + C`
+- ( ) B) `Ctrl + V`
+- (x) C) `Ctrl + D`
+- ( ) D) `Ctrl + Shift + D`
+*Izoh: `Ctrl + D` tanlangan slayd yoki obyektning aynan nusxasini bir soniyada hosil qiladi.*
+
+### 🤔 O'ylantiruvchi Mantiqiy Savollar:
+1. Namoyish vaqtida klaviaturadagi `B` (Black) tugmasini bosish ma'ruzachiga nima uchun kerak bo'ladi?
+2. Nima sababdan taqdimotda 4 xildan ortiq turli rang va shriftlarni aralashtirib ishlatish tavsiya etilmaydi?
+3. Noutbukda "Presenter View" (Taqdimotchi rejimi) qanday ishlaydi va uning afzalligi nimada?
 
 ---
 
-## 5. 🏠 Mustaqil Uyga Vazifa
+## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 
-**Topshiriq:** [Uyga amaliy vazifa]
-**Topshirish formati:** .docx yoki .pdf
+### Topshiriq:
+1. Microsoft PowerPoint dasturida yangi fayl oching.
+2. "Zamonaviy Kompyuter Qurilmalari" mavzusida kamida 4 slayddan iborat taqdimot tayyorlang.
+3. Taqdimotda Titul maketi, punktli ro'yxat (Bullets), Two Content (taqqoslash) maketi va bitta sifatli rasm bo'lishi shart.
+4. Barcha slaydlarga yagona dizayn mavzusi (Design Theme) tanlang.
+
+**Topshirish formati:** Taqdimotni `FIO_17-Mavzu_PowerPoint.pptx` nomi bilan saqlab platformaga yuklang.
