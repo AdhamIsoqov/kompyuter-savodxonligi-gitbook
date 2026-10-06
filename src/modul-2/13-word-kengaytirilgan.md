@@ -108,8 +108,8 @@ Hujjatda Wordning avtomatlashtirilgan uslublari (Styles: Heading 1, Heading 2) v
 ## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
-**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 15 ta saralangan savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (15 ta saralangan test savoli, jami: 100 ball):
 * 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" target="_blank" rel="noopener noreferrer">13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni Topshirish</a>
 * 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}

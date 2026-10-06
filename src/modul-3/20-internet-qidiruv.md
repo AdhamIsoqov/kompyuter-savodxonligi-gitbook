@@ -113,8 +113,8 @@ Xodim internet qidiruv natijalariga tanqidiy qaramagan, rasmiy manba o'rniga vir
 ## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
-**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 15 ta saralangan savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (15 ta saralangan test savoli, jami: 100 ball):
 * 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" target="_blank" rel="noopener noreferrer">20-Mavzu: Internet va Qidiruv Tizimlari — Testni Topshirish</a>
 * 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}

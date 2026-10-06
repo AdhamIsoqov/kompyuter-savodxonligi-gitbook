@@ -104,8 +104,8 @@ Maktab o'qituvchisi ochiq dars uchun slaydlar tayyorladi. Har bir slaydga 10 tad
 ## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
-**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 15 ta saralangan savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (15 ta saralangan test savoli, jami: 100 ball):
 * 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform" target="_blank" rel="noopener noreferrer">18-Mavzu: PowerPoint Animatsiyalari va Taqdimotlar — Testni Topshirish</a>
 * 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1NrCWXilMo8UG1aPyKdjJZOS09j7_FXdyzNxI8v_770w/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
