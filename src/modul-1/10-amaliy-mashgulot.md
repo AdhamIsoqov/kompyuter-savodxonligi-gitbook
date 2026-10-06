@@ -114,64 +114,175 @@ Montajchi faqat Windows o'rnatib ketgan, lekin 1-modulda o'rganilgan standart pr
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms 1-Modul Yakuniy Testi)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**1-Modul Bo'yicha Yakuniy Attestatsiya Testi:** Quyidagi Google Forms testini topshirib, 1-modul bo'yicha olgan umumiy bilimlaringizni sinovdan o'tkazing:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [10-Mavzu: 1-Modul Yakuniy Amaliy Mashg'uloti — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1gsMkbVASQgQyaZlCmBPnKuHuT59XaarDbsqxoakHOGM/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [10-Mavzu: 1-Modul Yakuniy Amaliy Mashg'uloti — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1gsMkbVASQgQyaZlCmBPnKuHuT59XaarDbsqxoakHOGM/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Yangi kompyuterda Windows o'rnatilgandan so'ng birinchi navbatda nima qilinishi shart?
-- ( ) A) Kompyuterga darhol 10 ta o'yin o'rnatish
-- (x) B) Tizim apparat drayverlarini to'liq o'rnatish va Windows xavfsizlik yangilanishlarini tekshirish
-- ( ) C) Monitorni o'chirib qo'yish
-- ( ) D) C: diskini formatlash
-*Izoh: Drayverlarsiz kompyuterning videokartasi, tarmog'i, ovozi va protsessori to'liq quvvat bilan ishlay olmaydi.*
-
-#### Test 2: Klaviaturadagi `Win + D` yorlig'ining vazifasi nima?
-- ( ) A) Dasturni o'chirib yuborish
-- (x) B) Barcha ochiq oynalarni minimallashtirib, bir zumda Ish stolini (Desktop) ko'rsatish
-- ( ) C) Faylni nusxalash
-- ( ) D) Kompyuterni o'chirish
-*Izoh: `Win + D` ish stolini tezkor ko'rish va oynalarni boshqarishning eng samarali yorlig'idir.*
-
-#### Test 3: Hujjatlarni skanerlashda optik belgilarni tahrirlanadigan Word matniga aylantiruvchi texnologiya nima?
-- ( ) A) RAM
-- ( ) B) GPU
-- (x) C) OCR (Optical Character Recognition)
-- ( ) D) USB
-*Izoh: OCR rasm ichidagi matnni taniy oladigan yagona texnologiyadir.*
-
-#### Test 4: Lazerli printerda qog'oz tiqilib qolganda (Paper Jam) qanday yo'l tutiladi?
-- ( ) A) Printerni pichoq bilan ochish
-- (x) B) Printerni elektrdan uzib, kartrijni chiqarish va qog'ozni uning harakat yo'nalishi bo'ylab ehtiyotkorlik bilan tortib olish
-- ( ) C) Qog'ozni teskari tomonga kuch bilan yulqib tortish
-- ( ) D) Qog'oz ustiga suv quyish
-*Izoh: Kuch bilan teskari tortish printerning nozik rezina roliklari va termoplyonkasini yirtib yuboradi.*
-
-#### Test 5: Protsessor va sovutgich radiatori orasidagi termopastani necha vaqtda almashtirish tavsiya etiladi?
-- ( ) A) Har kuni
-- ( ) B) Har 10 yilda bir marta
-- (x) C) Har 1–2 yilda kamida bir marta
-- ( ) D) Umuman almashtirilmaydi
-*Izoh: 1–2 yil ichida termopasta quriydi va issiqlik o'tkazuvchanlik xususiyatini yo'qotadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun har qanday tashkilotda har haftalik ma'lumotlar zaxirasi (Backup) olinishi shart?
-2. Agar biror xodim kompyuteriga doimiy ravishda fleshka ulab ishlasa, qanday kiberxavfsizlik xatarlari yuzaga kelishi mumkin?
-3. Kompyuter foydalanuvchisining ish unumdorligiga to'g'ri sozlangan ish stoli va klaviatura yorliqlari qanday ta'sir ko'rsatadi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Yangi yig'ilgan kompyuterni birinchi marta yoqishdan oldin nima tekshiriladi?
+- [x] **A) Barcha quvvat kabellari (24-pin, 8-pin CPU, GPU) va kulerlar to'g'ri ulanganligi** *(To'g'ri javob)*
+- [ ] B) Internet ulanganligi
+- [ ] C) Faqat sichqoncha
+- [ ] D) Monitor rangi
+
+#### 2-Savol: Windows 11 o'rnatish uchun yuklanuvchi fleshka (Bootable USB) qaysi dasturda yaratiladi?
+- [x] **A) Rufus, Ventoy, Media Creation Tool** *(To'g'ri javob)*
+- [ ] B) WinRAR
+- [ ] C) Photoshop
+- [ ] D) WordPad
+
+#### 3-Savol: Windows 11 o'rnatish uchun qanday apparat talabi mavjud?
+- [x] **A) TPM 2.0 va Secure Boot qo'llab-quvvatlashi** *(To'g'ri javob)*
+- [ ] B) Faqat HDD disk
+- [ ] C) CD-ROM mavjudligi
+- [ ] D) Floppi disk
+
+#### 4-Savol: Yuklanuvchi fleshkani ishga tushirish uchun kompyuter yoqilganda qaysi menyu ochiladi?
+- [x] **A) Boot Menu (F12, F11, F8)** *(To'g'ri javob)*
+- [ ] B) Ctrl + Alt + Del
+- [ ] C) Alt + F4
+- [ ] D) Shift + Enter
+
+#### 5-Savol: GPT bo'limlar jadvali (Partition style) qaysi BIOS rejimiga mos keladi?
+- [x] **A) UEFI** *(To'g'ri javob)*
+- [ ] B) Legacy BIOS
+- [ ] C) MS-DOS
+- [ ] D) FreeDOS
+
+#### 6-Savol: MBR bo'limlar jadvali qaysi cheklovga ega?
+- [x] **A) Disk hajmi maksimal 2 TB va ko'pi bilan 4 ta asosiy bo'lim** *(To'g'ri javob)*
+- [ ] B) Cheklovi yo'q
+- [ ] C) Faqat 100 GB
+- [ ] D) Faqat SSD da ishlaydi
+
+#### 7-Savol: Windows o'rnatilgandan so'ng birinchi navbatda qanday dasturiy ta'minot o'rnatiladi?
+- [x] **A) Ona plata chipset drayveri va tarmoq/video drayverlari** *(To'g'ri javob)*
+- [ ] B) O'yinlar
+- [ ] C) Telegram
+- [ ] D) Ofis dasturlari
+
+#### 8-Savol: Videokarta drayverini qayerdan yuklab olish eng xavfsiz hisoblanadi?
+- [x] **A) Ishlab chiqaruvchining rasmiy saytidan (NVIDIA, AMD, Intel)** *(To'g'ri javob)*
+- [ ] B) Noma'lum forumlardan
+- [ ] C) Torrentdan
+- [ ] D) Telegram kanallardan
+
+#### 9-Savol: Qurilmalar drayveri to'liq o'rnatilganligini qayerdan tekshirish mumkin?
+- [x] **A) Device Manager (devmgmt.msc) da sariq belgilar yo'qligini ko'rish orqali** *(To'g'ri javob)*
+- [ ] B) Taskbar orqali
+- [ ] C) Calculator orqali
+- [ ] D) Desktop orqali
+
+#### 10-Savol: Kompyuter yangi yig'ilganda diskni C: va D: qismlarga bo'lish qayerdan bajariladi?
+- [x] **A) Windows o'rnatish jarayonida yoki Disk Management orqali** *(To'g'ri javob)*
+- [ ] B) Brauzerda
+- [ ] C) Notepadda
+- [ ] D) BIOS da
+
+#### 11-Savol: Tizim barqarorligini tekshirish uchun qanday stress-test dasturi qo'llaniladi?
+- [x] **A) AIDA64 System Stability Test, FurMark, Cinebench** *(To'g'ri javob)*
+- [ ] B) Paint
+- [ ] C) Chrome
+- [ ] D) Solitaire
+
+#### 12-Savol: Videokarta uchun FurMark testi qaysi ko'rsatkichni sinaydi?
+- [x] **A) Grafik protsessorning maksimal yuklama ostidagi harorati va quvvat barqarorligini** *(To'g'ri javob)*
+- [ ] B) Ovoz balandligini
+- [ ] C) Klaviatura tugmalarini
+- [ ] D) Wi-Fi tezligini
+
+#### 13-Savol: Tizimni dastlabki sozlashda qaysi foydalanuvchi hisobidan foydalanish tavsiya etiladi?
+- [x] **A) Lokal hisob yoki Microsoft akkaunt** *(To'g'ri javob)*
+- [ ] B) Faqat Guest (Mehmon)
+- [ ] C) Hisobsiz
+- [ ] D) Parolsiz ochiq tarmoq
+
+#### 14-Savol: Kompyuter yig'ilganda quvvat manbaining (PSU) qora va yashil simlarini birlashtirish nima qiladi?
+- [x] **A) Quvvat blokini ona platasiz alohida ishga tushirish (test qilish) imkonini beradi** *(To'g'ri javob)*
+- [ ] B) Portlatadi
+- [ ] C) O'chiradi
+- [ ] D) Qizdiradi
+
+#### 15-Savol: RAM modullari ikkita bo'lsa, ikki kanalli (Dual-channel) rejim uchun qaysi slotlarga qo'yiladi?
+- [x] **A) Odatda 2 va 4-slotlarga (A2 va B2)** *(To'g'ri javob)*
+- [ ] B) 1 va 2-slotlarga
+- [ ] C) Faqat 1-slotga
+- [ ] D) Farqi yo'q
+
+#### 16-Savol: Ninite xizmati nima vazifani bajaradi?
+- [x] **A) Bir vaqtning o'zida bir nechta asosiy bepul dasturlarni avtomatik o'rnatish paketi** *(To'g'ri javob)*
+- [ ] B) Windowsni buzish
+- [ ] C) Kompyuterni o'chirish
+- [ ] D) Virus yozish
+
+#### 17-Savol: Yangi kompyuterda fayllarni zaxiralash (System Restore Point) nima uchun kerak?
+- [x] **A) Kelajakda tizim ishdan chiqqanda kompyuterni dastlabki soz holatiga qaytarish uchun** *(To'g'ri javob)*
+- [ ] B) Diskni to'ldirish uchun
+- [ ] C) Tezlikni pasaytirish uchun
+- [ ] D) Fayllarni yashirish uchun
+
+#### 18-Savol: Windows Update barcha yangilanishlarni o'rnatgach, nima qilish shart?
+- [x] **A) Kompyuterni qayta yuklash (Restart)** *(To'g'ri javob)*
+- [ ] B) Kompyuterni o'chirib qo'yish
+- [ ] C) Drayverlarni o'chirish
+- [ ] D) Hech narsa
+
+#### 19-Savol: Ona platadagi XMP / DOCP profili nima vazifani bajaradi?
+- [x] **A) Operativ xotirani (RAM) ishlab chiqaruvchi belgilagan maksimal zavod chastotasida ishlatish** *(To'g'ri javob)*
+- [ ] B) Protsessorni sekinlashtirish
+- [ ] C) Ekranni o'chirish
+- [ ] D) Ventilyatorni to'xtatish
+
+#### 20-Savol: Kompyuter yig'ishda kabel menejmenti (Cable Management) nimasi bilan muhim?
+- [x] **A) Korpus ichida havo aylanishini yaxshilaydi va estetik tartib yaratadi** *(To'g'ri javob)*
+- [ ] B) Elektrni tejaydi
+- [ ] C) Kabelni ko'paytiradi
+- [ ] D) Faqat go'zallik uchun
+
+#### 21-Savol: Fleshkadan Windows o'rnatishda 'Disk 0 Unallocated Space' nimani bildiradi?
+- [x] **A) Hali bo'linmagan toza disk maydoni** *(To'g'ri javob)*
+- [ ] B) Disk to'la ekanligini
+- [ ] C) Disk buzilganligini
+- [ ] D) Fleshka ekanligini
+
+#### 22-Savol: Tizim sozlamalarida 'Fast Startup' (Tez yuklanish) nimaga asoslanadi?
+- [x] **A) Tizim yadrosini gibrid kutish holatida diskka saqlab, keyingi safar tez ochadi** *(To'g'ri javob)*
+- [ ] B) Protsessorni qizdiradi
+- [ ] C) Xotirani o'chiradi
+- [ ] D) Internetni yoqadi
+
+#### 23-Savol: Kompyuter tarmoqqa ulanganini tekshirish uchun konsolda qaysi buyruq yoziladi?
+- [x] **A) ping 8.8.8.8** *(To'g'ri javob)*
+- [ ] B) exit
+- [ ] C) cls
+- [ ] D) echo
+
+#### 24-Savol: Kompyuterning IP manzilini bilish uchun qaysi buyruq ishlatiladi?
+- [x] **A) ipconfig** *(To'g'ri javob)*
+- [ ] B) msinfo
+- [ ] C) dxdiag
+- [ ] D) tasklist
+
+#### 25-Savol: 1-Modul bo'yicha to'liq tayyorlangan kompyuterning yakuniy holati qanday bo'lishi lozim?
+- [x] **A) Drayverlari o'rnatilgan, testlardan o'tgan, harorati me'yorda va asosiy dasturlar bilan ta'minlangan** *(To'g'ri javob)*
+- [ ] B) Faqat Windows o'rnatilgan bo'lsa yetarli
+- [ ] C) Kabel chalkash bo'lsa ham mayli
+- [ ] D) Internet ishlamasa ham bo'ladi
+
+---
+
 
 ## 6. 🏠 Mustaqil Yakuniy Loyiha Vazifasi
 

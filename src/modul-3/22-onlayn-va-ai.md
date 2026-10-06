@@ -120,64 +120,175 @@ Oddiy tarjimon dasturlari biznes kontekstini, rasmiy diplomatik ohangni tushunma
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 22-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [22-Mavzu: Onlayn Xizmatlar va Sun'iy Intellekt Vositalari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfVPG4POmF_z_5UzEd_7ki50aWiFtC1hwOhFDjRHsa29FOdPQ/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1N4UpO7WceZaDrD0J7TqyTVPyMyOCi9xPsU4nhv58NYU/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [22-Mavzu: Onlayn Xizmatlar va Sun'iy Intellekt Vositalari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfVPG4POmF_z_5UzEd_7ki50aWiFtC1hwOhFDjRHsa29FOdPQ/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1N4UpO7WceZaDrD0J7TqyTVPyMyOCi9xPsU4nhv58NYU/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfVPG4POmF_z_5UzEd_7ki50aWiFtC1hwOhFDjRHsa29FOdPQ/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Onlayn videokonferensiyalarda (Zoom, Google Meet) boshqa ishtirokchilarga xalaqit bermaslik uchun qaysi asosiy qoidaga amal qilinadi?
-- ( ) A) Kamerani harakatlantirish
-- (x) B) O'zingiz gapirmayotgan vaqtda mikrofonni o'chiq (Mute) holatida saqlash
-- ( ) C) Doimiy quloqchinsiz ishlash
-- ( ) D) Dasturni har 5 daqiqada qayta yoqish
-*Izoh: Mute qoidasi begona shovqinlarning butun auditoriyaga tarqalishining oldini oladi.*
-
-#### Test 2: Telegram orqali sifatli fotosuratlarni piksellari siqilmasdan, asl holida yuborish uchun qanday jo'natiladi?
-- ( ) A) Ovozli xabar orqali
-- ( ) B) Oddiy rasm (Photo) sifatida
-- (x) C) Hujjat (File) sifatida
-- ( ) D) Video xabar orqali
-*Izoh: File ko'rinishida yuborilgan rasmlar Telegram tomonidan siqilmaydi.*
-
-#### Test 3: Sun'iy intellektga (ChatGPT, Gemini) vazifani aniq tushuntirish va to'g'ri buyruq matnini shakllantirish san'ati nima deb ataladi?
-- ( ) A) Web Design
-- (x) B) Prompt Engineering
-- ( ) C) Defragmentation
-- ( ) D) Overclocking
-*Izoh: Prompt Engineering — AI ga aniq maqsadli buyruqlar berish metodikasidir.*
-
-#### Test 4: Sun'iy intellekt bilan ishlashda "Gallyutsinatsiya" tushunchasi nimani anglatadi?
-- ( ) A) Kompyuter monitorining miltillashi
-- (x) B) AI tomonidan mavjud bo'lmagan soxta faktlar yoki qonun moddalarining to'qib chiqarilishi
-- ( ) C) Internetning o'chib qolishi
-- ( ) D) Mikrofonning ishlamay qolishi
-*Izoh: LLM modellari ba'zida to'g'ridek ko'ringan yolg'on ma'lumotlarni ishonch bilan yaratishi mumkin.*
-
-#### Test 5: Quyidagilardan qaysi biri Microsoft kompaniyasining Windows tizimiga integratsiyalashgan rasmiy AI yordamchisidir?
-- ( ) A) Siri
-- ( ) B) Alexa
-- (x) C) Copilot
-- ( ) D) Bard
-*Izoh: Microsoft Copilot Windows 11 va Office 365 tizimlarining rasmiy intellektual yordamchisidir.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun Sun'iy Intellekt insonning o'rnini butunlay bosa olmaydi, balki uning ish unumdorligini oshiruvchi kuchli qurol hisoblanadi?
-2. Videokonferensiya paytida "Screen Sharing" (Ekranni ulashish) funksiyasini yoqishdan oldin qanday xavfsizlik choralarini ko'rish kerak?
-3. Nima sababdan AI tomonidan tayyorlangan har qanday rasmiy hisobotni inson ko'zdan kechirib (fact-check qilib) chiqishi shart?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVPG4POmF_z_5UzEd_7ki50aWiFtC1hwOhFDjRHsa29FOdPQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Katta til modellari (LLM — Large Language Models) qanday texnologiyaga asoslangan?
+- [x] **A) Generativ sun'iy intellekt va chuqur neyron tarmoqlari** *(To'g'ri javob)*
+- [ ] B) Oddiy qidiruv algoritmi
+- [ ] C) Kalkulyator formulalari
+- [ ] D) Antivirus skaneri
+
+#### 2-Savol: Sun'iy intellektga beriladigan ko'rsatma yoki topshiriq matni nima deyiladi?
+- [x] **A) Prompt (Promt)** *(To'g'ri javob)*
+- [ ] B) Kesh
+- [ ] C) Drayver
+- [ ] D) Protokol
+
+#### 3-Savol: Prompt muhandisligining (Prompt Engineering) asosiy tarkibiy qismlari qaysilar?
+- [x] **A) Rol, Aniq vazifa, Kontekst, Cheklovlar va Kutilayotgan format** *(To'g'ri javob)*
+- [ ] B) Faqat bitta so'z
+- [ ] C) Faqat savol belgisi
+- [ ] D) Tasodifiy gaplar
+
+#### 4-Savol: Bugungi kunda eng mashhur matnli AI yordamchilari qaysilar?
+- [x] **A) ChatGPT, Google Gemini, Claude, Microsoft Copilot** *(To'g'ri javob)*
+- [ ] B) Photoshop, Paint
+- [ ] C) WinRAR, 7-Zip
+- [ ] D) VLC, Media Player
+
+#### 5-Savol: Sun'iy intellektning 'Gallyutsinatsiyasi' (AI Hallucination) nimani anglatadi?
+- [ ] A) Model haqiqatga to'g'ri kelmaydigan, to'qima ma'lumotlarni ishonchli ohangda taqdim etishi
+- [x] **B) Modelning o'chib qolishi** *(To'g'ri javob)*
+- [ ] C) Rasmlarni chizishi
+- [ ] D) Internet tezlashishi
+
+#### 6-Savol: AI tomonidan yozilgan ma'lumotlarni tekshirishda qaysi qoida muhim?
+- [x] **A) Faktlarni rasmiy va ishonchli manbalar orqali qayta tekshirish (Faktcheking)** *(To'g'ri javob)*
+- [ ] B) AI ga 100% so'zsiz ishonish
+- [ ] C) Tekshirish shart emas
+- [ ] D) Boshqalarga ko'rsatmaslik
+
+#### 7-Savol: Matndan tasvir (rasm) yaratuvchi generativ AI vositalari qaysilar?
+- [x] **A) Midjourney, DALL-E, Stable Diffusion** *(To'g'ri javob)*
+- [ ] B) Excel, Word
+- [ ] C) Notepad, WordPad
+- [ ] D) Audacity, FL Studio
+
+#### 8-Savol: AI vositalari yordamida Excel formulalarini tuzish qanday amalga oshadi?
+- [x] **A) Jadval ustunlari va kutilgan natija shartini promptda yozib, formulani so'rash** *(To'g'ri javob)*
+- [ ] B) Excelni o'chirish
+- [ ] C) Kompyuterni qayta yoqish
+- [ ] D) Katakni bo'sh qoldirish
+
+#### 9-Savol: Microsoft Copilot qaysi ofis dasturlariga bevosita integratsiya qilingan?
+- [x] **A) Word, Excel, PowerPoint, Outlook** *(To'g'ri javob)*
+- [ ] B) Faqat Paint
+- [ ] C) Faqat Bloknot
+- [ ] D) Faqat O'yinlar
+
+#### 10-Savol: Grammatika va uslubiy xatolarni to'g'rilovchi sun'iy intellekt xizmati qaysi?
+- [x] **A) Grammarly, DeepL Write** *(To'g'ri javob)*
+- [ ] B) Spotify
+- [ ] C) Netflix
+- [ ] D) Steam
+
+#### 11-Savol: Matnni bir nechta tillarga yuqori aniqlikda tarjima qiluvchi AI xizmatlari qaysilar?
+- [x] **A) DeepL Translator, Google Translate AI** *(To'g'ri javob)*
+- [ ] B) Winamp
+- [ ] C) CCleaner
+- [ ] D) Kaspersky
+
+#### 12-Savol: AI yordamida taqdimot slaydlarini avtomatik yaratuvchi platformalarga qaysilar kiradi?
+- [x] **A) Gamma App, Tome, Beautiful.ai** *(To'g'ri javob)*
+- [ ] B) Calculator
+- [ ] C) Command Prompt
+- [ ] D) BIOS
+
+#### 13-Savol: Zero-shot prompting nima?
+- [x] **A) Modelga hech qanday namunasiz to'g'ridan-to'g'ri topshiriq berish** *(To'g'ri javob)*
+- [ ] B) Ko'p namunalar ko'rsatish
+- [ ] C) Promtsiz ishlash
+- [ ] D) Dasturni o'chirish
+
+#### 14-Savol: Few-shot prompting nimani anglatadi?
+- [x] **A) Modelga vazifani tushuntirish uchun 2-3 ta misol (namuna) taqdim etish** *(To'g'ri javob)*
+- [ ] B) Namunasiz so'rash
+- [ ] C) Faqat bitta so'z yozish
+- [ ] D) Savol bermaslik
+
+#### 15-Savol: Sun'iy intellektga maxfiy korporativ yoki shaxsiy ma'lumotlarni (parol, karta raqami) kiritish xavfsizmi?
+- [x] **A) Qat'iy xavfli! Ushbu ma'lumotlar modelni o'qitishda saqlanib, tarqalib ketishi mumkin** *(To'g'ri javob)*
+- [ ] B) Mutlaqo xavfsiz
+- [ ] C) Faqat kechasi xavfsiz
+- [ ] D) Hech narsa bo'lmaydi
+
+#### 16-Savol: Sun'iy intellekt yordamida ovozni matnga aylantirish (Speech-to-Text) vositasi qaysi?
+- [x] **A) OpenAI Whisper** *(To'g'ri javob)*
+- [ ] B) DALL-E
+- [ ] C) Midjourney
+- [ ] D) Stable Diffusion
+
+#### 17-Savol: Katta hajmli PDF hujjat yoki maqolani xulosalashda (Summarization) AI qanday yordam beradi?
+- [x] **A) Asosiy g'oyalar, raqamlar va xulosalarni bir necha soniyada qisqacha tezis qilib beradi** *(To'g'ri javob)*
+- [ ] B) Faylni butunlay o'chiradi
+- [ ] C) PDF ni rasm qiladi
+- [ ] D) Shriftni buzadi
+
+#### 18-Savol: Ovozli virtual yordamchilarga qaysilar misol bo'ladi?
+- [x] **A) Siri, Google Assistant, Alexa** *(To'g'ri javob)*
+- [ ] B) Excel, Word
+- [ ] C) PowerPoint, Access
+- [ ] D) Chrome, Edge
+
+#### 19-Savol: Prompt yozishda 'Rol berish' (Persona) nima uchun kerak?
+- [x] **A) AI ni professional mutaxassis (masalan, tajribali buxgalter yoki dasturchi) nuqtai nazaridan chuqur javob berishga yo'naltirish uchun** *(To'g'ri javob)*
+- [ ] B) AI ni qo'rqitish uchun
+- [ ] C) Vaqtni cho'zish uchun
+- [ ] D) Javobni qisqartirish uchun
+
+#### 20-Savol: Dasturlash kodini yozish va xatolarni topishda dasturchilarga yordam beruvchi mashhur AI vositasi qaysi?
+- [x] **A) GitHub Copilot, Cursor** *(To'g'ri javob)*
+- [ ] B) Paint
+- [ ] C) KMPlayer
+- [ ] D) Nero
+
+#### 21-Savol: AI kontekst oynasi (Context Window) nimani bildiradi?
+- [x] **A) Model bir suhbatda bir vaqtning o'zida yodda tuta oladigan matn (tokenlar) hajmini** *(To'g'ri javob)*
+- [ ] B) Monitor o'lchamini
+- [ ] C) Oyna rangini
+- [ ] D) Internet tezligini
+
+#### 22-Savol: Token nima?
+- [x] **A) AI matnni qayta ishlashda bo'ladigan asosiy bo'lak (taxminan 3-4 ta harf yoki bitta so'z qismi)** *(To'g'ri javob)*
+- [ ] B) Elektron pul
+- [ ] C) Kompyuter drayveri
+- [ ] D) Fayl formati
+
+#### 23-Savol: O'quvchi yoki talabaning insho va kurs ishlarini AI bilan yozib, o'z nomidan topshirishi nima deyiladi?
+- [x] **A) Akademik vijdonsizlik (Plagiat) va AI axloq me'yorlarining buzilishi** *(To'g'ri javob)*
+- [ ] B) A'lo ko'nikma
+- [ ] C) Raqamli yutuq
+- [ ] D) Innovatsiya
+
+#### 24-Savol: Kundalik ishlarni avtomatlashtirishda AI dan qanday to'g'ri foydalaniladi?
+- [x] **A) Rejalar tuzish, xatlar qoralamasini yozish, ma'lumotlarni saralash va g'oyalar to'plashda yordamchi vosita sifatida** *(To'g'ri javob)*
+- [ ] B) Barcha ishlarni o'ylanmasdan AI ga topshirish
+- [ ] C) Ishga bormaslik
+- [ ] D) Faqat rasm chizish
+
+#### 25-Savol: Kelajakda sun'iy intellekt davrida qaysi insoniy ko'nikma eng qadrli bo'lib qoladi?
+- [x] **A) Tanqidiy fikrlash (Critical thinking), ijodkorlik va muammolarga nostandart yechim topish** *(To'g'ri javob)*
+- [ ] B) Oddiy matn ko'chirish
+- [ ] C) Hujjatlarni chop etish
+- [ ] D) Kabel ulash
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

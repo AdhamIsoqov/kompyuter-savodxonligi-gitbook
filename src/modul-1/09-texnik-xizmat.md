@@ -117,64 +117,175 @@ Protsessor radiatorining panjaralari kigizsimon chang qatlami bilan to'silib qol
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 9-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [09-Mavzu: Kompyuterga Texnik Xizmat Ko'rsatish — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1ABSV6HKIylv6cvnMrHUGsTlUBTU-VfXmdHzzXQg99Vw/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [09-Mavzu: Kompyuterga Texnik Xizmat Ko'rsatish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1ABSV6HKIylv6cvnMrHUGsTlUBTU-VfXmdHzzXQg99Vw/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Protsessor va sovutish radiatori orasiga nima sababdan termopasta surtiladi?
-- ( ) A) Radiator protsessorga qattiq yopishib qolishi uchun
-- (x) B) Metall yuzalar orasidagi mikroskopik havo bo'shliqlarini to'ldirib, issiqlikni radiatorga tez o'tkazish uchun
-- ( ) C) Protsessorni zanglashdan himoya qilish uchun
-- ( ) D) Kompyuterni viruslardan tozalash uchun
-*Izoh: Havo issiqlikni juda yomon o'tkazadi; termopasta havo o'rnini to'ldirib mukammal issiqlik ko'prigi hosil qiladi.*
-
-#### Test 2: Nima uchun zamonaviy SSD disklarni an'anaviy defragmentatsiya qilish qat'iyan man etiladi?
-- ( ) A) SSD disklarda fayllar o'chib ketadi
-- (x) B) SSD larda mexanik harakatlanuvchi qismlar yo'q, defragmentatsiya esa ularning yozish resursini (xizmat muddatini) bekorga qisqartiradi
-- ( ) C) Kompyuter operatsion tizimi o'chib ketadi
-- ( ) D) SSD disk juda qizib ketadi
-*Izoh: SSD xotira hujayralariga ixtiyoriy murojaat bir xil tezlikda bo'ladi, ortiqcha ko'chirishlar esa xotirani yeyilishiga olib keladi.*
-
-#### Test 3: Windows tizimida dasturlarning vaqtinchalik kesh fayllari saqlanadigan papkaga tezkor o'tish buyrug'i qaysi?
-- ( ) A) `tempfiles`
-- (x) B) `%temp%`
-- ( ) C) `cache`
-- ( ) D) `trash`
-*Izoh: `%temp%` tizim o'zgaruvchisi foydalanuvchining vaqtinchalik ma'lumotlar katalogini darhol ochadi.*
-
-#### Test 4: Kompyuterni changdan tozalash davomida ventilyatorlarni (kuler) nega qisib turish kerak?
-- ( ) A) Ventilyator sinib ketmasligi uchun
-- (x) B) Yuqori tezlikda aylanish oqibatida teskari elektr toki hosil bo'lib, ona platadagi mikrosxemani kuydirmasligi uchun
-- ( ) C) Chang xonaga tarqab ketmasligi uchun
-- ( ) D) Ventilyator moyi oqib ketmasligi uchun
-*Izoh: Elektr motorlari tashqi kuch bilan aylantirilganda generator kabi tok ishlab chiqaradi.*
-
-#### Test 5: Windows operatsion tizimining standart disk tozalash vositasi qaysi buyruq orqali ochiladi?
-- ( ) A) `dxdiag`
-- ( ) B) `msconfig`
-- (x) C) `cleanmgr`
-- ( ) D) `cmd`
-*Izoh: `cleanmgr` (Disk Clean Manager) vositasi tizimli kesh va eski yangilanish fayllarini tozalaydi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Noutbuklarni yotoqda — ko'rpa yoki yostiq ustiga qo'yib ishlatish nega ularning muddatidan oldin ishdan chiqishiga asosiy sabab bo'ladi?
-2. Antivirus o'rnatilgan bo'lsa ham, nima sababdan Windows yangilanishlarini (Windows Update) doimiy o'rnatib borish shart?
-3. HWMonitor yoki AIDA64 dasturlarida protsessor harorati 85°C dan oshsa, bu montajchi uchun qanday harakat signalidir?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Kompyuter changdan qancha vaqtda tozalanib turilishi tavsiya etiladi?
+- [x] **A) Kamida har 6–12 oyda bir marta** *(To'g'ri javob)*
+- [ ] B) 10 yilda bir marta
+- [ ] C) Har kuni
+- [ ] D) Tozalash shart emas
+
+#### 2-Savol: Protsessor harorati odatiy ish holatida (Idle) necha darajadan oshmasligi kerak?
+- [x] **A) 35–50 °C** *(To'g'ri javob)*
+- [ ] B) 85–95 °C
+- [ ] C) 10–15 °C
+- [ ] D) 100–120 °C
+
+#### 3-Savol: Protsessor yuklama ostida (Stress test / Gaming) maksimal qancha qizishi xavfsiz hisoblanadi?
+- [x] **A) 70–80 °C (90 °C dan oshmasligi lozim)** *(To'g'ri javob)*
+- [ ] B) 120–150 °C
+- [ ] C) 25 °C
+- [ ] D) 200 °C
+
+#### 4-Savol: Kompyuter qismlarining harorati va zo'riqishini kuzatuvchi mashhur utilita qaysi?
+- [x] **A) HWMonitor, AIDA64, Core Temp** *(To'g'ri javob)*
+- [ ] B) Notepad
+- [ ] C) Paint
+- [ ] D) Calculator
+
+#### 5-Savol: Termopastani almashtirish davriyligi qanday?
+- [x] **A) Har 1–2 yilda bir marta** *(To'g'ri javob)*
+- [ ] B) Har hafta
+- [ ] C) Hech qachon almashtirilmaydi
+- [ ] D) 10 kunda bir
+
+#### 6-Savol: SSD disklarda defragmentatsiya o'tkazish nima sababdan tavsiya etilmaydi?
+- [x] **A) U SSD ning flesh-kataklari yozish resursini tez tugatadi va foydasi yo'q** *(To'g'ri javob)*
+- [ ] B) SSD ni sekinlashtiradi
+- [ ] C) Fayllarni o'chiradi
+- [ ] D) Virus yuqtiradi
+
+#### 7-Savol: SSD disklarni optimallashtirish uchun qaysi texnologiya qo'llaniladi?
+- [x] **A) TRIM buyrug'i** *(To'g'ri javob)*
+- [ ] B) Defrag
+- [ ] C) Scandisk
+- [ ] D) Format
+
+#### 8-Savol: HDD diskning sog'lig'i va ishonchliligini baholash tizimi nima deyiladi?
+- [x] **A) S.M.A.R.T. diagnostikasi** *(To'g'ri javob)*
+- [ ] B) POST
+- [ ] C) BIOS
+- [ ] D) RAM Test
+
+#### 9-Savol: Windows da diskdagi vaqtinchalik va keraksiz fayllarni tozalovchi standart vosita qaysi?
+- [x] **A) Disk Cleanup (cleanmgr)** *(To'g'ri javob)*
+- [ ] B) Disk Defragmenter
+- [ ] C) Paint
+- [ ] D) Task Manager
+
+#### 10-Savol: Throttling (Trottling) nima?
+- [x] **A) Qizib ketganda protsessorning o'zini kuyishdan asrash uchun chastotasini pasaytirishi** *(To'g'ri javob)*
+- [ ] B) Kompyuterni tezlashtirish
+- [ ] C) Ovozni o'chirish
+- [ ] D) Internetni uzish
+
+#### 11-Savol: Ona platadagi CR2032 'tabletka' batareykaning vazifasi nima?
+- [x] **A) Kompyuter o'chganda BIOS sozlamalari va soatni quvvatlab turish** *(To'g'ri javob)*
+- [ ] B) Monitorni yoqish
+- [ ] C) Protsessorni sovutish
+- [ ] D) Fayllarni saqlash
+
+#### 12-Savol: Kompyuter ichini changdan tozalashda changyutgichdan nima uchun ehtiyot bo'lish kerak?
+- [x] **A) Statik elektr toki (ESD) hosil qilib, nozik mikrosxemalarni kuydirishi mumkin** *(To'g'ri javob)*
+- [ ] B) Shovqin chiqaradi
+- [ ] C) Quvvat sarflaydi
+- [ ] D) Kabel uziladi
+
+#### 13-Savol: Kuler ventilyatorlari qattiq g'uvillab shovqin qilsa, qanday chora ko'riladi?
+- [x] **A) Changdan tozalash va podshipnikiga maxsus moy (silikon moy) tomizish** *(To'g'ri javob)*
+- [ ] B) Suv sepish
+- [ ] C) Ventilyatorni sindirish
+- [ ] D) Hajmini kichraytirish
+
+#### 14-Savol: Eski termopastani protsessor sirtidan tozalash uchun nima ishlatiladi?
+- [x] **A) Izopropil spirti yoki quruq mikrofibra latta** *(To'g'ri javob)*
+- [ ] B) Suvli sovun
+- [ ] C) Pichoq bilan qirish
+- [ ] D) Aseton
+
+#### 15-Savol: Tizim bloki ichida havo oqimi qanday yo'naltirilishi lozim?
+- [x] **A) Old va pastdan sovuq havo kiradi, orqa va yuqoridan issiq havo chiqariladi** *(To'g'ri javob)*
+- [ ] B) Barcha ventilyatorlar ichkariga puflashi kerak
+- [ ] C) Barchasi tashqariga puflashi kerak
+- [ ] D) Havo oqimi ahamiyatsiz
+
+#### 16-Savol: Kompyuter yuklama ostida birdan o'chib qolsa, asosiy sabab nima bo'lishi mumkin?
+- [x] **A) Protsessor yoki videokartaning haddan tashqari qizib ketishi (Overheating) yoki quvvat bloki yetishmovchiligi** *(To'g'ri javob)*
+- [ ] B) Klaviatura kirligi
+- [ ] C) Sichqoncha tezligi
+- [ ] D) Internet yo'qligi
+
+#### 17-Savol: Windows da tizim fayllari butunligini tekshirish va tuzatish konsol buyrug'i qaysi?
+- [x] **A) sfc /scannow** *(To'g'ri javob)*
+- [ ] B) format c:
+- [ ] C) ping google.com
+- [ ] D) dir /s
+
+#### 18-Savol: Qattiq disk xatolarini tekshirish va tuzatish buyrug'i nima?
+- [x] **A) chkdsk C: /f /r** *(To'g'ri javob)*
+- [ ] B) cleanmgr
+- [ ] C) ipconfig
+- [ ] D) shutdown
+
+#### 19-Savol: Oddiy qalam o'chirg'ichi (rezinka) kompyuter ta'mirlashda qayerda asqotadi?
+- [x] **A) RAM va videokarta oltin kontakt tishchalaridagi oksidlanishni xavfsiz tozalashda** *(To'g'ri javob)*
+- [ ] B) Termopastani artishda
+- [ ] C) Changni artishda
+- [ ] D) Ekran tirnalishini yo'qotishda
+
+#### 20-Savol: Tizimning ko'k ekrani (BSOD - Blue Screen of Death) odatda nima sababdan chiqadi?
+- [x] **A) Kritik apparat nosozligi (RAM, SSD) yoki drayverlar to'qnashuvi** *(To'g'ri javob)*
+- [ ] B) Brauzer ko'pligi
+- [ ] C) Video formati
+- [ ] D) Musiqa hajmi
+
+#### 21-Savol: Quvvat blokidagi elektrolitik kondensatorlarning shishib qolishi nima oqibatga olib keladi?
+- [x] **A) Kuchlanish beqarorlashib, kompyuter o'chib-yonishi yoki yonmasligiga** *(To'g'ri javob)*
+- [ ] B) Kompyuter tezlashishiga
+- [ ] C) Sovuq havo chiqishiga
+- [ ] D) Internet to'xtashiga
+
+#### 22-Savol: MemTest86 dasturi nima vazifani bajaradi?
+- [x] **A) Operativ xotira (RAM) modullarining xatolarini chuqur tekshiradi** *(To'g'ri javob)*
+- [ ] B) Qattiq diskni formatlaydi
+- [ ] C) Windows o'rnatadi
+- [ ] D) Parolni tiklaydi
+
+#### 23-Savol: Kompyuter yoqilganda 1 ta qisqa signal (Beep code) nimani bildiradi?
+- [x] **A) POST tekshiruvi muvaffaqiyatli o'tdi, barcha qismlar soz** *(To'g'ri javob)*
+- [ ] B) Protsessor buzildi
+- [ ] C) RAM yo'q
+- [ ] D) Quvvat yo'q
+
+#### 24-Savol: Noutbuk sovutish panellari (Cooling pad) qanday yordam beradi?
+- [x] **A) Noutbuk ostiga qo'shimcha havo haydab, haroratni 3-7 darajaga tushiradi** *(To'g'ri javob)*
+- [ ] B) Batareyani to'ldiradi
+- [ ] C) Klaviatura tozalaydi
+- [ ] D) Ekranni yorqin qiladi
+
+#### 25-Savol: Kompyuterni qayta o'rnatishdan (Reinstall) oldin ma'lumotlarni qayerga nusxalash shart?
+- [x] **A) Tashqi diskka, fleshkaga yoki bulutli xotiraga (Backup)** *(To'g'ri javob)*
+- [ ] B) Savatga (Recycle bin)
+- [ ] C) Temp papkasiga
+- [ ] D) Monitorga
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

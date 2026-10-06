@@ -122,64 +122,175 @@ Katta konferensiyada ma'ruzachi noutbukini HDMI kabel orqali katta zal proyektor
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 8-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1DWR7oghgreLxgmG9V_j0yK7uLLwRsQk9Dn2NpMXXpR8/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1DWR7oghgreLxgmG9V_j0yK7uLLwRsQk9Dn2NpMXXpR8/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Yuqori tezlikdagi zamonaviy USB 3.0 portlari odatda qanday rangdagi ichki plastik bilan ajralib turadi?
-- ( ) A) Qora
-- ( ) B) Oq
-- (x) C) Ko'k (yoki qizil)
-- ( ) D) Sariq
-*Izoh: Ishlab chiqaruvchilar USB 3.0/3.1 SuperSpeed portlarini an'anaviy qora 2.0 dan ajratish uchun ko'k rangda ishlab chiqaradilar.*
-
-#### Test 2: Windows tizimida ikkinchi monitor yoki proyektor ekran rejimlarini chaqiruvchi tezkor klaviatura yorlig'i qaysi?
-- ( ) A) `Win + E`
-- (x) B) `Win + P`
-- ( ) C) `Alt + Tab`
-- ( ) D) `Ctrl + P`
-*Izoh: `Win + P` (Project) tashqi monitor va proyektorlar menyusini ochadi.*
-
-#### Test 3: Taqdimot o'tkazishda kompyuter ekranidagi tasvir proyektorda xuddi o'zidek takrorlanishi uchun qaysi rejim tanlanadi?
-- ( ) A) PC screen only
-- (x) B) Duplicate (Dublyaj)
-- ( ) C) Extend (Kengaytirish)
-- ( ) D) Second screen only
-*Izoh: Duplicate rejimi ikkala ekranda ham bir xil tasvirni namoyish qiladi.*
-
-#### Test 4: Tashqi HDD (qattiq disk)ning tashqi SSD dan asosiy kamchiligi nimada?
-- ( ) A) Hajmi juda kichik
-- (x) B) Ichida aylanuvchi mexanik qismlar borligi sababli zarbalarga va silkinishga juda sezgir, tezligi pastroq
-- ( ) C) USB orqali ulanmaydi
-- ( ) D) Narxi juda qimmat
-*Izoh: HDD mexanik magnit disk bo'lgani uchun tushib ketsa yoki qattiq silkinsa, o'qish kallagi diskni tirnab yuboradi.*
-
-#### Test 5: USB fleshkani kompyuterdan sug'urishdan oldin nega "Safely Remove" qilish tavsiya etiladi?
-- ( ) A) Kompyuter o'chib qolmasligi uchun
-- (x) B) Keshdagi fayllar to'liq yozilib ulgurishi va fleshka fayl tizimi buzilmasligi uchun
-- ( ) C) Internet tezligi tushib ketmasligi uchun
-- ( ) D) Protsessorni sovitish uchun
-*Izoh: Xavfsiz ajratish fleshkaga bo'lgan barcha yozish amallarini yakunlab, elektr quvvatini uzadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun "Extend" (Kengaytirish) rejimi bir vaqtning o'zida ham video montaj qiluvchi, ham kod yozuvchi IT mutaxassislari uchun eng qulay hisoblanadi?
-2. Agar fleshka hajmi 64 GB bo'lsa-yu, unga 5 GB lik bitta kinoni yozayotganda "Fayl juda katta" degan xatolik bersa, muammo nimada (FAT32 vs NTFS)?
-3. Veb-kamera ishlamay qolganda dasturiy ruxsatlarni (Privacy & Security -> Camera) tekshirish nima uchun birinchi o'rinda turadi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: USB 3.0 porti odatda qanday rangdagi plastik bilan ajralib turadi?
+- [x] **A) Ko'k rang** *(To'g'ri javob)*
+- [ ] B) Qora rang
+- [ ] C) Oq rang
+- [ ] D) Qizil rang
+
+#### 2-Savol: USB Type-C ulagichining boshqa USB lardan asosiy qulayligi nima?
+- [x] **A) Simmetrik shakli tufayli ikkala tomondan ham ulanishi** *(To'g'ri javob)*
+- [ ] B) Katta hajmi
+- [ ] C) Faqat quvvat uzatishi
+- [ ] D) Faqat bir marta ulanishi
+
+#### 3-Savol: Thunderbolt interfeysining maksimal ma'lumot uzatish tezligi qancha (Thunderbolt 4)?
+- [x] **A) 40 Gb/s** *(To'g'ri javob)*
+- [ ] B) 10 Gb/s
+- [ ] C) 5 Gb/s
+- [ ] D) 480 Mb/s
+
+#### 4-Savol: Fleshkani kompyuterdan xavfsiz ajratish (Safely Remove Hardware) nima uchun zarur?
+- [x] **A) Keshdagi ma'lumotlar to'liq yozilib ulgurishi va fayl tizimi buzilmasligi uchun** *(To'g'ri javob)*
+- [ ] B) Virus tushmasligi uchun
+- [ ] C) Fleshka qizib ketmasligi uchun
+- [ ] D) Kompyuter o'chib qolmasligi uchun
+
+#### 5-Savol: Tashqi HDD (Qattiq disk) tashqi SSD dan nimasi bilan farq qiladi?
+- [x] **A) HDD mexanik aylanuvchi disklarga ega va zarbaga sezgir, SSD esa chidamli va ancha tez** *(To'g'ri javob)*
+- [ ] B) HDD tezroq
+- [ ] C) SSD og'irroq
+- [ ] D) Farqi yo'q
+
+#### 6-Savol: USB fleshkani formatlashda qaysi parametr barcha ma'lumotlarni butunlay o'chiradi?
+- [x] **A) Format (Formatlash)** *(To'g'ri javob)*
+- [ ] B) Rename
+- [ ] C) Compress
+- [ ] D) Eject
+
+#### 7-Savol: Monitorga video va audio signalni bir vaqtda uzatuvchi raqamli port qaysi?
+- [x] **A) HDMI va DisplayPort** *(To'g'ri javob)*
+- [ ] B) VGA
+- [ ] C) DVI-A
+- [ ] D) PS/2
+
+#### 8-Savol: Eski analog video porti nima deb ataladi?
+- [x] **A) VGA (ko'k rangli 15 pinli)** *(To'g'ri javob)*
+- [ ] B) HDMI
+- [ ] C) Type-C
+- [ ] D) DisplayPort
+
+#### 9-Savol: OTG (On-The-Go) texnologiyasi nima vazifani bajaradi?
+- [x] **A) Smartfon yoki planshetga fleshka, sichqoncha va boshqa USB qurilmalarni to'g'ridan-to'g'ri ulash** *(To'g'ri javob)*
+- [ ] B) Internet tezligini oshirish
+- [ ] C) Ekranni aylantirish
+- [ ] D) Batareyani quvvatlash
+
+#### 10-Savol: Tezkor formatlash (Quick Format) oddiy to'liq formatlashdan nimasi bilan farq qiladi?
+- [x] **A) Faqat fayl jadvalini tozalaydi, bad-sektorlarni tekshirmaydi va tez tugaydi** *(To'g'ri javob)*
+- [ ] B) Barcha sektorlarni nolga tenglashtiradi
+- [ ] C) Sekin ishlaydi
+- [ ] D) Fayllarni saqlab qoladi
+
+#### 11-Savol: Optik disklar (CD, DVD, Blu-Ray) qanday texnologiyaga asoslangan?
+- [x] **A) Lazer nuri yordamida yozish va o'qish** *(To'g'ri javob)*
+- [ ] B) Magnit lenta
+- [ ] C) Flesh xotira
+- [ ] D) Elektr kondensatori
+
+#### 12-Savol: Klaviatura va sichqonchani ulash uchun ishlatilgan qadimgi dumaloq portlar nima deyiladi?
+- [x] **A) PS/2 (binafsha va yashil)** *(To'g'ri javob)*
+- [ ] B) COM port
+- [ ] C) LPT port
+- [ ] D) RCA
+
+#### 13-Savol: Bluetooth texnologiyasining asosiy vazifasi nima?
+- [x] **A) Qisqa masofada (10-15 m) simsiz ma'lumot almashish va qurilmalarni ulash** *(To'g'ri javob)*
+- [ ] B) Global internetga chiqish
+- [ ] C) Quvvat uzatish
+- [ ] D) Diskni tozalash
+
+#### 14-Savol: Tashqi audio karnaylar (Kolonka) va quloqchinlar odatda qaysi ulagichga ulanadi?
+- [x] **A) 3.5 mm mini-jack (yashil port)** *(To'g'ri javob)*
+- [ ] B) RJ-45
+- [ ] C) VGA
+- [ ] D) SATA
+
+#### 15-Savol: Veb-kamera (Webcam) ning asosiy ko'rsatkichlari qaysilar?
+- [x] **A) Matritsa o'lchami (Full HD, 4K) va kadrlar chastotasi (FPS)** *(To'g'ri javob)*
+- [ ] B) Qattiq disk hajmi
+- [ ] C) Quvvat bloki
+- [ ] D) Kabel rangi
+
+#### 16-Savol: USB hub (ko'paytirgich) nima uchun ishlatiladi?
+- [x] **A) Kompyuterdagi bitta USB portini bir nechta portlarga ko'paytirish uchun** *(To'g'ri javob)*
+- [ ] B) Monitorni ulash uchun
+- [ ] C) Tovushni kuchaytirish uchun
+- [ ] D) Faylni siqish uchun
+
+#### 17-Savol: Qurilmalar menejerida (Device Manager) sariq undov belgisi nimani bildiradi?
+- [x] **A) Ushbu qurilma uchun drayver topilmagan yoki u to'g'ri ishlamayapti** *(To'g'ri javob)*
+- [ ] B) Qurilma juda zo'r ishlayapti
+- [ ] C) Qurilma o'chirilgan
+- [ ] D) Qurilma yangilangan
+
+#### 18-Savol: Hot-swapping (Issiq ulanish) qobiliyati nimani anglatadi?
+- [x] **A) Kompyuterni o'chirmasdan qurilmani ulab/ajratib olish imkoniyati (masalan: USB)** *(To'g'ri javob)*
+- [ ] B) Qurilma qizib ketishi
+- [ ] C) Faqat pechkada ishlashi
+- [ ] D) Kabel erishi
+
+#### 19-Savol: SD va MicroSD xotira kartalarida Class 10 belgisi nimani bildiradi?
+- [x] **A) Minimal yozish tezligi kamida 10 MB/s ekanligini** *(To'g'ri javob)*
+- [ ] B) Hajmi 10 GB ligini
+- [ ] C) Kafolati 10 yil ekanligini
+- [ ] D) 10 marta yozilishini
+
+#### 20-Savol: Tashqi qattiq disklarni uzoq saqlashda qanday xavf eng katta hisoblanadi?
+- [x] **A) Jismoniy zarba va tushirib yuborish (mexanik qismlar buzilishi)** *(To'g'ri javob)*
+- [ ] B) Ko'p fayl yozilishi
+- [ ] C) Nomining uzunligi
+- [ ] D) Qog'oz tegishi
+
+#### 21-Savol: HDMI 2.1 standarti qanday tasvir sifatini qo'llab-quvvatlaydi?
+- [x] **A) 4K 120Hz va 8K 60Hz** *(To'g'ri javob)*
+- [ ] B) Faqat 720p
+- [ ] C) Faqat 1080p 30Hz
+- [ ] D) 360p
+
+#### 22-Savol: Fleshkaga 5 GB lik kinoni yozib bo'lmayapti, lekin joy yetarli. Sababi nima?
+- [x] **A) Fleshka FAT32 formatida (u 4 GB dan katta faylni qabul qilmaydi, NTFS yoki exFAT qilish kerak)** *(To'g'ri javob)*
+- [ ] B) Kino buzilgan
+- [ ] C) Fleshka o'chirilgan
+- [ ] D) Kino hajmi kichik
+
+#### 23-Savol: Tashqi ovoz kartasi (External Audio Interface) nima uchun kerak?
+- [x] **A) Professional mikrofonlarni ulash va yuqori sifatli ovoz yozish/eshitish uchun** *(To'g'ri javob)*
+- [ ] B) Video ko'rish uchun
+- [ ] C) Matn terish uchun
+- [ ] D) Faylni ko'chirish uchun
+
+#### 24-Savol: Proyektor kompyuterga ulanganda ekranni dublyaj qilish (Duplicate) tugmasi qaysi?
+- [x] **A) Win + P** *(To'g'ri javob)*
+- [ ] B) Win + D
+- [ ] C) Alt + P
+- [ ] D) Ctrl + P
+
+#### 25-Savol: Grafik planshet (Stylus tablet) kimlar uchun mo'ljallangan?
+- [x] **A) Raqamli rassomlar, dizaynerlar va chizmachilar uchun** *(To'g'ri javob)*
+- [ ] B) Faqat matn teruvchilar uchun
+- [ ] C) Musiqachilar uchun
+- [ ] D) Buxgalterlar uchun
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

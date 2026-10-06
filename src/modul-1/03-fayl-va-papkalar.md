@@ -136,64 +136,175 @@ Fayl tasodifan o'chirilgan (Savatga tushgan) yoki noto'g'ri sichqoncha harakati 
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 3-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [03-Mavzu: Fayl va Papkalar Bilan Ishlash — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1Np11QGlCCmBFE6sNmQjaenFKccGy_-5RQMHMDbxyq6k/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [03-Mavzu: Fayl va Papkalar Bilan Ishlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1Np11QGlCCmBFE6sNmQjaenFKccGy_-5RQMHMDbxyq6k/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: File Explorer dasturini tezkor ochish klaviatura yorlig'i qaysi?
-- ( ) A) `Win + R`
-- (x) B) `Win + E`
-- ( ) C) `Alt + Tab`
-- ( ) D) `Ctrl + Shift + Esc`
-*Izoh: `Win + E` (Explorer) tugmasi barcha Windows versiyalarida fayl boshqaruvchisini ochadi.*
-
-#### Test 2: Fayl yoki papka nomini tezkor tahrirlash (Rename) uchun qaysi funksional tugma ishlatiladi?
-- ( ) A) `F1`
-- (x) B) `F2`
-- ( ) C) `F5`
-- ( ) D) `F12`
-*Izoh: `F2` tugmasi tanlangan har qanday obyekt nomini qayta yozish rejimiga o'tkazadi.*
-
-#### Test 3: Faylni savatga (Recycle Bin) yubormasdan butunlay o'chirish qaysi kombinatsiya bilan bajariladi?
-- ( ) A) `Ctrl + Delete`
-- ( ) B) `Alt + Delete`
-- (x) C) `Shift + Delete`
-- ( ) D) Faqat `Delete`
-*Izoh: `Shift + Delete` faylni savatni chetlab o'tib, doimiy o'chirib yuboradi.*
-
-#### Test 4: `Copy` (Ctrl+C) va `Cut` (Ctrl+X) o'rtasidagi asosiy farq nima?
-- (x) A) `Copy` da asl fayl joyida qoladi, `Cut` da esa asl fayl yangi joyga ko'chib o'tadi
-- ( ) B) `Cut` faqat matnlar uchun, `Copy` faqat rasmlar uchun ishlaydi
-- ( ) C) Ikkalasi ham bir xil natija beradi
-- ( ) D) `Copy` qilingan faylni qaytarib bo'lmaydi
-*Izoh: Nusxalashda fayl ko'payadi, ko'chirishda esa mavjud bitta fayl joyini o'zgartiradi.*
-
-#### Test 5: File Explorer'da kompyuterdagi barcha Excel fayllarini qidirish uchun qanday so'rov yoziladi?
-- ( ) A) `excel`
-- (x) B) `*.xlsx`
-- ( ) C) `all.tables`
-- ( ) D) `#excel`
-*Izoh: Yulduzcha (`*`) ixtiyoriy nomni bildiradi, `.xlsx` esa Excel fayllarining kengaytmasidir.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun fayl kengaytmasini (masalan, `.docx` ni `.mp3` ga) qo'lda o'zgartirib qo'yish faylni ochilmaydigan qilib qo'yadi?
-2. `Ctrl + Z` kombinatsiyasi File Explorer muhitida qanday favqulodda yordam berishi mumkin?
-3. Tashqi USB fleshkadagi fayllar `Delete` tugmasi bilan o'chirilganda, ular kompyuterning Recycle Bin (Savat)iga tushadimi yoki yo'qmi? Nega?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Windows tizimida fayl nomida qaysi belgilarni ishlatish taqiqlanadi?
+- [x] **A) \ / : * ? " < > |** *(To'g'ri javob)*
+- [ ] B) @ # $ % ^ &
+- [ ] C) _ - + =
+- [ ] D) ! ~ ` ()
+
+#### 2-Savol: Fayl kengaytmasi (Extension) nimani bildiradi?
+- [x] **A) Faylning turi va qaysi dasturda ochilishini** *(To'g'ri javob)*
+- [ ] B) Fayl yaratilgan sanani
+- [ ] C) Faylning hajmini
+- [ ] D) Muallif ismini
+
+#### 3-Savol: Faylni butunlay (Savatga tashlamasdan) o'chirish uchun qaysi tugmalar birikmasi bosiladi?
+- [x] **A) Shift + Delete** *(To'g'ri javob)*
+- [ ] B) Ctrl + Delete
+- [ ] C) Alt + Delete
+- [ ] D) F8
+
+#### 4-Savol: Fayldan nusxa olish (Copy) va boshqa joyga qo'yish (Paste) tugmalari qaysi?
+- [x] **A) Ctrl + C va Ctrl + V** *(To'g'ri javob)*
+- [ ] B) Ctrl + X va Ctrl + V
+- [ ] C) Ctrl + A va Ctrl + S
+- [ ] D) Alt + C va Alt + V
+
+#### 5-Savol: Windows da fayl tizimining qaysi turi zamonaviy va asosiy hisoblanadi?
+- [x] **A) NTFS** *(To'g'ri javob)*
+- [ ] B) FAT16
+- [ ] C) EXT2
+- [ ] D) FAT12
+
+#### 6-Savol: FAT32 fayl tizimida bitta faylning maksimal hajmi qancha bo'lishi mumkin?
+- [x] **A) 4 GB** *(To'g'ri javob)*
+- [ ] B) 2 GB
+- [ ] C) 8 GB
+- [ ] D) Cheklanmagan
+
+#### 7-Savol: Yorliq (Shortcut) faylning o'zidan nimasi bilan farq qiladi?
+- [x] **A) U faylga yo'l ko'rsatuvchi kichik havola bo'lib, faylning o'zi emas** *(To'g'ri javob)*
+- [ ] B) U fayldan kattaroq
+- [ ] C) U faqat nusxa
+- [ ] D) Farqi yo'q
+
+#### 8-Savol: Fayllarni arxivlashning (ZIP/RAR) asosiy maqsadi nima?
+- [x] **A) Hajmini siqish va bir nechta faylni yagona paketga jamlash** *(To'g'ri javob)*
+- [ ] B) Fayllarni ko'paytirish
+- [ ] C) Formatini o'zgartirish
+- [ ] D) Faylni tahrirlash
+
+#### 9-Savol: Fayl nomini o'zgartirish (Rename) uchun qaysi klavish bosiladi?
+- [x] **A) F2** *(To'g'ri javob)*
+- [ ] B) F1
+- [ ] C) F5
+- [ ] D) F12
+
+#### 10-Savol: Barcha fayllarni birdaniga belgilash (Select All) qaysi birikma bilan amalga oshadi?
+- [x] **A) Ctrl + A** *(To'g'ri javob)*
+- [ ] B) Ctrl + S
+- [ ] C) Ctrl + B
+- [ ] D) Alt + A
+
+#### 11-Savol: Yashirin fayllarni (Hidden files) ko'rish Windows Explorer da qanday yoqiladi?
+- [x] **A) View -> Show -> Hidden items** *(To'g'ri javob)*
+- [ ] B) F5 tugmasi bilan
+- [ ] C) O'ng tugma -> Refresh
+- [ ] D) Ctrl + H
+
+#### 12-Savol: Faylni qirqib olish (Cut) qaysi tugmalar bilan bajariladi?
+- [x] **A) Ctrl + X** *(To'g'ri javob)*
+- [ ] B) Ctrl + Z
+- [ ] C) Ctrl + P
+- [ ] D) Ctrl + C
+
+#### 13-Savol: Oxirgi bajarilgan amalni bekor qilish (Undo) qaysi birikma?
+- [x] **A) Ctrl + Z** *(To'g'ri javob)*
+- [ ] B) Ctrl + Y
+- [ ] C) Ctrl + U
+- [ ] D) Alt + Backspace
+
+#### 14-Savol: Fayl yo'li (File path) deganda nima tushuniladi?
+- [x] **A) Faylning diskdagi aniq manzili (masalan: C:\Hujjatlar\fayl.txt)** *(To'g'ri javob)*
+- [ ] B) Faylning yuklanish tezligi
+- [ ] C) Fayl hajmi
+- [ ] D) Faylning internetdagi linki
+
+#### 15-Savol: Quyidagilardan qaysi biri arxiv fayl kengaytmasi hisoblanadi?
+- [x] **A) .zip, .rar, .7z** *(To'g'ri javob)*
+- [ ] B) .docx, .pdf
+- [ ] C) .mp3, .wav
+- [ ] D) .exe, .msi
+
+#### 16-Savol: exFAT fayl tizimi asosan qayerda ishlatiladi?
+- [x] **A) Fleshka va xotira kartalarida (katta hajmli fayllarni qo'llab-quvvatlash uchun)** *(To'g'ri javob)*
+- [ ] B) Faqat Linux serverlarida
+- [ ] C) Faqat floppi disklarda
+- [ ] D) Ishlatilmaydi
+
+#### 17-Savol: Papka yaratishning tezkor klaviatura birikmasi qaysi?
+- [x] **A) Ctrl + Shift + N** *(To'g'ri javob)*
+- [ ] B) Ctrl + N
+- [ ] C) Alt + N
+- [ ] D) Shift + N
+
+#### 18-Savol: Fayl xususiyatlarini (Properties) ko'rish uchun qaysi klavishlar bosiladi?
+- [x] **A) Alt + Enter** *(To'g'ri javob)*
+- [ ] B) Ctrl + Enter
+- [ ] C) Shift + Enter
+- [ ] D) F4
+
+#### 19-Savol: Windows da savatchani (Recycle Bin) tozalash nima beradi?
+- [x] **A) Diskdan o'chirilgan fayllarni butunlay yo'qotib, joy bo'shatadi** *(To'g'ri javob)*
+- [ ] B) Kompyuterni qayta yuklaydi
+- [ ] C) Fayllarni qaytaradi
+- [ ] D) Drayverlarni yangilaydi
+
+#### 20-Savol: Ketma-ket joylashgan bir nechta faylni belgilash uchun qaysi tugma bosib turiladi?
+- [x] **A) Shift** *(To'g'ri javob)*
+- [ ] B) Ctrl
+- [ ] C) Alt
+- [ ] D) Tab
+
+#### 21-Savol: Tartibsiz joylashgan alohida fayllarni tanlab belgilash uchun qaysi tugma ishlatiladi?
+- [x] **A) Ctrl** *(To'g'ri javob)*
+- [ ] B) Shift
+- [ ] C) Alt
+- [ ] D) Space
+
+#### 22-Savol: Windows Explorer darchasini ochish uchun qaysi kombinatsiya qo'llaniladi?
+- [x] **A) Win + E** *(To'g'ri javob)*
+- [ ] B) Win + D
+- [ ] C) Win + F
+- [ ] D) Ctrl + E
+
+#### 23-Savol: Fayl atributlaridan 'Read-only' nimani anglatadi?
+- [x] **A) Faylni faqat o'qish mumkin, o'zgartirish taqiqlanadi** *(To'g'ri javob)*
+- [ ] B) Fayl yashiringan
+- [ ] C) Fayl o'chirilgan
+- [ ] D) Fayl arxivlangan
+
+#### 24-Savol: O'chirilgan faylni savatdan (Recycle bin) asl joyiga qaytarish buyrug'i nima?
+- [x] **A) Restore (Qayta tiklash)** *(To'g'ri javob)*
+- [ ] B) Copy
+- [ ] C) Paste
+- [ ] D) Cut
+
+#### 25-Savol: Fayllar ro'yxatini qayta yangilash (Refresh) klavishi qaysi?
+- [x] **A) F5** *(To'g'ri javob)*
+- [ ] B) F3
+- [ ] C) F7
+- [ ] D) F9
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

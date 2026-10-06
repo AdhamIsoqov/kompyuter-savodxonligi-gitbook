@@ -119,64 +119,175 @@ Kompaniyaning barcha kompyuterlari birdaniga sekinlashdi, printerlar ishlamay qo
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Butun Kurs Bo'yicha Yakuniy Attestatsiya Testi)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Rasmiy Yakuniy Imtihon Testi:** Kursni muvaffaqiyatli tamomlash va sertifikatga ega bo'lish uchun quyidagi yakuniy attestatsiya Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1tEQ4er3ivQv5kKt5TLoyOFTATZTfFtAQIZH-bsLiu24/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1tEQ4er3ivQv5kKt5TLoyOFTATZTfFtAQIZH-bsLiu24/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Yakuniy Test Savollari:
-
-#### Test 1: Kompyuter tizim blokini changdan tozalash vaqtida nima sababdan ventilyatorlarni ushlab turish kerak?
-- ( ) A) Chang xonaga tarqamasligi uchun
-- (x) B) Kuchli havo oqimida ventilyator motori teskari elektr toki ishlab chiqarib, platadagi mikrosxemani kuydirmasligi uchun
-- ( ) C) Ventilyator sinib ketmasligi uchun
-- ( ) D) Quvvat bloki yonib ketmasligi uchun
-*Izoh: Elektr dvigatellari mexanik aylantirilganda generatorga aylanadi va xavfli tok beradi.*
-
-#### Test 2: Word dasturida sarlavhalarga Heading 1 va Heading 2 uslublarini berish nima uchun zarur?
-- ( ) A) Faqat rangini chiroyli qilish uchun
-- (x) B) Hujjatda avtomatik mundarija (Table of Contents) shakllanishi uchun
-- ( ) C) Fayl hajmini kichraytirish uchun
-- ( ) D) Chop etishni tezlashtirish uchun
-*Izoh: Word aynan Heading uslubidagi matnlarni sahifa raqamlari bilan mundarijaga bog'laydi.*
-
-#### Test 3: Excelda `=SUM(A1:A5)` va `=A1+A5` formulalari o'rtasidagi farq nima?
-- ( ) A) Hech qanday farq yo'q
-- (x) B) `=SUM(A1:A5)` A1 dan A5 gacha bo'lgan barcha 5 ta katakni qo'shadi, `=A1+A5` esa faqat ikkita katakni qo'shadi
-- ( ) C) Birinchisi matnlar uchun, ikkinchisi sonlar uchun
-- ( ) D) Ikkinchisi xato formula
-*Izoh: Ikki nuqta (`:`) diapazonni, plyus (`+`) esa alohida kataklarni bildiradi.*
-
-#### Test 4: Akkauntlarni ruxsatsiz buzib kirishdan himoyalovchi eng samarali zamonaviy vosita qaysi?
-- ( ) A) Antivirus dasturi
-- (x) B) 2FA (Ikki bosqichli autentifikatsiya)
-- ( ) C) Monitorni o'chirish
-- ( ) D) Brauzer tarixini tozalash
-*Izoh: 2FA paroldan tashqari shaxsiy telefonga keluvchi bir martalik kod orqali kirishni talab qiladi.*
-
-#### Test 5: Google Drive bulutli xotirasidagi hujjatni boshqalarga ulashganda (Share) eng xavfsiz o'qish rejimi qaysi?
-- ( ) A) Editor
-- ( ) B) Owner
-- (x) C) Viewer (Ko'ruvchi)
-- ( ) D) Administrator
-*Izoh: Viewer huquqi begona shaxslarning ma'lumotni o'zgartirishi yoki o'chirib yuborishiga yo'l qo'ymaydi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Kompyuter texnikasi montajchisi uchun texnik bilimlar bilan bir qatorda kiberxavfsizlik madaniyati nima uchun muhim?
-2. Sun'iy intellekt (AI) texnologiyalari kelajakda ofis xodimlarining kasbiy faoliyatiga qanday ta'sir ko'rsatadi?
-3. Nima sababdan har bir korxonada ma'lumotlar zaxirasi (3-2-1 qoidasi: 3 ta nusxa, 2 ta har xil tashuvchi, 1 ta tashqi bulut) saqlanishi shart?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Kompyuterning hisoblash quvvati va tezligi eng ko'p qaysi komponentga bog'liq?
+- [x] **A) Protsessor (CPU), RAM va SSD tezligiga** *(To'g'ri javob)*
+- [ ] B) Faqat korpus dizayniga
+- [ ] C) Klaviatura kabeliga
+- [ ] D) Monitor o'lchamiga
+
+#### 2-Savol: Kompyuter yoqilganda qora ekranda apparat qismlarini tekshiruvchi dastlabki tizim nima?
+- [x] **A) BIOS / UEFI (POST tekshiruvi)** *(To'g'ri javob)*
+- [ ] B) Windows Explorer
+- [ ] C) Google Chrome
+- [ ] D) Microsoft Word
+
+#### 3-Savol: Faylni butunlay savatchasiz o'chirish tezkor klavishi qaysi?
+- [x] **A) Shift + Delete** *(To'g'ri javob)*
+- [ ] B) Ctrl + Delete
+- [ ] C) Alt + Delete
+- [ ] D) Enter
+
+#### 4-Savol: Qurilmalar drayverlarini tekshirish va boshqarish darchasi nima deb ataladi?
+- [x] **A) Device Manager (devmgmt.msc)** *(To'g'ri javob)*
+- [ ] B) Task Manager
+- [ ] C) Services
+- [ ] D) Registry
+
+#### 5-Savol: Chop etish navbati qotib qolganda qaysi tizim xizmati qayta ishga tushiriladi?
+- [x] **A) Print Spooler** *(To'g'ri javob)*
+- [ ] B) Windows Audio
+- [ ] C) Themes
+- [ ] D) DNS Client
+
+#### 6-Savol: Skanerlangan rasmdagi yozuvlarni tahrirlanadigan matnga aylantirish qaysi texnologiya?
+- [x] **A) OCR (Optical Character Recognition)** *(To'g'ri javob)*
+- [ ] B) DPI
+- [ ] C) RAM
+- [ ] D) GPU
+
+#### 7-Savol: Fleshkani kompyuterdan uzishdan oldin nima qilish qat'iy tavsiya etiladi?
+- [x] **A) Xavfsiz ajratish (Safely Remove Hardware)** *(To'g'ri javob)*
+- [ ] B) Tezda sug'urib olish
+- [ ] C) Kompyuterni o'chirish
+- [ ] D) Formatlash
+
+#### 8-Savol: Protsessor qizib ketganda (Throttling) birinchi navbatda nima tekshiriladi?
+- [x] **A) Kuler ventilyatori aylanishi va termopasta holati** *(To'g'ri javob)*
+- [ ] B) Klaviatura tugmalari
+- [ ] C) Internet tezligi
+- [ ] D) Monitordagi ranglar
+
+#### 9-Savol: Windows 11 o'rnatish uchun fleshka qaysi fayl tizimida tayyorlanadi?
+- [x] **A) FAT32 yoki NTFS (GPT / UEFI standarti)** *(To'g'ri javob)*
+- [ ] B) FAT12
+- [ ] C) exFAT faqat
+- [ ] D) EXT4
+
+#### 10-Savol: Wordda avtomatik mundarija shakllanishi uchun sarlavhalarga qaysi parametr qo'yiladi?
+- [x] **A) Heading 1, Heading 2 uslublari (Styles)** *(To'g'ri javob)*
+- [ ] B) Qalin matn
+- [ ] C) Tagiga chizish
+- [ ] D) Sariq rang
+
+#### 11-Savol: Wordda hujjatga havola (Link) qo'yish tezkor klavishi qaysi?
+- [x] **A) Ctrl + K** *(To'g'ri javob)*
+- [ ] B) Ctrl + H
+- [ ] C) Ctrl + L
+- [ ] D) Alt + K
+
+#### 12-Savol: Excelda har qanday hisoblash formulasi qaysi belgi bilan boshlanadi?
+- [x] **A) =** *(To'g'ri javob)*
+- [ ] B) +
+- [ ] C) @
+- [ ] D) #
+
+#### 13-Savol: Excelda kataklar oralig'idagi sonlar yig'indisini hisoblovchi funksiya qaysi?
+- [x] **A) SUM** *(To'g'ri javob)*
+- [ ] B) AVERAGE
+- [ ] C) COUNT
+- [ ] D) TOTAL
+
+#### 14-Savol: Excelda shart tekshiruvchi asosiy mantiqiy funksiya nima?
+- [x] **A) IF** *(To'g'ri javob)*
+- [ ] B) OR
+- [ ] C) AND
+- [ ] D) NOT
+
+#### 15-Savol: Excelda ustun bo'yicha qidirib qiymat qaytaruvchi mashhur funksiya qaysi?
+- [x] **A) VLOOKUP (yoki XLOOKUP)** *(To'g'ri javob)*
+- [ ] B) SUMIF
+- [ ] C) COUNTIF
+- [ ] D) MAX
+
+#### 16-Savol: Excel jadvaliga avtofiltr yoqish tezkor kombinatsiyasi qaysi?
+- [x] **A) Ctrl + Shift + L** *(To'g'ri javob)*
+- [ ] B) Ctrl + F
+- [ ] C) Alt + Shift + F
+- [ ] D) Ctrl + T
+
+#### 17-Savol: PowerPoint dasturida yangi slayd qo'shish kombinatsiyasi nima?
+- [x] **A) Ctrl + M** *(To'g'ri javob)*
+- [ ] B) Ctrl + N
+- [ ] C) Alt + M
+- [ ] D) Shift + M
+
+#### 18-Savol: PowerPoint taqdimotini joriy ochiq turgan slayddan namoyish qilish klavishi qaysi?
+- [x] **A) Shift + F5** *(To'g'ri javob)*
+- [ ] B) F5
+- [ ] C) Ctrl + F5
+- [ ] D) Alt + F5
+
+#### 19-Savol: Slaydlar orasidagi o'zgarish effekti nima deyiladi?
+- [x] **A) Transitions (O'tishlar)** *(To'g'ri javob)*
+- [ ] B) Animations
+- [ ] C) Master Slide
+- [ ] D) Layout
+
+#### 20-Savol: Google qidiruvida aniq iborani so'zma-so'z qidirish uchun qaysi belgi ishlatiladi?
+- [x] **A) Qo'shtirnoq " "** *(To'g'ri javob)*
+- [ ] B) Qavslar ( )
+- [ ] C) Yulduzcha *
+- [ ] D) Minus -
+
+#### 21-Savol: Google Drive da bepul taqdim etiladigan bulutli xotira hajmi qancha?
+- [x] **A) 15 GB** *(To'g'ri javob)*
+- [ ] B) 5 GB
+- [ ] C) 50 GB
+- [ ] D) 100 GB
+
+#### 22-Savol: Sun'iy intellektga beriladigan ko'rsatma yoki vazifa matni nima deyiladi?
+- [x] **A) Prompt** *(To'g'ri javob)*
+- [ ] B) Token
+- [ ] C) Skript
+- [ ] D) Algoritm
+
+#### 23-Savol: Ikki bosqichli autentifikatsiya (2FA) nima uchun zarur?
+- [x] **A) Parol o'g'irlangan taqdirda ham ikkinchi tasdiq kodi orqali hisobni himoyalash uchun** *(To'g'ri javob)*
+- [ ] B) Xotirani ko'paytirish uchun
+- [ ] C) Internetni tezlashtirish uchun
+- [ ] D) Faylni saqlash uchun
+
+#### 24-Savol: Zaxira nusxa saqlashning 3-2-1 qoidasidagi '1' nimani bildiradi?
+- [x] **A) Kamida bitta nusxa boshqa jismoniy joyda (bulutda) saqlanishi kerakligini** *(To'g'ri javob)*
+- [ ] B) 1 ta parol bo'lishini
+- [ ] C) 1 kunda 1 marta
+- [ ] D) 1 ta kompyuter
+
+#### 25-Savol: Kompyuter Savodxonligi kursining bosh maqsadi nima?
+- [x] **A) Kompyuter apparati, ofis dasturlari, bulutli xizmatlar va AI vositalaridan foydalanib, unumdorlikni oshirish va xavfsiz ishlash** *(To'g'ri javob)*
+- [ ] B) Faqat o'yin o'ynash
+- [ ] C) Faqat kino ko'rish
+- [ ] D) Kompyuterni qismlarga ajratib tashlash
+
+---
+
 
 ## 6. 🏠 Mustaqil Yakuniy Malaka Portfoliosi
 

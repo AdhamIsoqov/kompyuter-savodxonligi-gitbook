@@ -120,64 +120,175 @@ Xodim internet qidiruv natijalariga tanqidiy qaramagan, rasmiy manba o'rniga vir
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 20-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [20-Mavzu: Internet va Qidiruv Tizimlari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [20-Mavzu: Internet va Qidiruv Tizimlari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Brauzerda tasodifan yopib yuborilgan oxirgi veb-sahifani (Tab) qayta ochuvchi klaviatura yorlig'i qaysi?
-- ( ) A) `Ctrl + Z`
-- (x) B) `Ctrl + Shift + T`
-- ( ) C) `Ctrl + T`
-- ( ) D) `Alt + F4`
-*Izoh: `Ctrl + Shift + T` oxirgi yopilgan oynalarni ketma-ket qayta tiklaydi.*
-
-#### Test 2: Google qidiruv tizimida qidiruvni faqat bitta muayyan sayt ichida cheklash uchun qaysi operator ishlatiladi?
-- ( ) A) `find:`
-- (x) B) `site:` (masalan: `site:edu.uz`)
-- ( ) C) `web:`
-- ( ) D) `search:`
-*Izoh: `site:` operatori natijalarni faqat ko'rsatilgan domen bilan cheklaydi.*
-
-#### Test 3: Brauzerning Inkognito (InPrivate) rejimining asosiy vazifasi nima?
-- ( ) A) Internet tezligini 10 barobarga oshirish
-- (x) B) Saytga kirish tarixi, kesh va cookie fayllarini kompyuterda saqlab qolmaslik
-- ( ) C) Butunlay bepul internet taqdim etish
-- ( ) D) Barcha reklamalarni o'chirish
-*Izoh: Inkognito rejimi kompyuterning o'zida mahalliy iz qoldirmaslik uchun xizmat qiladi.*
-
-#### Test 4: Internetdan faqat PDF formatidagi kitob va maqolalarni qidirish uchun qaysi Google operatori qo'shiladi?
-- ( ) A) `format=pdf`
-- (x) B) `filetype:pdf`
-- ( ) C) `ext.pdf`
-- ( ) D) `only:pdf`
-*Izoh: `filetype:` operatori ko'rsatilgan fayl formatlarini to'g'ridan-to'g'ri topadi.*
-
-#### Test 5: Veb-sayt manzilining boshidagi yashil yoki kulrang qulf belgisi va "https://" protokoli nimani anglatadi?
-- ( ) A) Saytga kirish pulli ekanligini
-- (x) B) Sayt va foydalanuvchi o'rtasidagi aloqa shifrlangan (xavfsiz) ekanligini
-- ( ) C) Sayt faqat kunduzi ishlashini
-- ( ) D) Saytda virus borligini
-*Izoh: HTTPS (Hypertext Transfer Protocol Secure) ma'lumotlarni shifrlab uzatuvchi xavfsiz protokol hisoblanadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun qidiruv natijalarining eng yuqorisida "Ad" yoki "Реклама" deb yozilgan birinchi havolalarga har doim ham ishonmaslik kerak?
-2. Agar biror saytda "Sizning kompyuteringizda 5 ta virus topildi, tozalash uchun bu yerni bosing" degan xabar chiqsa, nima qilish kerak?
-3. Brauzer keshi (Cache) to'lib ketganda veb-sahifalarning yangilanishiga bu qanday salbiy ta'sir ko'rsatishi mumkin?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Internetda veb-sahifaning yagona global manzili nima deb ataladi?
+- [x] **A) URL (Uniform Resource Locator)** *(To'g'ri javob)*
+- [ ] B) IP manzil
+- [ ] C) DNS
+- [ ] D) MAC manzil
+
+#### 2-Savol: Xavfsiz va shifrlangan veb-aloqa protokoli qaysi?
+- [x] **A) HTTPS** *(To'g'ri javob)*
+- [ ] B) HTTP
+- [ ] C) FTP
+- [ ] D) Telnet
+
+#### 3-Savol: Google qidiruvida ma'lum bir sayt ichidan qidirish operatori qaysi?
+- [x] **A) site: (masalan: site:gov.uz)** *(To'g'ri javob)*
+- [ ] B) in:site
+- [ ] C) url:
+- [ ] D) domain:
+
+#### 4-Savol: Faqat aniq bir fayl turini (masalan, PDF) qidirish operatori nima?
+- [x] **A) filetype:pdf** *(To'g'ri javob)*
+- [ ] B) ext:pdf
+- [ ] C) doc:pdf
+- [ ] D) type:pdf
+
+#### 5-Savol: Qidiruvda iborani so'zma-so'z, aniq tartibda topish uchun qaysi belgidan foydalaniladi?
+- [x] **A) Qo'shtirnoq " " (masalan: "kompyuter savodxonligi")** *(To'g'ri javob)*
+- [ ] B) Qavslar ( )
+- [ ] C) Yulduzcha *
+- [ ] D) Kvadrat qavs [ ]
+
+#### 6-Savol: Qidiruv natijalaridan ma'lum bir so'zni chiqarib tashlash (istisno qilish) belgisi qaysi?
+- [x] **A) Minus belgisi - (masalan: noutbuk -apple)** *(To'g'ri javob)*
+- [ ] B) Plus belgisi +
+- [ ] C) Undov !
+- [ ] D) Tilda ~
+
+#### 7-Savol: Brauzer keshini (Cache) va cookie fayllarini tozalash nima uchun kerak?
+- [x] **A) Saytlarning eskirgan xatolarini bartaraf qilish va xavfsizlikni ta'minlash uchun** *(To'g'ri javob)*
+- [ ] B) Internetni o'chirish uchun
+- [ ] C) Brauzerni o'chirib yuborish uchun
+- [ ] D) Kompyuterni sekinlashtirish uchun
+
+#### 8-Savol: Brauzerda sahifani keshni hisobga olmasdan to'liq qayta yuklash klavishi qaysi?
+- [x] **A) Ctrl + F5** *(To'g'ri javob)*
+- [ ] B) F5
+- [ ] C) Ctrl + R
+- [ ] D) Alt + F5
+
+#### 9-Savol: Brauzerda Inkognito (Maxfiy / Private) rejimining asosiy xususiyati nima?
+- [x] **A) Tashrif buyurilgan saytlar tarixi va cookie fayllari seans yopilgach saqlanib qolmaydi** *(To'g'ri javob)*
+- [ ] B) Internetda butunlay ko'rinmas qilib qo'yadi
+- [ ] C) Pullik saytlarni bepul qiladi
+- [ ] D) Tezlikni 10 barobar oshiradi
+
+#### 10-Savol: Inkognito rejimini ochish tezkor kombinatsiyasi qaysi (Chrome, Edge)?
+- [x] **A) Ctrl + Shift + N** *(To'g'ri javob)*
+- [ ] B) Ctrl + Shift + P
+- [ ] C) Ctrl + N
+- [ ] D) Alt + Shift + N
+
+#### 11-Savol: Sevimli saytni xatcho'plarga (Bookmarks) saqlab qo'yish tezkor klavishi qaysi?
+- [x] **A) Ctrl + D** *(To'g'ri javob)*
+- [ ] B) Ctrl + B
+- [ ] C) Ctrl + S
+- [ ] D) Alt + D
+
+#### 12-Savol: Tasodifan yopilib ketgan brauzer varaqasini (Tab) qayta ochish birikmasi nima?
+- [x] **A) Ctrl + Shift + T** *(To'g'ri javob)*
+- [ ] B) Ctrl + T
+- [ ] C) Alt + T
+- [ ] D) Ctrl + Z
+
+#### 13-Savol: Brauzerda yangi toza varaqa (New Tab) ochish klavishi qaysi?
+- [x] **A) Ctrl + T** *(To'g'ri javob)*
+- [ ] B) Ctrl + N
+- [ ] C) Alt + T
+- [ ] D) Ctrl + W
+
+#### 14-Savol: DNS (Domain Name System) serverlarining vazifasi nima?
+- [x] **A) Sayt domen nomlarini (masalan google.com) raqamli IP manzillarga o'girib berish** *(To'g'ri javob)*
+- [ ] B) Fayllarni yuklab olish
+- [ ] C) Viruslarni qidirish
+- [ ] D) Parollarni saqlash
+
+#### 15-Savol: IP manzil (IPv4) nechta oktet (sonlar guruhi)dan iborat bo'ladi?
+- [x] **A) 4 ta (masalan: 192.168.1.1)** *(To'g'ri javob)*
+- [ ] B) 2 ta
+- [ ] C) 6 ta
+- [ ] D) 8 ta
+
+#### 16-Savol: Brauzer kengaytmalari (Extensions) nima?
+- [x] **A) Brauzerga qo'shimcha imkoniyatlar (reklama bloklagich, tarjimon) qo'shuvchi mini-dasturlar** *(To'g'ri javob)*
+- [ ] B) Faqat o'yinlar
+- [ ] C) Viruslar to'plami
+- [ ] D) Operatsion tizim yangilanishi
+
+#### 17-Savol: Faktcheking (Fact-checking) nima?
+- [x] **A) Internetdagi ma'lumotlarning ishonchliligi va haqiqatga mosligini turli rasmiy manbalar orqali tekshirish** *(To'g'ri javob)*
+- [ ] B) Faylni yuklash
+- [ ] C) Rasm chizish
+- [ ] D) Parol yaratish
+
+#### 18-Savol: Google orqali rasm bo'yicha qidirish (Search by Image) qanday imkoniyat beradi?
+- [x] **A) Rasmning asl manbasini, undagi ob'ektlarni va yuqori sifatli nusxalarini topish** *(To'g'ri javob)*
+- [ ] B) Rasmni o'chirish
+- [ ] C) Rangini o'zgartirish
+- [ ] D) Faylni siqish
+
+#### 19-Savol: Internet tezligini o'lchovchi mashhur onlayn servis qaysi?
+- [x] **A) Speedtest.net** *(To'g'ri javob)*
+- [ ] B) Google Docs
+- [ ] C) Wikipedia
+- [ ] D) YouTube
+
+#### 20-Savol: Brauzer yuklamalar (Downloads) oynasini tezkor chaqirish klavishi qaysi?
+- [x] **A) Ctrl + J** *(To'g'ri javob)*
+- [ ] B) Ctrl + D
+- [ ] C) Ctrl + H
+- [ ] D) Ctrl + L
+
+#### 21-Savol: Brauzerda ko'rilgan saytlar tarixini (History) ochish kombinatsiyasi nima?
+- [x] **A) Ctrl + H** *(To'g'ri javob)*
+- [ ] B) Ctrl + Y
+- [ ] C) Ctrl + T
+- [ ] D) Alt + H
+
+#### 22-Savol: Qidiruv operatorlarida OR (yoki) nimani bildiradi?
+- [x] **A) Berilgan ikki so'zdan kamida bittasi qatnashgan sahifalarni topish** *(To'g'ri javob)*
+- [ ] B) Ikkalasini ham o'chirish
+- [ ] C) Faqat rasmlarni topish
+- [ ] D) Saytni yopish
+
+#### 23-Savol: Brauzerda manzil satriga (Address bar) kursor o'tishi uchun qaysi klavish bosiladi?
+- [x] **A) Ctrl + L yoki Alt + D** *(To'g'ri javob)*
+- [ ] B) Ctrl + A
+- [ ] C) F2
+- [ ] D) Shift + Enter
+
+#### 24-Savol: Internet provayderi (ISP) nima?
+- [x] **A) Foydalanuvchilarga internetga ulanish xizmatini ko'rsatuvchi kompaniya** *(To'g'ri javob)*
+- [ ] B) Kabel ishlab chiqaruvchi
+- [ ] C) Brauzer yaratuvchi
+- [ ] D) Kompyuter ta'mirlovchi
+
+#### 25-Savol: VPN (Virtual Private Network) ning asosiy vazifasi nima?
+- [x] **A) Internet trafigini shifrlash va xavfsiz himoyalangan virtual kanal orqali uzatish** *(To'g'ri javob)*
+- [ ] B) Internetni butunlay uzish
+- [ ] C) Tezlikni cheklash
+- [ ] D) Kompyuterni o'chirish
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

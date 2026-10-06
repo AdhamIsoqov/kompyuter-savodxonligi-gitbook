@@ -121,64 +121,175 @@ Diagrammalar PowerPointga shunchaki statik rasm (Skrinshot) sifatida ko'chirilga
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 2-Modul amaliy loyihasi bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [19-Mavzu: 2-Modul Amaliy Loyihasi — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mF5dPEZHquy2gjxGAk4fy2WwuIbFbg0Ta9rxU6vHzEU/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [19-Mavzu: 2-Modul Amaliy Loyihasi — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mF5dPEZHquy2gjxGAk4fy2WwuIbFbg0Ta9rxU6vHzEU/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Excel jadvali va diagrammasini PowerPointga o'zgarishlar avtomatik yangilanadigan qilib ko'chirish qaysi buyruq orqali bajariladi?
-- ( ) A) Oddiy `Ctrl + V`
-- (x) B) Paste Special -> Paste Link (Maxsus qo'yish -> Bog'lash)
-- ( ) C) Skrinshot orqali
-- ( ) D) Save As orqali
-*Izoh: Paste Link ikki fayl o'rtasida jonli OLE ko'prigini o'rnatadi.*
-
-#### Test 2: Rasmiy hisobot hujjatining boshqa kompyuterlarda shrifitlari buzilmasdan, aynan bir xil ochilishini kafolatlovchi yakuniy eksport formati qaysi?
-- ( ) A) `.txt`
-- (x) B) `.pdf`
-- ( ) C) `.dotx`
-- ( ) D) `.rtf`
-*Izoh: PDF fayllar har qanday qurilma va operatsion tizimda o'zgarmas qotirilgan formatda ochiladi.*
-
-#### Test 3: Word dasturida tayyorlangan hisobot ichiga Excel elektron jadvalini kiritish uchun qaysi menyudan foydalaniladi?
-- ( ) A) Home -> Styles
-- (x) B) Insert -> Table -> Excel Spreadsheet (yoki Object)
-- ( ) C) Design -> Watermark
-- ( ) D) References -> Citations
-*Izoh: Insert orqali to'g'ridan-to'g'ri Word ichida Excel jadval modulini ishlatish mumkin.*
-
-#### Test 4: PowerPoint taqdimotida auditoriya diqqatini chalg'itmaslik uchun slaydlar soni va matn qanday bo'lishi maqbul?
-- ( ) A) Har bir slaydda 50 qatordan matn bo'lishi kerak
-- (x) B) 5–6 ta ixcham slayd, asosiy e'tibor diagramma va kalit so'zlarga qaratilgan bo'lishi kerak
-- ( ) C) 100 ta slayd bo'lishi kerak
-- ( ) D) Faqat qora fonda bo'lishi kerak
-*Izoh: Loyiha taqdimotida lakonik, tushunarli va vizual diagrammalarga boy slaydlar eng samarali hisoblanadi.*
-
-#### Test 5: Excel smetasidagi barcha qismlar narxlarining umumiy yig'indisini hisoblovchi standart formula qaysi?
-- ( ) A) `=COUNT(...)`
-- (x) B) `=SUM(...)`
-- ( ) C) `=MAX(...)`
-- ( ) D) `=IF(...)`
-*Izoh: Smeta xarajatlarining umumiy jamini `SUM` formulasi chiqaradi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun yirik loyihalarni topshirishda mijozga barcha fayllarni bitta tartibli papkaga jamlab, ZIP arxiv holatida yuborish professional etika hisoblanadi?
-2. Agar Excel fayl kompyuterda boshqa joyga ko'chirilsa, PowerPointdagi "Paste Link" bilan ulangan diagramma nima bo'ladi?
-3. Word hujjatini chop etishdan oldin PDF formatiga o'tkazib tekshirish foydalanuvchini qanday kutilmagan xatoliklardan asraydi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: 2-Modul amaliy loyihasining asosiy vazifasi nimadan iborat?
+- [x] **A) Word, Excel va PowerPoint dasturlarida o'zaro bog'liq kompleks korporativ loyihani tayyorlash** *(To'g'ri javob)*
+- [ ] B) Faqat bitta matn terish
+- [ ] C) Kino ko'rish
+- [ ] D) Kompyuterni buzish
+
+#### 2-Savol: Exceldagi dinamik diagrammani Word hujjatiga qanday joylashtirish eng to'g'ri hisoblanadi?
+- [x] **A) Paste Special -> Paste Link (Bog'langan holda qo'yish: Excelda o'zgarsa, Wordda ham yangilanadi)** *(To'g'ri javob)*
+- [ ] B) Oddiy skrinshot qilish
+- [ ] C) Qayta qo'lda chizish
+- [ ] D) Rasm qilib saqlab yuklash
+
+#### 3-Savol: Korporativ biznes-reja yoki loyiha hujjati Wordda qaysi majburiy bo'limlardan iborat bo'ladi?
+- [x] **A) Titul varag'i, Avtomatik mundarija, Kirish, Moliyaviy tahlil, Xulosa va Ilovalar** *(To'g'ri javob)*
+- [ ] B) Faqat rasmlar
+- [ ] C) Faqat bitta qator sarlavha
+- [ ] D) Faqat jadvallar
+
+#### 4-Savol: Loyiha moliyaviy hisob-kitoblarida qaysi ko'rsatkichlar Excelda hisoblanadi?
+- [x] **A) Daromadlar, xarajatlar, sof foyda, rentabellik va o'rtacha qiymatlar** *(To'g'ri javob)*
+- [ ] B) Faqat xodimlar soni
+- [ ] C) Faqat sana
+- [ ] D) Kompyuter narxi
+
+#### 5-Savol: Loyihaning PowerPoint taqdimoti kimga mo'ljallangan bo'ladi?
+- [x] **A) Investorlar va rahbariyatga loyiha g'oyasini qisqa va ta'sirchan yetkazish uchun** *(To'g'ri javob)*
+- [ ] B) Faqat arxivda saqlash uchun
+- [ ] C) Chop etish uchun
+- [ ] D) O'chirish uchun
+
+#### 6-Savol: Word hujjatida korxona logotipini barcha sahifalarda bir xil chiqarish qayerdan bajariladi?
+- [x] **A) Header (Yuqori kolontitul) ichiga rasm joylash orqali** *(To'g'ri javob)*
+- [ ] B) Har bir sahifaga alohida qo'yish
+- [ ] C) Avtomatik mundarijaga
+- [ ] D) Page Borderga
+
+#### 7-Savol: Loyiha hujjatini chop etishga tayyorlashda qaysi ko'rsatkich standart me'yorda bo'lishi shart?
+- [x] **A) Chap chekka (Left margin) kamida 2.5-3 sm (tikish uchun joy qoldirish)** *(To'g'ri javob)*
+- [ ] B) Hamma tomon 0 sm
+- [ ] C) Faqat o'ng tomon 5 sm
+- [ ] D) Pastki tomon 10 sm
+
+#### 8-Savol: Taqdimot slaydlari soni 10-12 tadan oshmasligi sababi nima?
+- [x] **A) Auditoriyaning diqqati 15-20 daqiqadan so'ng susayishi va asosiy fikr yo'qolmasligi uchun** *(To'g'ri javob)*
+- [ ] B) Xotira yetmasligi uchun
+- [ ] C) Fayl ochilmasligi uchun
+- [ ] D) Proyektor charchashi uchun
+
+#### 9-Savol: Loyiha materiallarini hamkorlarga yuborishda qaysi format eng xavfsiz va qulay?
+- [x] **A) PDF formati (barcha formatlashlar qat'iy saqlanadi)** *(To'g'ri javob)*
+- [ ] B) DOCX o'zgartiriladigan
+- [ ] C) TXT formati
+- [ ] D) BMP rasmlar
+
+#### 10-Savol: Excelda olingan moliyaviy natijalarni taqdimot slaydlarida qanday taqdim etish ma'qul?
+- [x] **A) Murakkab ulkan jadvallar emas, balki asosiy raqamlar va ko'rgazmali diagrammalar orqali** *(To'g'ri javob)*
+- [ ] B) 100 qatorli jadvalni skrinshot qilish
+- [ ] C) Faqat matn yozish
+- [ ] D) Raqamlarni yashirish
+
+#### 11-Savol: Barcha uchala dasturda (Word, Excel, PPT) yagona korporativ uslubni ta'minlash nimaga asoslanadi?
+- [x] **A) Yagona rang palitrasi, yagona shriftlar oilasi va korxona ramzidan foydalanish** *(To'g'ri javob)*
+- [ ] B) Har xil ranglarni aralashtirish
+- [ ] C) Faqat qora va oq qilish
+- [ ] D) Format qilmaslik
+
+#### 12-Savol: Wordda 'Heading 1' va 'Heading 2' uslublaridan foydalanishning yana bir afzalligi nima?
+- [x] **A) Navigation Pane orqali hujjat bo'limlariga bir zumda o'tish imkoniyati** *(To'g'ri javob)*
+- [ ] B) Faylni kichraytiradi
+- [ ] C) Sahifani bo'yaydi
+- [ ] D) Imloni tuzatadi
+
+#### 13-Savol: Excel jadvalida ma'lumotlarni hisoblashda formulalarni dinamik saqlash nimani ta'minlaydi?
+- [x] **A) Birlamchi narx yoki miqdor o'zgarganda barcha yakuniy jami summalar avtomatik qayta hisoblanadi** *(To'g'ri javob)*
+- [ ] B) Xatoliklarni yashiradi
+- [ ] C) Faqat bir marta hisoblaydi
+- [ ] D) Katakni qulflaydi
+
+#### 14-Savol: PowerPoint slaydlarida SmartArt ierarxiya diagrammasi nima uchun ishlatiladi?
+- [x] **A) Korxona tashkiliy tuzilmasi va boshqaruv bo'g'inlarini ko'rsatish uchun** *(To'g'ri javob)*
+- [ ] B) Pul hisoblash uchun
+- [ ] C) Video ko'rish uchun
+- [ ] D) Qo'shiq eshitish uchun
+
+#### 15-Savol: Loyiha fayllari bitta umumiy papkaga qanday tartibda joylanadi?
+- [x] **A) 01_Hisobot_Word.docx, 02_Moliya_Excel.xlsx, 03_Taqdimot_PPT.pptx** *(To'g'ri javob)*
+- [ ] B) Nomsiz fayl 1, 2, 3
+- [ ] C) Desktopga tartibsiz sochib
+- [ ] D) Savatga tashlab
+
+#### 16-Savol: Loyiha taqdimotida 'Elevator Pitch' qoidasi nima?
+- [x] **A) Loyiha mohiyatini 1-2 daqiqa ichida qisqa, aniq va qiziqarli qilib tushuntirib bera olish** *(To'g'ri javob)*
+- [ ] B) Liftda rasmga tushish
+- [ ] C) Uzoq ma'ruza qilish
+- [ ] D) Slaydni ko'paytirish
+
+#### 17-Savol: Exceldagi formulalarni himoyalash va boshqalar o'zgartira olmasligi uchun nima qilinadi?
+- [x] **A) Review -> Protect Sheet orqali parol bilan qulflash** *(To'g'ri javob)*
+- [ ] B) Katakni yashirish
+- [ ] C) Excelni o'chirish
+- [ ] D) Faylni siqish
+
+#### 18-Savol: Wordda jadvallarga avtomatik sarlavha va raqam berish (Caption) qaysi menyuda?
+- [x] **A) References -> Insert Caption** *(To'g'ri javob)*
+- [ ] B) Insert -> Table
+- [ ] C) Home -> Styles
+- [ ] D) Layout -> Borders
+
+#### 19-Savol: PowerPoint slaydlarida rasmlar sifatini siqish (Compress Pictures) nima uchun kerak?
+- [x] **A) Taqdimot fayli hajmini keskin kamaytirib, email orqali oson jo'natish uchun** *(To'g'ri javob)*
+- [ ] B) Rasm rangini buzish uchun
+- [ ] C) Slaydni sekinlashtirish uchun
+- [ ] D) Faylni buzish uchun
+
+#### 20-Savol: Loyihaning yakuniy taqdimotida qaysi slayd xulosa va harakatga chaqiriq (Call to Action) hisoblanadi?
+- [x] **A) Yakuniy xulosa va aloqa ma'lumotlari slaydi** *(To'g'ri javob)*
+- [ ] B) Titul slaydi
+- [ ] C) Mundarija
+- [ ] D) Bo'sh slayd
+
+#### 21-Savol: Ofis dasturlarida tez-tez uchraydigan shrift buzilishi (shrift yo'qligi) qanday oldini olinadi?
+- [x] **A) Save parametrlarida 'Embed fonts in the file' funksiyasini yoqish** *(To'g'ri javob)*
+- [ ] B) Faylni nomini o'zgartirish
+- [ ] C) Monitorni almashtirish
+- [ ] D) Kompyuterni o'chirish
+
+#### 22-Savol: Exceldagi moliyaviy ma'lumotlarni Wordga oddiy rasm qilib qo'yishning kamchiligi nima?
+- [x] **A) Excelda hisob-kitoblar o'zgarganda Worddagi rasm yangilanmaydi va qayta nusxalash talab etiladi** *(To'g'ri javob)*
+- [ ] B) Kamchiligi yo'q
+- [ ] C) Fayl ochilmaydi
+- [ ] D) Juda tez bo'ladi
+
+#### 23-Savol: Word hujjatida Adabiyotlar ro'yxatini (Bibliography) avtomatik shakllantirish qaysi menyuda?
+- [x] **A) References -> Bibliography** *(To'g'ri javob)*
+- [ ] B) Review -> Proofing
+- [ ] C) Insert -> Links
+- [ ] D) Home -> Paragraph
+
+#### 24-Savol: PowerPoint taqdimotini proyektorga uzatishda eng ishonchli ulanish qaysi?
+- [x] **A) HDMI yoki DisplayPort raqamli kabellari orqali** *(To'g'ri javob)*
+- [ ] B) Eski VGA orqali
+- [ ] C) Faqat Bluetooth
+- [ ] D) Audio kabel orqali
+
+#### 25-Savol: 2-Modul loyihasining muvaffaqiyat mezoni qanday baholanadi?
+- [x] **A) Hujjatlarning mukammal formati, to'g'ri formulalar va taqdimotning vizual jozibadorligi** *(To'g'ri javob)*
+- [ ] B) Faqat sahifalar soni ko'pligi bilan
+- [ ] C) Ranglar juda ko'pligi bilan
+- [ ] D) Fayl og'irligi bilan
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Loyiha Topshirig'i
 

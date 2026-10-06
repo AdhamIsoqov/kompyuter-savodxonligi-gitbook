@@ -123,64 +123,175 @@ Taqdimotning eng asosiy maqsadi — vizuallashtirish ekanligi unutilgan va slayd
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 17-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [17-Mavzu: Microsoft PowerPoint Asoslari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSc8ScTfvOFdx8FuT0lhui23SkyVE4NQxSyBRLShebYbJvZZ6A/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1_4ZfG_nzuJufYCj_tF5h6jtvT-JTZqHlJyQqke_FK4E/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [17-Mavzu: Microsoft PowerPoint Asoslari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSc8ScTfvOFdx8FuT0lhui23SkyVE4NQxSyBRLShebYbJvZZ6A/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1_4ZfG_nzuJufYCj_tF5h6jtvT-JTZqHlJyQqke_FK4E/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc8ScTfvOFdx8FuT0lhui23SkyVE4NQxSyBRLShebYbJvZZ6A/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: PowerPoint dasturida yangi slayd (Slide) qo'shish klaviatura yorlig'i qaysi?
-- ( ) A) `Ctrl + N`
-- (x) B) `Ctrl + M`
-- ( ) C) `Ctrl + S`
-- ( ) D) `Ctrl + Shift + N`
-*Izoh: `Ctrl + M` joriy taqdimotga yangi slayd qo'shadi, `Ctrl + N` esa yangi fayl ochadi.*
-
-#### Test 2: Taqdimot namoyishini (Slide Show) eng birinchi slayddan to'liq ekranda boshlash tugmasi qaysi?
-- ( ) A) `F1`
-- (x) B) `F5`
-- ( ) C) `Shift + F5`
-- ( ) D) `Enter`
-*Izoh: `F5` taqdimotni har doim 1-slayddan boshlab namoyish qiladi.*
-
-#### Test 3: Ayni ko'rilayotgan (tahrirlanayotgan) slaydning o'zidan namoyishni boshlash qaysi tugma bilan bajariladi?
-- ( ) A) `Ctrl + F5`
-- (x) B) `Shift + F5`
-- ( ) C) `Alt + F5`
-- ( ) D) `F11`
-*Izoh: `Shift + F5` ma'ruzachi to'xtagan slayddan prezentatsiyani davom ettiradi.*
-
-#### Test 4: Taqdimot slaydlari uchun tavsiya etiladigan "6x6 qoidasi" nimani anglatadi?
-- ( ) A) Slayd hajmi 6x6 metr bo'lishi kerak
-- (x) B) Slaydda 6 qatordan ko'p matn bo'lmasligi va har bir qatorda 6 tadan ortiq so'z bo'lmasligi lozim
-- ( ) C) Taqdimot 6 daqiqada tugashi kerak
-- ( ) D) 6 ta slayd yaratish kerak
-*Izoh: 6x6 qoidasi slaydni ortiqcha matn bilan to'ldirib yubormaslikning xalqaro standartidir.*
-
-#### Test 5: Slayddan aynan bir xil ikkinchi nusxa (Dublikat) olish tezkor yorlig'i qaysi?
-- ( ) A) `Ctrl + C`
-- ( ) B) `Ctrl + V`
-- (x) C) `Ctrl + D`
-- ( ) D) `Ctrl + Shift + D`
-*Izoh: `Ctrl + D` tanlangan slayd yoki obyektning aynan nusxasini bir soniyada hosil qiladi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Namoyish vaqtida klaviaturadagi `B` (Black) tugmasini bosish ma'ruzachiga nima uchun kerak bo'ladi?
-2. Nima sababdan taqdimotda 4 xildan ortiq turli rang va shriftlarni aralashtirib ishlatish tavsiya etilmaydi?
-3. Noutbukda "Presenter View" (Taqdimotchi rejimi) qanday ishlaydi va uning afzalligi nimada?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8ScTfvOFdx8FuT0lhui23SkyVE4NQxSyBRLShebYbJvZZ6A/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: PowerPoint dasturida yangi slayd qo'shish tezkor kombinatsiyasi qaysi?
+- [x] **A) Ctrl + M** *(To'g'ri javob)*
+- [ ] B) Ctrl + N
+- [ ] C) Alt + M
+- [ ] D) Shift + M
+
+#### 2-Savol: Taqdimotni birinchi slayddan to'liq ekranda boshlash klavishi nima?
+- [x] **A) F5** *(To'g'ri javob)*
+- [ ] B) Shift + F5
+- [ ] C) F1
+- [ ] D) F11
+
+#### 3-Savol: Taqdimotni aynan joriy (ochiq turgan) slayddan namoyish qilish klavishi qaysi?
+- [x] **A) Shift + F5** *(To'g'ri javob)*
+- [ ] B) F5
+- [ ] C) Ctrl + F5
+- [ ] D) Alt + F5
+
+#### 4-Savol: Namoyishni (Slide Show) to'xtatib chiqish uchun qaysi klavish bosiladi?
+- [x] **A) Esc** *(To'g'ri javob)*
+- [ ] B) Enter
+- [ ] C) Space
+- [ ] D) Backspace
+
+#### 5-Savol: Slayd maketi (Slide Layout) nimani belgilaydi?
+- [x] **A) Slayddagi sarlavha, matn va rasmlar joylashuvining tayyor tuzilishini** *(To'g'ri javob)*
+- [ ] B) Fayl hajmini
+- [ ] C) Taqdimot vaqtini
+- [ ] D) Tovush balandligini
+
+#### 6-Savol: Taqdimot dizaynida 10-20-30 qoidasiga ko'ra optimal slaydlar soni qancha?
+- [x] **A) 10 ta slayd (20 daqiqa, 30 pt shrift)** *(To'g'ri javob)*
+- [ ] B) 100 ta slayd
+- [ ] C) 1 ta slayd
+- [ ] D) 50 ta slayd
+
+#### 7-Savol: Slayd fonini (Background) sozlash qaysi menyudan amalga oshiriladi?
+- [x] **A) Design -> Format Background** *(To'g'ri javob)*
+- [ ] B) Home -> Font
+- [ ] C) Insert -> Pictures
+- [ ] D) View -> Zoom
+
+#### 8-Savol: Zamonaviy monitorlar va proyektorlar uchun standart slayd nisbati qaysi?
+- [x] **A) 16:9 (Widescreen - Keng format)** *(To'g'ri javob)*
+- [ ] B) 4:3 (Standart eski format)
+- [ ] C) 1:1 (Kvadrat)
+- [ ] D) 9:16 (Vertikal)
+
+#### 9-Savol: Taqdimot dizaynida ranglar uyg'unligining 60-30-10 qoidasi nimani anglatadi?
+- [x] **A) 60% asosiy fon rangi, 30% ikkilamchi rang, 10% aksent (urg'u beruvchi yorqin rang)** *(To'g'ri javob)*
+- [ ] B) 60 ta slayd
+- [ ] C) 30 daqiqa vaqt
+- [ ] D) 10 ta shrift
+
+#### 10-Savol: Barcha slaydlarga bir vaqtda umumiy logotip yoki fon qo'yish uchun nima ishlatiladi?
+- [x] **A) Slide Master (Slaydlar namunasi)** *(To'g'ri javob)*
+- [ ] B) Har bir slaydga alohida qo'yish
+- [ ] C) Transitions
+- [ ] D) Animations
+
+#### 11-Savol: Slide Master rejimiga kirish qaysi menyuda joylashgan?
+- [x] **A) View -> Slide Master** *(To'g'ri javob)*
+- [ ] B) Design -> Themes
+- [ ] C) Insert -> Header
+- [ ] D) Home -> Layout
+
+#### 12-Savol: Slaydda vizual ierarxiya (Visual Hierarchy) nimani anglatadi?
+- [x] **A) Eng muhim ma'lumotning katta va yorqin bo'lib, birinchi navbatda ko'zga tashlanishi** *(To'g'ri javob)*
+- [ ] B) Slaydlarning ketma-ketligi
+- [ ] C) Raqamlash tartibi
+- [ ] D) Vaqt jadvali
+
+#### 13-Savol: Bitta slaydda tavsiya etiladigan maksimal shrift turlari soni nechta?
+- [x] **A) Ko'pi bilan 2 xil (biri sarlavha, biri asosiy matn uchun)** *(To'g'ri javob)*
+- [ ] B) 5-6 xil turfa shriftlar
+- [ ] C) 10 xil
+- [ ] D) Cheklov yo'q
+
+#### 14-Savol: Slayd matnida nima sababdan uzun matnli abzaslar yozish tavsiya etilmaydi?
+- [x] **A) Auditoriya o'qish bilan band bo'lib, notiqni tinglamay qo'yadi** *(To'g'ri javob)*
+- [ ] B) Slayd hajmi kattalashadi
+- [ ] C) Dastur qotib qoladi
+- [ ] D) Chop etib bo'lmaydi
+
+#### 15-Savol: Slaydni dublyaj qilish (Duplicate Slide) tezkor klavishi qaysi?
+- [x] **A) Ctrl + D** *(To'g'ri javob)*
+- [ ] B) Ctrl + C
+- [ ] C) Ctrl + M
+- [ ] D) Alt + D
+
+#### 16-Savol: Taqdimot namoyishi paytida ekranni butunlay qora (Black screen) qilish klavishi nima?
+- [x] **A) B harfi** *(To'g'ri javob)*
+- [ ] B) W harfi
+- [ ] C) Esc
+- [ ] D) Space
+
+#### 17-Savol: Namoyish paytida ekranni oq (White screen) qilish qaysi tugma bilan bajariladi?
+- [x] **A) W harfi** *(To'g'ri javob)*
+- [ ] B) B harfi
+- [ ] C) Enter
+- [ ] D) Tab
+
+#### 18-Savol: Slayd ostiga faqat ma'ruzachiga ko'rinadigan eslatmalar yozish maydoni nima deyiladi?
+- [x] **A) Notes (Izohlar / Заметки)** *(To'g'ri javob)*
+- [ ] B) Comments
+- [ ] C) Footer
+- [ ] D) Status
+
+#### 19-Savol: Notiq rejimi (Presenter View) nima imkoniyat beradi?
+- [x] **A) Notiq ekranida keyingi slayd, taymer va izohlar ko'rinadi, proyektorda esa faqat joriy slayd aks etadi** *(To'g'ri javob)*
+- [ ] B) Slaydni tezroq o'tkazadi
+- [ ] C) Videoni yozib oladi
+- [ ] D) Ovozni kuchaytiradi
+
+#### 20-Savol: Slaydlarni tartiblash va joyini almashtirish uchun qaysi ko'rinish qulay?
+- [x] **A) Slide Sorter (Slaydlar saralagichi)** *(To'g'ri javob)*
+- [ ] B) Normal View
+- [ ] C) Reading View
+- [ ] D) Notes Page
+
+#### 21-Savol: Slayd ichiga video qo'shish qaysi bo'limdan bajariladi?
+- [x] **A) Insert -> Video** *(To'g'ri javob)*
+- [ ] B) Home -> Media
+- [ ] C) Design -> Video
+- [ ] D) View -> Media
+
+#### 22-Savol: Slaydga kiritilgan audio faylni fon musiqasi sifatida barcha slaydlarda chalinishini qanday yoqish mumkin?
+- [x] **A) Play Across Slides va Loop until Stopped** *(To'g'ri javob)*
+- [ ] B) Volume -> Mute
+- [ ] C) Play manually
+- [ ] D) Trim audio
+
+#### 23-Savol: Ob'ektlarni (rasm, shakllar) slaydda bir xil oraliqda tekislash vositasi qaysi?
+- [x] **A) Align -> Distribute Horizontally / Vertically** *(To'g'ri javob)*
+- [ ] B) Rotate
+- [ ] C) Group
+- [ ] D) Bring to Front
+
+#### 24-Savol: Bir nechta shakllarni bitta yaxlit ob'ektga birlashtirish (Group) klavishi qaysi?
+- [x] **A) Ctrl + G** *(To'g'ri javob)*
+- [ ] B) Ctrl + U
+- [ ] C) Ctrl + B
+- [ ] D) Alt + G
+
+#### 25-Savol: Guruhlangan shakllarni qayta ajratish (Ungroup) kombinatsiyasi nima?
+- [x] **A) Ctrl + Shift + G** *(To'g'ri javob)*
+- [ ] B) Ctrl + Alt + G
+- [ ] C) Ctrl + G
+- [ ] D) Alt + Shift + G
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

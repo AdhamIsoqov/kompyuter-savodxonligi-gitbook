@@ -121,64 +121,175 @@ Kiberjinoyatchilar rahbarning fotosurati va ism-sharifidan foydalanib klon profi
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 23-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [23-Mavzu: Axborot Xavfsizligi va Raqamli Madaniyat — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mzx2gUxXSZbrDd2wyjLMmhUdWUhSqNmikJhEhcCJXGg/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [23-Mavzu: Axborot Xavfsizligi va Raqamli Madaniyat — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mzx2gUxXSZbrDd2wyjLMmhUdWUhSqNmikJhEhcCJXGg/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Ikki bosqichli autentifikatsiya (2FA) ning asosiy maqsadi nima?
-- ( ) A) Kompyuterni tezlashtirish
-- (x) B) Parol o'g'irlangan taqdirda ham ikkinchi bosqich (telefon kodi) orqali akkauntga begonalarning kirishini to'liq bloklash
-- ( ) C) Internet sarfini kamaytirish
-- ( ) D) Yangi dasturlarni o'rnatish
-*Izoh: 2FA paroldan tashqari shaxsiy qurilma orqali tasdiqlovchi ikkinchi himoya devoridir.*
-
-#### Test 2: Quyidagilardan qaysi biri eng ishonchli va kuchli parol hisoblanadi?
-- ( ) A) `12345678`
-- ( ) B) `nodir1995`
-- ( ) C) `qwertyuiop`
-- (x) D) `T@shkent#2026!Sec`
-*Izoh: Kuchli parol katta/kichik harflar, raqamlar va maxsus belgilardan iborat bo'lib, kamida 12 ta belgidan tashkil topadi.*
-
-#### Test 3: Firibgarlarning soxta saytlar orqali odamlarning karta va parollarini aldab olish hujumi nima deb ataladi?
-- ( ) A) Overclocking
-- ( ) B) Rendering
-- (x) C) Fishing (Phishing)
-- ( ) D) Formatting
-*Izoh: Fishing (baliq ovi) — foydalanuvchini soxta xabarlar bilan aldash kiberhujumidir.*
-
-#### Test 4: Bank kartasiga ulangan telefon raqamiga kelgan SMS tasdiqlash kodini kimlarga aytish mumkin?
-- ( ) A) O'zini bank xodimi deb tanishtirganlarga
-- ( ) B) Lotereya yutug'ini berishini aytganlarga
-- (x) C) MUTLAQO HECH KIMGA!
-- ( ) D) Do'stlarga
-*Izoh: SMS tasdiqlash kodi faqat sizga tegishli bo'lib, uni boshqalarga berish pulni o'z qo'lingiz bilan topshirish demakdir.*
-
-#### Test 5: Kafe yoki aeroportlardagi ochiq ommaviy (Public) Wi-Fi tarmoqlaridan foydalanganda qaysi xavfli amalni qilmaslik kerak?
-- ( ) A) Yangiliklar saytini o'qish
-- (x) B) Bank ilovasiga kirish, plastik karta ma'lumotlarini kiritish va xaridlar qilish
-- ( ) C) Ob-havoni ko'rish
-- ( ) D) Musiqa tinglash
-*Izoh: Ochiq Wi-Fi tarmog'idagi barcha shifrlanmagan trafik xakerlar tomonidan ushlab qolinishi mumkin.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun barcha ijtimoiy tarmoqlar, pochta va saytlarda bitta umumiy paroldan foydalanish o'ta xavfli hisoblanadi?
-2. Parol menejerlari (Bitwarden, 1Password) qanday ishlaydi va ularning qanday foydali jihatlari bor?
-3. Internetda boshqa insonlarning shaxsiy suratlarini ularning roziligisiz tarqatish qanday huquqiy va ma'naviy oqibatlarga olib keladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Kuchli va ishonchli parol qanday xususiyatlarga ega bo'lishi kerak?
+- [x] **A) Kamida 12 ta belgi, katta-kichik harflar, sonlar va maxsus belgilar (@#$%) aralashmasi** *(To'g'ri javob)*
+- [ ] B) Faqat tug'ilgan yil
+- [ ] C) 12345678
+- [ ] D) Foydalanuvchi ismi
+
+#### 2-Savol: Ikki bosqichli autentifikatsiya (2FA / MFA) ning asosiy mohiyati nima?
+- [x] **A) Paroldan tashqari ikkinchi ishonchli kanal (SMS, ilova kodi, biometriya) orqali shaxsni tasdiqlash** *(To'g'ri javob)*
+- [ ] B) Ikki marta parol kiritish
+- [ ] C) Ikkita kompyuterda ochish
+- [ ] D) Hisobni o'chirish
+
+#### 3-Savol: Fishing (Phishing) hujumi nima?
+- [x] **A) Soxta veb-saytlar va yolg'on xabarlar orqali foydalanuvchining login, parol va bank karta ma'lumotlarini o'g'irlash** *(To'g'ri javob)*
+- [ ] B) Baliq ovi o'yini
+- [ ] C) Kompyuterni qizdirish
+- [ ] D) Fayllarni arxivlash
+
+#### 4-Savol: Parollarni xavfsiz yaratish va saqlash uchun qanday dasturlar ishlatiladi?
+- [x] **A) Parol menejerlari (Bitwarden, 1Password, KeePass)** *(To'g'ri javob)*
+- [ ] B) Oddiy Bloknot (Notepad)
+- [ ] C) Telegramdagi saqlangan xabarlar
+- [ ] D) Stolga yopishtirilgan qog'oz
+
+#### 5-Savol: Zaxira nusxa olishning (Backup) mashhur 3-2-1 qoidasi nimani anglatadi?
+- [x] **A) 3 ta nusxa, 2 xil turdagi saqlash vositasida (disk, fleshka), 1 tasi boshqa joyda (bulutda)** *(To'g'ri javob)*
+- [ ] B) 3 ta fayl, 2 ta parol, 1 ta kompyuter
+- [ ] C) 3 kunda 2 marta
+- [ ] D) Farqi yo'q
+
+#### 6-Savol: Ochiq, parolsiz umumiy Wi-Fi tarmoqlaridan (kafe, vokzal) foydalanishda qanday xavf bor?
+- [x] **A) Xakerlar oraliq tarmoqni tutib olib (Man-in-the-Middle), kiritilayotgan parollarni o'g'irlashi mumkin** *(To'g'ri javob)*
+- [ ] B) Wi-Fi tezlashib ketadi
+- [ ] C) Telefon quvvati to'ladi
+- [ ] D) Xavfi yo'q
+
+#### 7-Savol: Zararli to'lov talab qiluvchi viruslar (Ransomware / Вымогатели) nima qiladi?
+- [x] **A) Foydalanuvchining barcha fayllarini kuchli algoritm bilan shifrlab qo'yib, ochish uchun pul talab qiladi** *(To'g'ri javob)*
+- [ ] B) Kompyuterni tozalaydi
+- [ ] C) Windowsni yangilaydi
+- [ ] D) Ekranni yorqin qiladi
+
+#### 8-Savol: Shaxsiy ma'lumotlarni himoyalashda 'Raqamli iz' (Digital Footprint) nima?
+- [x] **A) Foydalanuvchining internetda qoldirgan barcha faoliyat tarixi, sharhlari, fotosuratlari va qidiruvlari** *(To'g'ri javob)*
+- [ ] B) Klaviatura kirligi
+- [ ] C) Sichqoncha izi
+- [ ] D) Monitor barmog'i
+
+#### 9-Savol: Bir xil parolni barcha ijtimoiy tarmoqlar va pochtalarda ishlatish nima uchun xavfli?
+- [x] **A) Bitta saytdagi ma'lumotlar sizib chiqsa, tajovuzkor barcha boshqa hisoblaringizga ham kira oladi** *(To'g'ri javob)*
+- [ ] B) Xavfi yo'q
+- [ ] C) Parolni eslab qolish oson
+- [ ] D) Tezroq kiriladi
+
+#### 10-Savol: SMS orqali kelgan tasdiqlash kodlarini (OTP) boshqa shaxslarga berish mumkinmi?
+- [x] **A) Qat'iyan man etiladi! Hatto o'zini bank xodimi yoki xavfsizlik xizmati deb tanishtirganlarga ham** *(To'g'ri javob)*
+- [ ] B) Faqat tanishlarga mumkin
+- [ ] C) Bank so'rasa berish shart
+- [ ] D) Farqi yo'q
+
+#### 11-Savol: Spam va shubhali elektron xatlardagi havolani (link) bosishdan oldin nima qilish kerak?
+- [x] **A) Sichqoncha kursorini havola ustiga olib borib, pastda chiquvchi haqiqiy manzilni tekshirish** *(To'g'ri javob)*
+- [ ] B) Darhol bosish
+- [ ] C) Boshqalarga yuborish
+- [ ] D) Xatni chop etish
+
+#### 12-Savol: Ijtimoiy muhandislik (Social Engineering) nima?
+- [x] **A) Insonning ishonuvchanligi, qo'rquvi yoki qiziqishidan foydalanib aldov yo'li bilan ma'lumotlarni qo'lga kiritish** *(To'g'ri javob)*
+- [ ] B) Dasturlash tili
+- [ ] C) Robot yasash
+- [ ] D) Kompyuter tarmoqlari
+
+#### 13-Savol: Brauzerda sayt manzilida yopiq qulf (Lock icon) belgisi nimani anglatadi?
+- [x] **A) Sayt va sizning qurilmangiz o'rtasidagi aloqa SSL/TLS sertifikati orqali shifrlanganligini** *(To'g'ri javob)*
+- [ ] B) Saytga kirish taqiqlanganligini
+- [ ] C) Sayt buzilganligini
+- [ ] D) Sayt pullik ekanligini
+
+#### 14-Savol: Fleshkadan kompyuterga virus tushishining eng ko'p tarqalgan yo'li qaysi?
+- [x] **A) Autorun (avtomatik ishga tushish) va noma'lum .exe, .vbs fayllarini ochish** *(To'g'ri javob)*
+- [ ] B) Faqat fleshkani ushlash
+- [ ] C) Musiqa eshitish
+- [ ] D) Rasm ko'rish
+
+#### 15-Savol: Antivirus dasturlarining asosiy vazifasi nima?
+- [x] **A) Zararli dasturlarni real vaqtda aniqlash, bloklash va zararlangan fayllarni davolash** *(To'g'ri javob)*
+- [ ] B) Kompyuterni tezlashtirish
+- [ ] C) O'yin o'rnatish
+- [ ] D) Hujjat chop etish
+
+#### 16-Savol: Shaxsiy kompyuterni begona joyda qoldirib ketayotganda darhol nima qilish lozim?
+- [x] **A) Win + L tugmasi orqali ekranni qulflab ketish** *(To'g'ri javob)*
+- [ ] B) Monitorni burib qo'yish
+- [ ] C) Sichqonchani yashirish
+- [ ] D) Hech narsa
+
+#### 17-Savol: Windows da 'BitLocker' funksiyasi nima vazifani bajaradi?
+- [x] **A) Butun qattiq diskni to'liq shifrlab, noutbuk o'g'irlanganda ham ma'lumotlarni ochib bo'lmaydigan qiladi** *(To'g'ri javob)*
+- [ ] B) Fayllarni o'chiradi
+- [ ] C) Windowsni yangilaydi
+- [ ] D) Internetni uzadi
+
+#### 18-Savol: Kiberbulling (Cyberbullying) nima?
+- [x] **A) Internet va ijtimoiy tarmoqlarda shaxsni ruhiy kamsitish, haqoratlash yoki unga bosim o'tkazish** *(To'g'ri javob)*
+- [ ] B) Kiber sport turi
+- [ ] C) Dastur tuzish
+- [ ] D) Antivirus tekshiruvi
+
+#### 19-Savol: Noma'lum Telegram botlariga yoki guruhlarga telefon raqamni 'Ulashish' (Share Contact) xavflimi?
+- [x] **A) Xavfli! Sizning raqamingiz firibgarlar bazasiga tushib, fishing hujumlari nishoniga aylanasiz** *(To'g'ri javob)*
+- [ ] B) Mutlaqo xavfsiz
+- [ ] C) Foydali
+- [ ] D) Telegram so'rasa berish kerak
+
+#### 20-Savol: Zararli dasturlardan 'Troyan' (Trojan) nimasi bilan ajralib turadi?
+- [x] **A) O'zini foydali dastur yoki o'yin qilib ko'rsatib, orqa fonda xakerga kompyuterni boshqarish imkonini beradi** *(To'g'ri javob)*
+- [ ] B) Faqat vaqtni o'zgartiradi
+- [ ] C) O'z-o'zidan ko'payadi
+- [ ] D) Ekranni tozalaydi
+
+#### 21-Savol: Brauzerda 'Parolni eslab qolish' (Save password) taklifi chiqqanda, umumiy (begona) kompyuterda nima bosiladi?
+- [x] **A) Never (Hech qachon / Hech qachon saqlanmasin)** *(To'g'ri javob)*
+- [ ] B) Save
+- [ ] C) Yes
+- [ ] D) Always
+
+#### 22-Savol: Kompyuter dasturiy ta'minoti va tizimini muntazam yangilab turish (Update) nima uchun zarur?
+- [x] **A) Aniqlangan xavfsizlik zaifliklarini (vulnerabilities) yopish va himoyani kuchaytirish uchun** *(To'g'ri javob)*
+- [ ] B) Xotirani to'ldirish uchun
+- [ ] C) Kompyuterni sekinlashtirish uchun
+- [ ] D) Pulingizni olish uchun
+
+#### 23-Savol: DDoS (Distributed Denial of Service) hujumining maqsadi nima?
+- [x] **A) Sayt serveriga millionlab soxta so'rovlar yuborib, uni ishdan chiqarish va qotirib qo'yish** *(To'g'ri javob)*
+- [ ] B) Parollarni o'g'irlash
+- [ ] C) Faylni yuklab olish
+- [ ] D) Rasm chizish
+
+#### 24-Savol: VPN xizmatini tanlashda qaysi turdagisi xavfsizroq hisoblanadi?
+- [x] **A) Ishonchli, foydalanuvchi ma'lumotlarini qayd etmaydigan (No-log policy) litsenziyali xizmatlar** *(To'g'ri javob)*
+- [ ] B) Shubhali bepul VPN lar
+- [ ] C) Har qanday VPN bir xil
+- [ ] D) VPN xavfsiz emas
+
+#### 25-Savol: Raqamli gigiyena qoidalariga rioya qilishning asosiy natijasi nima?
+- [x] **A) Shaxsiy va moliyaviy ma'lumotlarning butunligi, internetda tinch va xavfsiz faoliyat yuritish** *(To'g'ri javob)*
+- [ ] B) Juda ko'p vaqt yo'qotish
+- [ ] C) Kompyuter buzilishi
+- [ ] D) Do'stlar yo'qolishi
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

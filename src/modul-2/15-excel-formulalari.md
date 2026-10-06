@@ -139,64 +139,175 @@ Menejer kursorni tortishdan oldin kurs turgan `D1` katakka **`F4` (dollar belgil
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 15-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [15-Mavzu: Microsoft Excel Formulalari va Funksiyalari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mvFnPN7Y5FMK8auZ1PKIg4JluDnZfvx4oZqR2rSdLj4/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [15-Mavzu: Microsoft Excel Formulalari va Funksiyalari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mvFnPN7Y5FMK8auZ1PKIg4JluDnZfvx4oZqR2rSdLj4/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Excel dasturida barcha formulalar majburiy tarzda qaysi belgi bilan boshlanadi?
-- ( ) A) `+`
-- (x) B) `=`
-- ( ) C) `fx`
-- ( ) D) `@`
-*Izoh: Excel faqat `=` belgisi bilan boshlangan kiritishni formula deb tan oladi.*
-
-#### Test 2: Belgilangan kataklar guruhidagi barcha sonlarning umumiy yig'indisini hisoblovchi funksiya qaysi?
-- ( ) A) `AVERAGE`
-- (x) B) `SUM`
-- ( ) C) `COUNT`
-- ( ) D) `TOTAL`
-*Izoh: `SUM` inglizcha "Summary" (Yig'indi) so'zidan olingan.*
-
-#### Test 3: Formulani boshqa kataklarga nusxalayotganda ma'lum bir katak manzilini o'zgarmas (absolyut) qilib qulflash uchun qaysi tugma bosiladi?
-- ( ) A) `F2`
-- (x) B) `F4` (katak `$A$1` holatiga keladi)
-- ( ) C) `F5`
-- ( ) D) `F12`
-*Izoh: `F4` katak harfi va soni oldiga `$` belgisini qo'yib, uni qulflaydi.*
-
-#### Test 4: Excelda `#DIV/0!` xatoligi nimani anglatadi?
-- ( ) A) Formula nomi xato yozilgan
-- (x) B) Son nolga (0) yoki bo'sh katakka bo'lingan
-- ( ) C) Diskda joy tugagan
-- ( ) D) Shrift noto'g'ri tanlangan
-*Izoh: Matematikada nolga bo'lish mumkin emas, shuning uchun Excel `#DIV/0!` (Division by zero) xatosini beradi.*
-
-#### Test 5: `=IF(A1>50; "Katta"; "Kichik")` formulasida agar A1 katakda 75 soni tursa, katakda qanday natija chiqadi?
-- ( ) A) Kichik
-- (x) B) Katta
-- ( ) C) Xatolik
-- ( ) D) 50
-*Izoh: 75 soni 50 dan katta bo'lgani sababli, birinchi to'g'ri shart ("Katta") bajariladi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun kataklar yig'indisini hisoblashda `=A1+A2+A3+A4+A5` deb yozgandan ko'ra `=SUM(A1:A5)` deb yozish ancha to'g'ri va xavfsiz?
-2. `COUNT` va `COUNTA` funksiyalari o'rtasidagi asosiy farq nimada?
-3. Agar formulada qavslar to'g'ri yopilmasa (masalan: `=(A1+B1*C1`), Excel qanday harakat qiladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Excel dasturida har qanday formula qaysi belgi bilan boshlanishi shart?
+- [x] **A) = (tenglik)** *(To'g'ri javob)*
+- [ ] B) +
+- [ ] C) @
+- [ ] D) #
+
+#### 2-Savol: Berilgan kataklar oralig'idagi sonlar yig'indisini hisoblovchi funksiya qaysi?
+- [x] **A) SUM** *(To'g'ri javob)*
+- [ ] B) AVERAGE
+- [ ] C) COUNT
+- [ ] D) TOTAL
+
+#### 3-Savol: Sonlarning o'rta arifmetik qiymatini hisoblovchi funksiya nima deyiladi?
+- [x] **A) AVERAGE** *(To'g'ri javob)*
+- [ ] B) SUM
+- [ ] C) MEDIAN
+- [ ] D) MEAN
+
+#### 4-Savol: Berilgan diapazondagi faqat sonli kataklar sonini hisoblovchi funksiya qaysi?
+- [x] **A) COUNT** *(To'g'ri javob)*
+- [ ] B) COUNTA
+- [ ] C) COUNTBLANK
+- [ ] D) SUM
+
+#### 5-Savol: Bo'sh bo'lmagan (matn yoki son bor) barcha kataklarni sanovchi funksiya nima?
+- [x] **A) COUNTA** *(To'g'ri javob)*
+- [ ] B) COUNT
+- [ ] C) COUNTIF
+- [ ] D) SUMIF
+
+#### 6-Savol: Kataklar oralig'idagi eng katta sonni topuvchi funksiya qaysi?
+- [x] **A) MAX** *(To'g'ri javob)*
+- [ ] B) MIN
+- [ ] C) LARGE
+- [ ] D) TOP
+
+#### 7-Savol: Kataklar oralig'idagi eng kichik sonni aniqlovchi funksiya nima?
+- [x] **A) MIN** *(To'g'ri javob)*
+- [ ] B) MAX
+- [ ] C) SMALL
+- [ ] D) BOTTOM
+
+#### 8-Savol: Mutlaq manzil (Absolute Reference) yaratish uchun katak harfi va soni oldiga qaysi belgi qo'yiladi?
+- [x] **A) $ (masalan: $A$1)** *(To'g'ri javob)*
+- [ ] B) #
+- [ ] C) %
+- [ ] D) &
+
+#### 9-Savol: Formulada katak manzilini nisbiydan mutlaqqa o'tkazuvchi klavish qaysi?
+- [x] **A) F4** *(To'g'ri javob)*
+- [ ] B) F2
+- [ ] C) F5
+- [ ] D) F9
+
+#### 10-Savol: Mantiqiy shart tekshiruvchi asosiy funksiya qaysi?
+- [x] **A) IF (AGAR)** *(To'g'ri javob)*
+- [ ] B) AND
+- [ ] C) OR
+- [ ] D) NOT
+
+#### 11-Savol: =IF(A1>=60; "O'tdi"; "Yiqildi") formulasi A1=75 bo'lganda qanday natija qaytaradi?
+- [x] **A) O'tdi** *(To'g'ri javob)*
+- [ ] B) Yiqildi
+- [ ] C) Xato
+- [ ] D) 60
+
+#### 12-Savol: Shartga mos keluvchi kataklarni sanash funksiyasi nima deb ataladi?
+- [x] **A) COUNTIF** *(To'g'ri javob)*
+- [ ] B) SUMIF
+- [ ] C) COUNT
+- [ ] D) IFCOUNT
+
+#### 13-Savol: Faqat ma'lum bir shartni qanoatlantiruvchi kataklar yig'indisini hisoblovchi funksiya qaysi?
+- [x] **A) SUMIF** *(To'g'ri javob)*
+- [ ] B) COUNTIF
+- [ ] C) AVERAGEIF
+- [ ] D) SUM
+
+#### 14-Savol: Excel da sonni nolga bo'lishga uringanda qanday xatolik xabari chiqadi?
+- [x] **A) #DIV/0!** *(To'g'ri javob)*
+- [ ] B) #VALUE!
+- [ ] C) #N/A
+- [ ] D) #NAME?
+
+#### 15-Savol: Formulada kiritilgan funksiya nomi noto'g'ri yozilsa, qanday xato chiqadi?
+- [x] **A) #NAME?** *(To'g'ri javob)*
+- [ ] B) #REF!
+- [ ] C) #VALUE!
+- [ ] D) #NULL!
+
+#### 16-Savol: Formulada murojaat qilingan katak o'chirib yuborilsa, qanday xato paydo bo'ladi?
+- [x] **A) #REF!** *(To'g'ri javob)*
+- [ ] B) #NUM!
+- [ ] C) #DIV/0!
+- [ ] D) #N/A
+
+#### 17-Savol: Matnlarni o'zaro birlashtirish uchun qaysi operator ishlatiladi?
+- [x] **A) & (amper sand)** *(To'g'ri javob)*
+- [ ] B) +
+- [ ] C) *
+- [ ] D) ^
+
+#### 18-Savol: Jadvalning birinchi ustunidan qidirib, mos qatordagi ma'lumotni olib keluvchi mashhur funksiya qaysi?
+- [x] **A) VLOOKUP (PROR)** *(To'g'ri javob)*
+- [ ] B) HLOOKUP
+- [ ] C) INDEX
+- [ ] D) MATCH
+
+#### 19-Savol: Zamonaviy Excel da VLOOKUP o'rniga kelgan ancha moslashuvchan funksiya qaysi?
+- [x] **A) XLOOKUP** *(To'g'ri javob)*
+- [ ] B) LOOKUP
+- [ ] C) FIND
+- [ ] D) SEARCH
+
+#### 20-Savol: Sonni darajaga ko'tarish matematik belgisi qaysi?
+- [x] **A) ^ (masalan: 2^3 = 8)** *(To'g'ri javob)*
+- [ ] B) *
+- [ ] C) **
+- [ ] D) %
+
+#### 21-Savol: Ikkita yoki undan ortiq shart bir vaqtda bajarilishi talab etilganda qaysi funksiya ishlatiladi?
+- [x] **A) AND (VA)** *(To'g'ri javob)*
+- [ ] B) OR (YOKI)
+- [ ] C) NOT
+- [ ] D) XOR
+
+#### 22-Savol: Bir nechta shartdan kamida bittasi bajarilsa kifoya bo'lganda qaysi funksiya qo'llaniladi?
+- [x] **A) OR (YOKI)** *(To'g'ri javob)*
+- [ ] B) AND
+- [ ] C) NOT
+- [ ] D) IF
+
+#### 23-Savol: Sonning kvadrat ildizini hisoblovchi funksiya nima deyiladi?
+- [x] **A) SQRT** *(To'g'ri javob)*
+- [ ] B) ROOT
+- [ ] C) POWER
+- [ ] D) SQR
+
+#### 24-Savol: Matndagi harflar sonini hisoblovchi funksiya qaysi?
+- [x] **A) LEN (DLSTR)** *(To'g'ri javob)*
+- [ ] B) COUNT
+- [ ] C) TEXT
+- [ ] D) SUM
+
+#### 25-Savol: Formulalarni hisoblashni majburiy qayta yangilash klavishi qaysi?
+- [x] **A) F9** *(To'g'ri javob)*
+- [ ] B) F5
+- [ ] C) F7
+- [ ] D) F2
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

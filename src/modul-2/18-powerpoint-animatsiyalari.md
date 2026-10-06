@@ -111,64 +111,175 @@ Maktab o'qituvchisi ochiq dars uchun slaydlar tayyorladi. Har bir slaydga 10 tad
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 18-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [18-Mavzu: PowerPoint Animatsiyalari va Taqdimotlar — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1NrCWXilMo8UG1aPyKdjJZOS09j7_FXdyzNxI8v_770w/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [18-Mavzu: PowerPoint Animatsiyalari va Taqdimotlar — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1NrCWXilMo8UG1aPyKdjJZOS09j7_FXdyzNxI8v_770w/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Bitta slayddan ikkinchi slaydga o'tishdagi umumiy vizual harakat qaysi menyu orqali sozlanadi?
-- ( ) A) Animations
-- (x) B) Transitions (O'tishlar)
-- ( ) C) Slide Show
-- ( ) D) View
-*Izoh: Transitions butun slaydlar orasidagi o'tish effektlarini boshqaradi.*
-
-#### Test 2: Obyektni slayd maydonida paydo qilish uchun qaysi toifadagi (yashil rangli) animatsiya ishlatiladi?
-- (x) A) Entrance (Kirish)
-- ( ) B) Emphasis (Urg'u)
-- ( ) C) Exit (Chiqish)
-- ( ) D) Motion Paths
-*Izoh: Entrance yashil belgisi obyektning slaydga kirib kelishi va ko'rinishini ta'minlaydi.*
-
-#### Test 3: Animatsiyalar ketma-ketligini va ularning vaqt shkalasini ko'rsatib turuvchi maxsus o'ng panel nima deb ataladi?
-- ( ) A) Status Bar
-- (x) B) Animation Pane (Область анимации)
-- ( ) C) Selection Pane
-- ( ) D) Ribbon
-*Izoh: Animation Pane barcha kiritilgan effektlar tartibini vizual boshqarish darchasidir.*
-
-#### Test 4: Animatsiyaning "With Previous" (Oldingi bilan birga) rejimi qanday ishlaydi?
-- ( ) A) Sichqoncha bosilganda boshlanadi
-- (x) B) Oldingi animatsiya bilan bir vaqtda (parallel) ishga tushadi
-- ( ) C) Kompyuter o'chganda ishlaydi
-- ( ) D) Slayd oxirida chiqadi
-*Izoh: With Previous bir nechta obyektlarning bir vaqtda harakatlanishini ta'minlaydi.*
-
-#### Test 5: Slaydda mavjud bo'lgan obyektga e'tibor qaratish (masalan: kattalashib-kichrayish yoki miltillash) uchun qaysi toifa ishlatiladi?
-- ( ) A) Entrance
-- ( ) B) Exit
-- (x) C) Emphasis (Urg'u berish - sariq)
-- ( ) D) Dissolve
-*Izoh: Emphasis obyektni yo'qotmasdan, uning ustida turli vizual diqqat harakatlarini bajaradi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Zamonaviy PowerPoint versiyalaridagi "Morph" o'tish effekti qanday ishlaydi va nima uchun u taqdimotlarni kinoga o'xshatib beradi?
-2. Nima sababdan taqdimotni namoyish qilish uchun uni `.pptx` emas, to'g'ridan-to'g'ri namoyish rejimida ochiluvchi `.ppsx` (PowerPoint Show) formatida saqlash qulayroq?
-3. Taqdimot videosini (`.mp4`) tayyorlashda har bir slayd uchun standart qancha vaqt (sekund) ajratilishi tavsiya etiladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Slaydlar almashinuvi vizual effekti nima deb ataladi?
+- [x] **A) Transitions (O'tishlar)** *(To'g'ri javob)*
+- [ ] B) Animations (Animatsiyalar)
+- [ ] C) Slide Master
+- [ ] D) WordArt
+
+#### 2-Savol: Slayd ichidagi ayrim elementlarning (matn, rasm) harakati nima deyiladi?
+- [x] **A) Animations (Animatsiyalar)** *(To'g'ri javob)*
+- [ ] B) Transitions
+- [ ] C) Layouts
+- [ ] D) Shapes
+
+#### 3-Savol: PowerPoint animatsiyalari qaysi 4 ta asosiy guruhga bo'linadi?
+- [x] **A) Entrance (Kirish), Emphasis (Ajratish), Exit (Chiqish), Motion Paths (Harakat yo'llari)** *(To'g'ri javob)*
+- [ ] B) Old, New, Fast, Slow
+- [ ] C) Qizil, Yashil, Sariq, Moviy
+- [ ] D) Linear, Circular, Wave, Bounce
+
+#### 4-Savol: Yashil rangli yulduzcha bilan belgilanadigan animatsiya turi qaysi?
+- [x] **A) Entrance (Kirish — ob'ekt paydo bo'lishi)** *(To'g'ri javob)*
+- [ ] B) Exit
+- [ ] C) Emphasis
+- [ ] D) Motion Path
+
+#### 5-Savol: Qizil rangli yulduzcha bilan belgilanadigan animatsiya turi nima?
+- [x] **A) Exit (Chiqish — ob'ekt yo'qolishi)** *(To'g'ri javob)*
+- [ ] B) Entrance
+- [ ] C) Emphasis
+- [ ] D) Loop
+
+#### 6-Savol: Sariq yulduzcha bilan belgilanuvchi animatsiya nima vazifani bajaradi?
+- [x] **A) Emphasis (Slaydda turgan ob'ektga urg'u berish, kattalashish yoki miltillash)** *(To'g'ri javob)*
+- [ ] B) Slayddan chiqarish
+- [ ] C) Yangi ochish
+- [ ] D) Slaydni o'chirish
+
+#### 7-Savol: Barcha animatsiyalar ketma-ketligi va davomiyligini boshqaruvchi darcha qaysi?
+- [x] **A) Animation Pane (Animatsiyalar paneli)** *(To'g'ri javob)*
+- [ ] B) Selection Pane
+- [ ] C) Formatting Pane
+- [ ] D) Review Pane
+
+#### 8-Savol: Animatsiyani avtomatik oldingi harakat bilan bir vaqtda boshlash parametri qaysi?
+- [x] **A) Start: With Previous** *(To'g'ri javob)*
+- [ ] B) Start: On Click
+- [ ] C) Start: After Previous
+- [ ] D) Start: Never
+
+#### 9-Savol: Animatsiyani oldingi harakat tugashi bilanoq navbatma-navbat ishga tushirish parametri nima?
+- [x] **A) Start: After Previous** *(To'g'ri javob)*
+- [ ] B) Start: On Click
+- [ ] C) Start: With Previous
+- [ ] D) Start: Delay
+
+#### 10-Savol: Bir ob'ektga qo'llanilgan animatsiyadan nusxa olib boshqasiga berish vositasi nima?
+- [x] **A) Animation Painter** *(To'g'ri javob)*
+- [ ] B) Format Painter
+- [ ] C) Copy Effects
+- [ ] D) Duplicate
+
+#### 11-Savol: PowerPoint 2019 va 365 da inqilobiy 'Morph' o'tishi nima vazifani bajaradi?
+- [x] **A) Ikki slayd orasidagi bir xil ob'ektlarning silliq shakl va o'lcham o'zgarishini (transformatsiyasini) hosil qiladi** *(To'g'ri javob)*
+- [ ] B) Slaydni o'chiradi
+- [ ] C) Tovush chiqaradi
+- [ ] D) Faylni siqadi
+
+#### 12-Savol: Trigger (Trigger animatsiyasi) nima?
+- [x] **A) Ma'lum bir tugma yoki rasm bosilgandagina animatsiyaning ishga tushishi** *(To'g'ri javob)*
+- [ ] B) Animatsiyani to'xtatish
+- [ ] C) Slaydni o'chirish
+- [ ] D) Vaqtni o'lchash
+
+#### 13-Savol: Animatsiyaning harakat davomiyligi qaysi parametrda belgilanadi?
+- [x] **A) Duration (Davomiylik)** *(To'g'ri javob)*
+- [ ] B) Delay (Kechikish)
+- [ ] C) Order
+- [ ] D) Trigger
+
+#### 14-Savol: Harakat boshlanishidan oldingi kutish vaqti nima deyiladi?
+- [x] **A) Delay (Kechikish)** *(To'g'ri javob)*
+- [ ] B) Duration
+- [ ] C) Speed
+- [ ] D) Timing
+
+#### 15-Savol: Slaydga interaktiv harakat tugmalari (Action Buttons: Uyga, Oldinga, Orqaga) qayerdan qo'shiladi?
+- [x] **A) Insert -> Shapes -> Action Buttons** *(To'g'ri javob)*
+- [ ] B) Design -> Themes
+- [ ] C) View -> Master
+- [ ] D) Animations -> Add
+
+#### 16-Savol: Taqdimotni faqat ijro etiladigan (namoyish ko'rinishida ochiladigan) formatda saqlash kengaytmasi qaysi?
+- [x] **A) .ppsx (PowerPoint Show)** *(To'g'ri javob)*
+- [ ] B) .pptx
+- [ ] C) .potx
+- [ ] D) .pdf
+
+#### 17-Savol: Taqdimotni video (MP4) formatida eksport qilish qayerdan amalga oshiriladi?
+- [x] **A) File -> Export -> Create a Video** *(To'g'ri javob)*
+- [ ] B) File -> Print
+- [ ] C) Home -> Save
+- [ ] D) View -> Zoom
+
+#### 18-Savol: Taqdimot namoyishi paytida virtual lazer ko'rsatgich (Laser Pointer) qanday yoqiladi?
+- [x] **A) Ctrl tugmasini bosib turib chap sichqoncha tugmasini bosish** *(To'g'ri javob)*
+- [ ] B) Alt + L
+- [ ] C) Shift + L
+- [ ] D) Tab
+
+#### 19-Savol: Namoyish paytida ekranda chizish vositalarini (Ruchka / Qalam) yoqish klavishi nima?
+- [x] **A) Ctrl + P** *(To'g'ri javob)*
+- [ ] B) Ctrl + B
+- [ ] C) Ctrl + E
+- [ ] D) Ctrl + A
+
+#### 20-Savol: Ekranga chizilgan barcha qalam izlarini o'chirish (Erase All) klavishi qaysi?
+- [x] **A) E harfi** *(To'g'ri javob)*
+- [ ] B) Esc
+- [ ] C) Del
+- [ ] D) Backspace
+
+#### 21-Savol: Taqdimotni namoyish qilish vaqtini avtomatik mashq qilib belgilash vositasi qaysi?
+- [x] **A) Rehearse Timings (Vaqtni sinab ko'rish)** *(To'g'ri javob)*
+- [ ] B) Record Video
+- [ ] C) Animation Pane
+- [ ] D) Slide Master
+
+#### 22-Savol: Haddan tashqari ko'p va tez harakatlanuvchi animatsiyalar qo'llash nima uchun tavsiya etilmaydi?
+- [x] **A) Tomoshabinni charchatadi va taqdimotning jiddiy mazmunidan chalg'itadi** *(To'g'ri javob)*
+- [ ] B) Fayl ochilmaydi
+- [ ] C) Kompyuter yonib ketadi
+- [ ] D) Ranglar o'chadi
+
+#### 23-Savol: Zoom funksiyasi (Slide Zoom, Section Zoom) nima beradi?
+- [x] **A) Taqdimotning istalgan bo'limiga interaktiv ravishda 'sakrab' o'tish va orqaga qaytish** *(To'g'ri javob)*
+- [ ] B) Faqat shriftni kattalashtiradi
+- [ ] C) Ekranni yorqin qiladi
+- [ ] D) Rasmni qirqadi
+
+#### 24-Savol: Slayd elementlarining ekranda qatlamlar tartibini (orqa/oldinda turishini) boshqaruvchi darcha qaysi?
+- [x] **A) Selection Pane (Tanlov paneli: Alt+F10)** *(To'g'ri javob)*
+- [ ] B) Animation Pane
+- [ ] C) Navigation Pane
+- [ ] D) Comments
+
+#### 25-Savol: Taqdimotni uzluksiz, aylanma ravishda (doimiy ravishda qayta boshlanadigan) qilish qayerdan yoqiladi?
+- [x] **A) Set Up Slide Show -> Loop continuously until 'Esc'** *(To'g'ri javob)*
+- [ ] B) Animations -> Loop
+- [ ] C) Transitions -> Apply to All
+- [ ] D) Design -> Colors
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

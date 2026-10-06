@@ -113,64 +113,175 @@ Fayl 20 yillik eski binar `.doc` formatida saqlangani uchun zamonaviy Word dastu
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 11-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [11-Mavzu: Microsoft Office Paketiga Kirish — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1qNzEUe8nE08H6c3qFklLAFT7RdOTC8zZC8O9MCGgwRg/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [11-Mavzu: Microsoft Office Paketiga Kirish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1qNzEUe8nE08H6c3qFklLAFT7RdOTC8zZC8O9MCGgwRg/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Buxgalteriya hisob-kitoblari, formulalar va diagrammalar bilan ishlash uchun eng qulay dastur qaysi?
-- ( ) A) Microsoft Word
-- (x) B) Microsoft Excel
-- ( ) C) Microsoft PowerPoint
-- ( ) D) Microsoft OneNote
-*Izoh: Excel sonli ma'lumotlarni tahlil qilish va avtomatlashtirilgan hisob-kitoblar jadval protsessoridir.*
-
-#### Test 2: Zamonaviy Microsoft Word hujjatlarining standart fayl kengaytmasi nima?
-- ( ) A) `.txt`
-- ( ) B) `.doc`
-- (x) C) `.docx`
-- ( ) D) `.pdf`
-*Izoh: `.docx` zamonaviy XML arxitekturasiga asoslangan Word hujjati formatidir.*
-
-#### Test 3: Ko'rgazmali slaydlar, taqdimotlar va hisobotlarni auditoriyaga namoyish etish uchun qaysi dastur ishlatiladi?
-- ( ) A) Microsoft Access
-- ( ) B) Microsoft Outlook
-- (x) C) Microsoft PowerPoint
-- ( ) D) Microsoft Excel
-*Izoh: PowerPoint vizual multimedia taqdimotlarini tayyorlash dasturidir.*
-
-#### Test 4: Microsoft 365 bulutli obunasining an'anaviy bir martalik Office (2019/2021) dan asosiy afzalligi nima?
-- ( ) A) Sichqonchasiz ishlashi
-- (x) B) Doimiy eng yangi funksiyalar (AI), 1 TB bulutli OneDrive xotirasi va jamoaviy onlayn ishlash imkoniyati
-- ( ) C) Faqat oq-qora chop etishi
-- ( ) D) Hech qachon internet talab qilmasligi
-*Izoh: Microsoft 365 bulutli servis bo'lib, unga muntazam yangi imkoniyatlar qo'shilib boradi.*
-
-#### Test 5: Word dasturida tezkor saqlash (Save) klaviatura yorlig'i qaysi?
-- ( ) A) `Ctrl + O`
-- (x) B) `Ctrl + S`
-- ( ) C) `Ctrl + P`
-- ( ) D) `Ctrl + N`
-*Izoh: `Ctrl + S` (Save) faylni zudlik bilan saqlash yorlig'idir.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun rasmiy arizani Excelda, maosh hisobotini esa Wordda tayyorlash noqulay va samarasiz hisoblanadi?
-2. Agar kompyuterda Microsoft Office o'rnatilmagan bo'lsa, qanday qilib brauzer orqali Office fayllarini tekin ochish va tahrirlash mumkin?
-3. Nima sababdan tayyor shablonlardan (Templates) foydalanish ofis xodimining ish unumdorligini 3 barobarga oshiradi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Microsoft Office dasturlar paketiga qaysi asosiy dasturlar kiradi?
+- [x] **A) Word, Excel, PowerPoint, Outlook** *(To'g'ri javob)*
+- [ ] B) Photoshop, Premiere, After Effects
+- [ ] C) AutoCAD, 3ds Max
+- [ ] D) CorelDraw, Illustrator
+
+#### 2-Savol: Office dasturlarining yuqori qismidagi tugmalar va menyular tasmasi nima deyiladi?
+- [x] **A) Ribbon (Lenta)** *(To'g'ri javob)*
+- [ ] B) Taskbar
+- [ ] C) Scrollbar
+- [ ] D) Status bar
+
+#### 3-Savol: Tezkor kirish paneli (Quick Access Toolbar) qayerda joylashgan va vazifasi nima?
+- [x] **A) Oynaning yuqori chap burchagida; eng ko'p ishlatiladigan buyruqlarni (Save, Undo) bir bosishda chaqiradi** *(To'g'ri javob)*
+- [ ] B) Pastki o'ngda; vaqtni ko'rsatadi
+- [ ] C) O'rtada; qidiradi
+- [ ] D) Faqat menyu ochadi
+
+#### 4-Savol: Word dasturida saqlangan zamonaviy fayllar qanday kengaytmaga ega bo'ladi?
+- [x] **A) .docx** *(To'g'ri javob)*
+- [ ] B) .doc
+- [ ] C) .txt
+- [ ] D) .rtf
+
+#### 5-Savol: Excel elektron jadvallari qaysi kengaytma bilan saqlanadi?
+- [x] **A) .xlsx** *(To'g'ri javob)*
+- [ ] B) .xls
+- [ ] C) .csv
+- [ ] D) .dbf
+
+#### 6-Savol: PowerPoint taqdimotlari qaysi formatda saqlanadi?
+- [x] **A) .pptx** *(To'g'ri javob)*
+- [ ] B) .ppt
+- [ ] C) .pps
+- [ ] D) .pot
+
+#### 7-Savol: Hujjatni boshqa formatda yoki yangi nom bilan saqlash (Save As) klavishi qaysi?
+- [x] **A) F12** *(To'g'ri javob)*
+- [ ] B) F1
+- [ ] C) Ctrl + S
+- [ ] D) F5
+
+#### 8-Savol: Hujjatni o'zgarishlar bilan tezkor saqlash (Save) kombinatsiyasi nima?
+- [x] **A) Ctrl + S** *(To'g'ri javob)*
+- [ ] B) Ctrl + P
+- [ ] C) Ctrl + O
+- [ ] D) Ctrl + N
+
+#### 9-Savol: Yangi bo'sh hujjat yaratish (New Document) tugmasi qaysi?
+- [x] **A) Ctrl + N** *(To'g'ri javob)*
+- [ ] B) Ctrl + O
+- [ ] C) Ctrl + W
+- [ ] D) Ctrl + E
+
+#### 10-Savol: Mavjud hujjatni ochish (Open) klaviatura birikmasi nima?
+- [x] **A) Ctrl + O** *(To'g'ri javob)*
+- [ ] B) Ctrl + P
+- [ ] C) Ctrl + K
+- [ ] D) Ctrl + D
+
+#### 11-Savol: Hujjatni PDF formatida eksport qilishning asosiy afzalligi nima?
+- [x] **A) Barcha qurilmalarda shrift va dizayn buzilmasdan bir xil ko'rinadi** *(To'g'ri javob)*
+- [ ] B) Hajmi kattalashadi
+- [ ] C) Uni o'zgartirib bo'lmaydi
+- [ ] D) Rasmlar o'chadi
+
+#### 12-Savol: Office dasturlarida 'AutoRecover' (Avtosaxlash) nima uchun kerak?
+- [x] **A) Kutilmaganda kompyuter o'chganda hujjatning oxirgi holatini tiklash uchun** *(To'g'ri javob)*
+- [ ] B) Viruslarni o'chirish uchun
+- [ ] C) Faylni chop etish uchun
+- [ ] D) Imloni tekshirish uchun
+
+#### 13-Savol: Fayl menyusidagi 'Backstage' ko'rinishi qanday bo'limlarni o'z ichiga oladi?
+- [x] **A) Info, Save, Save As, Print, Share, Export, Close** *(To'g'ri javob)*
+- [ ] B) Faqat shriftlar
+- [ ] C) Faqat jadvallar
+- [ ] D) Faqat animatsiyalar
+
+#### 14-Savol: Office shablonlari (Templates) nima maqsadda qo'llaniladi?
+- [x] **A) Tayyor dizayn va tuzilmaga ega rezyume, hisobot yoki blankalarni tez yaratish uchun** *(To'g'ri javob)*
+- [ ] B) Hujjatni qulflash uchun
+- [ ] C) Ofisni o'chirish uchun
+- [ ] D) Internetga ulanish uchun
+
+#### 15-Savol: Microsoft 365 (Office 365) ning oddiy Office dan farqi nima?
+- [x] **A) Bulutli obunaga asoslangan bo'lib, doimiy yangilanishlar va OneDrive integratsiyasini beradi** *(To'g'ri javob)*
+- [ ] B) Faqat telefonda ishlaydi
+- [ ] C) Faqat rasmlar chizadi
+- [ ] D) Litsenziyasiz ishlaydi
+
+#### 16-Savol: Hujjat oynasini yopish (Close Window) tugmasi qaysi?
+- [x] **A) Ctrl + W** *(To'g'ri javob)*
+- [ ] B) Ctrl + Q
+- [ ] C) Alt + W
+- [ ] D) Ctrl + Z
+
+#### 17-Savol: Lentani (Ribbon) vaqtincha yashirish yoki ko'rsatish tugmasi qaysi?
+- [x] **A) Ctrl + F1** *(To'g'ri javob)*
+- [ ] B) Alt + F1
+- [ ] C) F1
+- [ ] D) Shift + F1
+
+#### 18-Savol: Hujjatdagi barcha matn va ob'ektlarni belgilash qaysi tugma bilan bajariladi?
+- [x] **A) Ctrl + A** *(To'g'ri javob)*
+- [ ] B) Ctrl + S
+- [ ] C) Ctrl + C
+- [ ] D) Alt + A
+
+#### 19-Savol: Hujjatda qidiruv (Find) darchasini ochish klavishi nima?
+- [x] **A) Ctrl + F** *(To'g'ri javob)*
+- [ ] B) Ctrl + H
+- [ ] C) Ctrl + G
+- [ ] D) Alt + F
+
+#### 20-Savol: Matndagi so'zlarni boshqasiga almashtirish (Replace) qaysi birikma bilan chaqiriladi?
+- [x] **A) Ctrl + H** *(To'g'ri javob)*
+- [ ] B) Ctrl + R
+- [ ] C) Ctrl + F
+- [ ] D) Alt + H
+
+#### 21-Savol: Hujjat masshtabini (Zoom) tezkor o'zgartirish qanday amalga oshiriladi?
+- [x] **A) Ctrl tugmasini bosib turib sichqoncha g'ildiragini (Scroll) aylantirish** *(To'g'ri javob)*
+- [ ] B) Shift + Scroll
+- [ ] C) Alt + Scroll
+- [ ] D) F5 bosish
+
+#### 22-Savol: Hujjat xususiyatlarida (Document Properties) qanday ma'lumotlar saqlanadi?
+- [x] **A) Muallif, yaratilgan sana, hajmi, sahifalar soni va kalit so'zlar** *(To'g'ri javob)*
+- [ ] B) Faqat kompyuter nomi
+- [ ] C) Faqat klaviatura turi
+- [ ] D) Parollar
+
+#### 23-Savol: Office dasturlarida clipboard (Almashish buferi) bir vaqtning o'zida nechta ob'ektni saqlay oladi?
+- [x] **A) 24 tagacha** *(To'g'ri javob)*
+- [ ] B) 1 ta
+- [ ] C) 100 ta
+- [ ] D) Cheksiz
+
+#### 24-Savol: Hujjatni chop etishdan oldin ko'rish (Print Preview) qaysi tugmalar bilan ochiladi?
+- [x] **A) Ctrl + F2 yoki Ctrl + P** *(To'g'ri javob)*
+- [ ] B) Alt + P
+- [ ] C) Shift + P
+- [ ] D) F4
+
+#### 25-Savol: Office dasturlaridan to'liq chiqish (Exit) tugmasi qaysi?
+- [x] **A) Alt + F4** *(To'g'ri javob)*
+- [ ] B) Ctrl + F4
+- [ ] C) Shift + Esc
+- [ ] D) Esc
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

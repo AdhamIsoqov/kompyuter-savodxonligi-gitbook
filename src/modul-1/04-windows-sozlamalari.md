@@ -127,64 +127,175 @@ Ekran o'lchamini (Resolution) pasaytirish xato yondashuvdir, chunki zamonaviy LC
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi rasmiy Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [04-Mavzu: Windows Sozlamalari va Boshqaruv Paneli — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/178FyY11NDfHTqZsxeGGK6JlSiaaosXGTWiiOSDVrhxs/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [04-Mavzu: Windows Sozlamalari va Boshqaruv Paneli — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/178FyY11NDfHTqZsxeGGK6JlSiaaosXGTWiiOSDVrhxs/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Windows 10/11 da "Sozlamalar" (Settings) darchasini tezkor chaqiruvchi klaviatura yorlig'i qaysi?
-- ( ) A) `Win + S`
-- (x) B) `Win + I`
-- ( ) C) `Win + R`
-- ( ) D) `Ctrl + Shift + S`
-*Izoh: `Win + I` kombinatsiyasi operatsion tizimning zamonaviy sozlamalar ilovasini darhol ishga tushiradi.*
-
-#### Test 2: Monitor tasvirining ravshanligini buzmagan holda matn va ikonkalar hajmini kattalashtirish uchun qaysi parametr o'zgartiriladi?
-- ( ) A) Display Resolution
-- (x) B) Scale (Masshtab)
-- ( ) C) Refresh Rate (Hz)
-- ( ) D) Orientation
-*Izoh: Scale parametri piksellar o'lchamini o'zgartirmay, grafik obyektlarni proporsional kattalashtirib beradi.*
-
-#### Test 3: Windows tizimida qoldiq kesh fayllarni va savatdagi eski ma'lumotlarni avtomatik tozalovchi funksiya nima deb ataladi?
-- ( ) A) Windows Defender
-- ( ) B) Task Scheduler
-- (x) C) Storage Sense (Xotira nazorati)
-- ( ) D) Quick Assist
-*Izoh: Storage Sense diskda bo'sh joy kamayganda yoki belgilangan vaqtda vaqtinchalik keraksiz fayllarni o'zi tozalaydi.*
-
-#### Test 4: Windows-da klaviatura kirish tillari orasida tezkor almashish uchun qaysi tugmalar ishlatiladi?
-- (x) A) `Alt + Shift` yoki `Win + Space`
-- ( ) B) `Ctrl + Tab`
-- ( ) C) `Shift + Esc`
-- ( ) D) `Alt + Enter`
-*Izoh: Windows muhitida tillar `Win + Bo'shliq (Space)` yoki `Alt + Shift` orqali almashtiriladi.*
-
-#### Test 5: "Night light" (Tungi yorug'lik) funksiyasining inson salomatligi uchun asosiy foydasi nimada?
-- ( ) A) Kompyuter quvvat sarfini 50% ga tejaydi
-- (x) B) Ko'zga zararli ko'k nurlanishni kamaytirib, ko'rish quvvatini va uyqu gormonini asraydi
-- ( ) C) Internet tezligini oshiradi
-- ( ) D) Protsessorni sovitishga yordam beradi
-*Izoh: Ekrandan tarqaladigan ko'k spektr ko'z to'r pardasini charchatadi; tungi rejim uni issiq ranglar bilan yumshatadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun Microsoft kompaniyasi Boshqaruv panelini (Control Panel) birdaniga butunlay yo'q qilib yubormasdan, bosqichma-bosqich Settings-ga o'tkazmoqda?
-2. Agar kompyuterda O'zbek tili klaviaturasi o'rnatilgan bo'lsa, `O'` va `G'` harflarini yozish uchun qaysi tugmalardan foydalaniladi?
-3. Kompyuter ekrani yangilanish tezligi (Refresh Rate — 60Hz, 120Hz, 144Hz) inson ko'zining toliqishiga qanday ta'sir qiladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Windows 11 da 'Boshqaruv paneli'ni (Control Panel) tezkor ochish usuli qaysi?
+- [x] **A) Win + R bosib, control deb yozish** *(To'g'ri javob)*
+- [ ] B) F1 bosish
+- [ ] C) Ctrl + P
+- [ ] D) Win + C
+
+#### 2-Savol: Ekran masshtabi va o'lchamini o'zgartirish qaysi bo'limda joylashgan?
+- [x] **A) System -> Display** *(To'g'ri javob)*
+- [ ] B) Personalization -> Colors
+- [ ] C) Network & Internet
+- [ ] D) Apps
+
+#### 3-Savol: Virtual xotira (Paging file / Файл подкачки) nima uchun kerak?
+- [x] **A) RAM yetishmaganda qattiq diskdan qo'shimcha xotira sifatida foydalanish uchun** *(To'g'ri javob)*
+- [ ] B) Internetni tezlashtirish uchun
+- [ ] C) Fayllarni arxivlash uchun
+- [ ] D) Ekranni yorqin qilish uchun
+
+#### 4-Savol: Kompyuterdagi xizmatlar (Services) oynasini ochish buyrug'i qaysi?
+- [x] **A) services.msc** *(To'g'ri javob)*
+- [ ] B) dxdiag
+- [ ] C) cleanmgr
+- [ ] D) regedit
+
+#### 5-Savol: Windows da yangi foydalanuvchi hisobini (User Account) qo'shish qayerdan bajariladi?
+- [x] **A) Settings -> Accounts** *(To'g'ri javob)*
+- [ ] B) Settings -> System
+- [ ] C) Control Panel -> Fonts
+- [ ] D) Taskbar sozlamalaridan
+
+#### 6-Savol: Klaviaturadagi kiritish tillari orasida almashish qaysi tugmalar bilan amalga oshadi?
+- [x] **A) Alt + Shift yoki Win + Space** *(To'g'ri javob)*
+- [ ] B) Ctrl + Shift + Esc
+- [ ] C) Ctrl + Tab
+- [ ] D) Alt + F4
+
+#### 7-Savol: Kompyuter ekrani zudlik bilan qulflanishi (Lock screen) uchun qaysi tugma bosiladi?
+- [x] **A) Win + L** *(To'g'ri javob)*
+- [ ] B) Win + D
+- [ ] C) Alt + L
+- [ ] D) Ctrl + L
+
+#### 8-Savol: Ochiq barcha oynalarni bir vaqtda pasaytirib, Ish stolini ochish qaysi tugma?
+- [x] **A) Win + D** *(To'g'ri javob)*
+- [ ] B) Win + M
+- [ ] C) Alt + D
+- [ ] D) Ctrl + D
+
+#### 9-Savol: Disklarni boshqarish (Disk Management) utilitasini ochish buyrug'i nima?
+- [x] **A) diskmgmt.msc** *(To'g'ri javob)*
+- [ ] B) devmgmt.msc
+- [ ] C) compmgmt.msc
+- [ ] D) gpedit.msc
+
+#### 10-Savol: Qurilmalar menejerini (Device Manager) ochish buyrug'i qaysi?
+- [x] **A) devmgmt.msc** *(To'g'ri javob)*
+- [ ] B) taskmgr
+- [ ] C) appwiz.cpl
+- [ ] D) ncpa.cpl
+
+#### 11-Savol: Windows tizimida reyestr tahrirchisini (Registry Editor) qaysi buyruq ochadi?
+- [x] **A) regedit** *(To'g'ri javob)*
+- [ ] B) cmd
+- [ ] C) powershell
+- [ ] D) msconfig
+
+#### 12-Savol: Tizim konfiguratsiyasi (System Configuration) oynasi qaysi buyruq bilan chaqiriladi?
+- [x] **A) msconfig** *(To'g'ri javob)*
+- [ ] B) sysdm.cpl
+- [ ] C) config.exe
+- [ ] D) winver
+
+#### 13-Savol: Windows versiyasini tekshirish uchun 'Run' ga nima deb yoziladi?
+- [x] **A) winver** *(To'g'ri javob)*
+- [ ] B) ver
+- [ ] C) osver
+- [ ] D) info
+
+#### 14-Savol: Windows Defender xavfsizlik devori (Firewall) ning asosiy vazifasi nima?
+- [x] **A) Kiruvchi va chiquvchi tarmoq trafigini nazorat qilish va xavflardan himoyalash** *(To'g'ri javob)*
+- [ ] B) Fayllarni o'chirish
+- [ ] C) Viruslarni yaratish
+- [ ] D) Diskni tozalash
+
+#### 15-Savol: Vazifalar panelini (Taskbar) yashirish yoki sozlash qaysi menyuda joylashgan?
+- [x] **A) Settings -> Personalization -> Taskbar** *(To'g'ri javob)*
+- [ ] B) Settings -> Network
+- [ ] C) Control Panel -> Sound
+- [ ] D) System -> About
+
+#### 16-Savol: Kompyuterning uyqu rejimiga (Sleep mode) o'tish vaqtini qayerdan sozlash mumkin?
+- [x] **A) System -> Power & battery (Screen and sleep)** *(To'g'ri javob)*
+- [ ] B) Display -> Color profile
+- [ ] C) Network -> Proxy
+- [ ] D) Apps -> Default apps
+
+#### 17-Savol: Sana va vaqtni internet bilan avtomatik sinxronlash qaysi bo'limda?
+- [x] **A) Time & language -> Date & time** *(To'g'ri javob)*
+- [ ] B) Personalization -> Fonts
+- [ ] C) Accessibility
+- [ ] D) Privacy & security
+
+#### 18-Savol: Windows da ovoz sozlamalarini boshqarish qayerda joylashgan?
+- [x] **A) System -> Sound** *(To'g'ri javob)*
+- [ ] B) Apps -> Installed apps
+- [ ] C) Network
+- [ ] D) Accounts
+
+#### 19-Savol: Bildirishnomalar (Notifications) va 'Fokuslanish' (Focus assist) qayerdan boshqariladi?
+- [x] **A) System -> Notifications / Focus** *(To'g'ri javob)*
+- [ ] B) Personalization
+- [ ] C) Bluetooth & devices
+- [ ] D) Gaming
+
+#### 20-Savol: Windows 11 da mavzularni (Themes, Dark/Light mode) o'zgartirish qaysi bo'limda?
+- [x] **A) Settings -> Personalization -> Colors / Themes** *(To'g'ri javob)*
+- [ ] B) System -> Storage
+- [ ] C) Network
+- [ ] D) Accounts
+
+#### 21-Savol: O'rnatilgan dasturlar ro'yxatini ko'rish va o'chirish uchun 'Run' buyrug'i qaysi?
+- [x] **A) appwiz.cpl** *(To'g'ri javob)*
+- [ ] B) ncpa.cpl
+- [ ] C) firewall.cpl
+- [ ] D) main.cpl
+
+#### 22-Savol: Sichqoncha kursori tezligini va ko'rinishini qayerdan sozlash mumkin?
+- [x] **A) Bluetooth & devices -> Mouse (yoki main.cpl)** *(To'g'ri javob)*
+- [ ] B) Personalization -> Start
+- [ ] C) System -> Recovery
+- [ ] D) Time & language
+
+#### 23-Savol: Kompyuter haqida asosiy ma'lumotlarni ko'rish bo'limi qaysi?
+- [x] **A) Settings -> System -> About** *(To'g'ri javob)*
+- [ ] B) Settings -> Privacy
+- [ ] C) Settings -> Update
+- [ ] D) Control Panel -> Clock
+
+#### 24-Savol: Windows Update (Yangilanishlar) bo'limining asosiy vazifasi nima?
+- [x] **A) Xavfsizlik yamoqlari va tizim yangilanishlarini o'rnatish** *(To'g'ri javob)*
+- [ ] B) Fayllarni tozalash
+- [ ] C) Internetni o'chirish
+- [ ] D) Diskni formatlash
+
+#### 25-Savol: Ochiq oynalarni almashlab ko'rish (Task View) uchun qaysi tugma ishlatiladi?
+- [x] **A) Win + Tab** *(To'g'ri javob)*
+- [ ] B) Alt + Shift
+- [ ] C) Ctrl + Shift
+- [ ] D) Win + Space
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

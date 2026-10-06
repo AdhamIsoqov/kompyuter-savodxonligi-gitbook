@@ -134,64 +134,175 @@ Windows tizimining **Print Spooler** xizmati keshida buzilgan chop etish fayli (
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 6-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1bQZdeRGZYDQzj-ND03tUN_Gz5iOZQvoek6ZHD8YGz_4/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1bQZdeRGZYDQzj-ND03tUN_Gz5iOZQvoek6ZHD8YGz_4/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Lazerli printerlarda chop etish uchun sarflanadigan quruq kukun moddasi nima deb ataladi?
-- ( ) A) Ink (Suyuq siyoh)
-- (x) B) Toner
-- ( ) C) Termopasta
-- ( ) D) Flyus
-*Izoh: Lazerli printerlar quruq kukun — toner va maxsus lazer barabani orqali qog'ozga matn tushiradi.*
-
-#### Test 2: Dasturlarda chop etish (Print) darchasini chaqiruvchi umumiy tezkor klaviatura yorlig'i qaysi?
-- ( ) A) `Ctrl + S`
-- (x) B) `Ctrl + P`
-- ( ) C) `Ctrl + Shift + P`
-- ( ) D) `Alt + P`
-*Izoh: `Ctrl + P` (Print) buyrug'i barcha ofis va brauzer dasturlarida chop etish oynasini ochadi.*
-
-#### Test 3: Keng jadvalli hujjatlarni qog'ozga gorizontal shaklda chiqarish uchun qaysi yo'nalish tanlanadi?
-- ( ) A) Portrait (Kitobiy)
-- (x) B) Landscape (Albomiy)
-- ( ) C) Vertical
-- ( ) D) Collate
-*Izoh: Landscape sahifani eniga yoyib, keng jadvallarni sig'dirish uchun xizmat qiladi.*
-
-#### Test 4: Hujjat chop etishga yuborilganda navbatda qolib ketgan fayllarni boshqaruvchi Windows xizmati qaysi?
-- ( ) A) Windows Defender
-- ( ) B) Task Scheduler
-- (x) C) Print Spooler
-- ( ) D) DNS Client
-*Izoh: Print Spooler hujjatlarni keshga oladi va ularni printerga navbat bilan uzatadi.*
-
-#### Test 5: "Default Printer" (Asosiy printer) funksiyasi nimani anglatadi?
-- ( ) A) Eng qimmat printer
-- (x) B) Foydalanuvchi chop etish buyrug'ini berganda har doim avtomatik birinchi tanlanadigan printer
-- ( ) C) Internetga ulanmagan printer
-- ( ) D) Rangli printer
-*Izoh: Tizimda asosiy qilib belgilangan printer `Ctrl + P` bosilganda avtomatik ro'yxat boshida turadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun rasmiy idoralar va buxgalteriyalarda siyohli (Inkjet) printerlarga qaraganda ko'proq lazerli printerlar afzal ko'riladi?
-2. Chop etishdan oldin har doim "Print Preview" (Oldindan ko'rish) rejimini tekshirish nima uchun muhim?
-3. Printerga qog'oz solishdan oldin qog'oz dastasini bir oz yelpib (shivirletib) olish nima uchun kerak?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Printerlarning qaysi turi kukunli (Toner) kartrijdan foydalanadi?
+- [x] **A) Lazer printerlar** *(To'g'ri javob)*
+- [ ] B) Siyohli (Inkjet) printerlar
+- [ ] C) Matritsali printerlar
+- [ ] D) Termal printerlar
+
+#### 2-Savol: Siyohli printerlarning asosiy afzalligi nima?
+- [x] **A) Yuqori sifatli rangli fotosuratlarni chop etish imkoniyati** *(To'g'ri javob)*
+- [ ] B) Tez chop etishi
+- [ ] C) Siyohi hech qachon qurimasligi
+- [ ] D) Kukun ishlatishi
+
+#### 3-Savol: Printer drayveri nima uchun kerak?
+- [x] **A) Operatsion tizim va printer apparati o'rtasida muloqotni ta'minlash uchun** *(To'g'ri javob)*
+- [ ] B) Qog'ozni tortish uchun
+- [ ] C) Ranglarni tozalash uchun
+- [ ] D) Elektrni tejash uchun
+
+#### 4-Savol: Windows tizimida chop etish navbatini boshqaruvchi xizmat qaysi?
+- [x] **A) Print Spooler** *(To'g'ri javob)*
+- [ ] B) Windows Audio
+- [ ] C) Task Scheduler
+- [ ] D) Windows Defender
+
+#### 5-Savol: Duplex chop etish rejimi nimani anglatadi?
+- [x] **A) Qog'ozning har ikki tomoniga avtomatik chop etish** *(To'g'ri javob)*
+- [ ] B) Ikkita nusxada chiqarish
+- [ ] C) Ikki xil rangda chiqarish
+- [ ] D) Juda tez chop etish
+
+#### 6-Savol: Chop etish o'lchami birligi DPI nimani bildiradi?
+- [x] **A) Dots Per Inch (Bir dyuymdagi nuqtalar soni)** *(To'g'ri javob)*
+- [ ] B) Data Per Internet
+- [ ] C) Driver Port Interface
+- [ ] D) Disk Page Index
+
+#### 7-Savol: Chop etish darchasini tezkor chaqirish klavishi qaysi?
+- [x] **A) Ctrl + P** *(To'g'ri javob)*
+- [ ] B) Ctrl + O
+- [ ] C) Ctrl + S
+- [ ] D) Alt + P
+
+#### 8-Savol: Tarmoq printerini ulashda eng ishonchli usul qaysi?
+- [x] **A) Printer IP manzili orqali TCP/IP portini qo'shish** *(To'g'ri javob)*
+- [ ] B) Fleshka orqali
+- [ ] C) Bluetooth orqali
+- [ ] D) Mikrofon porti orqali
+
+#### 9-Savol: Chop etish navbati (Print Queue) qotib qolganda nima qilish kerak?
+- [x] **A) Print Spooler xizmatini to'xtatib, PRINTERS papkasini tozalab, xizmatni qayta yoqish** *(To'g'ri javob)*
+- [ ] B) Printerni tashlab yuborish
+- [ ] C) Windowsni qayta o'rnatish
+- [ ] D) Monitorni o'chirish
+
+#### 10-Savol: Qog'oz yo'nalishlarining (Orientation) qanday turlari bor?
+- [x] **A) Portrait (Kitobiy) va Landscape (Albomiy)** *(To'g'ri javob)*
+- [ ] B) Vertikal va Shaffof
+- [ ] C) Dumaloq va Kvadrat
+- [ ] D) Qalin va Yupqa
+
+#### 11-Savol: Lazer printerda qog'ozdagi kukunni eritib yopishtiruvchi qism nima deyiladi?
+- [x] **A) Pechka (Fuser)** *(To'g'ri javob)*
+- [ ] B) Fotobaraban
+- [ ] C) Skaner kallagi
+- [ ] D) Rolik
+
+#### 12-Savol: Standart ofis qog'ozi o'lchami qaysi?
+- [x] **A) A4 (210 x 297 mm)** *(To'g'ri javob)*
+- [ ] B) A3 (297 x 420 mm)
+- [ ] C) A5 (148 x 210 mm)
+- [ ] D) B5
+
+#### 13-Savol: Print to PDF funksiyasi nima vazifani bajaradi?
+- [x] **A) Hujjatni qog'ozga chiqarmasdan, elektron PDF fayl qilib saqlaydi** *(To'g'ri javob)*
+- [ ] B) Printerni o'chiradi
+- [ ] C) PDF ni o'chiradi
+- [ ] D) Faylni siqadi
+
+#### 14-Savol: Fotobaraban (Drum unit) yuzasiga quyosh nuri tushishi nima uchun xavfli?
+- [x] **A) Fotosensitiv qatlam nurning ta'sirida buzilib, bosmada qora chiziqlar hosil qiladi** *(To'g'ri javob)*
+- [ ] B) U yonib ketadi
+- [ ] C) U erib ketadi
+- [ ] D) Ranglar quriydi
+
+#### 15-Savol: Doimiy siyoh yetkazish tizimi (CISS / СНПЧ) nima uchun ishlatiladi?
+- [x] **A) Siyohli printerda chop etish tannarxini keskin arzonlashtirish va siyohni oson quyish uchun** *(To'g'ri javob)*
+- [ ] B) Tezlikni oshirish uchun
+- [ ] C) Qog'ozni tejash uchun
+- [ ] D) Lazer qilish uchun
+
+#### 16-Savol: Printerni asosiy (Default Printer) qilib belgilash nimani anglatadi?
+- [x] **A) Barcha dasturlardan chop etilganda avtomatik shu printer tanlanadi** *(To'g'ri javob)*
+- [ ] B) Boshqa printerlar ishlamaydi
+- [ ] C) Printer faqat bir marta ishlaydi
+- [ ] D) Faqat matn chop etadi
+
+#### 17-Savol: Printerda qog'oz tiqilib qolganda (Paper Jam) uni qanday chiqarish kerak?
+- [x] **A) Qog'oz yo'nalishi bo'ylab ikki qo'llab, sekin tortib olish kerak** *(To'g'ri javob)*
+- [ ] B) Keskin siltab yirtib olish kerak
+- [ ] C) Temir asbob bilan qirib olish
+- [ ] D) Olov bilan kuydirish
+
+#### 18-Savol: Termal printerlar asosan qayerlarda qo'llaniladi?
+- [x] **A) Chek, kassa va shtrix-kod yorliqlarini chop etishda** *(To'g'ri javob)*
+- [ ] B) Fotosuratxonada
+- [ ] C) Maktab daftarlarida
+- [ ] D) Kitob bosishda
+
+#### 19-Savol: Printerni Wi-Fi orqali ulashning afzalligi nima?
+- [x] **A) Kabel ulamasdan xonadagi bir nechta qurilmadan erkin chop etish** *(To'g'ri javob)*
+- [ ] B) Printerni tezlashtiradi
+- [ ] C) Siyoh sarflamaydi
+- [ ] D) Elektr talab qilmaydi
+
+#### 20-Savol: Matritsali (Dot-matrix) printerlarning hozirgi kunda ham ishlatilish sababi nima?
+- [x] **A) Nusxa qog'oz (kopirka) orqali bir vaqtning o'zida bir nechta nusxani bosish qobiliyati** *(To'g'ri javob)*
+- [ ] B) Juda tezligi
+- [ ] C) Ranglarining yorqinligi
+- [ ] D) Tovushsizligi
+
+#### 21-Savol: PCL va PostScript drayverlarining asosiy vazifasi nima?
+- [x] **A) Chop etish sahifalarini tavsiflovchi standart tillar (Page Description Language)** *(To'g'ri javob)*
+- [ ] B) Ovoz sozlamalari
+- [ ] C) Virusdan himoyalash
+- [ ] D) Tarmoq tezligini oshirish
+
+#### 22-Savol: Chop etish sifatini pasaytirish (Draft / EconoMode) nima beradi?
+- [x] **A) Toner/siyohni tejaydi va tezroq chop etadi** *(To'g'ri javob)*
+- [ ] B) Qog'ozni kamroq sarflaydi
+- [ ] C) Chop sifatini oshiradi
+- [ ] D) Printerni qizdiradi
+
+#### 23-Savol: Printer sozlamalarida 'Collate' (Tartiblash) funksiyasi nima qiladi?
+- [x] **A) Ko'p nusxali ko'p sahifali hujjatlarni to'liq kitobcha tartibida (1,2,3... 1,2,3...) chiqaradi** *(To'g'ri javob)*
+- [ ] B) Barcha 1-betlarni birga chiqaradi
+- [ ] C) Sahifalarni aralashtiradi
+- [ ] D) Teskarisiga chop etadi
+
+#### 24-Savol: Test sahifasini chop etish (Print Test Page) nima uchun kerak?
+- [x] **A) Drayver va printer aloqasi hamda chop sifati to'g'ri ekanligini tasdiqlash uchun** *(To'g'ri javob)*
+- [ ] B) Siyohni tugatish uchun
+- [ ] C) Vaqtni bilish uchun
+- [ ] D) Qog'oz o'lchamini tekshirish uchun
+
+#### 25-Savol: Printer drayveri qaysi operatsion tizim oynasida ko'rinadi?
+- [x] **A) Settings -> Bluetooth & devices -> Printers & scanners** *(To'g'ri javob)*
+- [ ] B) Network Connections
+- [ ] C) File Explorer
+- [ ] D) Disk Cleanup
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

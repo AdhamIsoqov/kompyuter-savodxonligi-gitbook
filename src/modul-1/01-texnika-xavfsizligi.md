@@ -120,64 +120,175 @@ Xodim sintetik kiyimda ishlagan va tizim blokiga teginishdan oldin statik zaryad
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** Ushbu dars bo'yicha o'zlashtirish darajangizni baholash uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [01-Mavzu: Texnika Xavfsizligi va Mehnatni Muhofaza Qilish — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1MUJQ3uYHR5XgKR3h3GNlrbXhE9CSwajy4FeUO3foCHQ/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [01-Mavzu: Texnika Xavfsizligi va Mehnatni Muhofaza Qilish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1MUJQ3uYHR5XgKR3h3GNlrbXhE9CSwajy4FeUO3foCHQ/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Monitor bilan foydalanuvchi ko'zi orasidagi tavsiya etilgan xavfsiz masofa qancha?
-- ( ) A) 20–30 sm
-- (x) B) 50–70 sm
-- ( ) C) 100–120 sm
-- ( ) D) Farqi yo'q
-*Izoh: 50–70 sm masofa (taxminan bir cho'zilgan qo'l uzunligi) ko'z nuri charchashining oldini oluvchi xalqaro ergonomik standartdir.*
-
-#### Test 2: Statik elektr toki (ESD) kompyuterning eng ko'p qaysi qismiga xavf soladi?
-- ( ) A) Tizim blokining temir korpusiga
-- ( ) B) Elektr quvvat shnuriga
-- (x) C) Operativ xotira (RAM) va protsessor mikrosxemalariga
-- ( ) D) Sovutgich ventilyatoriga
-*Izoh: Nozik yarimo'tkazgich mikrosxemalar hatto inson sezmaydigan kichik statik razryaddan ham kuyib qolishi mumkin.*
-
-#### Test 3: Kompyuter xonasida yong'in chiqqanda birinchi navbatda qanday harakat qilinadi?
-- (x) A) Zudlik bilan xonaning umumiy elektr tarmog'ini o'chirish (rubilnikdan ajratish)
-- ( ) B) Yong'inni darhol suv sepib o'chirish
-- ( ) C) Monitor va kompyuterlarni tashqariga tashish
-- ( ) D) Oynalarni ochib xonani shamollatish
-*Izoh: Elektr qurilmalari yonayotganda suv sepish tok urishiga olib keladi. Birinchi navbatda tok zudlik bilan uzilishi shart.*
-
-#### Test 4: Windows tizimida sozlamalar (Settings) darchasini tezkor chaqirish tugmalari qaysi?
-- ( ) A) `Ctrl + Alt + Del`
-- (x) B) `Win + I`
-- ( ) C) `Alt + F4`
-- ( ) D) `Win + D`
-*Izoh: `Win + I` tugmalar kombinatsiyasi Windows tizim sozlamalarini darhol ochadi.*
-
-#### Test 5: "Tunnel sindromi" (Carpal tunnel syndrome) kompyuterda qanday noto'g'ri ishlash oqibatida yuzaga keladi?
-- ( ) A) Monitorni juda uzoqqa qo'yganda
-- (x) B) Sichqoncha va klaviaturada ishlaganda bilak noto'g'ri burchak ostida zo'riqqanda
-- ( ) C) Qorong'i xonada ishlaganda
-- ( ) D) Quloqchinlardan baland ovozda foydalanganda
-*Izoh: Bilak bo'g'imining stol qirrasiga uzoq vaqt noqulay siqilib turishi nerv tolalarining qisilishiga olib keladi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun kompyuter tizim blokini to'g'ridan-to'g'ri gilam yoki qalin paxmoq pol ustiga qo'yish tavsiya etilmaydi?
-2. Agar ish joyingizdagi rozetkada yerga ulash (grounding / заземление) simi bo'lmasa, qanday texnik xatarlar yuzaga kelishi mumkin?
-3. 20-20-20 qoidasi nima va u ko'rish qobiliyatini asrashda qanday ishlaydi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Monitor ekrani va foydalanuvchi ko'zlari orasidagi xavfsiz optimal masofa qancha bo'lishi kerak?
+- [x] **A) 50–70 sm** *(To'g'ri javob)*
+- [ ] B) 20–30 sm
+- [ ] C) 100–120 sm
+- [ ] D) 30–40 sm
+
+#### 2-Savol: Kompyuter xonasida optimal havo harorati qanday bo'lishi tavsiya etiladi?
+- [x] **A) 19–22 °C** *(To'g'ri javob)*
+- [ ] B) 10–15 °C
+- [ ] C) 28–32 °C
+- [ ] D) Farqi yo'q
+
+#### 3-Savol: Elektr toki urishi xavfini kamaytirish uchun qanday rozetkalardan foydalanish shart?
+- [x] **A) Yerga ulangan (Grounding/Заземление)** *(To'g'ri javob)*
+- [ ] B) Oddiy ikki tishli
+- [ ] C) Uzatkichsiz to'g'ridan-to'g'ri ulanish
+- [ ] D) Himoyasiz qadimgi rozetkalar
+
+#### 4-Savol: Statik elektr (ESD) kompyuterning eng ko'p qaysi qismlariga xavf soladi?
+- [x] **A) RAM va protsessor mikrosxemalariga** *(To'g'ri javob)*
+- [ ] B) Monitor shishasiga
+- [ ] C) Tizim bloki temir korpusiga
+- [ ] D) Klaviatura tugmachalariga
+
+#### 5-Savol: 20-20-20 qoidasi nimani anglatadi?
+- [x] **A) Har 20 daqiqada 20 fut (6 metr) uzoqlikka 20 soniya qarash** *(To'g'ri javob)*
+- [ ] B) 20 daqiqa uxlash
+- [ ] C) Har 20 soatda 20 marta ko'zni yumish
+- [ ] D) 20 metr masofadan 20 soniya yugurish
+
+#### 6-Savol: Kompyuter yonida suyuqlik ichish nima uchun taqiqlanadi?
+- [x] **A) Qisqa tutashuv va tok urishi xavfi borligi sababli** *(To'g'ri javob)*
+- [ ] B) Monitor rangi buzilishi sababli
+- [ ] C) Internet tezligi pasayishi uchun
+- [ ] D) Elektr sarfi oshishi sababli
+
+#### 7-Savol: Kompyuter ishlayotgan vaqtda qaysi ishni bajarish qat'iyan taqiqlanadi?
+- [x] **A) Quvvat manbaini va ichki qismlarni sug'urish** *(To'g'ri javob)*
+- [ ] B) Sichqonchani qimirlatish
+- [ ] C) Klaviaturadan matn terish
+- [ ] D) Monitorda videoni ko'rish
+
+#### 8-Savol: Tunnel sindromi (Carpal tunnel syndrome) nima sababdan yuzaga keladi?
+- [x] **A) Sichqoncha va klaviaturada ishlaganda bilakning noto'g'ri zo'riqishi** *(To'g'ri javob)*
+- [ ] B) Monitorga yaqindan qarash
+- [ ] C) Quloqchinda musiqa tinglash
+- [ ] D) Qorong'i xonada o'tirish
+
+#### 9-Savol: Elektr simlaridan tutun chiqqanda birinchi navbatda nima qilish kerak?
+- [x] **A) Zudlik bilan elektr manbaini (rubilnikni) o'chirish** *(To'g'ri javob)*
+- [ ] B) Suv sepib o'chirish
+- [ ] C) Kompyuterni ko'tarib chiqish
+- [ ] D) Oynani ochib shamollatish
+
+#### 10-Savol: Windows 11 tizimida ko'zni asrash uchun qaysi funksiya mavjud?
+- [x] **A) Night light (Ночной свет)** *(To'g'ri javob)*
+- [ ] B) Battery Saver
+- [ ] C) Game Mode
+- [ ] D) Airplane Mode
+
+#### 11-Savol: Ergonomik stulda o'tirganda tizzalar qanday burchak hosil qilishi kerak?
+- [x] **A) 90 gradus** *(To'g'ri javob)*
+- [ ] B) 45 gradus
+- [ ] C) 120 gradus
+- [ ] D) 180 gradus
+
+#### 12-Savol: Kompyuter monitorining yuqori qirrasi qaysi balandlikda bo'lishi kerak?
+- [x] **A) Ko'z darajasida yoki undan sal pastroqda** *(To'g'ri javob)*
+- [ ] B) Ko'zdan 30 sm balandda
+- [ ] C) Ko'krak qafasi darajasida
+- [ ] D) Shiftga yaqin joyda
+
+#### 13-Savol: Tizim blokini devordan qancha masofada o'rnatish lozim?
+- [x] **A) Kamida 10-15 sm** *(To'g'ri javob)*
+- [ ] B) Devorga taqab qo'yish kerak
+- [ ] C) Kamida 1 metr
+- [ ] D) 5 sm
+
+#### 14-Savol: Tizim blokini ochishdan oldin statik zaryadni qanday yo'qotish mumkin?
+- [x] **A) Metall korpusga teginish yoki antistatik bilaguzuk taqish** *(To'g'ri javob)*
+- [ ] B) Qo'lni suv bilan yuvish
+- [ ] C) Kiyimni silkitish
+- [ ] D) Qog'ozga teginish
+
+#### 15-Savol: Kompyuter xonasida yong'in sodir bo'lganda qanday o't o'chirgich ishlatiladi?
+- [x] **A) Kukunli yoki karbonat angidridli (gazli)** *(To'g'ri javob)*
+- [ ] B) Suvli o't o'chirgich
+- [ ] C) Ko'pikli o't o'chirgich
+- [ ] D) Qum sepilmaydi
+
+#### 16-Savol: Monitor ekranidagi changni qanday tozalash kerak?
+- [x] **A) Maxsus mikrofibra latta va monitor suyuqligi bilan** *(To'g'ri javob)*
+- [ ] B) Nam sovunli paxta bilan
+- [ ] C) Spirt va paxta bilan
+- [ ] D) Oddiy qog'oz salfetka bilan
+
+#### 17-Savol: Stolda qo'l tirsaklari qanday holatda turishi lozim?
+- [x] **A) Stol yuzasi bilan bir xil sathda, 90 gradus atrofida** *(To'g'ri javob)*
+- [ ] B) Pastga osilib turishi kerak
+- [ ] C) Yelka darajasida yuqoriga ko'tarilgan
+- [ ] D) Tirsaklar havoda turishi shart
+
+#### 18-Savol: Kompyuter uzluksiz ishlash vaqtida har soatda necha daqiqa tanaffus qilish tavsiya etiladi?
+- [x] **A) 10–15 daqiqa** *(To'g'ri javob)*
+- [ ] B) 1 daqiqa
+- [ ] C) 45 daqiqa
+- [ ] D) Tanaffus kerak emas
+
+#### 19-Savol: Ko'k nur (Blue light) inson tanasida qaysi gormon ishlab chiqarilishini pasaytiradi?
+- [x] **A) Melatonin (uyqu gormoni)** *(To'g'ri javob)*
+- [ ] B) Adrenalin
+- [ ] C) Insulin
+- [ ] D) Tiroksin
+
+#### 20-Savol: Noutbukni tizza ustiga qo'yib uzoq vaqt ishlash nima uchun zararli?
+- [x] **A) Ventilyatsiya teshiklari to'silib qizib ketadi va tana qiziydi** *(To'g'ri javob)*
+- [ ] B) Wi-Fi to'xtab qoladi
+- [ ] C) Batareya darhol buziladi
+- [ ] D) Ekran yorqinligi o'chadi
+
+#### 21-Savol: UPS (Uninterruptible Power Supply) qurilmasining asosiy vazifasi nima?
+- [x] **A) Elektr uzilganda kompyuterni vaqtincha quvvatlab turish** *(To'g'ri javob)*
+- [ ] B) Internetni tezlashtirish
+- [ ] C) Kompyuterni virusdan tozalash
+- [ ] D) Fayllarni arxivlash
+
+#### 22-Savol: Kompyuter xonasida havoning nisbiy namligi qanday bo'lishi maqbul?
+- [x] **A) 40–60%** *(To'g'ri javob)*
+- [ ] B) 10–20%
+- [ ] C) 85–95%
+- [ ] D) 0%
+
+#### 23-Savol: Klaviaturani tozalashda qaysi vositadan foydalanish xavfsiz?
+- [x] **A) Siqilgan havo balloni (Compressed air)** *(To'g'ri javob)*
+- [ ] B) Suv quyish
+- [ ] C) Olovda qizdirish
+- [ ] D) Nam cho'tka
+
+#### 24-Savol: Monitor ekrani derazaga nisbatan qanday joylashishi kerak?
+- [x] **A) Deraza yon tomonda bo'lishi, to'g'ridan-to'g'ri quyosh tushmasligi kerak** *(To'g'ri javob)*
+- [ ] B) Derazaga teskari, quyosh ekranga tushadigan holatda
+- [ ] C) Deraza to'g'risida, ko'zga quyosh tushadigan
+- [ ] D) Farqi yo'q
+
+#### 25-Savol: Windows Sozlamalar darchasini tezkor ochuvchi tugmalar qaysi?
+- [x] **A) Win + I** *(To'g'ri javob)*
+- [ ] B) Ctrl + Alt + Del
+- [ ] C) Win + E
+- [ ] D) Alt + F4
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

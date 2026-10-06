@@ -136,64 +136,175 @@ Foydalanuvchi o'rnatish vaqtida shartlarni o'qimay "Next" ni bosgan va dastur ic
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 5-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [05-Mavzu: Dasturlarni O'rnatish va Boshqarish — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1FX4XxxVK4ZCCNtahGmUyto20hP0CkZ6V0AlVHMeG6lA/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [05-Mavzu: Dasturlarni O'rnatish va Boshqarish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1FX4XxxVK4ZCCNtahGmUyto20hP0CkZ6V0AlVHMeG6lA/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Portable (ko'chma) dasturlarning an'anaviy Installer dasturlardan asosiy farqi nimada?
-- ( ) A) Portable dasturlar faqat internet o'chiq bo'lganda ishlaydi
-- (x) B) Portable dasturlarni o'rnatish shart emas, ular to'g'ridan-to'g'ri papkadan yoki fleshkadan ishlaydi va reyestrda iz qoldirmaydi
-- ( ) C) Portable dasturlarning hajmi doimo 10 GB dan katta bo'ladi
-- ( ) D) Portable dasturlar faqat Linux tizimida ishlaydi
-*Izoh: Portable dasturlar tizimga chuqur integratsiya qilinmaydi, ularni ko'chma tashuvchidan to'g'ridan-to'g'ri ishlatish mumkin.*
-
-#### Test 2: Windows tizimida dasturlarni o'chirish (Uninstall) darchasini ochuvchi tezkor tizimli buyruq qaysi?
-- ( ) A) `cleanmgr`
-- (x) B) `appwiz.cpl`
-- ( ) C) `regedit`
-- ( ) D) `cmd`
-*Izoh: `appwiz.cpl` buyrug'i klassik "Programs and Features" darchasini darhol ochadi.*
-
-#### Test 3: Kompyuter yoqilganda o'z-o'zidan ishga tushadigan dasturlar (Startup) qayerdan boshqariladi va o'chiriladi?
-- ( ) A) Fayl Explorer orqali
-- (x) B) Task Manager -> Startup apps bo'limi orqali
-- ( ) C) Monitor sozlamalari orqali
-- ( ) D) Savat (Recycle Bin) orqali
-*Izoh: Task Manager'ning Startup bo'limida avtoyuklanuvchi barcha dasturlar nazorat qilinadi.*
-
-#### Test 4: Dasturni uning `C:\Program Files` dagi papkasini shunchaki o'chirib tashlash orqali yo'qotish nega tavsiya etilmaydi?
-- ( ) A) Bu kompyuter monitorini kuydiradi
-- (x) B) Tizim reyestrida va xizmatlarida keraksiz izlar qolib, keyinchalik xatoliklarga olib keladi
-- ( ) C) Faylni boshqa tiklab bo'lmaydi
-- ( ) D) Bu internetni o'chirib qo'yadi
-*Izoh: To'g'ri o'chirish faqat `Uninstall` mexanizmi orqali barcha bog'liq fayl va reyestr yozuvlarini tozalash bilan bo'ladi.*
-
-#### Test 5: Dastur o'rnatish vaqtida paydo bo'ladigan UAC (User Account Control) darchasining asosiy vazifasi nima?
-- ( ) A) Dasturni tezroq yuklash
-- (x) B) Tizimga administratorlik darajasida o'zgartirish kiritilayotgani haqida foydalanuvchini ogohlantirish va ruxsat so'rash
-- ( ) C) Litsenziya kalitini tekshirish
-- ( ) D) Kompyuterni internetga ulash
-*Izoh: UAC zararli dasturlarning foydalanuvchi ruxsatisiz tizim fayllarini o'zgartirishiga to'sqinlik qiladi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun litsenziyali dasturlarning krak (patch/keygen) qilingan versiyalarini o'rnatish kompyuter xavfsizligiga jiddiy putur yetkazadi?
-2. Agar biror dastur "Uninstall" qilinayotganda "Dastur boshqa jarayonda band" degan xatolik bersa, uni qanday yopish kerak?
-3. Nima sababdan ba'zi dasturlar 32-bit (`Program Files (x86)`), ba'zilari esa 64-bit (`Program Files`) papkalariga bo'lib o'rnatiladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Windows dasturlarini o'rnatuvchi keng tarqalgan fayl kengaytmalari qaysilar?
+- [x] **A) .exe va .msi** *(To'g'ri javob)*
+- [ ] B) .docx va .xlsx
+- [ ] C) .jpg va .png
+- [ ] D) .mp3 va .mp4
+
+#### 2-Savol: MSI o'rnatuvchisining oddiy EXE dan asosiy farqi nima?
+- [x] **A) Windows Installer standart paketiga asoslangan bo'lib, markazlashgan boshqaruvni ta'minlaydi** *(To'g'ri javob)*
+- [ ] B) Faqat o'yinlar uchun
+- [ ] C) Faqat bir marta ochiladi
+- [ ] D) Hajmi kichik bo'lmaydi
+
+#### 3-Savol: Windows 11 da konsol orqali dasturlarni o'rnatuvchi rasmiy paket menejeri qaysi?
+- [x] **A) winget** *(To'g'ri javob)*
+- [ ] B) apt-get
+- [ ] C) brew
+- [ ] D) yum
+
+#### 4-Savol: Dasturni o'rnatganda 'Custom / Advanced installation' tanlash nimasi bilan foydali?
+- [x] **A) Qo'shimcha keraksiz reklamalar va brauzer qo'shimchalarini o'rnatmaslik imkonini beradi** *(To'g'ri javob)*
+- [ ] B) Tezroq o'rnatadi
+- [ ] C) Dasturni pullik qiladi
+- [ ] D) Fayllarni o'chiradi
+
+#### 5-Savol: Dasturni kompyuterdan to'g'ri o'chirish qanday amalga oshiriladi?
+- [x] **A) Settings -> Apps -> Installed apps orqali Uninstall qilish** *(To'g'ri javob)*
+- [ ] B) Ish stolidagi yorliqni (Shortcut) o'chirish
+- [ ] C) Faylni savatga tashlash
+- [ ] D) Kompyuterni o'chirib yoqish
+
+#### 6-Savol: Kompyuter yoqilganda o'z-o'zidan ishga tushuvchi dasturlar qayerda boshqariladi?
+- [x] **A) Task Manager -> Startup apps (Avtouzatish)** *(To'g'ri javob)*
+- [ ] B) Control Panel -> Fonts
+- [ ] C) Network Connections
+- [ ] D) Device Manager
+
+#### 7-Savol: Freeware litsenziyasi nimani anglatadi?
+- [x] **A) Foydalanish butunlay bepul bo'lgan dasturiy ta'minot** *(To'g'ri javob)*
+- [ ] B) Faqat 30 kun bepul dastur
+- [ ] C) Pullik litsenziya
+- [ ] D) Ochiq kodli dastur
+
+#### 8-Savol: Shareware (Trial) litsenziyasi nimani anglatadi?
+- [x] **A) Vaqtincha sinov muddati uchun bepul taqdim etiladigan dastur** *(To'g'ri javob)*
+- [ ] B) Faqat maktablar uchun dastur
+- [ ] C) Butunlay bepul dastur
+- [ ] D) O'g'irlangan dastur
+
+#### 9-Savol: Open Source (Ochiq manbali) dasturiy ta'minotning bosh xususiyati nima?
+- [x] **A) Dastur kodi barcha uchun ochiq va uni erkin o'zgartirish mumkin** *(To'g'ri javob)*
+- [ ] B) Dastur faqat pullik
+- [ ] C) Dastur internetda ishlamaydi
+- [ ] D) Uni o'rnatib bo'lmaydi
+
+#### 10-Savol: Dasturlar o'rnatilgach, ularning sozlamalari va ma'lumotlari odatda qaysi tizim papkasida saqlanadi?
+- [x] **A) AppData va ProgramData** *(To'g'ri javob)*
+- [ ] B) Windows\System32
+- [ ] C) Temp
+- [ ] D) Desktop
+
+#### 11-Savol: Dastur to'liq o'chirilmay qolgan qoldiq fayllarni tozalash uchun qaysi dasturlar ishlatiladi?
+- [x] **A) Revo Uninstaller, Geek Uninstaller** *(To'g'ri javob)*
+- [ ] B) WinRAR
+- [ ] C) Paint
+- [ ] D) Calculator
+
+#### 12-Savol: Standart 64-bitli dasturlar odatda qaysi papkaga o'rnatiladi?
+- [x] **A) C:\Program Files** *(To'g'ri javob)*
+- [ ] B) C:\Program Files (x86)
+- [ ] C) C:\Windows
+- [ ] D) C:\Users
+
+#### 13-Savol: Eski 32-bitli dasturlar 64-bitli Windows tizimida qaysi papkaga o'rnatiladi?
+- [x] **A) C:\Program Files (x86)** *(To'g'ri javob)*
+- [ ] B) C:\Program Files
+- [ ] C) C:\System
+- [ ] D) C:\Drivers
+
+#### 14-Savol: Administrator huquqi bilan dasturni ishga tushirish (Run as Administrator) nima uchun kerak?
+- [x] **A) Tizim fayllari va reyestrga o'zgartirish kiritish imkonini berish uchun** *(To'g'ri javob)*
+- [ ] B) Dasturni tezroq qilish uchun
+- [ ] C) Ekranni kengaytirish uchun
+- [ ] D) Viruslarni qidirish uchun
+
+#### 15-Savol: Dastur litsenziya kalitini buzish (Kryak, Patch) nima sababdan xavfli?
+- [x] **A) Tizimga troyan va zararli viruslar kirib kelishi ehtimoli juda yuqoriligi sababli** *(To'g'ri javob)*
+- [ ] B) Internet tezlashib ketishi sababli
+- [ ] C) Dastur juda chiroyli bo'lib qoladi
+- [ ] D) Klaviatura buziladi
+
+#### 16-Savol: Standart dasturlarni (Default Apps: brauzer, video pleyer) o'zgartirish qayerdan bajariladi?
+- [x] **A) Settings -> Apps -> Default apps** *(To'g'ri javob)*
+- [ ] B) Control Panel -> Hardware
+- [ ] C) Device Manager
+- [ ] D) System -> Sound
+
+#### 17-Savol: Dastur qotib qolganda (Not Responding) uni majburiy to'xtatish qayerdan bajariladi?
+- [x] **A) Task Manager -> End Task** *(To'g'ri javob)*
+- [ ] B) Settings -> Storage
+- [ ] C) Start tugmasini bosib
+- [ ] D) F5 ni bosib
+
+#### 18-Savol: Portable (Ko'chma) dasturlar nima bilan ajralib turadi?
+- [x] **A) O'rnatish talab qilmaydi, to'g'ridan-to'g'ri fleshkadan ishga tushadi** *(To'g'ri javob)*
+- [ ] B) Juda sekin ishlaydi
+- [ ] C) Faqat telefonda ochiladi
+- [ ] D) Faqat bir marta ishlaydi
+
+#### 19-Savol: Windows Store (Microsoft Store) orqali dastur o'rnatishning ustunligi nima?
+- [x] **A) Dasturlar tekshirilgan va xavfsiz bo'ladi, avtomatik yangilanadi** *(To'g'ri javob)*
+- [ ] B) Faqat o'yinlar bor
+- [ ] C) Pullik dasturlar yo'q
+- [ ] D) Internet talab qilmaydi
+
+#### 20-Savol: UAC (User Account Control) darchasining vazifasi nima?
+- [x] **A) Dastur tizimga o'zgartirish kiritayotganda foydalanuvchidan ruxsat so'rash** *(To'g'ri javob)*
+- [ ] B) Parolni o'zgartirish
+- [ ] C) Ekran yorug'ligini kamaytirish
+- [ ] D) Fayllarni yuklab olish
+
+#### 21-Savol: Dasturni o'rnatish jarayonida 'Create Desktop Shortcut' nimani anglatadi?
+- [x] **A) Ish stolida dasturga olib boruvchi yorliq yaratish** *(To'g'ri javob)*
+- [ ] B) Dasturni o'chirib yuborish
+- [ ] C) Yangi disk yaratish
+- [ ] D) Xotirani tozalash
+
+#### 22-Savol: Kompyuterdagi vaqtinchalik o'rnatuvchi fayllarni (Temp) tozalash buyrug'i qaysi?
+- [x] **A) Win + R -> %temp%** *(To'g'ri javob)*
+- [ ] B) Win + R -> system32
+- [ ] C) Win + R -> drivers
+- [ ] D) Win + R -> fonts
+
+#### 23-Savol: Dasturning muvofiqlik rejimida (Compatibility Mode) ishlashi nima uchun kerak?
+- [x] **A) Eski Windows versiyalari uchun yozilgan dasturlarni zamonaviy tizimda ishlatish uchun** *(To'g'ri javob)*
+- [ ] B) Dasturni o'chirish uchun
+- [ ] C) Internetni ulash uchun
+- [ ] D) Tovushni balandlatish uchun
+
+#### 24-Savol: winget install vlc buyrug'i nima ishni bajaradi?
+- [x] **A) VLC media pleyerini internetdan avtomatik yuklab o'rnatadi** *(To'g'ri javob)*
+- [ ] B) VLC ni o'chiradi
+- [ ] C) Video formatini o'zgartiradi
+- [ ] D) Kompyuterni o'chiradi
+
+#### 25-Savol: Dastur versiyasini bilish uchun odatda dastur ichida qaysi bo'lim ochiladi?
+- [x] **A) Help -> About** *(To'g'ri javob)*
+- [ ] B) File -> Exit
+- [ ] C) Edit -> Copy
+- [ ] D) View -> Fullscreen
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

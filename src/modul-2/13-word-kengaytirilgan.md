@@ -115,64 +115,175 @@ Hujjatda Wordning avtomatlashtirilgan uslublari (Styles: Heading 1, Heading 2) v
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 13-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Word dasturida jadvalning bir nechta kataklarini bitta umumiy katakka aylantirish amali nima deb ataladi?
-- ( ) A) Split Cells
-- (x) B) Merge Cells (Birlashtirish)
-- ( ) C) Delete Cells
-- ( ) D) AutoFit
-*Izoh: Merge Cells belgilangan qo'shni kataklarni bitta yaxlit katakka aylantiradi.*
-
-#### Test 2: Avtomatik mundarija (Table of Contents) shakllanishi uchun sarlavhalarga qaysi uslub berilishi shart?
-- ( ) A) Normal
-- ( ) B) Title
-- (x) C) Heading 1, Heading 2
-- ( ) D) Subtitle
-*Izoh: Word aynan Heading uslubidagi sarlavhalarni darajasiga qarab mundarijaga tortib oladi.*
-
-#### Test 3: Rasm matnni chetga surib yubormasdan, matn uning atrofida chiroyli joylashishi uchun qaysi Wrap Text opsiyasi tanlanadi?
-- ( ) A) In Line with Text
-- (x) B) Square (yoki Tight)
-- ( ) C) Behind Text
-- ( ) D) Top and Bottom
-*Izoh: Square rasmni matn ichiga erkin kvadrat shaklida joylashtirib, matnni uning chetlaridan o'tkazadi.*
-
-#### Test 4: Hujjatning birinchi sahifasida (titulda) sahifa raqami ko'rinmasligi uchun qaysi parametr yoqiladi?
-- ( ) A) Hide page
-- (x) B) Different First Page (Особый колонтитул для первой страницы)
-- ( ) C) No number
-- ( ) D) Blank page
-*Izoh: Different First Page birinchi betning kolontitullarini qolgan sahifalardan ajratadi.*
-
-#### Test 5: Tashkiliy iyerarxiya va jarayonlar blok-sxemalarini vizual yaratish uchun eng qulay vosita qaysi?
-- ( ) A) WordArt
-- ( ) B) ClipArt
-- (x) C) SmartArt
-- ( ) D) Footer
-*Izoh: SmartArt tayyor vizual biznes va tashkiliy diagrammalar shablonlarini taqdim etadi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun rasmiy hisobotlarda Header (Yuqori kolontitul) ga tashkilot nomi yoki logotipi joylashtiriladi?
-2. Agar jadval 5 sahifadan iborat bo'lsa, "Repeat Header Rows" funksiyasi foydalanuvchiga qanday qulaylik yaratadi?
-3. Avtomatik mundarijada `Ctrl` tugmasini bosib biror bob ustiga bosilsa nima sodir bo'ladi?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Word dasturida jadval qo'shish qaysi lenta bo'limidan amalga oshiriladi?
+- [x] **A) Insert -> Table** *(To'g'ri javob)*
+- [ ] B) Home -> Styles
+- [ ] C) Layout -> Margins
+- [ ] D) View -> Gridlines
+
+#### 2-Savol: Jadval kataklarini birlashtirish buyrug'i nima deb ataladi?
+- [x] **A) Merge Cells** *(To'g'ri javob)*
+- [ ] B) Split Cells
+- [ ] C) Group Cells
+- [ ] D) Union Cells
+
+#### 3-Savol: Bitta katakni bir nechta ustun va satrlarga bo'lish buyrug'i nima?
+- [x] **A) Split Cells** *(To'g'ri javob)*
+- [ ] B) Merge Cells
+- [ ] C) Cut Cells
+- [ ] D) Divide Cells
+
+#### 4-Savol: Avtomatik mundarija (Table of Contents) yaratish uchun sarlavhalarga nima qo'llanilishi shart?
+- [x] **A) Heading 1, Heading 2 uslublari (Styles)** *(To'g'ri javob)*
+- [ ] B) Qalin qilib qo'yish
+- [ ] C) Rangini qizil qilish
+- [ ] D) Tagiga chizish
+
+#### 5-Savol: Sahifaning yuqori va pastki qismidagi takrorlanuvchi maydonlar nima deyiladi?
+- [x] **A) Header va Footer (Kolontitullar)** *(To'g'ri javob)*
+- [ ] B) Margin va Indent
+- [ ] C) Watermark va Page Border
+- [ ] D) Title va Subtitle
+
+#### 6-Savol: Sahifa raqamini (Page Number) qo'yish qaysi menyuda joylashgan?
+- [x] **A) Insert -> Page Number** *(To'g'ri javob)*
+- [ ] B) Home -> Numbers
+- [ ] C) View -> Zoom
+- [ ] D) File -> Info
+
+#### 7-Savol: Hujjatning faqat bitta sahifasini albom (Landscape) qilish uchun nima ishlatiladi?
+- [x] **A) Section Break (Bo'lim ajratgich: Next Page)** *(To'g'ri javob)*
+- [ ] B) Page Break
+- [ ] C) Enter
+- [ ] D) Tabulyatsiya
+
+#### 8-Savol: Hujjat foniga xira matn yoki tamg'a (Watermark / Подложка) qo'yish qaysi menyuda?
+- [x] **A) Design -> Watermark** *(To'g'ri javob)*
+- [ ] B) Insert -> Pictures
+- [ ] C) Layout -> Columns
+- [ ] D) Home -> Font
+
+#### 9-Savol: Sahifa chetlariga ramka (Page Borders) berish qayerdan bajariladi?
+- [x] **A) Design -> Page Borders** *(To'g'ri javob)*
+- [ ] B) Insert -> Shapes
+- [ ] C) View -> Borders
+- [ ] D) Home -> Paragraph
+
+#### 10-Savol: Matnni gazetadagidek bir nechta ustunga (Columns) bo'lish qayerda joylashgan?
+- [x] **A) Layout -> Columns** *(To'g'ri javob)*
+- [ ] B) Insert -> Table
+- [ ] C) Design -> Themes
+- [ ] D) View -> Read Mode
+
+#### 11-Savol: Rasm matn ichida erkin harakatlanishi uchun uning qaysi xususiyati o'zgartiriladi?
+- [x] **A) Wrap Text (Matn bilan o'ralish: Square, Tight, In Front of Text)** *(To'g'ri javob)*
+- [ ] B) Color
+- [ ] C) Rotate
+- [ ] D) Shadow
+
+#### 12-Savol: Rasmiy sxemalar, ierarxiya va jarayonlar bloklarini chizish uchun qaysi vosita qulay?
+- [x] **A) SmartArt** *(To'g'ri javob)*
+- [ ] B) WordArt
+- [ ] C) ClipArt
+- [ ] D) AutoCorrect
+
+#### 13-Savol: Hujjat ichiga giperhavola (Hyperlink) qo'yish tezkor klavishi qaysi?
+- [x] **A) Ctrl + K** *(To'g'ri javob)*
+- [ ] B) Ctrl + H
+- [ ] C) Ctrl + L
+- [ ] D) Alt + K
+
+#### 14-Savol: Sahifa tubiga izoh (Footnote / Сноска) qo'yish kombinatsiyasi nima?
+- [x] **A) Alt + Ctrl + F** *(To'g'ri javob)*
+- [ ] B) Ctrl + F
+- [ ] C) Shift + F
+- [ ] D) Alt + F
+
+#### 15-Savol: Jadvalda yangi satr qo'shish uchun eng oxirgi katakda qaysi klavish bosiladi?
+- [x] **A) Tab** *(To'g'ri javob)*
+- [ ] B) Enter
+- [ ] C) Shift
+- [ ] D) Space
+
+#### 16-Savol: Jadval ichidagi matnni vertikal markazlashtirish qayerdan bajariladi?
+- [x] **A) Table Layout -> Alignment** *(To'g'ri javob)*
+- [ ] B) Home -> Font
+- [ ] C) Design -> Borders
+- [ ] D) Insert -> Text Box
+
+#### 17-Savol: Hujjatdagi o'zgarishlarni va tahrirlarni kuzatish (Track Changes) rejimi qaysi menyuda?
+- [x] **A) Review -> Track Changes** *(To'g'ri javob)*
+- [ ] B) View -> Macro
+- [ ] C) References -> Citations
+- [ ] D) Design -> Effects
+
+#### 18-Savol: Hujjatga parol qo'yish (Protect Document) qayerdan amalga oshiriladi?
+- [x] **A) File -> Info -> Protect Document -> Encrypt with Password** *(To'g'ri javob)*
+- [ ] B) Home -> Options
+- [ ] C) Insert -> Symbol
+- [ ] D) Layout -> Margins
+
+#### 19-Savol: Avtomatik mundarijani sahifalar o'zgarganda yangilash tugmasi qaysi?
+- [x] **A) F9 (Update Field)** *(To'g'ri javob)*
+- [ ] B) F5
+- [ ] C) F7
+- [ ] D) F12
+
+#### 20-Savol: Ko'p sahifali jadvalning sarlavhasi har bir yangi sahifada avtomatik chiqishi uchun qaysi buyruq yoqiladi?
+- [x] **A) Repeat Header Rows** *(To'g'ri javob)*
+- [ ] B) Split Table
+- [ ] C) Merge Rows
+- [ ] D) Header Fix
+
+#### 21-Savol: Hujjat matniga chiroyli jingalak katta bosh harf (Drop Cap) qo'yish qaysi menyuda?
+- [x] **A) Insert -> Drop Cap** *(To'g'ri javob)*
+- [ ] B) Home -> Font
+- [ ] C) Design -> Effects
+- [ ] D) Layout -> Indent
+
+#### 22-Savol: Mail Merge (Maktublarni birlashtirish) funksiyasi nima uchun kerak?
+- [x] **A) Bitta shablon asosida yuzlab shaxsiylashtirilgan taklifnoma yoki xatlarni avtomatik generatsiya qilish** *(To'g'ri javob)*
+- [ ] B) Elektron pochta yuborish
+- [ ] C) Spam tozalash
+- [ ] D) Faylni arxivlash
+
+#### 23-Savol: Matn ichiga matematik formulalar kiritish (Equation) darchasi qaysi birikma bilan ochiladi?
+- [x] **A) Alt + =** *(To'g'ri javob)*
+- [ ] B) Ctrl + =
+- [ ] C) Shift + =
+- [ ] D) Ctrl + M
+
+#### 24-Savol: Jadvalni matnga yoki matnni jadvalga aylantirish buyrug'i qaysi?
+- [x] **A) Convert Text to Table / Convert to Text** *(To'g'ri javob)*
+- [ ] B) Wrap Text
+- [ ] C) Split Table
+- [ ] D) AutoFit
+
+#### 25-Savol: Word darchasida hujjat tuzilmasini ko'rish (Navigation Pane) qaysi klavishlar bilan ochiladi?
+- [x] **A) Ctrl + F (yoki View -> Navigation Pane)** *(To'g'ri javob)*
+- [ ] B) Alt + N
+- [ ] C) Ctrl + Shift + N
+- [ ] D) F10
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

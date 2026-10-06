@@ -117,64 +117,175 @@ Doiraviy diagramma inson ko'zi idrok qilishi uchun maksimal **5–7 ta bo'lakka*
 
 ---
 
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
 
 {% hint style="info" %}
-**Onlayn Test:** 16-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
+**📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [16-Mavzu: Microsoft Excel Diagrammalari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform)
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1uIwnctQ_Jp0U0aXD88nW2WmPch4O-hAI6_rcF7-282Y/edit)
 {% endhint %}
 
-{% hint style="info" %}
-**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
-Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Testni to'liq ekranda ochish:** [16-Mavzu: Microsoft Excel Diagrammalari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform)
-* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1uIwnctQ_Jp0U0aXD88nW2WmPch4O-hAI6_rcF7-282Y/edit)
-{% endhint %}
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform" %}
-
-### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
-
-#### Test 1: Umumiy byudjetdagi foiz ulushlarini ko'rsatish uchun eng qulay diagramma turi qaysi?
-- ( ) A) Line Chart (Chiziqli)
-- (x) B) Pie Chart (Doiraviy)
-- ( ) C) Radar
-- ( ) D) Scatter
-*Izoh: Doiraviy diagramma 360 gradusli doirani 100% deb olib, foiz taqsimotini mukammal ko'rsatadi.*
-
-#### Test 2: Vaqt davomida (masalan, 12 oy davomida) ko'rsatkichlarning o'sishi yoki pasayishi dinamikasini ko'rsatish uchun qaysi grafik ishlatiladi?
-- ( ) A) Pie Chart
-- (x) B) Line Chart (Chiziqli)
-- ( ) C) Tree Map
-- ( ) D) Sunburst
-*Izoh: Chiziqli grafik nuqtalarni chiziq bilan bog'lab, o'sish va pasayish dinamikasini vizual ifodalaydi.*
-
-#### Test 3: Excelda belgilangan jadval asosida bir zumda avtomatik diagramma yaratish tezkor yorlig'i qaysi?
-- ( ) A) `Ctrl + P`
-- (x) B) `Alt + F1`
-- ( ) C) `Shift + F3`
-- ( ) D) `Ctrl + S`
-*Izoh: `Alt + F1` joriy varaqda avtomatik ustunli diagramma yaratadi.*
-
-#### Test 4: Diagrammadagi ranglar qaysi ma'lumot seriyasiga tegishli ekanini tushuntiruvchi shartli belgilar bloki nima deb ataladi?
-- ( ) A) Chart Title
-- (x) B) Legend (Afsona / Izoh)
-- ( ) C) Axis
-- ( ) D) Gridlines
-*Izoh: Legend har bir rang va chiziq qaysi mahsulot yoki toifaga tegishli ekanligini ko'rsatadi.*
-
-#### Test 5: Diagramma chizishda jadvalning "Jami" (Total) qatori nima sababdan belgilanmaydi?
-- ( ) A) Jami qatori qizil bo'lgani uchun
-- (x) B) U qolgan ustunlar miqdoriga teng bo'lib, diagramma balandliklari nisbatini buzib yuborgani uchun
-- ( ) C) Excel qotib qolmasligi uchun
-- ( ) D) Formulalar o'chib ketmasligi uchun
-*Izoh: Jami qatori barcha ma'lumotlar yig'indisi bo'lgani sababli diagrammada ortiqcha va noto'g'ri ulkan ustun hosil qiladi.*
-
-### 🤔 O'ylantiruvchi Mantiqiy Savollar:
-1. Nima uchun rasmiy hisobotlarda 3D (uch o'lchamli) hajmli diagrammalardan ko'ra tekis 2D diagrammalar tavsiya etiladi?
-2. Agar jadvaldagi raqamni o'zgartirsak, diagramma qanday yangilanadi?
-3. "Data Labels" (Ma'lumot yorliqlari) qaysi holatlarda diagrammada ko'rsatilishi shart?
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
 
 ---
+
+### ✍️ 25 ta Rasmiy Test Savollari (Nazorat va O'z-o'zini Tekshirish):
+
+Quyida ushbu dars bo'yicha tuzilgan barcha 25 ta rasmiy test savollari keltirilgan. Har bir savol 4 ta variantdan iborat bo'lib, to'g'ri javob belgilangan:
+
+#### 1-Savol: Excel dasturida diagramma qo'shish qaysi lenta menyusida joylashgan?
+- [x] **A) Insert -> Charts** *(To'g'ri javob)*
+- [ ] B) Home -> Styles
+- [ ] C) Data -> Forecast
+- [ ] D) View -> Window
+
+#### 2-Savol: Ma'lumotlar ulushini (foizini) butunga nisbatan ko'rsatish uchun eng mos diagramma turi qaysi?
+- [x] **A) Doiraviy diagramma (Pie Chart)** *(To'g'ri javob)*
+- [ ] B) Gistogramma
+- [ ] C) Chiziqli grafik
+- [ ] D) Nuqtali grafik
+
+#### 3-Savol: Vaqt bo'yicha dinamika va o'zgarishlar tendentsiyasini (Trend) ko'rsatish uchun qaysi grafik qulay?
+- [x] **A) Chiziqli grafik (Line Chart)** *(To'g'ri javob)*
+- [ ] B) Doiraviy diagramma
+- [ ] C) Radar diagramma
+- [ ] D) Daraxtsimon diagramma
+
+#### 4-Savol: Turli toifalar (kategoriyalar) ko'rsatkichlarini o'zaro taqqoslash uchun qaysi diagramma ishlatiladi?
+- [x] **A) Ustunli diagramma (Column / Bar Chart)** *(To'g'ri javob)*
+- [ ] B) Doiraviy grafik
+- [ ] C) Treemap
+- [ ] D) Sunburst
+
+#### 5-Savol: Diagrammada har bir rang qaysi ma'lumotga tegishli ekanligini ko'rsatuvchi shartli belgilar bloki nima deyiladi?
+- [x] **A) Afsona (Legend / Легенда)** *(To'g'ri javob)*
+- [ ] B) Sarlavha (Title)
+- [ ] C) O'qlar (Axes)
+- [ ] D) To'r chiziqlari (Gridlines)
+
+#### 6-Savol: Diagramma ustunlari tepasida aniq sonli qiymatlarni chiqarish nima deb ataladi?
+- [x] **A) Data Labels (Ma'lumotlar yorliqlari)** *(To'g'ri javob)*
+- [ ] B) Legend
+- [ ] C) Trendline
+- [ ] D) Chart Title
+
+#### 7-Savol: Tezkor diagramma yaratish klaviaturadagi qaysi tugma bilan bajariladi?
+- [x] **A) F11 (yangi varaqda) yoki Alt + F1 (joriy varaqda)** *(To'g'ri javob)*
+- [ ] B) Ctrl + D
+- [ ] C) Shift + F5
+- [ ] D) F2
+
+#### 8-Savol: Jadvalga avtofiltr (AutoFilter) yoqish tezkor kombinatsiyasi qaysi?
+- [x] **A) Ctrl + Shift + L** *(To'g'ri javob)*
+- [ ] B) Ctrl + F
+- [ ] C) Alt + Shift + F
+- [ ] D) Ctrl + T
+
+#### 9-Savol: Ma'lumotlarni alifbo yoki o'sish/kamayish tartibida joylashtirish nima deyiladi?
+- [x] **A) Saralash (Sort)** *(To'g'ri javob)*
+- [ ] B) Filtrlash (Filter)
+- [ ] C) Guruhlash (Group)
+- [ ] D) Birlashtirish (Merge)
+
+#### 10-Savol: Shartli formatlash (Conditional Formatting) nima vazifani bajaradi?
+- [x] **A) Katakdagi qiymatga qarab (masalan, 100 dan katta bo'lsa) katak rangini avtomatik bo'yash** *(To'g'ri javob)*
+- [ ] B) Formulani o'chirish
+- [ ] C) Jadvalni qulflash
+- [ ] D) Diagramma chizish
+
+#### 11-Savol: Katta hajmdagi ma'lumotlarni tezkor xulosalash va guruhlab tahlil qilish uchun qaysi vosita eng qudratli?
+- [x] **A) Pivot Table (Yig'ma jadval)** *(To'g'ri javob)*
+- [ ] B) SmartArt
+- [ ] C) WordArt
+- [ ] D) Spell Check
+
+#### 12-Savol: Oddiy jadval diapazonini rasmiy Excel jadvaliga (Table) aylantirish klavishi nima?
+- [x] **A) Ctrl + T** *(To'g'ri javob)*
+- [ ] B) Ctrl + J
+- [ ] C) Alt + T
+- [ ] D) Shift + T
+
+#### 13-Savol: Diagrammadagi o'zgarishlar tendensiyasini ko'rsatuvchi to'g'ri chiziq nima deyiladi?
+- [x] **A) Trendline (Trend chizig'i)** *(To'g'ri javob)*
+- [ ] B) Gridline
+- [ ] C) Error Bar
+- [ ] D) Border
+
+#### 14-Savol: Katak ichiga sig'adigan mini-diagrammalar nima deb ataladi?
+- [x] **A) Sparklines (Spurklaynlar)** *(To'g'ri javob)*
+- [ ] B) Icons
+- [ ] C) Shapes
+- [ ] D) Thumbnails
+
+#### 15-Savol: Doiraviy diagrammada (Pie Chart) qachon ma'lumot tushunarsiz bo'lib qoladi?
+- [x] **A) Bo'laklar (kategoriyalar) soni 7-8 tadan oshib ketganda** *(To'g'ri javob)*
+- [ ] B) Kategoriyalar 2 ta bo'lganda
+- [ ] C) Foizlar ko'rsatilganda
+- [ ] D) Rangli bo'lganda
+
+#### 16-Savol: Diagramma turini o'zgartirish (Change Chart Type) qayerdan bajariladi?
+- [x] **A) Chart Design -> Change Chart Type** *(To'g'ri javob)*
+- [ ] B) View -> Zoom
+- [ ] C) Home -> Cells
+- [ ] D) Data -> Connections
+
+#### 17-Savol: Filtrlash jarayonida faqat kerakli shartga mos qatorlar ko'rinib, qolganlari nima bo'ladi?
+- [x] **A) Vaqtincha yashiriladi (o'chirilmaydi)** *(To'g'ri javob)*
+- [ ] B) Butunlay o'chib ketadi
+- [ ] C) Qizil bo'lib qoladi
+- [ ] D) Pastga ko'chiriladi
+
+#### 18-Savol: Ko'p darajali saralash (Custom Sort) nima beradi?
+- [x] **A) Avval bir ustun bo'yicha, bir xil qiymatlar bo'lsa keyingi ustun bo'yicha tartiblash** *(To'g'ri javob)*
+- [ ] B) Faqat bitta ustunni saralash
+- [ ] C) Tasodifiy aralashtirish
+- [ ] D) Formatni tozalash
+
+#### 19-Savol: Kombinatsiyalashgan diagramma (Combo Chart) nima?
+- [x] **A) Bir nechta diagramma turlarini (masalan, ustunli va chiziqli grafikni) bitta chizmada birlashtirish** *(To'g'ri javob)*
+- [ ] B) Faqat rasmlar to'plami
+- [ ] C) 3D grafik
+- [ ] D) Animatsion diagramma
+
+#### 20-Savol: Diagramma sarlavhasini katakdagi matnga dinamik bog'lash qanday qilinadi?
+- [x] **A) Sarlavhani tanlab, Formulalar satriga = bosib tegishli katakni ko'rsatish** *(To'g'ri javob)*
+- [ ] B) Ctrl + C qilish
+- [ ] C) F2 bosish
+- [ ] D) Bog'lab bo'lmaydi
+
+#### 21-Savol: Ikkilamchi o'q (Secondary Axis) qachon kerak bo'ladi?
+- [x] **A) Taqqoslanayotgan ikki ko'rsatkichning o'lchov birliklari va qiymat miqyosi keskin farq qilganda (masalan: dona va million so'm)** *(To'g'ri javob)*
+- [ ] B) Faqat matn bo'lganda
+- [ ] C) O'qlar yetishmaganda
+- [ ] D) Faqat bitta ko'rsatkich bo'lganda
+
+#### 22-Savol: Pivot Table da ma'lumotlarni filtrlash uchun vizual qulay tugmalar nima deyiladi?
+- [x] **A) Slicers (Kesimlar)** *(To'g'ri javob)*
+- [ ] B) Sparklines
+- [ ] C) SmartArt
+- [ ] D) Macros
+
+#### 23-Savol: Jadvaldagi takroriy yozuvlarni (Duplicates) avtomatik o'chirish buyrug'i qaysi?
+- [x] **A) Data -> Remove Duplicates** *(To'g'ri javob)*
+- [ ] B) Home -> Clear
+- [ ] C) Delete
+- [ ] D) Filter -> Clear
+
+#### 24-Savol: Katakka faqat ma'lum oraliqdagi sonlar kiritilishini ta'minlovchi cheklov nima?
+- [x] **A) Data Validation (Ma'lumotlarni tekshirish)** *(To'g'ri javob)*
+- [ ] B) Conditional Formatting
+- [ ] C) Protect Sheet
+- [ ] D) Filter
+
+#### 25-Savol: Gantt diagrammasi (Gantt Chart) Excelda nima maqsadda tuziladi?
+- [x] **A) Loyiha bosqichlari va vazifalarning bajarilish muddatlari jadvalini vizual rejalashtirish uchun** *(To'g'ri javob)*
+- [ ] B) Faqat pul hisoblash uchun
+- [ ] C) Xodimlar ro'yxati uchun
+- [ ] D) Ovoz yozish uchun
+
+---
+
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 
