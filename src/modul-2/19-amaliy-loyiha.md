@@ -14,8 +14,6 @@
   * Excelda `SUM`, `AVERAGE`, `IF` formulalari va dinamik diagrammaga ega moliyaviy smeta tuzish.
   * Exceldagi diagrammani PowerPoint taqdimotiga jonli havola (Paste Link) orqali ko'chirib, professional slayd-shou shakllantirish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 19-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Nazariy Integratsiya: Ofis Dasturlari Hamkorligi
 
@@ -50,8 +46,6 @@ Real ish faoliyatida hech bir ofis dasturi alohida ishlatilmaydi. Ular yagona me
 Exceldagi diagrammani `Ctrl + C` qilib, PowerPointga shunchaki `Ctrl + V` qilsangiz, Excelda sonlar o'zgarganda slayd o'zgarmay qoladi.
 Buning o'rniga PowerPointda: **Paste (Вставить) -> Paste Special (Специальная вставка) -> Paste Link (Связать)** ni tanlang! Endi Excelda 1 ta son o'zgarsa ham, PowerPoint taqdimotidagi diagramma o'z-o'zidan yangilanadi!
 {% endhint %}
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -104,8 +98,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Word va PowerPoint hujjatlariga kiritilgan ma'lumotlar bilan Excel smetasidagi raqamlar bir-biriga 100% mos kelishi shart. Raqamlardagi nomuvofiqlik loyiha bahosining pasayishiga olib keladi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -119,9 +111,7 @@ Diagrammalar PowerPointga shunchaki statik rasm (Skrinshot) sifatida ko'chirilga
 2. **Update Link (Обновить связь)** buyrug'ini tanlang.
 3. PowerPointdagi barcha ustunlar, raqamlar va foizlar bor-yo'g'i **1 soniyada** Exceldagi yangi narxlarga avtomatik moslashadi, taqdimotni qaytadan yasash talab etilmaydi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -131,8 +121,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Loyiha Topshirig'i
 

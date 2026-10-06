@@ -14,8 +14,6 @@
   * 10–20 varaqli shartnomani bitta ko'p sahifali PDF faylga birlashtirib raqamlashtirish.
   * Skanerlangan rasmdagi matnni OCR vositalari (Google Docs / FineReader) yordamida tahrirlanadigan Word matniga aylantirish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 07-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -75,8 +71,6 @@ Oddiy skanerlash natijasida kompyuter hujjatni shunchaki "rasm" (piksellar to'pl
 * Adobe Acrobat Pro;
 * Zamonaviy AI neyrotarmoqlari.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz mavjud rasmdagi matnni Google Docs orqali bepul OCR qilib, tahrirlanadigan hujjatga aylantirishni o'rganasiz.
@@ -113,8 +107,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 OCR dasturi matnni xatosiz tanishi uchun asl rasm qiyshiq bo'lmasligi, soya tushmagan bo'lishi va harflar xiralashmagan (aniq fokusda) bo'lishi shart!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -130,9 +122,7 @@ Hujjat turi matnli bo'lishiga qaramay, asossiz ravishda haddan tashqari yuqori D
 4. Saqlash formatini JPG emas, **Multi-page PDF (Ko'p sahifali PDF)** qilib belgilang.
 5. Qayta skanerlanganda 15 betlik butun hujjat bor-yo'g'i **2.5 MB** hajmga ega bo'ldi va elektron pochtadan bir zumda muammosiz jo'natildi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -142,8 +132,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSf2Fn_aSEyeH49MCLC1PyOZdE2IynT0a5RJz9wlJ3FfFC6AFg/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

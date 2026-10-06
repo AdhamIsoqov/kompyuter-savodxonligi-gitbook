@@ -14,8 +14,6 @@
   * Soxta (fishing) havolalarni va firibgarlik xabarlarini bir qarashda aniqlash.
   * Maxsus parol boshqaruvchilari (Password Manager) va xavfsiz parollar generatoridan foydalanish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 23-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -66,8 +62,6 @@ O'zbekistonda eng ko'p sodir bo'ladigan kiberjinoyat — Telegram akkauntlarini 
 3. **Soxta domen manzili:** Haqiqiy sayt `click.uz` bo'lsa, firibgarlar `click-uz-bonus.com` yoki `payme-tolov.xyz` kabi soxta domen ochishadi.
 4. **Tasdiqlash kodini so'rash:** Bank xodimlari hech qachon telefon qilib SMS orqali kelgan 6 yoki 8 xonali maxfiy kodni so'ramaydi!
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz o'z Google akkauntingiz xavfsizlik darajasini tekshirasiz va 2FA himoyasini sozlaysiz.
@@ -103,8 +97,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 SMS orqali telefoningizga kelgan 6 xonali tasdiqlash kodini (One-Time Password — OTP) HECH KIMGA, hatto o'zini militsiya, xavfsizlik xizmati yoki bank boshqaruvchisi deb tanishtirgan shaxslarga ham ASLO aytmang! Bu kodni aytishingiz bilan kartangizdagi barcha pullar 5 soniyada yechib olinadi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -119,9 +111,7 @@ Kiberjinoyatchilar rahbarning fotosurati va ism-sharifidan foydalanib klon profi
 3. Profil nomini tekshiring — haqiqiy rahbar akkauntida yozishmalar tarixi va avvalgi xabarlar bo'ladi, soxta akkauntda esa tarix bo'sh bo'ladi.
 4. Soxta akkauntni zudlik bilan "Spam" va "Block" qiling hamda kompaniyaning barcha xodimlarini xabardor qiling.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -131,8 +121,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

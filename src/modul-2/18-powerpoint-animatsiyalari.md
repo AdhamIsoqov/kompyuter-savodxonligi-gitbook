@@ -14,8 +14,6 @@
   * Animation Pane vositasida animatsiyalar ketma-ketligi va davomiyligini (Duration/Delay) boshqarish.
   * Avtomatik rejimda o'zi aylanuvchi taqdimot tayyorlab, uni `.mp4` video fayl sifatida saqlash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 18-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -55,8 +51,6 @@ PowerPoint dasturida barcha animatsiyalar rangli toifalarga ajratilgan:
 **Pro-Tip (Professional taqdimotda animatsiya me'yori):**
 Animatsiyadan maqsad — auditoriyani chalg'itish emas, balki ma'lumotni bosqichma-bosqich tushuntirishdir. Har bir so'zga turli xil sakraydigan yoki aylanadigan animatsiyalarni bermang. Professional taqdimotlar uchun eng xushbichim va qulay effekt — bu **Fade (Asta paydo bo'lish)** effekti hisoblanadi.
 {% endhint %}
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -92,8 +86,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Animatsiyalar uchun baland va keskin ovozli effektlarni (chapak chalish, portlash, hushtak) qo'shmang! Bu jiddiy ilmiy yoki biznes taqdimotlar nufuzini tushiradi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -109,9 +101,7 @@ Maktab o'qituvchisi ochiq dars uchun slaydlar tayyorladi. Har bir slaydga 10 tad
 3. Asosiy bloklarga **After Previous** (Oldingidan so'ng) yoki **With Previous** buyrug'ini bering, Delay (Kechikish) vaqtini 1–2 soniya qilib belgilang.
 4. Natijada taqdimot o'qituvchining aralashuvisiz o'z vaqtida, ravon va professional tarzda namoyish etiladi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -121,8 +111,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

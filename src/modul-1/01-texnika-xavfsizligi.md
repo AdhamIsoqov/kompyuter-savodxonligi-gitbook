@@ -14,8 +14,6 @@
   * Favqulodda vaziyatlarda (tutun chiqishi, elektr toki urishi, qisqa tutashuv) to'g'ri va tezkor harakat qilish algoritmini qo'llash.
   * Tizim blokini ochishdan oldin statik zaryadni xavfsiz zararsizlantirish (antistatik bilaguzuk yoki korpus orqali yerga tushirish).
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 01-Mavzu Bo'yicha Video Dars (YouTube / Google Drive Havolasi)]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -58,8 +54,6 @@ Kompyuter qarshisida uzoq vaqt noto'g'ri o'tirish ko'zning toliqishi, umurtqa eg
            |
        [Tizzalar] 90° burchak, oyoq kafti to'liq polga tekkan
 ```
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -100,8 +94,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 * Elektr tarmog'iga ulangan holatda tizim bloki ichidagi changlarni nam latta bilan artish!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -118,9 +110,7 @@ Xodim sintetik kiyimda ishlagan va tizim blokiga teginishdan oldin statik zaryad
 5. RAM ni uyasiga (slot) qayta joylashtirib, ikki chetidagi fiksatorlari "chert" etib yopilguniga qadar ehtiyotkorlik bilan bosing.
 6. Tizimni qayta yoqing. Agar signal davom etsa, platani almashtirish talab etiladi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -130,9 +120,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform" %}
-
----
-
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

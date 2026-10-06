@@ -14,8 +14,6 @@
   * Ro'yxatlar (Bullets) va infografik rasmlarni slayd maketiga proporsional joylashtirish.
   * Taqdimotchi rejimi (Presenter View) orqali eslatmalar bilan professional nutq so'zlash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 17-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -65,8 +61,6 @@ Taqdimotni auditoriyaga namoyish qilish vaqtida eng muhim tezkor tugmalar:
 * **`W` (White screen)** — Ekranni oppoq qilib ko'rsatish.
 * **`Esc`** — Taqdimot namoyishidan chiqish va tahrirlash rejimiga qaytish.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz "Raqamli Xavfsizlik" mavzusida 4 slayddan iborat professional taqdimot tayyorlaysiz.
@@ -104,8 +98,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Slayd foniga juda ko'p rangli, o'zi ham murakkab bo'lgan rasmni orqa fon qilib qo'ymang! Bunday fonda matnlar ko'rinmay ketadi va tomoshabinlarning ko'zini toliqtiradi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -121,9 +113,7 @@ Taqdimotning eng asosiy maqsadi — vizuallashtirish ekanligi unutilgan va slayd
 4. Yoniga mavzuni bir qarashda tushuntiruvchi bitta sifatli infografika yoki fotosurat joylashtiring.
 5. Ma'ruzachi tafsilotlarni slaydga yozmasdan, o'zi og'zaki nutqda ta'sirchan gapirib berishi shart!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -133,8 +123,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc8ScTfvOFdx8FuT0lhui23SkyVE4NQxSyBRLShebYbJvZZ6A/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

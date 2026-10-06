@@ -14,8 +14,6 @@
   * Standartlashtirilgan iyerarxik papkalar tizimini yaratish va xavfsizlik zaxirasini (Backup) shakllantirish.
   * Tizim parametrlarini optimallashtirish, kesh fayllarni tozalash va to'liq diagnostika hisobotini tayyorlash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 10-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Nazariy Xulosa va Bilimlar Tizimi
 
@@ -51,8 +47,6 @@ Yangi kompyuter topshirilayotganda mijozga "tayyor" holat deb faqat Windows o'rn
 3) Storage Sense va Night light ni yoqadi;
 4) Startup (Avtoyuklanish) ro'yxatini ortiqcha dasturlardan tozalaydi.
 {% endhint %}
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -92,8 +86,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Yakuniy topshiriqni bajarishda fayllarni saqlash yo'llari va nomlariga qat'iy e'tibor bering. Noto'g'ri nomlangan yoki boshqa papkaga adashib saqlangan fayllar uchun ball berilmaydi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -112,9 +104,7 @@ Montajchi faqat Windows o'rnatib ketgan, lekin 1-modulda o'rganilgan standart pr
 3. **Ekran sifatini oshirish:** Settings -> Display bo'limida Native piksellar o'lchamini (masalan, 1920x1080) to'g'rilash va "Adjust ClearType text" vositasi orqali shriftlarni tekislash.
 4. **Printerni tuzatish:** Print Spooler xizmatini tozalash va xodimlar uchun to'g'ri "Default Printer" ni tayinlash.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -124,8 +114,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Yakuniy Loyiha Vazifasi
 

@@ -14,8 +14,6 @@
   * SmartArt grafik vositasi orqali korxona tuzilmasi yoki ish jarayoni sxemasini chizish.
   * Titul (birinchi) sahifasida raqam ko'rinmaydigan qilib sahifa raqamlarini (Page Numbers) o'rnatish va bitta tugma bilan avtomatik mundarija generatsiya qilish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 13-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -61,8 +57,6 @@ Ko'pchilik foydalanuvchilar xato qilib mundarijani qo'lda — nuqtalar qo'yib yo
 2. Ichki kichik sarlavhalarni **Heading 2 (Заголовок 2)** ga o'tkazing.
 3. Hujjat boshiga (yoki oxiriga) o'tib: **References (Ссылки) -> Table of Contents (Оглавление)** ni bosing. Mundarija sahifa raqamlari bilan bir soniyada avtomatik shakllanadi!
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz jadvallar, SmartArt va avtomatik mundarijadan iborat 3 sahifalik ixcham hisobot tayyorlaysiz.
@@ -97,8 +91,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Mundarija yaratilgandan so'ng hujjat matniga biror o'zgartirish kiritsangiz yoki yangi sahifalar qo'shilsa, mundarija ustiga sichqonchaning o'ng tugmasini bosib **Update Field -> Update entire table (Обновить целиком)** buyrug'ini berishni unutmang!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -113,9 +105,7 @@ Hujjatda Wordning avtomatlashtirilgan uslublari (Styles: Heading 1, Heading 2) v
 3. Tituldan keyingi bo'sh sahifaga o'tib, **References -> Table of Contents -> Automatic Table** tugmasini bosing.
 4. Barcha 80 sahifalik boblar va ularning to'g'ri yangi sahifa raqamlari 2 soniyada ideal holatda qayta tiklanadi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -125,8 +115,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

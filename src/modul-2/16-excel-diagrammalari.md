@@ -14,8 +14,6 @@
   * Diagramma elementlarini formatlash, foiz ko'rsatkichlarini (Data Labels) qo'shish.
   * Jadvalga yangi ma'lumot kiritilganda diagrammaning avtomatik yangilanishini ta'minlash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 16-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -57,8 +53,6 @@ Jadval ichidagi istalgan katak ustiga kursor qo'ying va klaviaturadagi **`Alt + 
 3. **Legend (Afsona / Ranglar izohi):** Qaysi rang qaysi toifaga tegishli ekanligini tushuntiruvchi yo'riqnoma.
 4. **Data Labels (Ma'lumot yorliqlari):** Ustun yoki sektor ustida aniq raqam yoki foizni ko'rsatib turuvchi yozuvlar.
 5. **Axes (O'qlar):** Gorizontal o'q (X — kategoriyalar: oylar, ismlar) va Vertikal o'q (Y — sonlar, qiymatlar).
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -99,8 +93,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Diagramma uchun jadvalni belgilayotganda jami ("Total / Jami") qatorini HECH QACHON belgilangan sohaga qo'shib yubormang! Aks holda "Jami" ustuni qolgan barcha ustunlardan 2 barobar baland bo'lib, butun diagramma mutanosibligini buzib tashlaydi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -115,9 +107,7 @@ Doiraviy diagramma inson ko'zi idrok qilishi uchun maksimal **5–7 ta bo'lakka*
 3. Jadvaldagi mahsulotlarni eng ko'p sotilganidan boshlab saralang (**Data -> Sort -> Descending**).
 4. Natijada har bir mahsulot nomi chap tomonda chiroyli qator bo'lib, uning savdo hajmi esa gorizontal ustun sifatida aniq, o'qilishi juda oson va professional ko'rinishga keladi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -127,8 +117,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

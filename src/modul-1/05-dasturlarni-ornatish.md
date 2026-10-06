@@ -14,8 +14,6 @@
   * Kompyuterdan keraksiz dasturlarni Settings va Control Panel orqali qoldiqsiz o'chirish.
   * Windows yuklanishini tezlashtirish uchun Task Manager orqali Startup (Avtoyuklanish) ro'yxatini tozalash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 05-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -80,8 +76,6 @@ Kompyuter yoqilganda uning sekin ochilishining 80% sababi — orqa fonda ishga t
 * **Startup apps (Автозагрузка)** bo'limiga o'ting.
 * Kundalik kerak bo'lmagan dasturlar ustiga sichqonchaning o'ng tugmasini bosib **Disable (Отключить)** qiling. Bu ularni o'chirmaydi, faqat kompyuter yoqilganda o'z-o'zidan ishga tushishini to'xtatadi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz kompyuteringizdagi keraksiz dasturlarni aniqlab, ularni to'g'ri o'chirasiz va avtoyuklanishni optimallashtirasiz.
@@ -117,8 +111,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Hech qachon Microsoft Visual C++ Redistributable, DirectX, Realtek Audio yoki videokarta (NVIDIA/AMD/Intel) drayverlarini "Programs and Features" ro'yxatidan o'chirib yubormang! Bu tizimning to'g'ri ishlashi uchun hayotiy muhim komponentlardir.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -134,9 +126,7 @@ Foydalanuvchi o'rnatish vaqtida shartlarni o'qimay "Next" ni bosgan va dastur ic
 4. Brauzerni oching, sozlamalar bo'limidan **Extensions (Kengaytmalar)** ro'yxatiga kiring va notanish reklama plaginlarini butunlay o'chiring.
 5. Brauzerning asosiy qidiruv tizimini qaytadan Google yoki Yandex ga to'g'rilang.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -146,8 +136,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

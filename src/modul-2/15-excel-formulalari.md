@@ -14,8 +14,6 @@
   * Mantiqiy `IF` funksiyasi yordamida avtomatlashtirilgan baholash yoki holat aniqlash shartlarini tuzish.
   * Formulalarni AutoFill dastagi yordamida yuzlab qatorlarga bir zumda nusxalash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 15-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -74,8 +70,6 @@ Formulani pastga nusxalaganda barcha katak manzillari ham pastga suriladi (`B2` 
 | **`#NAME?`** | Funksiya nomi xato yozilgan (masalan: `=SUMM(...)`) | Funksiya nomini to'g'ri yozing (`=SUM(...)`) |
 | **`#REF!`** | Formulada ko'rsatilgan katak yoki ustun o'chirib yuborilgan | `Ctrl + Z` bosing yoki formulaga to'g'ri katakni qayta ko'rsating |
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz o'quv markazi talabalarining yakuniy imtihon ballarini avtomatlashtirilgan tarzda hisoblab chiquvchi jadval yaratasiz.
@@ -121,8 +115,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Funksiyalar ichidagi parametrlarni ajratishda Windows mintaqaviy sozlamalariga qarab nuqta-vergul (`;`) yoki vergul (`,`) ishlatiladi. Agar `=IF(E2>=70, ...)` xato bersa, vergul o'rniga nuqta-vergul qo'yib ko'ring: `=IF(E2>=70; ...)`.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -137,9 +129,7 @@ Menejer kursorni tortishdan oldin kurs turgan `D1` katakka **`F4` (dollar belgil
 3. Formula `=B2 * $D$1` ko'rinishiga keladi.
 4. AutoFill dastagini pastga torting — endi barcha 100 ta tovar narxi to'g'ri o'zgarmas kursga (`$D$1`) ko'paytirilib, to'g'ri hisoblab beriladi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -149,8 +139,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

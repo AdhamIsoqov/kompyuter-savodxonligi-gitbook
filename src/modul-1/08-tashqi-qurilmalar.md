@@ -14,8 +14,6 @@
   * `Win + P` yordamida proyektor yoki ikkinchi monitorni taqdimot va ishchi maydonni kengaytirish rejimlariga moslash.
   * Veb-kamera va mikrofon xavfsizlik ruxsatlarini (Privacy Settings) sozlash va diagnostika qilish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 08-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -66,8 +62,6 @@ HDMI yoki VGA kabel orqali tashqi monitor yoki proyektor ulanganda Windows klavi
 +-------------------+     +-------------------+
 ```
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz kompyuteringizdagi audio va video multimedia qurilmalarining to'g'ri ishlashini diagnostika qilasiz.
@@ -103,8 +97,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Noutbuk yoki kompyuterning audio portiga (3.5 mm Mini-Jack) boshqa qattiq metall buyumlarni tiqmang. Shuningdek, HDMI kabelini kompyuter va televizor ishlab turgan vaqtda kuch bilan qiyshiq ulamang — bu videochip portining statik razryaddan kuyishiga sabab bo'lishi mumkin!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -120,9 +112,7 @@ Katta konferensiyada ma'ruzachi noutbukini HDMI kabel orqali katta zal proyektor
 3. Agar tasvir nisbati buzilgan bo'lsa (`Win + I -> System -> Display`), Display resolution qismini proyektor qo'llab-quvvatlaydigan 1920x1080 yoki 1280x720 ga moslang.
 4. Tasvir darhol katta ekranda paydo bo'ladi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -132,8 +122,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

@@ -14,8 +14,6 @@
   * `cleanmgr` (Disk Cleanup) va `%temp%` buyruqlari yordamida diskdan gigabaytlab axlat fayllarni xavfsiz tozalash.
   * Windows Security orqali to'liq antivirus diagnostikasini o'tkazish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 09-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -60,8 +56,6 @@ Vaqt o'tishi bilan Windows tizimida dasturlar va brauzerlarning vaqtinchalik fay
 * **HDD (Magnit disklar):** Fayllar diskning turli burchaklariga bo'linib (fragmentatsiyalashib) yoziladi. Mexanik o'qish kallagi tez harakatlanishi uchun ularni yonma-yon tartiblash — **Defragmentatsiya** talab etiladi (oyiga 1 marta).
 * **SSD (Flesh disklar):** SSD disklarni HECH QACHON defragmentatsiya qilish mumkin emas! Bu ularning yozish resursini (TBW) tez tugatib yuboradi. SSD disklar uchun Windows faqat **TRIM (Optimizatsiya)** buyrug'ini yuboradi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu mashg'ulotda siz kompyuteringiz xotirasi va xavfsizligini to'liq profilaktika qilasiz.
@@ -96,8 +90,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Tizim blokini kompressor yoki changyutgich bilan tozalayotganda ventilyator (kuler) pichoqlarini barmog'ingiz yoki qalam bilan ushlab turing! Yuqori bosimli havo ventilyatorni haddan tashqari tez aylantirib, uning motorida teskari tok (generator effekti) hosil qilishi va ona platadagi mikrosxemani kuydirishi mumkin.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -115,9 +107,7 @@ Protsessor radiatorining panjaralari kigizsimon chang qatlami bilan to'silib qol
 6. Kulerni qayta o'rnatib, qisqichlarini mustahkam qotiring.
 7. Kompyuterni yoqing va haroratni kuzatuvchi dastur (masalan, HWMonitor) orqali tekshiring — yuklama ostidagi harorat 65°C dan oshmaydi va kompyuter boshqa o'chmaydi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -127,8 +117,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

@@ -14,8 +14,6 @@
   * Klaviaturada tillar almashish yorliqlarini (`Alt + Shift` / `Win + Space`) to'g'ri moslash.
   * Tizimning qorong'i (Dark mode) va tungi yorug'lik (Night light) rejimlarini o'rnatish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 04-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -72,8 +68,6 @@ Windows 10/11 da **Storage Sense** tizimi mavjud bo'lib, u foydalanuvchi aralash
 2. Savatda (Recycle Bin) 30 kundan ortiq qolib ketgan keraksiz fayllarni avtomatik o'chirish.
 3. "Yuklab olinganlar" (Downloads) papkasidagi foydalanilmayotgan eski o'rnatish fayllarini tozalash.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu mashg'ulotda siz kompyuteringiz xotirasini optimallashtirasiz va ishchi muhitni shaxsiylashtirasiz.
@@ -108,8 +102,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Control Panel ichidagi **Administrative Tools** yoki **Device Manager** bo'limidagi noma'lum apparat drayverlarini sababsiz o'chirmang (Disable qilmang). Bu ovoz, internet yoki klaviaturaning ishlamay qolishiga olib kelishi mumkin!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -125,9 +117,7 @@ Ekran o'lchamini (Resolution) pasaytirish xato yondashuvdir, chunki zamonaviy LC
 4. Qiymatni 100% dan **125%** yoki **150%** ga oshiring.
 5. Natijada ekrandagi piktogrammalar va harflar kattalashadi, shu bilan birga tasvirning tiniqligi va piksellar sifati 100% saqlanib qoladi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -137,8 +127,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

@@ -14,8 +14,6 @@
   * Abzaslarni to'rt tomondan to'g'ri tekislash: Chapga (`Ctrl + L`), O'rtaga (`Ctrl + E`), O'ngga (`Ctrl + R`), Ikki tomonga (`Ctrl + J`).
   * Chizg'ich (Ruler) orqali birinchi satr xatboshisini (First Line Indent: 1.25 sm) o'rnatish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 12-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -67,8 +63,6 @@ O'zbekiston Respublikasi idoraviy ish yuritish qoidalariga ko'ra barcha rasmiy a
 | `Ctrl + J` | Matnni ikki chetga tekislash (Justify) | Rasmiy va tartibli ko'rinish berish |
 | `Shift + F3` | Belgilangan so'zning registrini almashtirish | KICHIK -> Bosh Harflar -> HAMMASI KATTA |
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz rasmiy ariza shablonini noldan davlat standartlariga moslab terasiz.
@@ -106,8 +100,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Hech qachon xatboshini (abzas boshini) bo'shliq (Probel) tugmasini 5-10 marta bosib surishga urinmang! Hujjat boshqa kompyuterda ochilganda yoki boshqa shrift tanlanganda bu probellar butun matn qatorlarini buzib, chalkashtirib yuboradi. Faqat chizg'ich yoki `Tab` tugmasidan foydalaning!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -127,9 +119,7 @@ Xodim 20 sahifalik hisobot tayyorladi. Ammo matn juda xunuk: qatorlarning oxiri 
 3. Gorizontal chizg'ichni yoqing (**View -> Ruler**) va yuqori uchburchakni (First Line Indent) **1.25 sm** ga suring.
 4. 20 betlik matn 2 daqiqada ideal rasmiy holatga keladi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -139,8 +129,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfx1JK-TnEvUBuX7cUCGdujoG-jqipZwWpShbqJctY-xwVyWA/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

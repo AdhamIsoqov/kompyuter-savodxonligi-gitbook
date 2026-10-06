@@ -14,8 +14,6 @@
   * Google Drive'ga fayllar yuklash, papkalar ochish va havola (Link sharing) orqali ulashish.
   * Google Docs va Sheets xizmatlarida boshqa foydalanuvchilar bilan real vaqtda birgalikda hujjat tahrirlash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 21-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -67,8 +63,6 @@ Google har bir hisobga **15 GB bepul bulutli xotira** taqdim etadi. Hujjatni bos
 2. **Commenter (Izoh qoldiruvchi):** Hujjat matniga teginmasdan, faqat chetiga taklif va izohlar yozib qoldirishi mumkin.
 3. **Editor (Tahrirlovchi):** Hujjatni to'liq o'zgartirish, o'chirish va yangi matn kiritish huquqiga ega bo'ladi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu mashg'ulotda siz Google Drive-da jamoaviy papka ochasiz va Google Docs orqali onlayn hamkorlikda hujjat tahrirlashni bajarasiz.
@@ -103,8 +97,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Hech qachon ommaviy internet guruhlariga (Telegram kanallar, guruhlar) Google Drive fayllarining havolasini **Editor (Tahrirlovchi)** huquqi bilan tarqatmang! Aks holda istalgan notanish shaxs hujjatingizdagi barcha ma'lumotlarni o'chirib yoki haqoratli so'zlar yozib ketishi mumkin.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -119,9 +111,7 @@ Ommaviy bir xil xatlar tarqatilganda kiberxavfsizlik va maxfiylik vositasi bo'lg
 3. Barcha 100 ta mijozning elektron pochtalarini aynan **Bcc** qatoriga kiriting.
 4. Xat barcha 100 kishiga alohida-alohida yetib boradi va har bir mijoz faqat o'ziga xat kelgan deb hisoblaydi, qolgan 99 kishining manzillari butunlay maxfiy qoladi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -131,8 +121,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

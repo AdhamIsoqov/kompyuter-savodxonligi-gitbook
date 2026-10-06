@@ -14,8 +14,6 @@
   * Word, Excel va PowerPoint vositalarida murakkab loyihalarni to'liq professional darajada amalga oshirish.
   * Axborot xavfsizligi, ma'lumotlar zaxirasi (Backup) va 2FA himoya devorlarini amaliyotda qo'llash.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 24-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Kursning Katta Tizimli Xulosasi
 
@@ -57,8 +53,6 @@ Haqiqiy mutaxassis hech qachon muammo chiqishini kutib o'tirmaydi — u doimo pr
 3. Hech qachon shubhali fayl va havolalarni ochmang;
 4. Ish joyidan ketayotganda ekranni bloklang (`Win + L`).
 {% endhint %}
-
----
 
 ## 3. 💻 Katta Yakuniy Amaliy Imtihon (Final Lab Task)
 
@@ -98,8 +92,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Yakuniy attestatsiya ishi har bir tinglovchi tomonidan mustaqil bajarilishi shart. Boshqa tinglovchilarning skrinshotlari yoki matnlaridan nusxa ko'chirish (Plagiat) qat'iyan man etiladi.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -117,9 +109,7 @@ Kompaniyaning barcha kompyuterlari birdaniga sekinlashdi, printerlar ishlamay qo
 4. **Zaxiradan tiklash:** Muhim korxona ma'lumotlarini tashqi zaxira diskdan (Backup) qayta tiklang.
 5. **Xavfsizlik devori:** Barcha xodimlarning kompyuterlarida 2FA himoyasini joriy eting va xavfsizlik yangilanishlarini o'rnating.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -129,8 +119,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Yakuniy Malaka Portfoliosi
 

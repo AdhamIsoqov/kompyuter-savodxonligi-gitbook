@@ -14,8 +14,6 @@
   * AI assistentlariga (ChatGPT/Copilot) professional buyruqlar (Prompts) tuzish: Rol, Kontekst, Aniq vazifa va Format belgilash.
   * AI yordamida katta hajmdagi matnlarni umumlashtirish (Summarize) va rasmiy xat qoralamalarini yozdirish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 22-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -63,8 +59,6 @@ Zamonaviy Katta Til Modellari (LLM — Large Language Models: ChatGPT, Gemini, C
 * **Formatlash va jadvalga aylantirish:** Tartibsiz yozilgan ma'lumotlarni tartibli Excel jadvali ko'rinishiga o'tkazish.
 * **Gallyutsinatsiyadan ehtiyot bo'ling:** AI ba'zida mavjud bo'lmagan soxta qonun moddalarini yoki faktlarni to'qib chiqarishi mumkin. Muhim faktlarni doimo o'zingiz tekshiring!
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz Google Meet uchrashuvini tashkil qilasiz va ChatGPT/Gemini yordamida rasmiy xat qoralamasini yozdirasiz.
@@ -101,8 +95,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Hech qachon ommaviy Sun'iy Intellekt chatlariga o'zingizning yoki mijozlarning maxfiy parollari, pasport ma'lumotlari, bank kartalari raqamlari yoki korxona moliyaviy sirlarini kiritmang! Bu ma'lumotlar neyrotarmoqni o'qitish bazasiga tushib qolishi mumkin.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -118,9 +110,7 @@ Oddiy tarjimon dasturlari biznes kontekstini, rasmiy diplomatik ohangni tushunma
 3. AI nafaqat xatosiz tarjima qiladi, balki xalqaro biznes etiketi qoidalariga mos professional jumlalarni qo'llab beradi.
 4. Xat nufuzli ko'rinishga ega bo'ladi va hamkorlik muvaffaqiyatli yo'lga qo'yiladi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -130,8 +120,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfVPG4POmF_z_5UzEd_7ki50aWiFtC1hwOhFDjRHsa29FOdPQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

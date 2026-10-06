@@ -14,8 +14,6 @@
   * Fayllar nomini tezkor o'zgartirish (`F2`), guruhlab tanlash (`Ctrl + A`, `Shift + Click`, `Ctrl + Click`).
   * Wildcard belgisi (`*`) orqali formati bo'yicha tezkor qidiruvni amalga oshirish (masalan: `*.xlsx`).
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 03-Mavzu Bo'yicha Video Dars (YouTube / Google Drive Havolasi)]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -75,8 +71,6 @@ Agar kompyuteringizda minglab fayllar orasidan keraklisini topa olmasangiz, File
 * `*.xlsx` — Barcha Excel jadvallarini qidiradi.
 * `Hujjat_2026_*.pdf` — "Hujjat_2026_" bilan boshlanuvchi barcha PDF fayllarni topadi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz professional iyerarxik kataloglar strukturasini mustaqil qurasiz va fayllar oqimini tartiblaysiz.
@@ -117,8 +111,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Hech qachon tizimli `C:\Windows` yoki `C:\Program Files` papkalari ichidagi fayllarni bilmasdan o'chirmang yoki nomini o'zgartirmang! Bu operatsion tizimning ishdan chiqishiga (Blue Screen of Death — BSOD) olib kelishi mumkin.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -134,9 +126,7 @@ Fayl tasodifan o'chirilgan (Savatga tushgan) yoki noto'g'ri sichqoncha harakati 
 4. Topilgan fayl ustiga sichqonchaning o'ng tugmasini bosib **Restore (Восстановить)** buyrug'ini tanlang. Fayl o'z asl o'rniga tiklanadi.
 5. Agar savatda bo'lmasa, `Win + E` orqali butun `D:` disk bo'ylab `*.xlsx` yoki hisobot nomi bo'yicha umumiy qidiruv bering.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -146,8 +136,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

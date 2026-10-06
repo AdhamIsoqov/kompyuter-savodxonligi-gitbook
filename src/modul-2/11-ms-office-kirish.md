@@ -14,8 +14,6 @@
   * Standart ofis shablonlaridan (Templates) foydalangan holda yangi hujjatlarni tezkor yaratish.
   * Hujjatlarni turli formatlarda (`.docx`, `.pdf`, `.txt`) eksport qilish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 11-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -58,8 +54,6 @@ Eski versiyalarda kengaytmalar `.doc`, `.xls`, `.ppt` bo'lgan bo'lsa, 2007-yilda
 
 * **Klassik Office (2016, 2019, 2021):** Bir marta sotib olinadi va o'rnatiladi. Yangi funksiyalar qo'shilmaydi, faqat xavfsizlik yangilanishlarini oladi.
 * **Microsoft 365 (sobiq Office 365):** Oylik yoki yillik obuna tizimi. Doimiy ravishda eng so'nggi sun'iy intellekt (Copilot) funksiyalari qo'shilib boradi, 1 TB OneDrive bulutli xotira beradi va hujjat ustida bir vaqtning o'zida bir nechta xodim onlayn hamkorlikda ishlashi mumkin.
-
----
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -95,8 +89,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Agar Office dasturingiz yuqori qismida qizil tasmada "Product Activation Failed" (Litsenziya muddati tugagan) xabari chiqsa, ko'p funksiyalar (matn tahrirlash, saqlash) bloklanib qoladi. Har doim qonuniy litsenziyadan foydalaning.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -111,9 +103,7 @@ Fayl 20 yillik eski binar `.doc` formatida saqlangani uchun zamonaviy Word dastu
 3. Tizim hujjatni zamonaviy XML arxitekturasiga (`.docx`) aylantirishini ma'lum qiladi — **OK** tugmasini bosing.
 4. Hujjat bir zumda zamonaviy formatga o'tadi, cheklovlar yechiladi, fayl hajmi kichrayadi va barcha zamonaviy dizayn asboblari faollashadi.
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -123,8 +113,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

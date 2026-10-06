@@ -14,8 +14,6 @@
   * Multitasking rejimida `Alt + Tab` va `Win + Tab` (Task View) orqali tezkor almashish.
   * Kerakli dasturlar uchun tezkor yorliqlar (Shortcuts) yaratish va Taskbar'ga biriktirish (Pin qilish).
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 02-Mavzu Bo'yicha Video Dars (YouTube / Google Drive Havolasi)]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -85,8 +81,6 @@ Windows tizimida har bir dastur o'z oynasida ishlaydi. Har bir oynaning yuqori o
 | `Win + L` | Kompyuterni bir soniyada bloklash (Lock) | Ish joyidan ketayotganda begona shaxslardan xavfsizlanish |
 | `Alt + F4` | Faol oynani darhol yopish (ish stoli ochiq bo'lsa, o'chirish menyusi) | Ishni tez yakunlash |
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy topshiriqda siz Windows tizimida ko'p vazifali ish muhitini to'g'ri tashkil qilishni va oynalarni boshqarishni mashq qilasiz.
@@ -124,8 +118,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Ish stolidagi tartibsizlik (yuzlab fayllar va o'rnatish paketlarining Desktop'da saqlanishi) kompyuter yuklanish tezligini sekinlashtiradi. Fayllarni doimo maxsus papkalarga (`Hujjatlar`, `Rasmlar` yoki alohida D: diskka) saqlang!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -142,9 +134,7 @@ Kompyuterni majburiy o'chirish shart emas! Jarayonni tezkor qayta ishga tushiris
 4. Agar ro'yxatda topilmasa, yuqori menyudan **Run new task (Запустить новую задачу)** tugmasini bosing, qatorga `explorer.exe` deb yozing va Enter bosing.
 5. Taskbar va Ish stoli 2 soniyada qayta tiklanadi, barcha ochilgan hujjatlar o'z o'rnida saqlanib qoladi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -154,8 +144,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdGnfgZuyJ28Q1AX7s9Wbf6wsnr6XbJSzfAcOZ4Nr-1qdkOoQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

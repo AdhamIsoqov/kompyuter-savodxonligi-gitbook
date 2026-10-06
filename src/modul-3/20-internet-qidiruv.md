@@ -14,8 +14,6 @@
   * Ilg'or qidiruv operatorlari yordamida internetdan faqat rasmiy davlat saytlaridan (`site:gov.uz`) yoki faqat PDF kitoblarni (`filetype:pdf`) topish.
   * Soxta (fishing) havolalarni haqiqiy domenlardan vizual ajrata olish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 20-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -64,8 +60,6 @@ Ko'pchilik odamlar qidiruvga uzun jumlalar yozishadi va minglab keraksiz reklama
 * **`filetype:kengaytma`:** Faqat ma'lum bir formatdagi fayllarni topadi (`filetype:docx`, `filetype:pdf`, `filetype:xlsx`).
 * **Minus belgisi `-`:** Keraksiz so'zlarni natijadan chiqarib tashlaydi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz Google qidiruv operatorlari yordamida rasmiy davlat qonunchiligi hujjatini bir zumda topishni mashq qilasiz.
@@ -101,8 +95,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Sayt manzilidagi xavfsizlik qulfi belgisiga doimo e'tibor bering! Agar brauzer manzilida **"Not Secure" (Xavfli)** yozuvi chiqsa yoki qizil chiziq tortilgan bo'lsa, bunday saytlarga hech qachon shaxsiy plastik karta ma'lumotlaringizni yoki parollaringizni kiritmang!
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -118,9 +110,7 @@ Xodim internet qidiruv natijalariga tanqidiy qaramagan, rasmiy manba o'rniga vir
    `namunaviy mehnat shartnomasi site:gov.uz` yoki `filetype:docx`
 4. Yuklangan fayl kengaytmasini har doim tekshiring: agar hujjat nomi oxirida `.exe` yoki `.vbs` tursa, uni aslo ishga tushirmasdan darhol o'chirib tashlash (`Shift + Delete`) shart!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -130,8 +120,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

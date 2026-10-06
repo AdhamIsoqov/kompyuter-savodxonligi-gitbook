@@ -14,8 +14,6 @@
   * Chop etish parametrlarini moslash: A4 formati, yo'nalish (Portrait/Landscape), ikki tomonlama chop etish (Duplex) va sahifalar diapazonini belgilash.
   * Chop etish navbatida qotib qolgan fayllarni bekor qilish (Cancel) va Spooler xizmatini qayta ishga tushirish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 06-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -72,8 +68,6 @@ Microsoft Word yoki boshqa dasturlarda `Ctrl + P` bosilganda quyidagi muhim para
    * *Collated (1,2,3... 1,2,3...)* — har bir nusxani alohida to'plam qilib chiqaradi.
    * *Uncollated (1,1,1... 2,2,2...)* — avval 1-sahifadan 3 ta, keyin 2-sahifadan 3 ta chiqaradi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu amaliy mashg'ulotda siz kompyuterda mavjud printer sozlamalarini tahlil qilasiz va hujjatni virtual PDF printer orqali to'g'ri chop etishni mashq qilasiz.
@@ -112,8 +106,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Lazerli printer ichida qog'oz tiqilib (Paper Jam) qolsa, qog'ozni kuch bilan qarama-qarshi tomonga tortib yirtmang! Bu termoplyonka (Fuser) va rezina vallarni shikastlaydi. Har doim kartrijni chiqarib oling va qog'ozni uning harakat yo'nalishi bo'ylab ikki qo'llab asta-sekin torting.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -132,9 +124,7 @@ Windows tizimining **Print Spooler** xizmati keshida buzilgan chop etish fayli (
 6. Qaytadan Services darchasiga o'tib, **Print Spooler** ustiga o'ng tugmani bosing va **Start (Запустить)** qiling.
 7. Printer navbati butunlay tozalanadi va qurilma yangi hujjatlarni normal qabul qila boshlaydi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -144,8 +134,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 

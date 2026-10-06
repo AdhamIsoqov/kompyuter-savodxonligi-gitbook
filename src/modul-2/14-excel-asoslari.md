@@ -14,8 +14,6 @@
   * Ustun va satr kengliklarini ma'lumot hajmiga avtomatik moslash (AutoFit).
   * Kataklarni birlashtirish (Merge & Center), matnni o'rash (Wrap Text) va chegaralar (All Borders) chizish.
 
----
-
 ## 🎬 1. Video Dars
 
 {% hint style="info" %}
@@ -23,8 +21,6 @@
 {% endhint %}
 
 [Iframe/Embed: 14-Mavzu Bo'yicha YouTube Video Dars Havolasi]
-
----
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
@@ -66,8 +62,6 @@ Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1
 * **Wrap Text (Matnni o'rash):** Agar katakdagi sarlavha juda uzun bo'lsa, ustunni haddan tashqari kengaytirmasdan, matnni bir katak ichida 2-3 qatorga tushirib beradi.
 * **Merge & Center:** Bir nechta katakni birlashtirib, sarlavhani jadval o'rtasiga joylashtiradi.
 
----
-
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
 Ushbu mashg'ulotda siz korxona omboridagi kompyuter ehtiyot qismlari hisobi jadvalini tayyorlaysiz.
@@ -107,8 +101,6 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 Raqamlarni kiritayotganda probel bilan `150 000` deb yozmang! Probel qo'yilsa, Excel uni "matn" deb qabul qiladi va kelgusida bu sonlar ustida formulalar bilan hisob-kitob qilib bo'lmaydi. Sonni to'g'ridan-to'g'ri `150000` deb kiriting, oraliq bo'shliqni esa Number panelidagi `Comma Style` (Vergul belgisi) orqali chiqaring.
 {% endhint %}
 
----
-
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)
 
 ### Muammo:
@@ -123,9 +115,7 @@ Excelda `###` belgisi xatolik emas! Bu shunchaki katak ichidagi son yoki sana us
 3. Sichqonchaning chap tugmasini ketma-ket **ikki marta bosing (Double-click)**.
 4. Ustun avtomatik ravishda kengayadi (**AutoFit**) va yashiringan haqiqiy sonlar darhol to'liq ko'rinadi!
 
----
-
-## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz — 25 ta Savol, 100 Ball)
+## 5. 📝 Bilimni Tekshirish (Google Forms Test & Quiz)
 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
@@ -135,8 +125,6 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSewIddDjssMWgxXPf0PB8GG1tZdj2ryWjeqXYuRwfOM7eEJ2A/viewform" %}
-
----
 
 ## 6. 🏠 Mustaqil Amaliy Uyga Vazifa
 
