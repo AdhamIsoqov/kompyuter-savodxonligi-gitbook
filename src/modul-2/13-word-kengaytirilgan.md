@@ -75,8 +75,8 @@ Ushbu amaliy mashg'ulotda siz jadvallar, SmartArt va avtomatik mundarijadan ibor
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Shablonni ochish](https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/1NmOu9spVeVgOvZX57MIq2ho7jcnh87gSEoNb-ydoqAk/preview" %}
@@ -120,8 +120,8 @@ Hujjatda Wordning avtomatlashtirilgan uslublari (Styles: Heading 1, Heading 2) v
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" target="_blank" rel="noopener noreferrer">13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" %}

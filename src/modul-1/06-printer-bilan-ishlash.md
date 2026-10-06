@@ -87,8 +87,8 @@ Ushbu amaliy mashg'ulotda siz kompyuterda mavjud printer sozlamalarini tahlil qi
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Shablonni ochish](https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/edit?usp=sharing" target="_blank" rel="noopener noreferrer">06-Mavzu: Printer Bilan Ishlash va Sozlash — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/159amdEc3kr4nbGYDfFw2lRneDQEaOkddxfU0t5V4f5g/preview" %}
@@ -139,8 +139,8 @@ Windows tizimining **Print Spooler** xizmati keshida buzilgan chop etish fayli (
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1bQZdeRGZYDQzj-ND03tUN_Gz5iOZQvoek6ZHD8YGz_4/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform" target="_blank" rel="noopener noreferrer">06-Mavzu: Printer Bilan Ishlash va Sozlash — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1bQZdeRGZYDQzj-ND03tUN_Gz5iOZQvoek6ZHD8YGz_4/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform" %}

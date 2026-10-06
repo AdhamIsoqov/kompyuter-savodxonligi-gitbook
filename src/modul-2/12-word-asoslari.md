@@ -81,8 +81,8 @@ Ushbu amaliy mashg'ulotda siz rasmiy ariza shablonini noldan davlat standartlari
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [12-Mavzu: Microsoft Word Asoslari — Shablonni ochish](https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">12-Mavzu: Microsoft Word Asoslari — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/1KsMBDqaaxQnsxJxwN3IcyiJe6-L771tC3igBVn3k-dE/preview" %}
@@ -134,8 +134,8 @@ Xodim 20 sahifalik hisobot tayyorladi. Ammo matn juda xunuk: qatorlarning oxiri 
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [12-Mavzu: Microsoft Word Asoslari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfx1JK-TnEvUBuX7cUCGdujoG-jqipZwWpShbqJctY-xwVyWA/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1TPI4OvSh9nGKnblZm5-mls_vvuPC2_a6TbqzM8BpMXU/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfx1JK-TnEvUBuX7cUCGdujoG-jqipZwWpShbqJctY-xwVyWA/viewform" target="_blank" rel="noopener noreferrer">12-Mavzu: Microsoft Word Asoslari — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1TPI4OvSh9nGKnblZm5-mls_vvuPC2_a6TbqzM8BpMXU/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfx1JK-TnEvUBuX7cUCGdujoG-jqipZwWpShbqJctY-xwVyWA/viewform" %}

@@ -78,8 +78,8 @@ Ushbu amaliy mashg'ulotda siz Google qidiruv operatorlari yordamida rasmiy davla
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [20-Mavzu: Internet va Qidiruv Tizimlari — Shablonni ochish](https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/edit?usp=sharing" target="_blank" rel="noopener noreferrer">20-Mavzu: Internet va Qidiruv Tizimlari — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/1qP08ol8vRIRu5qLNdtFUj9StJng2MLue-eWIfsgNQYY/preview" %}
@@ -125,8 +125,8 @@ Xodim internet qidiruv natijalariga tanqidiy qaramagan, rasmiy manba o'rniga vir
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [20-Mavzu: Internet va Qidiruv Tizimlari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" target="_blank" rel="noopener noreferrer">20-Mavzu: Internet va Qidiruv Tizimlari — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" %}

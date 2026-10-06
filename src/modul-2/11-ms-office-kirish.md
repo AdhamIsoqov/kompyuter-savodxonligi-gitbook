@@ -73,8 +73,8 @@ Ushbu amaliy mashg'ulotda siz kompyuteringizdagi Office paketining holatini teks
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [11-Mavzu: Microsoft Office Paketiga Kirish — Shablonni ochish](https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">11-Mavzu: Microsoft Office Paketiga Kirish — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/14Tu2cZOyq7zJqPbV1s0n1-r6jTS2zc3_5f73rulnUQ8/preview" %}
@@ -118,8 +118,8 @@ Fayl 20 yillik eski binar `.doc` formatida saqlangani uchun zamonaviy Word dastu
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [11-Mavzu: Microsoft Office Paketiga Kirish — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1qNzEUe8nE08H6c3qFklLAFT7RdOTC8zZC8O9MCGgwRg/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform" target="_blank" rel="noopener noreferrer">11-Mavzu: Microsoft Office Paketiga Kirish — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1qNzEUe8nE08H6c3qFklLAFT7RdOTC8zZC8O9MCGgwRg/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform" %}

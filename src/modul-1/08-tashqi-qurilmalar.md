@@ -81,8 +81,8 @@ Ushbu amaliy mashg'ulotda siz kompyuteringizdagi audio va video multimedia quril
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Shablonni ochish](https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/1Y_E6I3X7FwSofFV9x8qIwwcgOIKZ3XHVhRi8UukOooQ/preview" %}
@@ -127,8 +127,8 @@ Katta konferensiyada ma'ruzachi noutbukini HDMI kabel orqali katta zal proyektor
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1DWR7oghgreLxgmG9V_j0yK7uLLwRsQk9Dn2NpMXXpR8/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform" target="_blank" rel="noopener noreferrer">08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1DWR7oghgreLxgmG9V_j0yK7uLLwRsQk9Dn2NpMXXpR8/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLScqpoLHSRHzx-3t2aP3YOOE0LawlWGeF1ZxDSJhBRNKovgtLA/viewform" %}

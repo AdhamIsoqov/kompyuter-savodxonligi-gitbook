@@ -81,8 +81,8 @@ Ushbu mashg'ulotda siz Google Drive-da jamoaviy papka ochasiz va Google Docs orq
 {% hint style="success" %}
 **📄 Rasmiy Amaliy Mashg'ulot va Uy Vazifasi Shabloni (Google Docs (Hujjat)):**
 Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va uy vazifasini topshirish uchun quyidagi rasmiy shablondan foydalaning:
-* 🌐 **Onlayn ko'rish va tahrirlash:** [21-Mavzu: Elektron Pochta va Google Xizmatlari — Shablonni ochish](https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/edit?usp=sharing)
-* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** [Nusxa yaratish (Make a copy)](https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/copy)
+* 🌐 **Onlayn ko'rish va tahrirlash:** <a href="https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">21-Mavzu: Elektron Pochta va Google Xizmatlari — Shablonni ochish</a>
+* 📥 **Shaxsiy Drive-ga nusxalash (Tavsiya etiladi):** <a href="https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/copy" target="_blank" rel="noopener noreferrer">Nusxa yaratish (Make a copy)</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/document/d/1GGfT-qTKMjnnQn5Ki1PYN9tO3D_HVDZSnaLHapX7CaU/preview" %}
@@ -126,8 +126,8 @@ Ommaviy bir xil xatlar tarqatilganda kiberxavfsizlik va maxfiylik vositasi bo'lg
 {% hint style="info" %}
 **📝 Rasmiy Onlayn Test Sinovi (Google Forms — 25 ta savol, 100 ballik baholash):**
 Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
-* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** [21-Mavzu: Elektron Pochta va Google Xizmatlari — Testni Topshirish](https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform)
-* 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1nAfH2Fx2zstB1UVq_tzz4ynmm9h7-NbDNMJLYqrv1YE/edit)
+* 🔗 **Onlayn Testni Ochish (To'liq Ekranda):** <a href="https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform" target="_blank" rel="noopener noreferrer">21-Mavzu: Elektron Pochta va Google Xizmatlari — Testni Topshirish</a>
+* 📊 **Kunlik Natijalar va Ballar Jadvali:** <a href="https://docs.google.com/spreadsheets/d/1nAfH2Fx2zstB1UVq_tzz4ynmm9h7-NbDNMJLYqrv1YE/edit" target="_blank" rel="noopener noreferrer">Google Sheets — Natijalar Jadvali</a>
 {% endhint %}
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform" %}
