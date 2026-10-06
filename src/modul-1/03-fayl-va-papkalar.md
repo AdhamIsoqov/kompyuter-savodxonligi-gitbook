@@ -142,7 +142,14 @@ Fayl tasodifan o'chirilgan (Savatga tushgan) yoki noto'g'ri sichqoncha harakati 
 **Onlayn Test:** 3-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 03-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [03-Mavzu: Fayl va Papkalar Bilan Ishlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1Np11QGlCCmBFE6sNmQjaenFKccGy_-5RQMHMDbxyq6k/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen2YqcHQmESi-k6UH_MAkq0VOcFxYxwQfFrDPJGDrnGfY0Aw/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

@@ -145,7 +145,14 @@ Menejer kursorni tortishdan oldin kurs turgan `D1` katakka **`F4` (dollar belgil
 **Onlayn Test:** 15-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 15-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [15-Mavzu: Microsoft Excel Formulalari va Funksiyalari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mvFnPN7Y5FMK8auZ1PKIg4JluDnZfvx4oZqR2rSdLj4/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSegi35-Ai6rcjQfK2VQg3s8P3dj2w9P575z4bXdhGT0b_BWIQ/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

@@ -127,7 +127,14 @@ Ommaviy bir xil xatlar tarqatilganda kiberxavfsizlik va maxfiylik vositasi bo'lg
 **Onlayn Test:** 21-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 21-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [21-Mavzu: Elektron Pochta va Google Xizmatlari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1nAfH2Fx2zstB1UVq_tzz4ynmm9h7-NbDNMJLYqrv1YE/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSePXwQecCPaEjEeHmWaVvbnBiGuQ8cHYA0DZMEsnJ2Pix3F3Q/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

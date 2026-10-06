@@ -127,7 +127,14 @@ Diagrammalar PowerPointga shunchaki statik rasm (Skrinshot) sifatida ko'chirilga
 **Onlayn Test:** 2-Modul amaliy loyihasi bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 19-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [19-Mavzu: 2-Modul Amaliy Loyihasi — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mF5dPEZHquy2gjxGAk4fy2WwuIbFbg0Ta9rxU6vHzEU/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdRGSd1OWRb5plWdpDI8aXV5c2vfNAzmAyiJ_b_0BqIv3IW4w/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

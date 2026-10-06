@@ -125,7 +125,14 @@ Kompaniyaning barcha kompyuterlari birdaniga sekinlashdi, printerlar ishlamay qo
 **Rasmiy Yakuniy Imtihon Testi:** Kursni muvaffaqiyatli tamomlash va sertifikatga ega bo'lish uchun quyidagi yakuniy attestatsiya Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: Kurs Bo'yicha Rasmiy Yakuniy Attestatsiya Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1tEQ4er3ivQv5kKt5TLoyOFTATZTfFtAQIZH-bsLiu24/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeuY5ZIOG8Osb4pBYvxAxIrEj8tAt94YMMspz9c1wzB--x9jQ/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Yakuniy Test Savollari:
 

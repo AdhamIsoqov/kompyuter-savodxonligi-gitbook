@@ -127,7 +127,14 @@ Kiberjinoyatchilar rahbarning fotosurati va ism-sharifidan foydalanib klon profi
 **Onlayn Test:** 23-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 23-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [23-Mavzu: Axborot Xavfsizligi va Raqamli Madaniyat — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1mzx2gUxXSZbrDd2wyjLMmhUdWUhSqNmikJhEhcCJXGg/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeTWktw67fObwxR6TD_hr-c2lHFOrG5_Dxk6KKSOtGxf3sjHg/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

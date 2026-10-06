@@ -138,7 +138,14 @@ Hujjat turi matnli bo'lishiga qaramay, asossiz ravishda haddan tashqari yuqori D
 **Onlayn Test:** 7-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 07-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [07-Mavzu: Skaner Bilan Ishlash va OCR — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSf2Fn_aSEyeH49MCLC1PyOZdE2IynT0a5RJz9wlJ3FfFC6AFg/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1h3YuO-hf_k4yEFfYAyxt93HCPyPs7W0xGaknxxKVoOY/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSf2Fn_aSEyeH49MCLC1PyOZdE2IynT0a5RJz9wlJ3FfFC6AFg/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

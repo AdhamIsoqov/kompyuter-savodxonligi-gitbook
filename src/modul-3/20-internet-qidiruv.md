@@ -126,7 +126,14 @@ Xodim internet qidiruv natijalariga tanqidiy qaramagan, rasmiy manba o'rniga vir
 **Onlayn Test:** 20-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 20-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [20-Mavzu: Internet va Qidiruv Tizimlari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1e6cB0YStabEYK15YbJlnzTfnCAZWd4ZsWG_tjbcDT8c/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeUy_Ha4irUbVPA1hJ2vplU6gpzWitHORAKQChM9P_WLT6vlQ/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

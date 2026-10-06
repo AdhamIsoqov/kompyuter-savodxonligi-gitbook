@@ -119,7 +119,14 @@ Fayl 20 yillik eski binar `.doc` formatida saqlangani uchun zamonaviy Word dastu
 **Onlayn Test:** 11-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 11-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [11-Mavzu: Microsoft Office Paketiga Kirish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1qNzEUe8nE08H6c3qFklLAFT7RdOTC8zZC8O9MCGgwRg/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScB2JiSccN78xpXw-QbEPLVilv3cyLqp8hpGsUHhGRfDsBp6w/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

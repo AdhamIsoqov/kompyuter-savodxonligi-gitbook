@@ -120,7 +120,14 @@ Montajchi faqat Windows o'rnatib ketgan, lekin 1-modulda o'rganilgan standart pr
 **1-Modul Bo'yicha Yakuniy Attestatsiya Testi:** Quyidagi Google Forms testini topshirib, 1-modul bo'yicha olgan umumiy bilimlaringizni sinovdan o'tkazing:
 {% endhint %}
 
-[Iframe/Embed: 1-Modul Yakuniy Google Forms Attestatsiya Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [10-Mavzu: 1-Modul Yakuniy Amaliy Mashg'uloti — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1gsMkbVASQgQyaZlCmBPnKuHuT59XaarDbsqxoakHOGM/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdDkkw241_B_mHq5lFRx19QodQDDPl4dthx_bFVzg-nvheuPg/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

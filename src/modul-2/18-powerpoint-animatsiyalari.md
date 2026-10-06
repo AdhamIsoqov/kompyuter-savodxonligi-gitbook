@@ -117,7 +117,14 @@ Maktab o'qituvchisi ochiq dars uchun slaydlar tayyorladi. Har bir slaydga 10 tad
 **Onlayn Test:** 18-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 18-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [18-Mavzu: PowerPoint Animatsiyalari va Taqdimotlar — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1NrCWXilMo8UG1aPyKdjJZOS09j7_FXdyzNxI8v_770w/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSei_2WO3AAcn3uC4kEYBZJST5C2tvGkHZMgisUtnFgw3DFKyg/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

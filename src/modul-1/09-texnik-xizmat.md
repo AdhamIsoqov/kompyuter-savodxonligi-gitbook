@@ -123,7 +123,14 @@ Protsessor radiatorining panjaralari kigizsimon chang qatlami bilan to'silib qol
 **Onlayn Test:** 9-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 09-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [09-Mavzu: Kompyuterga Texnik Xizmat Ko'rsatish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1ABSV6HKIylv6cvnMrHUGsTlUBTU-VfXmdHzzXQg99Vw/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeyP9v04D6XYO30O8yL8rJCHanAWKiWQpvgSRNN2oXQ_pTlMw/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

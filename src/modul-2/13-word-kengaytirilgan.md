@@ -121,7 +121,14 @@ Hujjatda Wordning avtomatlashtirilgan uslublari (Styles: Heading 1, Heading 2) v
 **Onlayn Test:** 13-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 13-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1m_kH9VlBLMT9KBXVaiULVTu6fF94SYPqNv7FmBL1F0I/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSen0OyBOSvYYLeYqIg8vUy_NvZlbmDildZNnbOUEYMvTF-1CQ/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

@@ -131,7 +131,14 @@ Excelda `###` belgisi xatolik emas! Bu shunchaki katak ichidagi son yoki sana us
 **Onlayn Test:** 14-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 14-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [14-Mavzu: Microsoft Excel Asoslari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSewIddDjssMWgxXPf0PB8GG1tZdj2ryWjeqXYuRwfOM7eEJ2A/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1XXQNzCeUfqK-fCOqmlueOOSEuWP-0ml87JK99iYKWB8/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSewIddDjssMWgxXPf0PB8GG1tZdj2ryWjeqXYuRwfOM7eEJ2A/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

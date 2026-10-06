@@ -140,7 +140,14 @@ Windows tizimining **Print Spooler** xizmati keshida buzilgan chop etish fayli (
 **Onlayn Test:** 6-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 06-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [06-Mavzu: Printer Bilan Ishlash va Sozlash — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1bQZdeRGZYDQzj-ND03tUN_Gz5iOZQvoek6ZHD8YGz_4/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfB6ph_u6BWJWUj7_UG1tAQlih9WXMoUwYo3JiDCXupNmJ43g/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

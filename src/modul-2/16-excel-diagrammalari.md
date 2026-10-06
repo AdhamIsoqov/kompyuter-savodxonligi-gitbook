@@ -123,7 +123,14 @@ Doiraviy diagramma inson ko'zi idrok qilishi uchun maksimal **5–7 ta bo'lakka*
 **Onlayn Test:** 16-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 16-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [16-Mavzu: Microsoft Excel Diagrammalari — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1uIwnctQ_Jp0U0aXD88nW2WmPch4O-hAI6_rcF7-282Y/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfoX9Wf9a6QbtMWOjsPX5-I0VXMvSro9W7p6s09-29NLGrH1w/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

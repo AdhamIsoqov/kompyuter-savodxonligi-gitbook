@@ -133,7 +133,14 @@ Ekran o'lchamini (Resolution) pasaytirish xato yondashuvdir, chunki zamonaviy LC
 **Onlayn Test:** Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi rasmiy Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 04-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [04-Mavzu: Windows Sozlamalari va Boshqaruv Paneli — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/178FyY11NDfHTqZsxeGGK6JlSiaaosXGTWiiOSDVrhxs/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeWvsAsC3nwiEKQW3fk_SwRcUYWzjYBYilIzUNkXYyYlFct6g/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 

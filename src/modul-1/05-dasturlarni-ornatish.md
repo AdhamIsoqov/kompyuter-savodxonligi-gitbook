@@ -142,7 +142,14 @@ Foydalanuvchi o'rnatish vaqtida shartlarni o'qimay "Next" ni bosgan va dastur ic
 **Onlayn Test:** 5-Mavzu bo'yicha olgan bilimlaringizni sinab ko'rish uchun quyidagi Google Forms testini topshiring:
 {% endhint %}
 
-[Iframe/Embed: 05-Mavzu Google Forms Rasmiy Test Havolasi]
+{% hint style="info" %}
+**📝 Rasmiy Bilimni Tekshirish Testi (Google Forms — 25 ta savol, 100 ballik baholash):**
+Ushbu dars bo'yicha bilimlaringizni sinash uchun quyidagi 25 ta savoldan iborat rasmiy testni topshiring (Har bir to'g'ri javob 4 ball, jami: 100 ball):
+* 🔗 **Testni to'liq ekranda ochish:** [05-Mavzu: Dasturlarni O'rnatish va Boshqarish — Testni topshirish](https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform)
+* 📊 **Natijalar va ballar jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1FX4XxxVK4ZCCNtahGmUyto20hP0CkZ6V0AlVHMeG6lA/edit)
+{% endhint %}
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfs3sOkMVwZgV3nWJ_I-SFt5P45P_GzCF6r3BJ0jC3TBFbwaA/viewform" %}
 
 ### ✍️ O'z-o'zini Tekshirish Uchun Test Savollari:
 
