@@ -129,7 +129,7 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 * 📊 **Kunlik Natijalar va Ballar Jadvali:** [Google Sheets — Natijalar Jadvali](https://docs.google.com/spreadsheets/d/1MUJQ3uYHR5XgKR3h3GNlrbXhE9CSwajy4FeUO3foCHQ/edit)
 {% endhint %}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Yuklanmoqda…</iframe>
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfh0t2eCSXcOfWhxvDj_QHM0HjyAKrVZqku71ir4KhkjU0RgA/viewform" %}
 
 ---
 
