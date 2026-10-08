@@ -1,5 +1,9 @@
 # 14-Mavzu: Microsoft Excel Asoslari: Kataklar, Ma'lumot Turlari va Jadval Dizayni
 
+13-darsimizda Word'da jadvallar va murakkab hujjatlar yaratishni o'rgandik. Endi Office to'plamining ikkinchi va ayniqsa kuchli dasturi — **Microsoft Excel** bilan tanishamiz.
+
+Word matn yozish uchun bo'lsa, Excel — raqamlar bilan ishlash uchun mo'ljallangan. Buxgalter oylik hisobni Excelda chiqaradi. Rahbar xodimlar ro'yxatini Excelda saqlaydi. Talabalar baholari, ombor hisobi, moliyaviy tahlil — bularning barchasi Excelda amalga oshiriladi. Excel'ni bilmasdan ofis muhitida professional hisoblana olmaysiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** Microsoft Excel elektron jadval dasturining arxitekturasi, kataklar koordinata tizimi (Name Box), Formula Bar, ma'lumot turlari (matn, son, sana, valyuta), AutoFill (avtomatik to'ldirish markeri) imkoniyatlari hamda professional jadval formatlash ko'nikmalarini egallash.
 {% endhint %}
@@ -26,7 +30,7 @@
 
 ### 2.1. Excel Interfeysi va Koordinata Tizimi
 
-Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1 048 576 ta satr va 16 384 ta ustundan tashkil topgan ulkan kataklar to'ridir.
+Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1 048 576 ta satr va 16 384 ta ustundan tashkil topgan ulkan kataklar to'ridir. Word'dan farqli ravishda Excel'da har bir katak aniq manzilga ega:
 
 ```
        A            B            C            D
@@ -41,6 +45,7 @@ Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1
 
 * **Name Box (Nomlar maydoni):** Ayni damda kursor turgan katak manzilini (masalan: `C3`) ko'rsatadi.
 * **Formula Bar (Formulalar satri):** Katak ichidagi asl qiymat yoki formulani ko'rish va tahrirlash uchun xizmat qiladi.
+* **Sheet (Varaqcha):** Excel fayli bir nechta varaqdan iborat bo'lishi mumkin. Quyi qismidagi varaq yorliqlarini bosib o'tish mumkin — masalan: "Yanvar", "Fevral", "Mart" kabi oylar bo'yicha ma'lumotlarni ajratib saqlash qulay.
 
 ### 2.2. Ma'lumot Turlari va Formatlash
 
@@ -50,6 +55,8 @@ Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1
 | **Son (Number)** | Avtomatik ravishda katakning **o'ng tomoniga** tekislanadi | `150000`, `25.5` | O'ngda |
 | **Sana (Date)** | Tizim kalendari bo'yicha saqlanadi | `05.10.2026` | O'ngda |
 | **Valyuta (Currency)** | Son oxiriga pul birligi va razryad bo'shlig'i qo'shadi | `1 800 000 so'm` | O'ngda |
+
+> **Diqqat:** Agar siz raqam kiritdingiz, lekin u chapga tekislangan bo'lsa — Excel uni matn sifatida qabul qilgan demakdir. Bu kelgusida formulalar ishlashiga xalaqit beradi. Raqam oldida bo'shliq yoki apostrof belgisi yo'qligini tekshiring!
 
 {% hint style="success" %}
 **Pro-Tip (AutoFill sehrli dastagi):**
@@ -61,6 +68,15 @@ Excel ish kitobi (Workbook) alohida varaqlardan (Sheets) iborat. Har bir varaq 1
 
 * **Wrap Text (Matnni o'rash):** Agar katakdagi sarlavha juda uzun bo'lsa, ustunni haddan tashqari kengaytirmasdan, matnni bir katak ichida 2-3 qatorga tushirib beradi.
 * **Merge & Center:** Bir nechta katakni birlashtirib, sarlavhani jadval o'rtasiga joylashtiradi.
+
+```
+[Jadval Formatlash Hierarxiyasi]
+  1. Ma'lumot kiritish (AutoFill orqali)
+  2. Sarlavhani Merge & Center qilish
+  3. Ustun kengliklarini AutoFit bilan moslash
+  4. All Borders (chegaralar) chizish
+  5. Sarlavha qatoriga fon rangi berish (bosh sahifadagi rang tugmasi)
+```
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -135,3 +151,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. AutoFill orqali talabalar tartib raqamini (1 dan 5 gacha) shakllantiring.
 
 **Topshirish formati:** Jadvalni `FIO_14-Mavzu_Excel_Asoslari.xlsx` nomi bilan saqlab platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 15-darsimizda Excel'ning eng kuchli quroli — formulalar va funksiyalar bilan ishlashni o'rganamiz: SUM, AVERAGE, MAX, MIN, IF va COUNT funksiyalari, formulalar ko'chishi (nisbiy va mutlaq manzillar) hamda katak havolalari!*

@@ -1,5 +1,9 @@
 # 05-Mavzu: Dasturlarni O'rnatish va Boshqarish
 
+Oldingi darsda Windows tizimini o'zimizga moslab sozladik — ekran aniqligi, tungi rejim, xotirani tozalash va til sozlamalarini o'rgandik. Sozlangan va qulay kompyuterimizga endi ish uchun kerakli dasturlarni to'g'ri o'rnatamiz.
+
+Kompyuter — dasturlarsiz bo'sh qobiq. Dasturlar kompyuterni haqiqiy ish quroliga aylantiradi: matn yozish uchun Word, hisob-kitob uchun Excel, grafika uchun Photoshop. Ammo dasturni o'rnatish jarayonida ham bir qator xavflar va qoidalar mavjud. Ularni bilmaslik kompyuterni reklama dasturlari bilan to'latib qo'yishi yoki tizimni sekinlatishi mumkin.
+
 {% hint style="info" %}
 **Dars maqsadi:** Windows muhitida amaliy dasturiy ta'minotni to'g'ri va xavfsiz o'rnatish, Installer (`.exe`, `.msi`) va Portable dasturlar farqlarini o'rganish, dasturlarni to'laqonli o'chirish (Uninstall), avtoyuklanishni (Startup) nazorat qilish hamda keraksiz reklama dasturlari (Adware/PUP)dan himoyalanish.
 {% endhint %}
@@ -55,9 +59,20 @@ Dasturiy ta'minot foydalanuvchilarga ikki asosiy shaklda yetkazib beriladi:
 Dastur o'rnatayotganda hech qachon shoshilib faqat "Next -> Next -> Next" tugmalarini bosmang! Ko'pincha bepul dasturlar ichiga qo'shimcha brauzerlar, keraksiz tozalovchi vositalar yoki qidiruv tizimlari (masalan, Yandex Bar, McAfee, Chromium) yashiringan bo'ladi. Har doim **"Custom Installation" (Maxsus o'rnatish)** bandini tanlab, ortiqcha belgilarni (checkbox) olib tashlang.
 {% endhint %}
 
-### 2.2. Dasturlarni To'g'ri O'chirish (Uninstall)
+### 2.2. UAC (User Account Control) Nima?
 
-Ko'pchilik yangi boshlovchilar qiladigan eng katta xato — `C:\Program Files` papkasiga kirib, dastur papkasini `Delete` bilan savatga tashlashdir. 
+O'rnatish faylini ishga tushirganingizda Windows tizimi sizdan ruxsat so'raydi — ekran bir oz qorayib, darcha ochiladi. Bu **UAC (Foydalanuvchi Hisobi Nazorati)** deb ataladi va u tizimni ruxsatsiz o'zgartirishlardan himoya qiluvchi muhim xavfsizlik filtridir.
+
+> **1-darsdan eslatma:** Axborot xavfsizligi qoidalarini o'rganganedik — noma'lum manbalardan kelgan fayllarni ochmang. UAC darsi ham aynan shu qoidaning amaliy namunasidir: agar qaysi dasturni o'rnatayotganingizni bilmasangiz — **"No" tugmasini bosing!**
+
+UAC ogohlantirishlarining 3 xil ko'rinishi:
+- 🔵 **Ko'k rang** — Ishonchli (Microsoft sertifikatlangan) dastur o'rnatilmoqda
+- 🟡 **Sariq rang** — Sertifikati yo'q, lekin zararli emas, ehtiyot bo'ling
+- 🔴 **Qizil rang** — Windows bu dasturni zararli deb aniqlagan, yoping!
+
+### 2.3. Dasturlarni To'g'ri O'chirish (Uninstall)
+
+Ko'pchilik yangi boshlovchilar qiladigan eng katta xato — `C:\Program Files` papkasiga kirib, dastur papkasini `Delete` bilan savatga tashlashdir.
 
 **Nima uchun papkani shunchaki o'chirish xato?**
 * Dastur Windows xizmatlarida (Services) va tizim reyestrida (Registry) qolib ketadi;
@@ -68,13 +83,29 @@ Ko'pchilik yangi boshlovchilar qiladigan eng katta xato — `C:\Program Files` p
 * **1-usul:** `Win + I` -> **Apps -> Installed apps** -> Dastur yonidagi uch nuqtani bosib **Uninstall** tanlash.
 * **2-usul:** `Win + R` -> `appwiz.cpl` yozib Enter bosish (Klassik Programs and Features darchasi ochiladi) -> Ro'yxatdan tanlab **Uninstall** qilish.
 
-### 2.3. Kompyuter Yuklanishini Tezlashtirish (Startup Apps)
+### 2.4. Kompyuter Yuklanishini Tezlashtirish (Startup Apps)
 
 Kompyuter yoqilganda uning sekin ochilishining 80% sababi — orqa fonda ishga tushadigan ko'p sonli dasturlardir (Telegram, Spotify, Skype, Torrent, turli yangilovchilar).
+
+Oldingi darsda 4-dars sozlamalarida xotirani tozaladik. Bu darsda esa yuklanishni tezlashtirish bilan xotirani yanada samarali ishlatamiz:
 
 * Klaviaturada `Ctrl + Shift + Esc` tugmasini bosing (Task Manager).
 * **Startup apps (Автозагрузка)** bo'limiga o'ting.
 * Kundalik kerak bo'lmagan dasturlar ustiga sichqonchaning o'ng tugmasini bosib **Disable (Отключить)** qiling. Bu ularni o'chirmaydi, faqat kompyuter yoqilganda o'z-o'zidan ishga tushishini to'xtatadi.
+
+```
+[Startup Dasturlarni Tahlil Qilish]
+
+Yuqori ta'sir (High)   → Agar kerakmas bo'lsa → DISABLE qiling
+O'rtacha ta'sir (Med)  → Muqobil o'ylab ko'ring
+Past ta'sir (Low)      → Qoldirish mumkin
+
+Masalan:
+  ✅ Antivirus (Windows Defender)    → QOLDIRING  (himoya uchun zarur)
+  ❌ Steam / Epic Games Launcher     → DISABLE    (o'yin qilmasangiz kerak emas)
+  ❌ Spotify / Telegram              → DISABLE    (kerak bo'lganda o'zingiz ochasiz)
+  ✅ OneDrive (agar ishlatsangiz)    → QOLDIRING
+```
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -146,3 +177,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Kompyuterni qayta ishga tushirib (Restart), yuklanish tezligi o'zgarganini his eting va barcha bosqichlarni hisobotga yozing.
 
 **Topshirish formati:** Bajarilgan ish natijalarini `FIO_5-Mavzu_Dasturlar.docx` faylida tayyorlab platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 6-darsimizda ofis asboblari ichida eng muhimlaridan biri — printerlar bilan ishlashni o'rganamiz: lazerli va siyohli printerlar farqlari, drayver o'rnatish, chop etish sozlamalari va navbatda qotib qolgan fayllarni bartaraf etish usullari!*

@@ -1,5 +1,9 @@
 # 11-Mavzu: Microsoft Office Paketiga Kirish
 
+Tabriklaymiz! 1-Modulni muvaffaqiyatli yakunladingiz. Endi yangi, juda muhim bosqichga — **Microsoft Office** dasturlar dunyosiga qadam qo'yamiz.
+
+Bugungi raqamli ish olamida Microsoft Office bilimi — bu minimal talab emas, balki professional imkoniyat. Ariza yozishdan tortib, moliyaviy tahlil o'tkazish va taqdimot tayyorlashgacha — bularning barchasi Office dasturlari orqali amalga oshiriladi. 5-darsimizda bu dasturlarni qanday o'rnatish kerakligini o'rgandik, endi ularning ichiga kiramiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** Microsoft Office dasturlar to'plamining ekotizimi, har bir dasturning (Word, Excel, PowerPoint, Outlook, Access, OneNote) ixtisoslashuv sohasi, ofis dasturlarining versiyalari (Office 2019, 2021 va Microsoft 365) hamda zamonaviy XML asosidagi fayl formatlarini (`.docx`, `.xlsx`, `.pptx`) chuqur o'rganish.
 {% endhint %}
@@ -26,7 +30,7 @@
 
 ### 2.1. Qaysi Ish Uchun Qaysi Dastur?
 
-Microsoft Office — dunyodagi eng ommabop ofis ilovalari to'plamidir. Har bir dastur o'zining aniq yo'nalishiga ega:
+Microsoft Office — dunyodagi eng ommabop ofis ilovalari to'plamidir. Har bir dastur o'zining aniq yo'nalishiga ega. Ko'pchilik faqat Word va Excel biladi — ammo butun paket ancha kuchli:
 
 | Dastur Nomi | Asosiy Vazifasi | Fayl Kengaytmasi | Real Hayotiy Qo'llanilishi |
 | :--- | :--- | :--- | :--- |
@@ -54,6 +58,24 @@ Eski versiyalarda kengaytmalar `.doc`, `.xls`, `.ppt` bo'lgan bo'lsa, 2007-yilda
 
 * **Klassik Office (2016, 2019, 2021):** Bir marta sotib olinadi va o'rnatiladi. Yangi funksiyalar qo'shilmaydi, faqat xavfsizlik yangilanishlarini oladi.
 * **Microsoft 365 (sobiq Office 365):** Oylik yoki yillik obuna tizimi. Doimiy ravishda eng so'nggi sun'iy intellekt (Copilot) funksiyalari qo'shilib boradi, 1 TB OneDrive bulutli xotira beradi va hujjat ustida bir vaqtning o'zida bir nechta xodim onlayn hamkorlikda ishlashi mumkin.
+
+> **3-darsdan eslatma:** Fayl kengaytmalarini o'rgandik — `.docx`, `.xlsx`, `.pptx`. Endi bu kengaytmalar ortida qanday dasturlar turishi va ularni qanday ochish kerakligini bilamiz!
+
+### 2.3. Office Interfeysi — Ribbon (Lenta)
+
+Barcha Office dasturlarida yagona **Ribbon (Lenta)** interfeysi qo'llaniladi. Bu degani, Wordda o'rganilgan ko'nikmalar Excelda ham ishlatiladi — interfeyslar bir-biriga o'xshash:
+
+```
+[Ribbon Tuzilishi]
+  ┌─────────────────────────────────────────────────┐
+  │ File │ Home │ Insert │ Design │ Layout │ View   │  ← Tablar (Yorliqlar)
+  ├─────────────────────────────────────────────────┤
+  │ [Font] [Paragraph] [Styles] [Editing]           │  ← Guruhlar
+  │ B  I  U  │  ≡ ≡ ≡ │  Sarlavha1  │  🔍 Topish  │  ← Tugmalar
+  └─────────────────────────────────────────────────┘
+```
+
+**Quick Access Toolbar (Tezkor Kirish Paneli):** Eng yuqori chap burchakdagi mayda tugmalar paneli. Unga istalgan buyruqni qo'shib qo'yish mumkin — eng tez-tez ishlatiladigan funksiyalarni bir joyda jamlash imkonini beradi.
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -122,3 +144,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 3. Word dasturida mavjud shablonlar (Templates) asosida bitta xatboshi rasmiy xat (Letter) tayyorlang va `.docx` hamda `.pdf` shaklida saqlang.
 
 **Topshirish formati:** Tayyorlangan fayl va skrinshotlarni `FIO_11-Mavzu_Office.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 12-darsimizda Microsoft Word dasturini chuqur o'rganamiz: matn formatlash, shrift va xatboshi uslublari, sahifa parametrlari, jadvallar kiritish va hujjatni professional darajada bezash!*

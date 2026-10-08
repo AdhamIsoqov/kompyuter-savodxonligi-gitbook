@@ -1,7 +1,15 @@
 # 18-Mavzu: PowerPoint Animatsiyalari, Vizual Effektlar va Namoyish
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 18-darsimizga xush kelibsiz.
+
+Oldingi 17-darsimizda biz Microsoft PowerPoint dasturining asoslari, slayd maketlari, 6x6 qoidasi va professional taqdimot dizaynini o'rgangan edik. Endi esa oddiy, harakatsiz slaydlarni tomoshabin diqqatini tortuvchi va murakkab g'oyalarni bosqichma-bosqich tushuntiruvchi jonli vizual hikoyaga aylantirish vaqti keldi.
+
+Ushbu darsda biz slaydlar orasidagi o'tishlar (**Transitions**) va alohida elementlarning harakati (**Animations**) bilan qanday ishlashni, ularning vaqtini (Timing) professional darajada boshqarishni to'liq o'rganamiz.
+
+Keyingi 19-darsimizda esa butun 2-Modul bo'yicha katta integratsiyalashgan Amaliy loyiha kutmoqda — unda Word hujjati, Excel jadvallari va bugun o'rganadigan dinamik PowerPoint taqdimotimiz yagona tizim sifatida birlashtiriladi.
+
 {% hint style="info" %}
-**Dars maqsadi:** PowerPoint dasturida slaydlar orasidagi o'tishlar (Transitions, shu jumladan zamonaviy Morph effekti), obyektlar animatsiyasi (Entrance, Emphasis, Exit, Motion Paths), animatsiyalar paneli (Animation Pane), vaqt boshqaruvi (Timing: On Click, With Previous, After Previous) hamda taqdimotni video (`.mp4`) formatida eksport qilish ko'nikmalarini egallash.
+**Dars maqsadi:** PowerPoint dasturida slaydlar orasidagi o'tishlar (Transitions, shu jumladan zamonaviy Morph effekti), obyektlar animatsiyasi (Entrance, Emphasis, Exit, Motion Paths), animatsiyalar paneli (Animation Pane), vaqt boshqaruvi (Timing: On Click, With Previous, After Previous) hamda taqdimotni avtomatik namoyish (`.ppsx`) va video (`.mp4`) formatida eksport qilish ko'nikmalarini egallash.
 {% endhint %}
 
 ### 🎯 Kutilayotgan Kompetensiyalar
@@ -9,9 +17,10 @@
   * Slaydlar o'tishi (Transitions) va obyekt animatsiyasi (Animations) o'rtasidagi fundamental farq.
   * Animatsiyaning 4 asosiy toifasi (Entrance — Yashil, Emphasis — Sariq, Exit — Qizil, Motion Paths — Harakat chizig'i).
   * Animatsiya boshlanish rejimlari: On Click, With Previous va After Previous.
+  * Zamonaviy "Morph" effekti va taqdimot eksport formatlari (`.pptx`, `.ppsx`, `.mp4`).
 * **Bajara olishingiz kerak:**
   * Matn bandlarini birma-bir, chiroyli paydo bo'ladigan qilib sozlash.
-  * Animation Pane vositasida animatsiyalar ketma-ketligi va davomiyligini (Duration/Delay) boshqarish.
+  * Animation Pane vositasida animatsiyalar ketma-ketligi, davomiyligi (Duration) va kechikishini (Delay) boshqarish.
   * Avtomatik rejimda o'zi aylanuvchi taqdimot tayyorlab, uni `.mp4` video fayl sifatida saqlash.
 
 ## 🎬 1. Video Dars
@@ -24,32 +33,66 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Transitions (O'tishlar) vs Animations (Animatsiyalar)
+### 2.1. Transitions (O'tishlar) va Animations (Animatsiyalar) Farqi
 
-* **Transitions (O'tishlar):** Bitta slayddan keyingi slaydga o'tish paytidagi umumiy vizual effekt (butun slayd varag'iga qo'llanadi). Masalan: *Fade (Asta erish), Push (Surilish), Morph (Shakllar transformatsiyasi)*.
-* **Animations (Animatsiyalar):** Bitta slayd ichidagi alohida obyektlarning (sarlavha, rasm, jadval, shakl) harakatlanishi.
+Ko'pchilik yangi boshlovchilar slayd o'tishi va animatsiyani bir-biri bilan adashtirib qo'yishadi. Keling, ularning farqini aniq belgilab olamiz:
+
+1. **Transitions (Slaydlararo o'tish):**
+   * Bu bitta slayddan keyingi slaydga o'tish paytida butun ekran bo'ylab sodir bo'ladigan vizual o'zgarishdir.
+   * Masalan: *Fade (Asta erib paydo bo'lish), Push (Keyingi slaydning surilib chiqishi), Morph (Shakllarning boshqa slaydga silliq o'zgarib o'tishi)*.
+   * O'tish effekti alohida matn yoki rasmga emas, butun bir slayd varag'iga tatbiq etiladi.
+
+2. **Animations (Obyektlar animatsiyasi):**
+   * Bu bitta slayd ichidagi alohida elementlarning — sarlavhalar, paragraflar, fotosuratlar, grafiklar yoki shakllarning harakatlanishidir.
+   * Masalan: birinchi navbatda sarlavha paydo bo'ladi, so'ngra 1-band ochiladi, so'ngra rasm kattalashadi.
+
+```
++-----------------------------------------------------------+
+|                    SLAYD O'TISHLARI (Transitions)         |
+|  [Slayd 1] ==============( Fade / Morph )==============> [Slayd 2]
++-----------------------------------------------------------+
+|               SLAYD ICHIDAGI ANIMATSIYALAR (Animations)   |
+|  1. Sarlavha paydo bo'ladi (Entrance - Kirish)            |
+|  2. Asosiy raqam miltillaydi (Emphasis - Urg'u)           |
+|  3. Eskirgan ma'lumot slayddan ketadi (Exit - Chiqish)    |
++-----------------------------------------------------------+
+```
 
 ### 2.2. Animatsiyaning 4 Asosiy Toifasi
 
-PowerPoint dasturida barcha animatsiyalar rangli toifalarga ajratilgan:
+PowerPoint dasturida har bir obyektga turli xil maqsadlarda harakat berish mumkin. Ular qulaylik uchun to'rtta rangli toifaga ajratilgan:
 
-| Toifa | Belgilanish Rangi | Vazifasi | Mashhur Effektlar |
+| Toifa | Rangi | Vazifasi va Mohiyati | Amaliy Misollar |
 | :--- | :--- | :--- | :--- |
-| **Entrance (Kirish)** | Yashil yulduzcha | Obyektni slayd maydonida paydo qilish | *Appear, Fade, Fly In, Zoom* |
-| **Emphasis (Urg'u)** | Sariq yulduzcha | Slaydda turgan obyektga e'tibor qaratish | *Pulse, Spin, Grow/Shrink, Color Wave* |
-| **Exit (Chiqish)** | Qizil yulduzcha | Obyektni slayddan yo'qotish | *Disappear, Fade, Fly Out* |
-| **Motion Paths (Traektoriya)** | Chiziq belgisi | Obyektni chizilgan yo'nalish bo'ylab yurgizish | *Lines, Arcs, Turns, Custom Path* |
+| **Entrance (Kirish)** | Yashil yulduzcha | Dastlab ko'rinmay turgan obyektni slayd maydonida paydo qilish. | *Appear, Fade, Fly In, Zoom* |
+| **Emphasis (Urg'u)** | Sariq yulduzcha | Slaydda allaqachon turgan obyektga tinglovchilar diqqatini qaratish. | *Pulse, Spin, Grow/Shrink, Teeter* |
+| **Exit (Chiqish)** | Qizil yulduzcha | Ma'lumot tushuntirib bo'lingach, obyektni slayddan chiqarib yuborish. | *Disappear, Fade, Fly Out, Split* |
+| **Motion Paths (Traektoriya)** | Chiziq belgisi | Obyektni belgilangan chiziq, egri yoki aylana yo'nalish bo'ylab ko'chirish. | *Lines, Arcs, Turns, Custom Path* |
 
-```
-[Animatsiya Boshlanish Mantiqi (Start Modes)]
-  1. On Click (Sichqoncha bosilganda) ===> Ma'ruzachi tugmani bosgandagina harakat boshlanadi
-  2. With Previous (Oldingi bilan birga) => Oldingi obyekt bilan BIR VAQTDA harakatlanadi
-  3. After Previous (Oldingidan so'ng) ===> Oldingi harakat tugashi bilan AVTOMATIK boshlanadi
-```
+### 2.3. Animation Pane (Animatsiyalar Paneli) va Vaqt Boshqaruvi
+
+Slaydda bir nechta obyekt bo'lsa, ularning ketma-ketligi va vaqtini tartibga solish uchun **Animations → Animation Pane (Область анимации)** oynasini ochish shart. Ushbu panelda barcha animatsiyalar ro'yxat bo'lib turadi.
+
+Har bir animatsiya uchun uchta asosiy boshlanish rejimi (Start Modes) mavjud:
+1. **On Click (Sichqoncha bosilganda):** Ma'ruzachi klaviatura yoki sichqonchani bosmaguncha obyekt harakatlanmaydi. Bu ma'ruza davomida har bir fikrni o'z vaqtida ochish uchun eng qulayi.
+2. **With Previous (Oldingi bilan birga):** Obyekt oldingi harakat bilan aynan bir vaqtda ishga tushadi (masalan, sarlavha va uning orqa foni bir vaqtda paydo bo'ladi).
+3. **After Previous (Oldingidan so'ng):** Oldingi animatsiya to'liq yakunlanishi bilan navbatdagi element avtomatik paydo bo'ladi. Bu avtomatlashtirilgan taqdimotlar uchun asosdir.
+
+Shuningdek, muhim vaqt ko'rsatkichlari:
+* **Duration (Davomiylik):** Animatsiyaning o'zi necha soniyada bajarilishi (optimal: 0.5 – 0.75 soniya).
+* **Delay (Kechikish):** Harakat boshlanishidan oldin necha soniya pauza bo'lishi kerakligi.
+
+### 2.4. Zamonaviy "Morph" O'tishi va Taqdimot Formatlari
+
+* **Morph (Morfing) o'tishi:** Bu Microsoft PowerPoint 2019 va undan yuqori versiyalardagi eng inqilobiy xususiyatdir. Agar bir slayddagi obyektni ikkinchi slaydga nusxalab, ikkinchi slaydda uning o'rnini, hajmini yoki rangini o'zgartirsangiz va ikkinchi slaydga **Transitions → Morph** qo'ysangiz, dastur obyektni silliq transformatsiya qilib o'tkazadi. Bu murakkab videomontaj dasturlarisiz professional kinematik harakat yaratish imkonini beradi.
+* **Taqdimotni Saqlash Formatlari:**
+  * `.pptx` — Standart tahrirlanadigan loyiha fayli;
+  * `.ppsx` (PowerPoint Show) — Ushbu fayl ochilganda tahrirlash oynasi emas, to'g'ridan-to'g'ri to'liq ekranli namoyish ochiladi (mijozga yoki hakamlarga yuborish uchun eng maqbul format);
+  * `.mp4` — To'liq avtomatlashtirilgan video fayl. Barcha o'tish va animatsiyalar o'z vaqtida aylanib, musiqa bilan video rolik shaklida saqlanadi.
 
 {% hint style="success" %}
 **Pro-Tip (Professional taqdimotda animatsiya me'yori):**
-Animatsiyadan maqsad — auditoriyani chalg'itish emas, balki ma'lumotni bosqichma-bosqich tushuntirishdir. Har bir so'zga turli xil sakraydigan yoki aylanadigan animatsiyalarni bermang. Professional taqdimotlar uchun eng xushbichim va qulay effekt — bu **Fade (Asta paydo bo'lish)** effekti hisoblanadi.
+Animatsiyadan maqsad — auditoriyani chalg'itish yoki o'yinchoq qilish emas, balki murakkab tushunchalarni bo'lib-bo'lib yetkazishdir. Har bir so'zga turli xil aylanadigan yoki sakraydigan animatsiyalarni qo'shmang. Professional biznes va ta'lim taqdimotlari uchun eng xushbichim effekt — bu **Fade (Asta paydo bo'lish)** effekti hisoblanadi.
 {% endhint %}
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)

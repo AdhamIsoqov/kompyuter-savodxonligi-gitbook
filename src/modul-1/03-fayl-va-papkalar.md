@@ -1,5 +1,9 @@
 # 03-Mavzu: Fayl va Papkalar Bilan Ishlash
 
+Oldingi darsda Windows operatsion tizimining ish muhiti — Desktop, Start menyusi, Taskbar va oynalar boshqaruvi bilan tanishdik. Multitasking rejimida bir vaqtda bir nechta dasturni ochib ishlashni mashq qildik. Endi esa shu dasturlar tomonidan yaratilgan va saqlangan **fayllarni** qanday boshqarishni o'rganish vaqti keldi.
+
+Kompyuter foydalanuvchisi uchun fayl va papkalar — bu raqamli hayotning asosi. Biz yozgan hujjatlar, chizgan rasmlar, tayyorlagan taqdimotlar va yuklab olgan dasturlar — bularning barchasi fayllarda saqlanadi. Ularni to'g'ri tartiblamaslik esa parol unutan odamning sumkasidagi tartibsizlikka o'xshaydi: kerakli narsa bor, lekin topa olmaysiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** Windows fayl tizimi tuzilishi, File Explorer vositasida fayl va papkalarni professional boshqarish, iyerarxik kataloglar yaratish, fayllarni nusxalash (Copy), ko'chirish (Cut), savat (Recycle Bin) xavfsizligi va kengaytirilgan qidiruv filtrlarini to'liq o'zlashtirish.
 {% endhint %}
@@ -28,6 +32,10 @@
 
 Kompyuterdagi barcha axborotlar fayllar ko'rinishida saqlanadi. Windows tizimida ma'lumotlarni tartibli boshqarish uchun **File Explorer (Проводник)** asosiy dastur hisoblanadi. Uni ochishning eng tez yo'li — `Win + E` tugmalari kombinatsiyasidir.
 
+Windows fayl tizimi ikkita asosiy diskka tayanadi:
+- **C: diski** — Operatsion tizim (Windows) va barcha o'rnatilgan dasturlar saqlanadigan tizimli disk. Bu diskdagi fayllarni o'zgartirish yoki o'chirish operatsion tizimga zarar yetkazishi mumkin.
+- **D: diski** — Foydalanuvchi ma'lumotlari, hujjatlar, rasmlar va arxivlar uchun maxsus ajratilgan xavfsiz disk. Barcha muhim fayllaringizni aynan shu yerda saqlang.
+
 ```
 [Mening Kompyuterim (This PC)]
    ├── Mahalli Disk (C:)  --> Operatsion tizim va dasturlar
@@ -37,6 +45,23 @@ Kompyuterdagi barcha axborotlar fayllar ko'rinishida saqlanadi. Windows tizimida
                ├── [Jadvallar]  --> .xlsx hisobotlar
                └── [Taqdimotlar]--> .pptx slaydlar
 ```
+
+**Fayl kengaytmasi (extension)** — fayl nomidagi nuqtadan keyingi harflar bo'lib, u faylning turini va uni ochish uchun qaysi dastur kerakligini bildiradi. Eng ko'p ishlatiladigan kengaytmalar:
+
+| Kengaytma | Fayl Turi | Ochish Dasturi |
+| :--- | :--- | :--- |
+| `.docx` | Microsoft Word hujjati | MS Word |
+| `.xlsx` | Microsoft Excel jadvali | MS Excel |
+| `.pptx` | Microsoft PowerPoint taqdimoti | MS PowerPoint |
+| `.pdf` | Ko'chirib bo'lmaydigan hujjat | Adobe Reader / Brauzer |
+| `.zip` | Siqilgan arxiv | Windows o'zi yoki WinRAR |
+| `.exe` | O'rnatish yoki ishga tushirish fayli | To'g'ridan-to'g'ri ishga tushiriladi |
+| `.jpg`, `.png` | Rasm fayli | Photos / Brauzer |
+| `.mp4`, `.avi` | Video fayli | Windows Media Player |
+
+{% hint style="warning" %}
+**Diqqat:** Windows tizimida fayl kengaytmalari odatda yashirilgan bo'ladi. Ularni ko'rish uchun: File Explorer → View (Ko'rinish) → Show → File name extensions belgisini yoqing. Bu sozlama mutaxassislar uchun juda muhim!
+{% endhint %}
 
 ### 2.2. Copy (Nusxalash) vs Cut (Ko'chirish)
 
@@ -48,6 +73,8 @@ Fayllarni boshqarishda eng ko'p ishlatiladigan va yangi boshlovchilar tez-tez ad
 | **Yangi joydagi natija** | Yangi joyda uning ikkinchi nusxasi paydo bo'ladi | Yangi joyga ko'chib o'tadi |
 | **Xotirada egallagan joyi**| 2 barobarga ortadi (ikkita alohida fayl) | O'zgarmaydi (bitta fayl bo'lib qoladi) |
 | **Vizual ko'rinishi** | Fayl belgisi o'zgarmaydi | `Ctrl + X` bosilgach, fayl belgisi yarim shaffof (xira) bo'ladi |
+
+> **Eslatma:** Ctrl + C / Ctrl + X / Ctrl + V tezkor tugmalarini 2-darsimizda umumiy klaviatura yorliqlari doirasida ham ko'rgan edik. Endi ularning aynan fayllar bilan ishlashdagi ahamiyatini chuqurroq tushundik.
 
 {% hint style="success" %}
 **Pro-Tip (Fayllarni guruhlab belgilash):**
@@ -63,6 +90,22 @@ Kompyuterda fayllarni o'chirish ikki xil usulda amalga oshiriladi:
 1. **Vaqtinchalik o'chirish (`Delete`):** Fayl diskdan yo'qolmaydi, balki operatsion tizimning maxsus himoya qutisi — **Recycle Bin (Savat)** ga tushadi. Agar fayl adashib o'chirilgan bo'lsa, Savatga kirib, fayl ustiga sichqonchaning o'ng tugmasini bosib **Restore (Восстановить)** buyrug'ini tanlash orqali uni o'z joyiga qaytarish mumkin.
 2. **Butunlay yo'q qilish (`Shift + Delete`):** Fayl savatga tushmasdan disk sektorlaridan to'g'ridan-to'g'ri o'chiriladi. Ushbu buyruqni berishda nihoyatda ehtiyotkor bo'lish zarur!
 
+```
+Fayl o'chirilganda nima bo'ladi?
+
+[Delete tugmasi bosildi]
+        ↓
+[Fayl Recycle Bin (Savatga) tushadi]
+        ↓
+[Savatni tozaladingizmi? → Yo'q]  → Fayl tiklanishi mumkin (Restore)
+        ↓
+[Savatni tozaladingizmi? → Ha]   → Fayl o'chirildi (lekin maxsus dasturlar bilan tiklash imkoni bor)
+        ↓
+[Shift + Delete]
+        ↓
+[Fayl disk sektoridan to'g'ridan-to'g'ri o'chiriladi → Tiklab bo'lmaydi]
+```
+
 ### 2.4. File Explorer Qidiruv Tizimi va Wildcards (`*`)
 
 Agar kompyuteringizda minglab fayllar orasidan keraklisini topa olmasangiz, File Explorer qidiruv qatoriga maxsus filtrlarni kiritishingiz mumkin:
@@ -70,6 +113,10 @@ Agar kompyuteringizda minglab fayllar orasidan keraklisini topa olmasangiz, File
 * `*.docx` — Barcha Microsoft Word hujjatlarini qidiradi.
 * `*.xlsx` — Barcha Excel jadvallarini qidiradi.
 * `Hujjat_2026_*.pdf` — "Hujjat_2026_" bilan boshlanuvchi barcha PDF fayllarni topadi.
+
+{% hint style="info" %}
+**Qidiruv tezlatgichi:** File Explorer'da `Ctrl + F` tugmasini bossangiz, qidiruv qatori avtomatik faollashadi. Katta papkalarni tekshirishda bu juda qulaylik yaratadi.
+{% endhint %}
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -146,3 +193,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Yaratilgan papkalar daraxtini File Explorer chap panelida daraxt ko'rinishida ochib, to'liq skrinshot oling.
 
 **Topshirish formati:** Skrinshot va 3 ta mantiqiy savolga berilgan javoblarni `FIO_3-Mavzu_Fayllar.docx` faylida tayyorlab tizimga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 4-darsimizda Windows operatsion tizimining Sozlamalar (Settings) va Boshqaruv paneli (Control Panel) orqali tizim parametrlarini professional boshqarishni o'rganamiz: ekran aniqligi, til sozlamalari, tizim xotirasini optimallashtirish va qorong'i rejim!*

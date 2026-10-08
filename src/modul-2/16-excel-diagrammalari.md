@@ -1,5 +1,9 @@
 # 16-Mavzu: Microsoft Excel Diagrammalari va Ma'lumotlarni Vizuallashtirish
 
+15-darsimizda formulalar va funksiyalar yordamida katta ma'lumotlarni avtomatik hisoblashni o'rgandik. Endi bu hisoblangan raqamlarni odamlar tushunishi va qabul qilishi oson bo'lgan **grafik diagrammalarga** aylantirish vaqti keldi.
+
+Tasavvur qiling: hisobot sifatida "1-chorak — 450 mln, 2-chorak — 620 mln, 3-chorak — 580 mln, 4-chorak — 890 mln" deb yozsangiz, ko'p odam buni o'qib o'tiradi. Lekin bir diagramma ko'rsa — bir zumda tushunadi. Diagramma — bu "ming so'zdan kuchli bir rasm" tamoyilining amaliy tatbiqidir.
+
 {% hint style="info" %}
 **Dars maqsadi:** Excel jadvallaridagi sonli ma'lumotlarni professional grafik diagrammalar (Ustunli — Column, Chiziqli — Line, Doiraviy — Pie) ko'rinishida vizuallashtirish, diagramma anatomiyasini (Title, Legend, Data Labels, Axis) sozlash va biznes tahlillari uchun taqdimotbop hisobotlar tayyorlash.
 {% endhint %}
@@ -38,8 +42,10 @@ Diagramma — bu shunchaki bezak emas, u katta raqamlar ortidagi qonuniyatlarni 
 [Diagramma Turlari Qo'llanilishi]
   ├── Taqqoslash (Kim ko'p sotdi?) =======> Column / Bar Chart
   ├── Vaqt dinamikasi (O'sish/Pasayish) => Line Chart
-  └── Foiz ulushi (100% dan qancha?) =====> Pie Chart
+  └── Foiz ulushi (100% dan qancha?) ====> Pie Chart
 ```
+
+> **15-darsdan eslatma:** AVERAGE, SUM, MAX kabi funksiyalar orqali raqamli xulosalar chiqardik. Bu darsda esa o'sha xulosalarni diagramma orqali vizual ko'rinishga keltiraman — bilimlar to'la doira hosil qilmoqda!
 
 {% hint style="success" %}
 **Pro-Tip (Bir zumda diagramma yaratish):**
@@ -53,6 +59,14 @@ Jadval ichidagi istalgan katak ustiga kursor qo'ying va klaviaturadagi **`Alt + 
 3. **Legend (Afsona / Ranglar izohi):** Qaysi rang qaysi toifaga tegishli ekanligini tushuntiruvchi yo'riqnoma.
 4. **Data Labels (Ma'lumot yorliqlari):** Ustun yoki sektor ustida aniq raqam yoki foizni ko'rsatib turuvchi yozuvlar.
 5. **Axes (O'qlar):** Gorizontal o'q (X — kategoriyalar: oylar, ismlar) va Vertikal o'q (Y — sonlar, qiymatlar).
+
+### 2.3. Diagramma Samarali Dizayn Qoidalari
+
+Professional taqdimotlarda diagrammalar chiroyli va tushunarli bo'lishi muhim:
+- **Sarlavha** har doim aniq va qisqa bo'lsin: "Savdo" emas, "2026-Yil Choraklik Savdo Dinamikasi"
+- **Data Labels** — aniq raqamlar yoki foizlar qo'shilsin, tomoshabin hisoblashga majbur bo'lmasin
+- **Rangar soni** 4-5 tadan oshmasin — ko'p rang — chalkash ko'rinish
+- **Jami (Total) qatorini** diagrammaga kiritmaslik — u boshqa ustunlarni "ezib" yuboradi
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -127,3 +141,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Natijani tahlil qilib, qaysi kuni eng ko'p internet ishlatilganini aniqlang.
 
 **Topshirish formati:** Faylni `FIO_16-Mavzu_Diagrammalar.xlsx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 17-darsimizda Microsoft Office to'plamining uchinchi asosiy dasturi — PowerPoint bilan tanishamiz. Slaydlar yaratish, dizayn tanlash, matn va rasmlarni joylashtirish, ish muhiti strukturasi va professional taqdimot tuzish asoslari!*

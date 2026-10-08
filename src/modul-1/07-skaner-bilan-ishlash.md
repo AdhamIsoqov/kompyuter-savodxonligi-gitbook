@@ -1,5 +1,9 @@
 # 07-Mavzu: Skaner Bilan Ishlash va OCR Texnologiyalari
 
+Oldingi darsda printerlar — ya'ni raqamli ma'lumotlarni qog'ozga chiqarish qurilmasini o'rgandik. Endi esa aksincha jarayon bilan shug'ullanamiz: qog'ozdagi ma'lumotlarni raqamli shaklga aylantirish. Bu vazifani **skaner** bajaradi.
+
+Hozirgi raqamli dunyoda qog'oz hujjatlarni elektron arxivga aylantirish juda muhim ko'nikma. Notarius idorasi, ta'lim muassasasi, tibbiyot markazi yoki oddiy xonadon — hamma joyda minglab qog'oz hujjatlar mavjud. Ularni skaner orqali elektron shaklga o'tkazish — bu nafaqat saqlash joy tejaydi, balki ularni internetda jo'natish, qidirish va tahrirlash imkonini ham beradi.
+
 {% hint style="info" %}
 **Dars maqsadi:** Qog'oz hujjatlarni raqamlashtirish, planshetli (Flatbed) va ADF (avtomatik oziqlantiruvchi) skanerlar bilan ishlash, optimal DPI (150/300/600) va rang rejimlarini tanlash, ko'p sahifali PDF formatini yaratish hamda OCR (optik matnni tanish) texnologiyasi orqali tasvirdan tahrirlanadigan matn ajratib olish ko'nikmalarini shakllantirish.
 {% endhint %}
@@ -24,7 +28,18 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Skanerlashning Asosiy Parametrlari: DPI va Rang Rejimlari
+### 2.1. Skaner Turlari
+
+Skanerlar konstruksiyasiga ko'ra bir necha turga bo'linadi:
+
+| Skaner Turi | Tavsifi | Qayerda qo'llaniladi |
+| :--- | :--- | :--- |
+| **Planshetli (Flatbed)** | Shisha yuzaga hujjatni yotqizib skanerlash | Uy, kichik ofis, nozik hujjatlar |
+| **ADF (Avtooziqlantirgich)** | Ko'p varaqli hujjatlarni avtomatik oziqlantiradi | Korporativ ofis, bank, notariat |
+| **Ko'chma (Portable)** | Kichik batareyli qurilma, hujjat ustida suring | Tez-tez safarlar uchun |
+| **Multifunksional (MFP)** | Printer + skaner + nusxa ko'chiruvchi | Ofis kompleks yechimi |
+
+### 2.2. Skanerlashning Asosiy Parametrlari: DPI va Rang Rejimlari
 
 Skanerlash sifati va hosil bo'ladigan fayl hajmi ikki asosiy omilga bog'liq:
 
@@ -61,15 +76,26 @@ Skanerlash sifati va hosil bo'ladigan fayl hajmi ikki asosiy omilga bog'liq:
 Hech qachon 10 varaqli shartnomaning har bir betini alohida `skaner1.jpg`, `skaner2.jpg` qilib saqlamang! Skaner dasturida saqlash formati sifatida **PDF** ni tanlang va **"Combine into single file" (Bitta faylga birlashtirish)** bandini yoqing. Natijada barcha sahifalar bitta tartibli faylga aylanadi.
 {% endhint %}
 
-### 2.2. OCR (Optik Belgilarni Tanish) Texnologiyasi
+### 2.3. OCR (Optik Belgilarni Tanish) Texnologiyasi
 
 Oddiy skanerlash natijasida kompyuter hujjatni shunchaki "rasm" (piksellar to'plami) deb qabul qiladi — undagi so'zlarni qidirib yoki nusxalab bo'lmaydi.
 
-**OCR (Optical Character Recognition)** — bu rasm ichidagi harflar, so'zlar va jadvallarni tanib, ularni matnli formatga (`.docx`, `.txt`) aylantiruvchi dasturiy intellektdir. Zamonaviy OCR vositalari:
-* Google Drive / Google Docs (bepul va o'zbek tilini yaxshi taniydi);
-* ABBYY FineReader;
-* Adobe Acrobat Pro;
-* Zamonaviy AI neyrotarmoqlari.
+**OCR (Optical Character Recognition)** — bu rasm ichidagi harflar, so'zlar va jadvallarni tanib, ularni matnli formatga (`.docx`, `.txt`) aylantiruvchi dasturiy intellektdir.
+
+> **3-darsdan eslatma:** O'sha darsda `.docx`, `.txt`, `.pdf` kabi fayl kengaytmalarini o'rgandik. Endi OCR orqali biz tasvirdan `.docx` fayl hosil qilamiz — bilimlar o'zaro bog'lanib bormoqda!
+
+Zamonaviy OCR vositalari:
+* **Google Drive / Google Docs** (bepul va o'zbek tilini yaxshi taniydi) — **eng qulay bepul usul**;
+* ABBYY FineReader — professional, pullik;
+* Adobe Acrobat Pro — PDF ustida kuchli;
+* Zamonaviy AI neyrotarmoqlari (ChatGPT, Gemini).
+
+### 2.4. Telefon Kamerasi — Zamonaviy Skaner
+
+Agar skaner qurilmasi mavjud bo'lmasa, zamonaviy smartfonlar ham yuqori sifatli hujjat suratga olish imkonini beradi. Buning uchun maxsus dasturlar mavjud:
+- **Microsoft Lens** (bepul, avtomatik ravishda hujjat chegaralarini to'g'rilaydi)
+- **Adobe Scan** (bepul, OCR funksiyasi bor)
+- **Google PhotoScan** (bepul)
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -142,3 +168,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Asl rasm va olingan Word matnini taqqoslab hisobot tayyorlang.
 
 **Topshirish formati:** Tayyorlangan hisobotni `FIO_7-Mavzu_Skaner_OCR.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 8-darsimizda tashqi qurilmalar dunyosini o'rganamiz: USB fleshkalar, tashqi qattiq disklar, kamera va boshqa periferiyalarni kompyuterga ulash, xavfsiz chiqarish (Safely Remove) va ma'lumotlarni qurilmalar o'rtasida ko'chirish usullari!*

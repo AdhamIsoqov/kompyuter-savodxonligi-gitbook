@@ -1,5 +1,9 @@
 # 06-Mavzu: Printer Bilan Ishlash va Sozlash
 
+Oldingi darsda xavfsiz dastur o'rnatish va boshqarishni o'rgandik. Endi esa o'rnatilgan dasturlarda tayyorlangan hujjatlarimizni qog'ozga chiqarish uchun eng muhim ofis qurilmasi — **printer** bilan ishlashni o'rganamiz.
+
+Ofisda ishlayotgan har bir mutaxassis ertami-kechmi printerga duch keladi. Shartnomalarni imzolatish, hisobotlarni taqdim etish, sertifikatlarni chop etish — bularning barchasida printer ishtirok etadi. Printer drayverini o'rnatish, sozlamalarni moslash va nosozliklarni bartaraf etish — bu kompyuter texnikasi montajchisining asosiy kasb ko'nikmasining bir qismidir.
+
 {% hint style="info" %}
 **Dars maqsadi:** Zamonaviy printer turlari (Lazerli, Siyohli — Inkjet) ishlash prinsiplari, drayverlarni o'rnatish va sozlash, hujjatlarni professional chop etish (`Ctrl + P`), Print Queue (chop etish navbati)ni boshqarish hamda printer qotib qolishi bilan bog'liq texnik muammolarni mustaqil hal qilish.
 {% endhint %}
@@ -26,11 +30,11 @@
 
 ### 2.1. Lazerli vs Siyohli (Inkjet) Printerlar
 
-Ofis va xonadonlarda eng keng tarqalgan ikki xil printer texnologiyasi:
+Ofis va xonadonlarda eng keng tarqalgan ikki xil printer texnologiyasi. 5-darsimizda dasturlarni o'rnatish paytida to'g'ri tanlash muhimligini o'rgandik — printer tanlashda ham xuddi shunday to'g'ri qaror qabul qilish zarur:
 
 | Ko'rsatkich | Lazerli Printer (LaserJet) | Siyohli Printer (Inkjet) |
 | :--- | :--- | :--- |
-| **Bo'yoq turi** | Quruq kukunsimon modda — **Toner** | Suyuq siyoh — **Ink (CISS/SНПЧ)** |
+| **Bo'yoq turi** | Quruq kukunsimon modda — **Toner** | Suyuq siyoh — **Ink (CISS/СНПЧ)** |
 | **Chop etish tezligi** | Juda yuqori (daqiqa 20–40 varaq) | O'rtacha (daqiqa 5–15 varaq) |
 | **Asosiy yo'nalishi** | Matnli hujjatlar, shartnomalar, kitoblar | Rangli fotosuratlar, grafikalar, taqdimotlar |
 | **Bo'yoqning qurishi** | Uzoq vaqt ishlatilmasa ham qurib qolmaydi | Uzoq vaqt ishlatilmasa boshchasi (head) qurib qoladi |
@@ -53,7 +57,15 @@ Agar kompyuteringizga bir nechta printer (masalan, ofisdagi jismoniy printer va 
 `Win + I` -> **Bluetooth & devices -> Printers & scanners** -> Kerakli printerni tanlang -> **Set as default** tugmasini bosing. Endi `Ctrl + P` bosilganda har doim shu printer avtomatik tanlanadi!
 {% endhint %}
 
-### 2.2. Chop Etish Parametrlari (`Ctrl + P`)
+### 2.2. Printer Drayverini O'rnatish
+
+Printer kompyuterga ulanganda Windows uni tanishi uchun **drayvер** kerak. Drayvер — printerga xos "til" bo'lib, Windows buyruqlarini printer tushunadigan tilga tarjima qiladi.
+
+Drayver o'rnatishning ikki yo'li:
+1. **Avtomatik (Windows Update orqali):** Printer USB orqali ulanganida Windows Internet orqali drayverni o'zi topib o'rnatadi (internet bo'lganda eng qulay usul).
+2. **Qo'lda (Ishlab chiqaruvchi saytidan):** Printer modeli (masalan, Canon LBP6030, HP LaserJet Pro M404) printer qopqog'ida yoki pastki qismida ko'rsatilgan bo'ladi. Google'ga `Canon LBP6030 driver download` deb yozing va rasmiy saytdan yuklab o'rnating.
+
+### 2.3. Chop Etish Parametrlari (`Ctrl + P`)
 
 Microsoft Word yoki boshqa dasturlarda `Ctrl + P` bosilganda quyidagi muhim parametrlar sozlanadi:
 
@@ -67,6 +79,11 @@ Microsoft Word yoki boshqa dasturlarda `Ctrl + P` bosilganda quyidagi muhim para
 3. **Collate (Tartiblash):** Agar 10 varaqli hujjatdan 3 nusxa chiqarayotgan bo'lsangiz:
    * *Collated (1,2,3... 1,2,3...)* — har bir nusxani alohida to'plam qilib chiqaradi.
    * *Uncollated (1,1,1... 2,2,2...)* — avval 1-sahifadan 3 ta, keyin 2-sahifadan 3 ta chiqaradi.
+4. **Duplex Printing (Ikki tomonlama chop etish):** Bir vaqtda qog'ozning ikki tomoniga chop etish. Qog'oz iste'molini 2 barobarga tejaydi. Faqat duplex qo'llab-quvvatlaydigan printerlarda ishlaydi.
+
+{% hint style="info" %}
+**Qog'oz tejash:** Bir varaq qog'ozga bir nechta sahifani chop etmoqchi bo'lsangiz, `Ctrl + P` darchasida **Pages per sheet** parametrini 2, 4 yoki 6 qilib o'rnating. Konspektlar va qoralamalar uchun juda foydali!
+{% endhint %}
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -144,3 +161,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Chop etish navbati (Open queue) darchasini ochib skrinshot oling.
 
 **Topshirish formati:** PDF natija fayli va skrinshotni `FIO_6-Mavzu_Printer.docx` shaklida platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 7-darsimizda printer akasi — skaner bilan ishlashni o'rganamiz: qog'oz hujjatlarni raqamlashtirish (DPI tanlash), ko'p sahifali PDF yaratish va eng zamonaviy OCR texnologiyasi orqali suratdagi matnni tahrirlanadigan hujjatga aylantirish!*

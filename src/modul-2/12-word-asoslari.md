@@ -1,5 +1,9 @@
 # 12-Mavzu: Microsoft Word Asoslari: Matn Terish va Formatlash
 
+11-darsimizda Microsoft Office dasturlar to'plami bilan umumiy tanishib chiqdik. Endi shu to'plamning eng ko'p ishlatiladigan dasturi — **Microsoft Word** ni chuqur o'rganish vaqti keldi.
+
+Ariza yozmoqchisizmi? Shartnoma tayyorlamoqchisizmi? Hisobot yoki dissertatsiya yozmoqchisizmi? Bularning barchasida Word ishlatiladi. Lekin ko'pchilik Word'ni noto'g'ri ishlatadi: probellar bilan xatboshi qo'yadi, qo'lda tekislaydi, shriftlarni tartibsiz aralashtirib yuboradi. Bugungi darsda professional hujjat tayyorlashning to'g'ri yo'lini o'rganamiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** Microsoft Word dasturining interfeysi bilan tanishish, standart rasmiy hujjat talablari bo'yicha matn terish madaniyati, shriftlar (Font), abzaslarni tekislash (Alignment: Justify), qatorlar oralig'i (Line Spacing) va xatboshini (First Line Indent) professional sozlash ko'nikmalarini egallash.
 {% endhint %}
@@ -37,6 +41,8 @@ O'zbekiston Respublikasi idoraviy ish yuritish qoidalariga ko'ra barcha rasmiy a
 | **Xatboshi (Abzas boshi)** | `1.25 sm` | Gorizontal chizg'ichdagi yuqori uchburchak |
 | **Varaq hoshiyalari (Margins)** | Chap: 3 sm, O'ng: 1.5 sm, Yuqori/Past: 2 sm | Layout -> Margins |
 
+> **11-darsdan eslatma:** `.docx` formatini o'rgandik — u ZIP-arxiv ekanini bilamiz. Endi o'sha faylning ichiga professional mazmun teramiz.
+
 ```
 [Chizg'ichdagi Abzas Belgilari (Ruler)]
    ▼  <--- Yuqori uchburchak: Birinchi satr xatboshisi (First Line Indent - 1.25 sm)
@@ -62,6 +68,20 @@ O'zbekiston Respublikasi idoraviy ish yuritish qoidalariga ko'ra barcha rasmiy a
 | `Ctrl + E` | Matnni markazga tekislash | Hujjat sarlavhalari uchun |
 | `Ctrl + J` | Matnni ikki chetga tekislash (Justify) | Rasmiy va tartibli ko'rinish berish |
 | `Shift + F3` | Belgilangan so'zning registrini almashtirish | KICHIK -> Bosh Harflar -> HAMMASI KATTA |
+| `Ctrl + Z` | Oxirgi amalni bekor qilish (Undo) | Xato qilsangiz zudlik bilan! |
+| `Ctrl + S` | Hujjatni saqlash | Har 10 daqiqada bir marta bosish odat qiling |
+
+### 2.3. Xatboshi Qo'yishning To'g'ri Usuli
+
+Yangi boshlovchilar eng ko'p qiladigan xato — xatboshini (abzas boshistini) Space tugmasini 5 marta bosib qo'yishdir. Bu juda xatarli:
+- Boshqa kompyuterda hujjat ochilganda, shrift o'zgarsa — matn buziladi
+- Printer chop etganda qatorlar noto'g'ri joylashadi
+- PDF ga aylantirilganda ko'rinish o'zgarib ketadi
+
+**To'g'ri usullar:**
+1. **Chizg'ich orqali** — yuqori uchburchakni 1.25 sm ga suring
+2. **Paragraph sozlamalari orqali** — Home → Paragraph → Indentation → First line: 1.25 sm
+3. **Tab tugmasi orqali** — sahifa parametrlari to'g'ri sozlangan bo'lsa `Tab` = 1.25 sm
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -142,3 +162,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Hujjatni `FIO_12-Mavzu_Word_Asoslari.docx` nomi bilan saqlang.
 
 **Topshirish formati:** Tayyorlangan `.docx` faylini platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 13-darsimizda Word'ni yanada chuqurroq o'rganamiz: jadvallar kiritish va formatlash, sarlavha uslublari (Styles), avtomatik mazmun (Table of Contents) yaratish va rasmlar bilan ishlash!*

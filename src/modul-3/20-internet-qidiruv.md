@@ -1,17 +1,29 @@
 # 20-Mavzu: Internet Arxitekturasi, Brauzerlar va Samarali Qidiruv Usullari
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 20-darsimizga xush kelibsiz.
+
+Bugungi darsdan boshlab biz mutlaqo yangi va nihoyatda hayajonli bosqich — **3-Modul: "Internet, Bulutli Xizmatlar va Sun'iy Intellekt Vositalari"** olamiga qadam qo'yamiz.
+
+Oldingi 2-modulda biz shaxsiy kompyuterimiz ichida Microsoft Word, Excel va PowerPoint vositasida to'liq professional hujjatlar yaratishni o'rgandik. Endi esa lokal kompyuter doirasidan tashqariga chiqib, millionlab kompyuterlarni o'zaro bog'lab turuvchi global axborot maydoni — **Internet** bilan tanishamiz.
+
+Internetda milliardlab ma'lumotlar mavjud, biroq ularning ichidan kerakli, to'g'ri va xavfsiz axborotni bir zumda topa olish — zamonaviy mutaxassisning eng qimmatli ko'nikmalaridan biridir. Ushbu darsda biz veb-brauzerlar bilan ishlash madaniyati, xavfsizlik protokollari va Google qidiruvining professional "sehrli" operatorlarini o'rganamiz.
+
+Kelgusi 21-darsimizda esa bugun o'rganiladigan brauzer imkoniyatlaridan foydalanib, rasmiy elektron pochta (Gmail) yozishmalari hamda Google Drive bulutli xotirasida jamoaviy ishlashni yo'lga qo'yamiz.
+
 {% hint style="info" %}
-**Dars maqsadi:** Global internet tarmog'ining ishlash prinsiplari, zamonaviy brauzerlar (Google Chrome, Microsoft Edge) imkoniyatlari, maxfiy rejim (Incognito), Google qidiruv tizimining ilg'or mantiqiy operatorlari (`site:`, `filetype:`, `"..."`, `-`) hamda internetdagi axborotlarning ishonchliligini (fact-checking) baholashni o'rganish.
+**Dars maqsadi:** Global internet tarmog'ining ishlash prinsiplari (Klient-Server modeli, DNS, IP), xavfsiz ulanish protokollari (HTTP vs HTTPS), zamonaviy veb-brauzerlar (Google Chrome, Microsoft Edge) imkoniyatlari, maxfiy rejim (Incognito), Google qidiruv tizimining ilg'or mantiqiy operatorlari (`site:`, `filetype:`, `"..."`, `-`) hamda internetdagi axborotlarning ishonchliligini baholash (Fact-checking) ko'nikmalarini egallash.
 {% endhint %}
 
 ### 🎯 Kutilayotgan Kompetensiyalar
 * **Bilishingiz kerak:**
-  * HTTP va HTTPS (xavfsiz shifrlangan qulf belgisi) protokollari farqi.
-  * Brauzer keshi (Cache), Cookie fayllari va Inkognito rejimining maxfiylikdagi o'rni.
-  * Google qidiruv operatorlari sintaksisi.
+  * Internet qanday ishlashi: Klient-Server modeli, IP-manzil va DNS tushunchalari.
+  * HTTP va HTTPS (xavfsiz shifrlangan qulf belgisi) protokollari o'rtasidagi farq.
+  * Brauzer keshi (Cache), Cookie fayllari va Inkognito rejimining maxfiylikdagi asl o'rni.
+  * Google qidiruv operatorlari sintaksisi va axborot ishonchliligini tekshirish mezonlari.
 * **Bajara olishingiz kerak:**
-  * Brauzerda teglarni (Tabs) boshqarish, xatcho'plar (Bookmarks) yaratish va tarixni tozalash (`Ctrl + Shift + Delete`).
-  * Ilg'or qidiruv operatorlari yordamida internetdan faqat rasmiy davlat saytlaridan (`site:gov.uz`) yoki faqat PDF kitoblarni (`filetype:pdf`) topish.
+  * Brauzerda sahifalarni (Tabs) boshqarish, xatcho'plar (Bookmarks) yaratish va tarixni tozalash (`Ctrl + Shift + Delete`).
+  * Yopilib ketgan sahifalarni darhol qayta tiklash (`Ctrl + Shift + T`).
+  * Ilg'or qidiruv operatorlari yordamida internetdan faqat rasmiy davlat saytlaridan (`site:gov.uz`) yoki faqat PDF kitoblarni (`filetype:pdf`) soniyalar ichida topish.
   * Soxta (fishing) havolalarni haqiqiy domenlardan vizual ajrata olish.
 
 ## 🎬 1. Video Dars
@@ -24,41 +36,80 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Brauzer Muhiti va Tezkor Boshqaruv
+### 2.1. Internet Arxitekturasi: Klient-Server, IP va DNS
 
-Brauzer — internetdagi HTML, CSS va JavaScript kodlarini inson tushunadigan vizual veb-sahifaga aylantirib beruvchi dasturdir.
+Internet — butun dunyo bo'ylab joylashgan millionlab serverlar, kompyuterlar va mobil qurilmalarni birlashtiruvchi global axborot tarmog'idir.
 
-| Klaviatura Yorlig'i | Vazifasi | Nima uchun juda qulay? |
+1. **Klient-Server modeli:**
+   * **Klient (Mijoz):** Sizning kompyuteringiz yoki telefoningiz (ma'lumot so'rovchi tomon).
+   * **Server:** Ma'lumotlarni kechayu-kunduz saqlab, internetga uzatib turuvchi yuqori quvvatli kompyuter.
+2. **IP-manzil va DNS (Domen Nomlari Tizimi):**
+   * Har bir qurilma internetda o'zining raqamli pasporti — **IP-manziliga** ega (masalan: `142.250.185.206`).
+   * Insonlar uchun bu kabi murakkab raqamlarni yodlab qolish juda noqulay. Shu sababli **DNS (Domain Name System)** ishlab chiqilgan. DNS — internetning "telefon kitobi" bo'lib, `google.com` kabi so'zlarni serverning raqamli IP-manziliga bir zumda aylantirib beradi.
+
+```
+[Foydalanuvchi: google.com yozdi] 
+              │
+              ▼
+   [DNS Server: IP ni aniqlaydi (142.250.185.206)]
+              │
+              ▼
+    [Veb-Server: Sahifani foydalanuvchiga uzatadi]
+              │
+              ▼
+    [Brauzer: Ekranda chiroyli veb-sahifani chizib beradi]
+```
+
+### 2.2. HTTP va HTTPS: Xavfsiz Aloqa Protokollari
+
+Brauzer satriga qaraganingizda har bir sayt manzili boshida protokol ko'rsatiladi:
+* **HTTP (HyperText Transfer Protocol):** Ma'lumotlar ochiq matn ko'rinishida uzatiladi. Agar siz ochiq Wi-Fi tarmog'ida HTTP saytga parol kiritsangiz, oraliqdagi har qanday tajovuzkor uni tutib olishi mumkin.
+* **HTTPS (HyperText Transfer Protocol Secure):** Ma'lumotlar zamonaviy **SSL/TLS** shifrlash kalitlari bilan himoyalanadi. Brauzer manzilida yashil yoki qora **Qulf belgisi** ko'rinadi. Bank saytlari, elektron pochtalar va barcha rasmiy xizmatlar faqat HTTPS orqali ishlashi shart!
+
+### 2.3. Brauzer Muhiti: Kesh (Cache) va Cookie Fayllari
+
+Brauzer (Google Chrome, Microsoft Edge, Mozilla Firefox) — internetdagi HTML, CSS va JavaScript kodlarini inson tushunadigan vizual interfeysga aylantiruvchi dasturdir.
+
+* **Kesh (Cache):** Saytdagi rasmlar, logotiplar va dizayn elementlari kompyuter xotirasiga vaqtincha saqlab olinadi. Natijada saytga ikkinchi marta kirganingizda u qaytadan yuklanmasdan, juda tez ochiladi.
+* **Cookie (Kuki):** Sizning saytdagi tanlovlaringiz (til sozlamalari, savatchadagi tovarlar, tizimga kirish sessiyasi) saqlanadigan kichik matnli fayllar.
+
+### 2.4. Brauzerda Ishlashning Tezkor Klaviatura Yorliqlari
+
+Professional foydalanuvchi brauzerda har bir amal uchun sichqonchani qidirmaydi, balki klaviatura yorliqlaridan unumli foydalanadi:
+
+| Klaviatura Yorlig'i | Vazifasi | Amaliy Ahamiyati |
 | :--- | :--- | :--- |
-| `Ctrl + T` | Yangi bo'sh oyna (Tab) ochish | Dasturdan chiqmasdan boshqa saytni ochish |
-| `Ctrl + W` | Joriy ochiq tabni yopish | Keraksiz sahifani tez yopish |
-| `Ctrl + Shift + T` | Tasodifan yopib yuborilgan oxirgi tabni qayta ochish | **"Hayot qutqaruvchi" yorliq!** |
-| `Ctrl + D` | Saytni xatcho'plarga (Bookmarks/Favorites) saqlash | Muhim saytni yo'qotib qo'ymaslik |
-| `Ctrl + H` | Ko'rilgan saytlar tarixini (History) ochish | Bir necha kun oldin ochilgan saytni topish |
-| `Ctrl + J` | Yuklab olingan fayllar (Downloads) ro'yxatini ochish | Yuklangan faylni darhol papkada ko'rish |
-| `Ctrl + Shift + N` | Maxfiy (Incognito / InPrivate) oynani ochish | Kesh va tarixdan iz qoldirmaslik |
+| `Ctrl + T` | Yangi bo'sh sahifa (Tab) ochish | Ishni to'xtatmasdan boshqa saytga o'tish |
+| `Ctrl + W` | Joriy ochiq sahifani darhol yopish | Ortiqcha sahifalarni tez yopish |
+| `Ctrl + Shift + T` | **Tasodifan yopib yuborilgan oxirgi sahifani qayta tiklash** | "Hayot qutqaruvchi" eng muhim yorliq! |
+| `Ctrl + D` | Sahifani xatcho'plarga (Bookmarks) saqlash | Muhim sayt manzilini yo'qotib qo'ymaslik |
+| `Ctrl + H` | Ko'rilgan sahifalar tarixini (History) ochish | O'tgan haftada o'qilgan maqolani topish |
+| `Ctrl + J` | Yuklab olingan fayllar (Downloads) panelini ochish | Yuklangan faylni darhol papkadan ko'rish |
+| `Ctrl + Shift + N` | Maxfiy oyna (Incognito / InPrivate) ochish | Begona kompyuterda iz qoldirmaslik |
+| `Ctrl + Shift + Delete` | Kesh va brauzer tarixini tozalash oynasini ochish | Xotirani bo'shatish va xavfsizlikni ta'minlash |
 
 {% hint style="success" %}
 **Pro-Tip (Incognito rejimining asl haqiqati):**
-Inkognito rejimi sizni internetda butunlay "ko'rinmas" yoki "anonim xaker" qilib qo'ymaydi! U faqat kompyuteringiz ichida ishlaydi: siz yopganingizdan so'ng qaysi saytlarga kirganingiz tarixi, kiritilgan parollar va cookie fayllari o'sha kompyuterda saqlanib qolmaydi. Bu begona yoki jamoat kompyuterida (masalan, internet kafeda) o'z pochtangizga kirishda juda zarur.
+Inkognito rejimi sizni internetda butunlay "anonim xaker" qilib qo'ymaydi! U faqat lokal kompyuter doirasida ishlaydi: oynani yopganingizdan so'ng qaysi saytlarga kirganingiz tarixi, kiritilgan parollar va cookie fayllari o'sha kompyuter xotirasida saqlanib qolmaydi. Bu begona kompyuterda yoki mehmonda shaxsiy pochtangizga kirishda juda qulaydir.
 {% endhint %}
 
-### 2.2. Professional Google Qidiruv Operatorlari
+### 2.5. Professional Google Qidiruv Operatorlari
 
-Ko'pchilik odamlar qidiruvga uzun jumlalar yozishadi va minglab keraksiz reklama saytlari ichida adashib qolishadi. Professional foydalanuvchilar qidiruv operatorlaridan foydalanadi:
+Oddiy odamlar Google qidiruviga "Men noutbuk sotib olmoqchiman qayerda arzon" kabi uzun jumlalarni yozishadi va yuzlab foydasiz reklamalarga duch kelishadi. Professional foydalanuvchilar esa qidiruv operatorlaridan foydalanib, aniq natijaga erishadilar:
 
 ```
-[Ilg'or Qidiruv So'rovlari Mantiqi]
+[Ilg'or Qidiruv Operatorlari Mantiqi]
   1. "Kompyuter savodxonligi"  ===> Aniq shu ibora qatnashgan sahifalarni topadi
   2. Mehnat kodeksi filetype:pdf => Faqat .PDF kitob fayllarini yuklab beradi
   3. Qaror site:lex.uz           => Faqat rasmiy lex.uz sayti ichidan qidiradi
   4. Noutbuk sotib olish -kredit  => "kredit" so'zi qatnashgan reklamalarni chiqarib tashlaydi
 ```
 
-* **Qo'shtirnoq `"..."`:** So'zlar aynan shu tartibda birga kelgan sahifalarni qidiradi.
-* **`site:sayt_nomi`:** Qidiruvni faqat bitta domenga cheklaydi (masalan: `talaba site:edu.uz`).
-* **`filetype:kengaytma`:** Faqat ma'lum bir formatdagi fayllarni topadi (`filetype:docx`, `filetype:pdf`, `filetype:xlsx`).
-* **Minus belgisi `-`:** Keraksiz so'zlarni natijadan chiqarib tashlaydi.
+* **Qo'shtirnoq `"..."`:** Belgilangan so'zlar aynan shu tartibda ketma-ket kelgan veb-sahifalarni qidiradi (aniq fraza).
+* **`site:sayt_manzili`:** Qidiruvni faqat aniq bitta veb-sayt yoki milliy domen hududi bilan cheklaydi (masalan: `Prezident qarori site:lex.uz` yoki `qabul site:gov.uz`).
+* **`filetype:kengaytma`:** Faqat ma'lum bir formatdagi tayyor fayllarni qidiradi (`filetype:pdf`, `filetype:docx`, `filetype:xlsx`, `filetype:pptx`).
+* **Minus belgisi `-`:** Qidiruv natijasidan istalmagan kalit so'zlarni butunlay chiqarib tashlaydi (masalan: `smartfon narxi -reklama`).
+* **Mantiqiy operator `OR` (yoki):** Bir vaqtning o'zida ikkita muqobil variantdan birini qidirish (masalan: `Python OR JavaScript kurslari`).
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 

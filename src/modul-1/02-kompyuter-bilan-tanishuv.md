@@ -1,5 +1,9 @@
 # 02-Mavzu: Windows Operatsion Tizimi va Ishchi Muhit Bilan Tanishuv
 
+Birinchi darsimizda biz kompyuter xonasida xavfsiz ishlash qoidalarini o'rgandik — elektr xavfsizligi, ergonomika va raqamli gigiyena talablarini puxta o'zlashtirib oldik. Endi esa xavfsiz muhitimizda o'tirgancha, kompyuterning "miyasi" bo'lgan **operatsion tizim** bilan yaqindan tanishamiz.
+
+Kompyuterni yoqdingiz va ekranda ish stoli (Desktop) paydo bo'ldi. Xo'sh, bu qanday sodir bo'ladi? Kim fayllarni boshqaradi, dasturlarni ishga tushiradi va tarmoqqa ulanadi? Bularning barchasini **Windows Operatsion Tizimi** amalga oshiradi. Bu tizimni bilmasdan turib, kompyuterni professional darajada boshqarib bo'lmaydi.
+
 {% hint style="info" %}
 **Dars maqsadi:** Windows operatsion tizimining asosiy boshqaruv mexanizmlari, Desktop (Ish stoli), Start menyusi, Taskbar (Vazifalar paneli), oynalar bilan ishlash arxitekturasi va ko'p vazifalilik (Multitasking) rejimini hamda klaviatura yorliqlarini professional darajada o'zlashtirish.
 {% endhint %}
@@ -24,9 +28,29 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
+### 2.0. Operatsion Tizim Nima va Nima Uchun Kerak?
+
+Tasavvur qiling: kompyuter — bu kuchli, ammo "til bilmaydigan" mexanizm. Protsessor, xotira, disk va klaviatura o'zlari bir-biri bilan muloqot qila olmaydi. **Operatsion tizim (OS)** — bu barcha qurilmalarni bir tizimga birlashtiruvchi, siz bilan kompyuter o'rtasida "tarjimon" vazifasini bajaruvchi maxsus dasturiy muhitdir.
+
+```
+[Siz (Foydalanuvchi)]
+        ↕  (grafik interfeys orqali)
+[Windows Operatsion Tizimi]
+   ↕ Drayverllar orqali      ↕ Fayl tizimi orqali
+[Apparat qurilmalari]    [Disk va fayllar]
+  (Protsessor, RAM,       (Hujjatlar, Rasmlar,
+   Klaviatura, Monitor)    Dasturlar)
+```
+
+Windows dunyodagi eng ommabop operatsion tizim bo'lib, bugungi kunda barcha shaxsiy kompyuterlarning 70% dan ortiq qismida ishlatiladi. Windows XP, Vista, 7, 8, 10 va hozirgi Windows 11 — bularning barchasi Microsoft korporatsiyasi tomonidan ishlab chiqilgan bir oilaning avlodlaridir.
+
+> **Muhim farq:** *Windows 10* va *Windows 11* — ikkalasi ham Microsoft Windows oilasiga mansub. Windows 11 yangi, chiroyliroq dizayn va yaxshilangan xavfsizlik tizimiga ega. Ammo ish prinsipi bir xil — siz ikkala tizimda ham bir xil ko'nikmalar bilan ishlaysiz.
+
 ### 2.1. Desktop (Ish Stoli) va Obyektlar Turlari
 
 Desktop — Windows operatsion tizimi yuklangandan so'ng foydalanuvchi qarshisida ochiladigan asosiy grafik ish maydonidir. Kompyuter bilan barcha amallar va dasturlarni ishga tushirish aynan shu yerdan boshlanadi.
+
+Ish stolida turli xil obyektlar joylashishi mumkin. Ularning farqlarini bilmaslik juda ko'p muammolarga olib keladi — masalan, "yorliqni o'chirdim, dastur ham yo'qoldi" degan noto'g'ri tushuncha:
 
 | Obyekt Turi | Belgisi / Xususiyati | Asosiy Vazifasi | O'chirilganda nima bo'ladi? |
 | :--- | :--- | :--- | :--- |
@@ -49,6 +73,10 @@ Istalgan dastur yoki faylni ish stoliga yorliq qilish uchun obyekt ustiga sichqo
   2. *O'rta qism:* Ayni damda ochiq turgan faol oynalar ro'yxati.
   3. *O'ng tomon (System Tray):* Internet ulanishi, ovoz balandligi, til paneli, batareya holati, sana/vaqt va bildirishnomalar markazi.
 
+{% hint style="info" %}
+**Windows 11 yangiligi:** Windows 10 da Start tugmasi chapda, Windows 11 da markazda joylashgan. Buni eski usulga qaytarish uchun: `Taskbar Settings -> Taskbar behaviors -> Taskbar alignment -> Left` deb o'rnating.
+{% endhint %}
+
 ### 2.3. Oynalar Boshqaruvi va Ko'p Vazifalilik (Multitasking)
 
 Windows tizimida har bir dastur o'z oynasida ishlaydi. Har bir oynaning yuqori o'ng burchagida 3 ta standart tugma mavjud:
@@ -70,6 +98,8 @@ Windows tizimida har bir dastur o'z oynasida ishlaydi. Har bir oynaning yuqori o
 +-------------------------------------------------------------------+
 ```
 
+**Snap Layouts (Windows 11):** Maximize tugmasi ustiga sichqonchani olib borsangiz, ekranni 2, 3 yoki 4 qismga bo'lishning tayyor shablonlari paydo bo'ladi. Bu ayniqsa katta monitorlarda samaradorlikni sezilarli oshiradi. Windows 10 da esa `Win + Strelka` tugmalari orqali xuddi shunday natijaga erishish mumkin.
+
 ### ⌨️ Mavzuning Eng Muhim Tezkor Klaviatura Yorliqlari:
 
 | Yorliq | Funksiyasi | Nima uchun muhim? |
@@ -80,6 +110,8 @@ Windows tizimida har bir dastur o'z oynasida ishlaydi. Har bir oynaning yuqori o
 | `Win + Chap / O'ng` | Faol oynani ekranning chap yoki o'ng yarmiga mahkamlash (Snap) | Bir vaqtda ikkita dasturni yonma-yon solishtirib ishlash |
 | `Win + L` | Kompyuterni bir soniyada bloklash (Lock) | Ish joyidan ketayotganda begona shaxslardan xavfsizlanish |
 | `Alt + F4` | Faol oynani darhol yopish (ish stoli ochiq bo'lsa, o'chirish menyusi) | Ishni tez yakunlash |
+
+> **Oldingi darsdan eslatma:** 1-darsimizda `Win + L` klaviatura yorlig'ini xavfsizlik qoidalarida o'rgangan edik — ish joyidan ketganda kompyuterni bloklash. Ko'ryapsizmi, bilimlar bir-biriga bog'lanib boradi!
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -155,3 +187,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 5. Skrinshotni va yuqoridagi 3 ta mantiqiy savol javobini bitta hujjatga jamlang.
 
 **Topshirish formati:** Tayyorlangan hisobotni `FIO_2-Mavzu_Windows.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 3-darsimizda kompyuterdagi fayllar va papkalar bilan professional ishlashni o'rganamiz: fayl tizimi tuzilishi, Copy va Cut amallarining farqlari, savatdan faylni tiklash va wildcard yordamida kengaytirilgan qidiruv usullari!*

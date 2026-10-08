@@ -1,5 +1,9 @@
 # 17-Mavzu: Microsoft PowerPoint Asoslari: Professional Taqdimotlar Arxitekturasi
 
+16-darsimizda Excel'da diagrammalar orqali ma'lumotlarni vizuallashtirish san'atini o'rgandik. Endi esa vizualizatsiyaning eng so'nggi va kuchli vositasi — **Microsoft PowerPoint** bilan tanishamiz.
+
+Siz o'qigan ma'ruzalar, ko'rgan reklama rolliklari, ishtirok etgan konferensiyalar — ularning ko'pchiligi PowerPoint asosida tayyorlangan. Bu dastur bilan siz faqat slayd emas, butun bir vizual hikoya yaratasiz. Va bu hikoya auditoriyani ishontiradi, ilhomlantiradii, yoki o'rgatadi.
+
 {% hint style="info" %}
 **Dars maqsadi:** Microsoft PowerPoint dasturining interfeysi, slaydlar arxitekturasi va maketlari (Layouts), taqdimot dizayni (Themes/Variants), matn kiritish me'yorlari (6x6 qoidasi), vizual multimedia obyektlarini joylash hamda slaydlarni namoyish qilish (`F5` / `Shift + F5`) ko'nikmalarini egallash.
 {% endhint %}
@@ -26,7 +30,7 @@
 
 ### 2.1. Taqdimot Tayyorlashning "Oltin Qoidalari"
 
-Taqdimot — bu ma'ruzachining gaplarini so'zma-so'z ko'rsatuvchi kitob emas, balki nutqni vizual qo'llab-quvvatlovchi ko'rgazmali quroldir.
+Taqdimot — bu ma'ruzachining gaplarini so'zma-so'z ko'rsatuvchi kitob emas, balki nutqni vizual qo'llab-quvvatlovchi ko'rgazmali quroldir. 12-darsimizda Word hujjati formal bo'lishi kerakligini o'rgandik — PowerPoint esa umuman boshqacha mantiqda ishlaydi:
 
 | Qoida | Noto'g'ri Yondashuv | To'g'ri Professional Yondashuv |
 | :--- | :--- | :--- |
@@ -60,6 +64,14 @@ Taqdimotni auditoriyaga namoyish qilish vaqtida eng muhim tezkor tugmalar:
 * **`B` (Black screen)** — Namoyish paytida ekranni bir zumda qora qilib o'chirish (auditoriya diqqatini slayddan o'zingizga qaratish uchun).
 * **`W` (White screen)** — Ekranni oppoq qilib ko'rsatish.
 * **`Esc`** — Taqdimot namoyishidan chiqish va tahrirlash rejimiga qaytish.
+
+### 2.3. Presenter View (Taqdimotchi Rejimi)
+
+Bu PowerPoint'ning professionallar bilgan, lekin ko'pchilik bilmaydigan qulayligi! Agar kompyuteringiz projektorga ulangan bo'lsa (8-darsda Win+P ni o'rgandik), **Slide Show → Presenter View** rejimi:
+- Auditoriya ekranida faqat slaydni ko'rsatadi
+- Sizning noutbukingizda esa: keyingi slayd, sana vaqti, eslatmalar (Notes) va taqdimot vaqtini ko'rsatadi
+
+Bu rejim bilan siz slaydga qarmasdan, auditoriyaga yuzingizni o'girib, hamma narsani eslatma orqali professional nutq qila olasiz!
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -133,3 +145,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Barcha slaydlarga yagona dizayn mavzusi (Design Theme) tanlang.
 
 **Topshirish formati:** Taqdimotni `FIO_17-Mavzu_PowerPoint.pptx` nomi bilan saqlab platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 18-darsimizda PowerPoint'ni yanada jonlantiramiz: slaydlar orasidagi o'tishlar (Transitions), Morph effekti, obyektlar animatsiyasi (Entrance/Exit/Emphasis), Animation Pane va taqdimotni video (MP4) formatiga eksport qilish!*

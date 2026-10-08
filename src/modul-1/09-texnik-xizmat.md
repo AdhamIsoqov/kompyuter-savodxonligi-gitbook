@@ -1,5 +1,9 @@
 # 09-Mavzu: Kompyuterga Texnik Xizmat Ko'rsatish va Profilaktika
 
+Oldingi darslarda biz dasturiy sohadagi ishlarga e'tibor qaratdik: fayl boshqaruvi, dastur o'rnatish, sozlamalar va tashqi qurilmalar. Endi esa kompyuter texnikasi montajchisi kasbining eng muhim bo'limiga — **apparat va dasturiy texnik xizmat** (profilaktika)ga o'tamiz.
+
+Kompyuter — murakkab texnik qurilma. Vaqt o'tishi bilan uning ichida chang to'planadi, termopasta qurib ketadi, diskda axlat fayllar ko'payib boradi. Bu esa kompyuterning sekinlashishiga, qizib ketishiga va hatto o'z-o'zidan o'chib qolishiga olib keladi. Professional texnik xizmat ko'rsata bilgan montajchi bunday muammolarning oldini oladi.
+
 {% hint style="info" %}
 **Dars maqsadi:** Kompyuter tizim blokiga apparat (changdan tozalash, termopasta almashtirish, kulerlar diagnostikasi) va dasturiy (Disk Cleanup, vaqtinchalik `%temp%` fayllarni tozalash, SSD TRIM / HDD defragmentatsiya, Windows Defender tekshiruvi) xizmat ko'rsatish texnologiyalarini professional darajada egallash.
 {% endhint %}
@@ -28,6 +32,8 @@
 
 Kompyuter protsessori (CPU) va videokartasi (GPU) yuqori yuklamada 70°C – 85°C gacha qiziydi. Ularning issiqligini radiatorga uzatish uchun maxsus kremniy-metall birikmali pasta — **Termopasta** ishlatiladi.
 
+> **1-darsdan eslatma:** Birinchi darsimizda kompyuter qurilmalaridan to'g'ri foydalanish va profilaktik tozalash haqida umumiy ma'lumot oldik. Bugungi darsda esa bu jarayonni professional darajada, aniq texnik ko'nikmalar bilan amalga oshirishni o'rganamiz.
+
 | Profilaktika Bosqichi | Davriyligi | Ishlatiladigan Asboblar | Kutiladigan Natija |
 | :--- | :--- | :--- | :--- |
 | **Changdan tozalash** | Har 3–6 oyda | Siqilgan havo balloni, antistatik yumshoq cho'tka | Ventilyatsiya tiklanadi, kulerlar shovqini pasayadi |
@@ -46,15 +52,35 @@ Kompyuter protsessori (CPU) va videokartasi (GPU) yuqori yuklamada 70°C – 85�
 
 ### 2.2. Dasturiy Profilaktika: Diskni Kesh Fayllardan Tozalash
 
-Vaqt o'tishi bilan Windows tizimida dasturlar va brauzerlarning vaqtinchalik fayllari (Temp) to'planib, 10–30 GB gacha joyni egallab oladi:
+Vaqt o'tishi bilan Windows tizimida dasturlar va brauzerlarning vaqtinchalik fayllari (Temp) to'planib, 10–30 GB gacha joyni egallab oladi. 4-darsda Storage Sense orqali avtomatik tozalashni o'rgandik — bu darsda qo'lda, chuqurroq tozalashni o'rganamiz:
 
 1. **`%temp%` katalogi:** `Win + R` bosing, `%temp%` deb yozing va Enter bosing. Bu foydalanuvchi ilovalarining vaqtinchalik keshidir. Ichidagi barcha fayllarni `Ctrl + A` va `Shift + Delete` orqali bemalol o'chirishingiz mumkin.
 2. **Disk Cleanup vositasi:** `Win + R` -> `cleanmgr` deb yozing. C: diskini tanlang va "Clean up system files" (Tizim fayllarini tozalash) tugmasini bosing (eski Windows yangilanishlari va xatolik hisobotlari tozalanadi).
+
+```
+[Diskni Dasturiy Tozalash Amaliyoti]
+
+  Win+R → %temp%     → Ilovalar keshi (xavfsiz o'chirish)
+  Win+R → temp       → Tizim keshi (xavfsiz o'chirish)
+  Win+R → cleanmgr   → Windows tizimli fayllar (yangilanishlar, log fayllar)
+  Win+I → Storage    → Storage Sense (avtomatik rejim)
+```
 
 ### 2.3. HDD Defragmentatsiya vs SSD TRIM (Optimizatsiya)
 
 * **HDD (Magnit disklar):** Fayllar diskning turli burchaklariga bo'linib (fragmentatsiyalashib) yoziladi. Mexanik o'qish kallagi tez harakatlanishi uchun ularni yonma-yon tartiblash — **Defragmentatsiya** talab etiladi (oyiga 1 marta).
 * **SSD (Flesh disklar):** SSD disklarni HECH QACHON defragmentatsiya qilish mumkin emas! Bu ularning yozish resursini (TBW) tez tugatib yuboradi. SSD disklar uchun Windows faqat **TRIM (Optimizatsiya)** buyrug'ini yuboradi.
+
+{% hint style="warning" %}
+**Muhim farq:** Kompyuteringiz qaysi disk turida ekanini bilmasdan Defragmentatsiya dasturini ishga tushirib yuborish SSD diskni shikastlaydi. Avval `Win + E` → "This PC" → C: ustiga o'ng tugma → "Properties" orqali disk turini (HDD/SSD) aniqlang.
+{% endhint %}
+
+### 2.4. Windows Security va Antivirus Himoya
+
+Windows 10/11 tizimida o'rnatilgan **Windows Defender (Windows Security)** — bu professional darajadagi bepul antivirus tizimi. Uchta asosiy skanerlash rejimi:
+- **Quick Scan (Tezkor):** 2–5 daqiqa, faqat xavfli joylarni tekshiradi
+- **Full Scan (To'liq):** 30–60 daqiqa, barcha fayllarni tekshiradi (haftada bir marta)
+- **Custom Scan (Tanlab):** Faqat siz ko'rsatgan papkani tekshiradi
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -127,3 +153,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Bajarilgan amallarning skrinshotlarini yagona hujjatga jamlang.
 
 **Topshirish formati:** Hisobotni `FIO_9-Mavzu_Profilaktika.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 10-darsimizda 1-Modulning yakuniy amaliy mashg'ulotini o'tkazamiz. 1-9 darslarda o'rganilgan barcha ko'nikmalarni — xavfsizlik, fayl boshqaruvi, dasturlar, printer, skaner va profilaktika bo'yicha yagona kompleks loyihada tatbiq etamiz!*

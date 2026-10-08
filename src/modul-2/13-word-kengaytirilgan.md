@@ -1,5 +1,9 @@
 # 13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari: Jadvallar, Grafik Obyektlar va Mundarija
 
+12-darsimizda rasmiy hujjat formatlashning asosiy qoidalarini — shrift, tekislash, xatboshi va qatorlar oralig'ini o'rgandik. Endi Word'ning kuchli tomoni bo'lgan murakkab imkoniyatlarini — jadvallar, grafikalar va avtomatik mundarijani o'rganish vaqti keldi.
+
+Katta hujjatlar — dissertatsiyalar, yillik hisobotlar, loyihalar — faqat formatlangan matndan iborat emas. Ularda jadvallar, sxemalar, rasmlar va mundarija bo'ladi. Bu elementlarni professional tarzda kiritish bilmasangiz, hujjat tartibizdek ko'rinmaydi. Bugungi darsda Word'ning haqiqiy kuchini ko'rasiz!
+
 {% hint style="info" %}
 **Dars maqsadi:** Word hujjatlarida murakkab jadvallarni loyihalash (kataklarni birlashtirish, formatlash), rasmlarni joylash va matn bilan o'rash (Wrap Text), SmartArt orqali tashkiliy blok-sxemalar chizish, kolontitullar (Header/Footer), sahifa raqamlari hamda avtomatik mundarija (Table of Contents) yaratish ko'nikmalarini egallash.
 {% endhint %}
@@ -26,7 +30,7 @@
 
 ### 2.1. Jadvallar Bilan Professional Ishlash
 
-Jadvallar — hisobotlar va tahliliy ma'lumotlarni ixcham ko'rsatishning asosiy vositasidir.
+Jadvallar — hisobotlar va tahliliy ma'lumotlarni ixcham ko'rsatishning asosiy vositasidir. 14-darsimizda Excel jadvallari bilan tanishamiz, lekin ba'zi jadvallar hujjat ichida — Word'da bo'lgani maqbul:
 
 ```
 +-------------------------------------------------------------+
@@ -48,9 +52,26 @@ Jadvallar — hisobotlar va tahliliy ma'lumotlarni ixcham ko'rsatishning asosiy 
 Wordga rasm qo'yganda u ko'pincha matnni surib, sahifani buzib yuboradi. Buning oldini olish uchun rasm ustiga bosing, uning yonida paydo bo'lgan kichik kamalakcha belgisini (**Layout Options**) oching va **Square (Maydon bo'ylab)** yoki **Tight (Zich)** parametrini tanlang. Endi rasmni sahifaning istalgan joyiga erkin surishingiz mumkin, matn esa uning atrofida chiroyli aylanib o'tadi!
 {% endhint %}
 
-### 2.2. Avtomatik Mundarija (Table of Contents)
+### 2.2. SmartArt — Grafik Sxemalar Yaratish
+
+SmartArt — tezkor grafik sxema va diagrammalar yaratish vositasi. Oddiy matnni vizual blok-sxemaga aylantiradi:
+
+```
+[SmartArt Asosiy Kategoriyalar]
+  ├── List (Ro'yxat)        → Oddiy ma'lumot ro'yxatlari
+  ├── Process (Jarayon)     → Qadamlarni ko'rsatuvchi oqim sxemasi
+  ├── Hierarchy (Iyerarxiya)→ Tashkiliy tuzilma (Direktor→Menejer→Xodim)
+  ├── Relationship (Bog'liq)→ Elementlar o'rtasidagi munosabat
+  └── Matrix (Matritsa)     → To'rt kvadrantli tahlil
+```
+
+Insert → SmartArt → kerakli kategoriya → shablon tanlash → matn kiritish. 5 daqiqada professional diagramma tayyor!
+
+### 2.3. Avtomatik Mundarija (Table of Contents)
 
 Ko'pchilik foydalanuvchilar xato qilib mundarijani qo'lda — nuqtalar qo'yib yozib chiqadilar. Bu sahifalar o'zgarganda xatoliklarga olib keladi.
+
+> **12-darsdan eslatma:** Sarlavha formatlashni o'rgandik — qalin va markazda. Endi bu sarlavhalarni `Heading 1` uslubida belgilab, avtomatik mundarijaga ulash vaqti keldi!
 
 **Avtomatik mundarija yaratishning 3 qadami:**
 1. Hujjatdagi har bir katta sarlavhani belgilab, Bosh sahifadagi **Heading 1 (Заголовок 1)** uslubiga o'tkazing.
@@ -125,3 +146,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. Birinchi sahifada raqam ko'rinmaydigan qilib pastki sahifa raqamlarini o'rnating.
 
 **Topshirish formati:** Hujjatni `FIO_13-Mavzu_Word_Kengaytirilgan.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 14-darsimizda Microsoft Office to'plamining ikkinchi quvvatli dasturi — Excel bilan tanishamiz. Katak koordinatalari, ma'lumot turlari, AutoFill sehrli dastagi va professional jadval dizayni!*

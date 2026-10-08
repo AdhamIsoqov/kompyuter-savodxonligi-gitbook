@@ -1,5 +1,9 @@
 # 04-Mavzu: Windows Sozlamalari va Boshqaruv Paneli
 
+Oldingi darsda fayl va papkalarni professional boshqarishni o'rgandik — iyerarxik kataloglar yaratish, fayllarni nusxalash va ko'chirish, savatdan tiklash hamda wildcard yordamida qidiruv usullarini puxta mashq qildik. Endi esa kompyuterimizni o'zimizga mos ravishda sozlash vaqti keldi.
+
+Yangi ish joyiga kelgan montajchi birinchi navbatda o'z ish muhitini tashkil qiladi: stulni sozlaydi, asboblarni joyiga qo'yadi. Kompyuter foydalanuvchisi ham xuddi shunday — tizim sozlamalarini o'ziga qulay holatga keltirish ishlashni osonlashtiradi, ko'z va tana charchog'ini kamaytiradi. Bugungi darsda Windows'ni professional darajada sozlashni o'rganamiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** Windows 10 va Windows 11 operatsion tizimining tizimli parametrlarini boshqarish, yangi "Sozlamalar" (Settings) interfeysi va an'anaviy "Boshqaruv paneli" (Control Panel) bilan professional ishlash, ekran, ovoz, xotira (Storage Sense), til va klaviatura parametrlarini moslashtirish ko'nikmalarini egallash.
 {% endhint %}
@@ -57,9 +61,12 @@ Enter bosing — papka boshqaruv paneli belgisiga aylanadi va ichida barcha tizi
 
 ### 2.2. Ekran va Vizual Qulaylik Sozlamalari
 
+Ekran sozlamalari nafaqat estetika, balki ko'z salomatligi uchun ham muhimdir. 1-darsimizda ergonomika qoidalarini o'rgangandik — bugun o'sha bilimlarni amalda qo'llaymiz:
+
 * **Resolution (Ekran o'lchami):** Monitorning tabiiy piksellar soniga (masalan: 1920x1080 Full HD) mos bo'lishi shart. Agar noto'g'ri tanlansa, tasvir cho'zilib yoki xiralashib qoladi.
-* **Scale and Layout (Masshtab):** Noutbuklarda piktogrammalar va matnlarni ko'zga qulay qilish uchun masshtab odatda 125% yoki 100% qilib o'rnatiladi.
-* **Night Light (Tungi rejim):** Monitorning ko'k nurlanish spektrini kamaytirib, issiq (sarg'ish) rangga o'tkazadi. Bu kechki payt ishlaganda ko'zning toliqishini 70% ga kamaytiradi.
+* **Scale and Layout (Masshtab):** Noutbuklarda piktogrammalar va matnlarni ko'zga qulay qilish uchun masshtab odatda 125% yoki 100% qilib o'rnatiladi. Katta monitorlarda 100% yetarli.
+* **Night Light (Tungi rejim):** Monitorning ko'k nurlanish spektrini kamaytirib, issiq (sarg'ish) rangga o'tkazadi. Bu kechki payt ishlaganda ko'zning toliqishini sezilarli kamaytiradi. Esda tuting: 1-darsda o'rganilgan **20-20-20 qoidasi** bilan birgalikda ishlatilsa — yanada samarali!
+* **Refresh Rate (Yangilanish tezligi):** Monitor ekranining soniyada necha marta yangilanishini bildiradi. Oddiy monitorlar — 60 Hz, professional o'yin monitorlari — 144 Hz va undan yuqori. Yuqori Hz — ko'zga yumshoqroq va ravshanroq tasvir beradi.
 
 ### 2.3. Xotirani Tozalash (Storage Sense)
 
@@ -67,6 +74,27 @@ Windows 10/11 da **Storage Sense** tizimi mavjud bo'lib, u foydalanuvchi aralash
 1. Vaqtinchalik tizim fayllarini (`%temp%`) tozalash.
 2. Savatda (Recycle Bin) 30 kundan ortiq qolib ketgan keraksiz fayllarni avtomatik o'chirish.
 3. "Yuklab olinganlar" (Downloads) papkasidagi foydalanilmayotgan eski o'rnatish fayllarini tozalash.
+
+```
+[Disk Xotirasini Optimallashtirish yo'llari]
+
+   ├── Storage Sense (avtomatik) ──> Tizim keshini va %temp% tozalaydi
+   ├── Disk Cleanup ──────────────> Windows.old, o'chirilgan yangilanishlar
+   ├── Recycle Bin ───────────────> Vaqtinchalik o'chirilgan fayllar
+   └── %temp% qo'lda tozalash ────> Win+R -> %temp% -> barcha tanlash -> Delete
+```
+
+{% hint style="info" %}
+**Qo'lda tezkor tozalash:** `Win + R` tugmalarini bosib, ochilgan darchaga `%temp%` yozing va Enter bosing. Bu papkadagi barcha fayllarni `Ctrl + A` bilan tanlang, keyin `Delete` bosing — tizimning vaqtinchalik kesh fayllari o'chiriladi va kompyuter bir oz tezroq ishlaydi.
+{% endhint %}
+
+### 2.4. Til va Klaviatura Sozlamalari
+
+O'zbekistonda kompyuter foydalanuvchilari odatda uchta til bilan ishlashadi: **O'zbek (lotin)**, **Rus (kirill)** va **Ingliz**. Tillar o'rtasida almashish uchun:
+- `Alt + Shift` — Windows 10 da standart usul
+- `Win + Space` — Windows 11 da zamonaviy usul (til palitrasi ochiladi)
+
+Har bir dastur o'zining oxirgi ishlatilgan tilini eslab qoladi. Bu degani, Word'da o'zbek tilida yozsangiz, Chrome'da ham o'sha til qoladi — almashtirish zarur bo'ladi.
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -132,8 +160,13 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 
 ### Topshiriq:
 1. Shaxsiy kompyuteringizda **Settings -> System -> Storage** bo'limini oching va diskdagi bo'sh va band joy nisbatini tahlil qiling.
-2. Vaqtinchalik fayllar (Temporary files) bo'limiga kirib, tizim keraksiz deb topgan fayllarni (kesh, eski yangilanishlar) tozalamasdan oldin va tozalagandan keyingi hajmini qayd eting.
+2. Vaqtinchalik fayllar (Temporary files) bo'limiga kirib, tizim keraksiz deb topgan fayllarni (kesh, eski yangilanishlar) tozamasdan oldin va tozalagandan keyingi hajmini qayd eting.
 3. Ish stoli fonini va rang mavzusini (Dark/Light mode) o'zingizga qulay holatga moslang.
 4. Barcha bosqichlarning skrinshotlarini yagona hujjatga jamlang.
 
 **Topshirish formati:** Bajarilgan ish hisobotini `FIO_4-Mavzu_Sozlamalar.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 5-darsimizda Windows muhitida dasturlarni xavfsiz o'rnatish va boshqarishni o'rganamiz: Installer va Portable dasturlar farqlari, UAC himoya tizimi, dasturlarni qoldiqsiz o'chirish va kompyuter yuklanishini tezlashtirish usullari!*

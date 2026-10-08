@@ -1,18 +1,28 @@
 # 21-Mavzu: Elektron Pochta Madaniyati va Google Workspace Xizmatlari
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 21-darsimizga xush kelibsiz.
+
+Oldingi 20-darsimizda biz global internet tarmog'ining ishlash mexanizmlari, xavfsiz HTTPS protokoli hamda veb-brauzerlar va Google qidiruv tizimidan unumli foydalanishni o'rgangan edik. Endi esa veb-brauzerdan shunchaki ma'lumot izlash uchun emas, balki professional biznes va korporativ aloqa vositasi sifatida foydalanishni boshlaymiz.
+
+Zamonaviy ish dunyosida har qanday rasmiy shartnoma, taklif yoki hisobot messenjerlar (Telegram, WhatsApp) orqali emas, balki yuridik kuchga ega bo'lgan **elektron pochta (Email)** orqali yuboriladi. Shuningdek, ma'lumotlarni fleshkada olib yurish o'rniga **Google Drive** bulutli xotirasida saqlash va jamoa bo'lib bir vaqtning o'zida bitta hujjat ustida ishlash zamonaviy raqamli madaniyatning ajralmas qismidir.
+
+Kelgusi 22-darsimizda esa bugun o'rganiladigan Google hisobimiz orqali eng so'nggi Sun'iy Intellekt (AI) tizimlari — ChatGPT, Google Gemini va onlayn dizayn vositalaridan amaliy foydalanishga o'tamiz.
+
 {% hint style="info" %}
-**Dars maqsadi:** Zamonaviy korporativ elektron pochta (Gmail) madaniyati, xat yozish etiketi (To, Cc, Bcc, Subject), 25 MB dan katta fayllarni yuborish, Google Drive bulutli xotirasi, Google Docs/Sheets vositalarida jamoaviy onlayn hamkorlik (Co-authoring) hamda kirish huquqlarini (Viewer, Commenter, Editor) xavfsiz boshqarish.
+**Dars maqsadi:** Zamonaviy korporativ elektron pochta (Gmail) madaniyati, xat yozish etiketi (To, Cc, Bcc, Subject), 25 MB dan katta fayllarni yuborish, Google Drive bulutli xotirasi, Google Docs/Sheets vositalarida jamoaviy onlayn hamkorlik (Co-authoring), versiyalar tarixi (Version history) hamda kirish huquqlarini (Viewer, Commenter, Editor) xavfsiz boshqarish ko'nikmalarini egallash.
 {% endhint %}
 
 ### 🎯 Kutilayotgan Kompetensiyalar
 * **Bilishingiz kerak:**
+  * Elektron pochta va messenjerlar o'rtasidagi huquqiy hamda amaliy farq.
   * Rasmiy yozishmalarda `To` (Kimgadir), `Cc` (Nusxa) va `Bcc` (Yashirin nusxa) qatorlarining vazifasi.
-  * Elektron pochtada fayl biriktirish cheklovi (25 MB) va uni Google Drive orqali yechish yo'li.
+  * Elektron pochtada fayl biriktirish cheklovi (25 MB) va uni Google Drive orqali yechish mexanizmi.
   * Bulutli fayllarni ulashishda ruxsatlar darajasi (Viewer, Commenter, Editor).
 * **Bajara olishingiz kerak:**
-  * Gmail'da rasmiy xat yozish, mavzu (Subject) kiritish va professional imzo (Signature) o'rnatish.
-  * Google Drive'ga fayllar yuklash, papkalar ochish va havola (Link sharing) orqali ulashish.
+  * Gmail'da rasmiy xat yozish, mavzu (Subject) kiritish va professional avtomatik imzo (Signature) o'rnatish.
+  * Google Drive'ga fayllar yuklash, papkalar ochish va havola (Link sharing) orqali xavfsiz ulashish.
   * Google Docs va Sheets xizmatlarida boshqa foydalanuvchilar bilan real vaqtda birgalikda hujjat tahrirlash.
+  * Hujjatdagi o'zgarishlarni bekor qilish uchun versiyalar tarixidan (Version history) foydalanish.
 
 ## 🎬 1. Video Dars
 
@@ -24,44 +34,57 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Elektron Pochta Etiketi: To, Cc va Bcc
+### 2.1. Elektron Pochta va Korporativ Etiket
 
-Elektron pochta — bu messenjer emas, u yuridik kuchga ega bo'lgan rasmiy aloqa vositasidir:
+Elektron pochta (Email) — bu shunchaki muloqot vositasi emas, balki qonuniy va rasmiy isbot kuchiga ega bo'lgan korporativ yozishma hisoblanadi. Telegram kabi messenjerlarda yuborilgan xabarni istalgan tomon o'chirib yuborishi mumkin, pochtadagi xatlar esa yillar davomida arxivda saqlanadi.
 
-| Maydon Nomi | To'liq Nomi | Vazifasi | Qabul qiluvchilar ko'radimi? |
+Rasmiy xat jo'natishda quyidagi maydonlarning aniq vazifasi bor:
+
+| Maydon Nomi | To'liq Ma'nosi | Vazifasi va Qoidasi | Qabul qiluvchilar ko'radimi? |
 | :--- | :--- | :--- | :--- |
-| **To (Kimgadir)** | Asosiy qabul qiluvchi | Xat bevosita tegishli bo'lgan va javob berishi kutilayotgan shaxs | Barcha ko'radi |
-| **Cc (Nusxa)** | Carbon Copy | Xatdan xabardor bo'lib turishi kerak bo'lgan kuzatuvchilar (masalan, rahbar) | Barcha ko'radi |
-| **Bcc (Yashirin)**| Blind Carbon Copy | Xat nusxasi yuboriladi, lekin boshqa hech kim uning manzilini ko'rmaydi | **Maxfiy qoladi** |
+| **To (Kimgadir)** | Asosiy qabul qiluvchi | Xat bevosita tegishli bo'lgan va javob berishi talab etiladigan shaxs | Barcha qabul qiluvchilar ko'radi |
+| **Cc (Nusxa)** | Carbon Copy | Xatdan xabardor bo'lib turishi kerak bo'lgan nazoratchilar (masalan: bo'lim boshlig'i) | Barcha qabul qiluvchilar ko'radi |
+| **Bcc (Yashirin)**| Blind Carbon Copy | Xat nusxasi yuboriladi, lekin boshqa hech kim uning manzilini ko'rmaydi | **To'liq maxfiy qoladi** |
 
 ```
-[Rasmiy Elektron Xat Anatomiyasi]
+[Rasmiy Elektron Xat Tuzilmasi (Anatomiyasi)]
   To: rahbar@korxona.uz
-  Subject: [Loyiha 2026] Oylik hisobot hujjati topshirilishi haqida
+  Subject: [Loyiha 2026] Oylik smeta hisoboti hujjati topshirilishi haqida
   ------------------------------------------------------------------
-  Hurmatli Akrom Shokirovich! (Salomlashish)
+  Hurmatli Akrom Shokirovich! (Rasmiy salomlashish)
   
-  Ushbu xatga 2026-yil 1-chorak bo'yicha tayyorlangan smeta hisoboti
-  hujjatini ilova qilmoqdaman. (Asosiy maqsad)
+  Ushbu xatga 2026-yil 1-chorak bo'yicha tayyorlangan kompyuter parki
+  smetasi hisobotini ilova qilmoqdaman. (Asosiy maqsad)
+  
+  Iltimos, ilovadagi hujjat bilan tanishib chiqib, o'z fikringizni
+  bildirsangiz.
   
   Ilova: Smeta_Hisoboti.pdf (1.8 MB)
   
   Hurmat bilan,
-  Alisher Valiyev, Kompyuter montajchisi (Avtomatik imzo)
+  Alisher Valiyev, Kompyuter mutaxassisi (Avtomatik imzo)
   Tel: +998 90 123 45 67
 ```
+
+### 2.2. Fayl Biriktirish (Attachment) va 25 MB Cheklovi
+
+Elektron pochtada to'g'ridan-to'g'ri biriktirib yuborish mumkin bo'lgan maksimal hajm — **25 MB** hisoblanadi. Agar fayl hajmi (masalan, yuqori sifatli video taqdimot yoki katta arxiv) 25 MB dan oshsa:
+* Gmail xatga to'g'ridan-to'g'ri fayl yuklash o'rniga, uni avtomatik tarzda sizning **Google Drive** bulutingizga yuklaydi;
+* Xat matniga esa o'sha faylning xavfsiz havolasini (Link) kiritib beradi.
+
+### 2.3. Google Drive va Bulutli Hamkorlik Ruxsatlari
+
+Google har bir ro'yxatdan o'tgan foydalanuvchiga **15 GB bepul bulutli xotira** ajratadi. Ushbu xotirada nafaqat fayllarni saqlash, balki **Google Docs** (Word analogi), **Google Sheets** (Excel analogi) va **Google Slides** (PowerPoint analogi) yordamida brauzerning o'zida dastur o'rnatmasdan ishlash mumkin.
+
+Bulutdagi fayllarni boshqa foydalanuvchilarga ulashishda (Share) quyidagi 3 ta qat'iy daraja mavjud:
+1. **Viewer (Ko'ruvchi):** Foydalanuvchi faylni faqat o'qiy oladi, nusxa olishi mumkin, ammo birorta ham harfni o'zgartira olmaydi.
+2. **Commenter (Izohlovchi):** Foydalanuvchi asosiy matnga zarar yetkaza olmaydi, lekin matn chetiga savol va takliflarini izoh (Comment) sifatida qoldiradi.
+3. **Editor (Tahrirlovchi):** Hujjatni to'liq o'zgartirish, o'chirish va yangi matn kiritish huquqiga ega bo'ladi (faqat ishonchli hamkorlarga beriladi).
 
 {% hint style="success" %}
 **Pro-Tip (Xatni bekor qilish — Undo Send):**
 Xatni jo'natish tugmasini bosishingiz bilan fayl biriktirishni unutganingiz yoki xatoni payqab qoldingizmi? Gmail sozlamalarida **"Undo Send" (Yuborishni bekor qilish)** vaqtini 30 soniyaga qilib belgilang! Xat jo'natilgach, ekranning pastida 30 soniya davomida "Undo" tugmasi turadi — uni bosib, xatni qaytarib olib tahrirlashingiz mumkin.
 {% endhint %}
-
-### 2.2. Google Drive va Bulutli Hamkorlik Ruxsatlari
-
-Google har bir hisobga **15 GB bepul bulutli xotira** taqdim etadi. Hujjatni boshqalarga ulashayotganda (Share) 3 xil huquq beriladi:
-1. **Viewer (Ko'ruvchi):** Foydalanuvchi faylni faqat o'qiy oladi, hech narsani o'zgartira olmaydi yoki o'chira olmaydi.
-2. **Commenter (Izoh qoldiruvchi):** Hujjat matniga teginmasdan, faqat chetiga taklif va izohlar yozib qoldirishi mumkin.
-3. **Editor (Tahrirlovchi):** Hujjatni to'liq o'zgartirish, o'chirish va yangi matn kiritish huquqiga ega bo'ladi.
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -94,7 +117,7 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 
 {% hint style="warning" %}
 **Ehtiyot bo'ling:**
-Hech qachon ommaviy internet guruhlariga (Telegram kanallar, guruhlar) Google Drive fayllarining havolasini **Editor (Tahrirlovchi)** huquqi bilan tarqatmang! Aks holda istalgan notanish shaxs hujjatingizdagi barcha ma'lumotlarni o'chirib yoki haqoratli so'zlar yozib ketishi mumkin.
+Hech qachon ommaviy internet guruhlariga (Telegram kanallar, guruhlar) Google Drive fayllarining havolasini **Editor (Tahrirlovchi)** huquqi bilan tarqatmang! Aks holda istalgan notanish shaxs hujjatingizdagi barcha ma'lumotlarni o'chirib yoki buzib ketishi mumkin.
 {% endhint %}
 
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)

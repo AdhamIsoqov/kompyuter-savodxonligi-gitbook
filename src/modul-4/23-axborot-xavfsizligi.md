@@ -1,11 +1,20 @@
 # 23-Mavzu: Axborot Xavfsizligi, Kibergigiyena va Raqamli Madaniyat
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 23-darsimizga xush kelibsiz.
+
+Bugungi darsdan boshlab biz butun kursimizning eng mas'uliyatli va hal qiluvchi bosqichi — **4-Modul: "Axborot Xavfsizligi, Raqamli Madaniyat va Umumiy Takrorlash"** bo'limini boshlaymiz.
+
+Oldingi 3-modulda biz global internet tarmog'i, Google bulutli xizmatlari va zamonaviy Sun'iy Intellekt texnologiyalaridan unumli foydalanishni to'liq o'zlashtirdik. Biroq raqamli olam qanchalik keng imkoniyatlar ochib bersa, undagi xavflar — hisoblarni o'g'irlash, fishing firibgarligi, viruslar va bank kartalariga hujumlar xavfi ham shunchalik ortib boradi. Shuning uchun professional foydalanuvchi nafaqat kompyuterda tez ishlashni, balki o'zining va o'z tashkilotining raqamli ma'lumotlarini ishonchli himoya qila olishni (kibergigiyena) bilishi shart!
+
+Kelgusi 24-darsimizda esa butun kurs bo'yicha barcha 4 ta modulni umumlashtiruvchi katta yakuniy takrorlash va sertifikatlashga tayyorgarlik darsi kutmoqda.
+
 {% hint style="info" %}
-**Dars maqsadi:** Axborot xavfsizligi asoslari, kuchli parollar siyosati, Ikki bosqichli autentifikatsiya (2FA), ijtimoiy muhandislik va fishing (Phishing) hujumlarini aniqlash, bank kartalari va shaxsiy ma'lumotlar xavfsizligi, ommaviy Wi-Fi tarmoqlaridan xavfsiz foydalanish hamda raqamli etika qoidalarini chuqur egallash.
+**Dars maqsadi:** Axborot xavfsizligi asoslari (CIA triadasi), kuchli parollar siyosati, Ikki bosqichli autentifikatsiya (2FA), ijtimoiy muhandislik va fishing (Phishing) hujumlarini aniqlash, bank kartalari va shaxsiy ma'lumotlar xavfsizligi, ommaviy Wi-Fi tarmoqlaridan xavfsiz foydalanish hamda raqamli etika qoidalarini chuqur egallash.
 {% endhint %}
 
 ### 🎯 Kutilayotgan Kompetensiyalar
 * **Bilishingiz kerak:**
+  * Axborot xavfsizligi triadasi (Maxfiylik, Butunlik, Foydalanish ochiqligi).
   * Kiberjinoyatchilar tomonidan qo'llaniladigan fishing va ijtimoiy muhandislik usullari.
   * Ikki bosqichli himoya (2FA / Two-Factor Authentication) ning ishlash mexanizmi.
   * Ommaviy ochiq Wi-Fi tarmoqlarida shaxsiy parollarni kiritish xatarlari.
@@ -13,6 +22,7 @@
   * Akkauntlar (Google, Telegram, Davlat xizmatlari) uchun 2FA himoyasini mustaqil yoqish.
   * Soxta (fishing) havolalarni va firibgarlik xabarlarini bir qarashda aniqlash.
   * Maxsus parol boshqaruvchilari (Password Manager) va xavfsiz parollar generatoridan foydalanish.
+  * Bank kartalari va shaxsiy ma'lumotlarni begonalardan himoya qilish.
 
 ## 🎬 1. Video Dars
 
@@ -24,9 +34,16 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Kuchli Parol va 2FA (Ikki Bosqichli Himoya)
+### 2.1. Axborot Xavfsizligining 3 Asosiy Ustuni (CIA Triad)
 
-Bugungi kunda oddiy parollar (hatto murakkab bo'lsa ham) xakerlar tomonidan sizdirilgan ma'lumotlar bazalaridan topilishi mumkin. Shuning uchun har bir foydalanuvchi **ikki qatlamli himoya** o'rnatishi shart:
+Xalqaro xavfsizlik standartlariga ko'ra, axborot xavfsizligi uchta asosiy tamoyilga tayanadi:
+1. **Confidentiality (Maxfiylik):** Ma'lumotlarni faqat ruxsati bor shaxslar ko'ra olishi (begonalardan yashirish).
+2. **Integrity (Butunlik):** Ma'lumotlarning soxtalashtirilmasligi, o'g'irlanmasligi yoki buzilmasligi.
+3. **Availability (Foydalanish ochiqligi):** Vakolatli foydalanuvchi istalgan vaqtda o'z tizimi va ma'lumotlariga to'siqsiz kira olishi.
+
+### 2.2. Kuchli Parollar Siyosati va 2FA (Ikki Bosqichli Himoya)
+
+Bugungi kunda hatto murakkab bo'lgan oddiy parollar ham xakerlar tomonidan internetga sizdirilgan bazalardan topilishi mumkin. Shuning uchun har bir hisobga **ikki bosqichli himoya (2FA)** o'rnatiladi:
 
 ```
 [2FA - Ikki Bosqichli Himoya Zanjiri]
@@ -36,31 +53,35 @@ Bugungi kunda oddiy parollar (hatto murakkab bo'lsa ham) xakerlar tomonidan sizd
   2-Bosqich: Telefoningizga kelgan 6 xonali SMS yoki Authenticator kodi (Sizda bor qurilma)
         │
         ▼
-  XAVFSIZ KIRISH (Xaker parolingizni bilsa ham, telefoningizsiz kira olmaydi!)
+  XAVFSIZ KIRISH (Xaker parolingizni o'g'irlasa ham, telefoningizsiz tizimga kira olmaydi!)
 ```
 
 | Parametr | Zaif / Xavfli Parol | Kuchli / Xavfsiz Parol |
 | :--- | :--- | :--- |
-| **Tarkibi** | `123456`, `password`, `admin` | Katta harf, kichik harf, raqam, maxsus belgi |
+| **Tarkibi** | `123456`, `password`, `qwerty` | Katta harf, kichik harf, raqam va maxsus belgilar |
 | **Shaxsiy ma'lumot**| `aziz1998`, `nodira_2004` (Tug'ilgan sana, ism) | Shaxsga umuman aloqasiz so'zlar birikmasi |
 | **Uzunligi** | 6–8 ta belgi (bir necha soniyada buziladi) | **Kamida 12–16 ta belgi** |
 | **Misol** | `Alisher1995` | `K@sb#Tech_2026!Pro` |
+
+### 2.3. Fishing (Phishing) va Ijtimoiy Muhandislik Turlari
+
+**Fishing (Qarmoqqa ilintirish)** — kiberjinoyatchilarning mashhur tashkilotlar (Markaziy Bank, Payme, Click, Telegram ma'muriyati) nomidan soxta xabarlar yuborib, sizning login, parol va bank karta ma'lumotlaringizni o'g'irlashga qaratilgan tuzog'idir.
+
+* **Phishing (Elektron pochta va saytlar orqali):** Soxta nusxa veb-sayt havolasi yuboriladi.
+* **Smishing (SMS orqali fishing):** "Sizga davlatdan moddiy yordam chiqdi, olish uchun havolaga kiring" ko'rinishidagi SMS xabarlar.
+* **Vishing (Ovozli telefon qo'ng'iroqlari):** O'zini bank xavfsizlik xodimi yoki huquq-tartibot organi deb tanishtirib, zudlik bilan pulni "xavfsiz hisobga" o'tkazishni yoki SMS kodni aytishni talab qiluvchilar.
+
+**Firibgarlikning 4 ta shubhasiz belgisi:**
+1. **Shoshilinch talab va qo'rquv uyg'otish:** *"Akkauntingiz 1 soatda bloklanadi!"* yoki *"Kartangizdan noqonuniy pul yechildi!"*
+2. **Katta bepul boylik va'da qilish:** *"Siz 50 000 000 so'm yutib oldingiz!"*
+3. **Soxta domen manzili:** Haqiqiy sayt `click.uz` bo'lsa, firibgarlar `click-uz-bonus.com` yoki `payme-tolov.site` ochishadi.
+4. **Tasdiqlash kodini so'rash:** Bank xodimlari HECH QACHON telefon qilib SMS orqali kelgan 6 xonali maxfiy kodni so'ramaydi!
 
 {% hint style="success" %}
 **Pro-Tip (Telegramda 2FA ni darhol yoqing!):**
 O'zbekistonda eng ko'p sodir bo'ladigan kiberjinoyat — Telegram akkauntlarini o'g'irlashdir. Buning oldini olish uchun zudlik bilan Telegram sozlamalariga kiring:
 **Settings -> Privacy and Security -> Two-Step Verification (Ikki bosqichli tekshiruv)** bo'limini yoqing va shaxsiy maxfiy parol o'rnating! Endi hech kim sizning nomingizdan yangi qurilmada Telegramga kira olmaydi.
 {% endhint %}
-
-### 2.2. Fishing (Phishing) va Ijtimoiy Muhandislik
-
-**Fishing** — bu firibgarlarning mashhur tashkilotlar (Markaziy Bank, Payme, Click, Telegram ma'muriyati) nomidan soxta xabarlar yuborib, sizning parollaringiz va bank karta ma'lumotlaringizni o'g'irlashga qaratilgan tuzog'idir.
-
-**Firibgarlikning 4 ta asosiy belgisi:**
-1. **Shoshilinch talab va qo'rquv uyg'otish:** *"Akkauntingiz 1 soatda bloklanadi!"* yoki *"Kartangizdan pul yechib olindi, zudlik bilan kodni ayting!"*
-2. **Katta bepul boylik va'da qilish:** *"Davlatdan 1 500 000 so'm moddiy yordam chiqdi, olish uchun havolani bosing!"*
-3. **Soxta domen manzili:** Haqiqiy sayt `click.uz` bo'lsa, firibgarlar `click-uz-bonus.com` yoki `payme-tolov.xyz` kabi soxta domen ochishadi.
-4. **Tasdiqlash kodini so'rash:** Bank xodimlari hech qachon telefon qilib SMS orqali kelgan 6 yoki 8 xonali maxfiy kodni so'ramaydi!
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -94,7 +115,7 @@ Ushbu darsning barcha bosqichlarini bajarish, natijalar/hisobotlarni kiritish va
 
 {% hint style="warning" %}
 **Qat'iy qoida:**
-SMS orqali telefoningizga kelgan 6 xonali tasdiqlash kodini (One-Time Password — OTP) HECH KIMGA, hatto o'zini militsiya, xavfsizlik xizmati yoki bank boshqaruvchisi deb tanishtirgan shaxslarga ham ASLO aytmang! Bu kodni aytishingiz bilan kartangizdagi barcha pullar 5 soniyada yechib olinadi.
+SMS orqali telefoningizga kelgan 6 xonali tasdiqlash kodini (One-Time Password — OTP) HECH KIMGA, hatto o'zini huquq-tartibot organi xodimi yoki bank boshqaruvchisi deb tanishtirgan shaxslarga ham ASLO aytmang! Bu kodni aytishingiz bilan kartangizdagi mablag' bir necha soniyada yechib olinadi.
 {% endhint %}
 
 ## 4. 🛠 Real Ish Vaziyati va Muammolarni Hal Qilish (Case-Study)

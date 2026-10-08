@@ -1,5 +1,11 @@
 # 24-Mavzu: Barcha 4 Modul Bo'yicha Umumiy Takrorlash va Yakuniy Attestatsiya
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi eng yakuniy va tantanali — 24-darsimizga xush kelibsiz!
+
+Siz juda katta, qiziqarli va mashaqqatli ta'lim yo'lini muvaffaqiyatli bosib o'tdingiz. 1-darsda kompyuterning elektr xavfsizligi va sichqoncha bilan ishlashdan boshlangan sayohatimiz bugun zamonaviy axborot xavfsizligi, bulutli texnologiyalar, Microsoft Office ekotizimi hamda Sun'iy Intellekt vositalarini professional darajada qo'llay oladigan haqiqiy raqamli mutaxassis darajasida yakunlanmoqda.
+
+Ushbu darsimizda biz butun kurs davomida o'zlashtirilgan barcha 4 ta modul bilimlarini yaxlit tizim holatida takrorlaymiz, ularning o'zaro bog'liqligini mustahkamlaymiz va kurs bo'yicha yakuniy attestatsiyadan o'tamiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** "Kompyuter Texnikasi Montajchisi va Raqamli Savodxonlik" kursi bo'yicha barcha 4 ta modulda (1. Apparat ta'minoti va OT; 2. MS Office; 3. Internet, Google va AI; 4. Axborot xavfsizligi) o'zlashtirilgan fundamental nazariy va amaliy kompetensiyalarni tizimlashtirish hamda yakuniy malaka attestatsiyasidan muvaffaqiyatli o'tish.
 {% endhint %}
@@ -24,7 +30,9 @@
 
 ## 2. 📖 Kursning Katta Tizimli Xulosasi
 
-Ushbu kurs davomida siz noldan boshlab professional mutaxassis darajasigacha bo'lgan yo'lni bosib o'tdingiz:
+### 2.1. To'rt Modulning Yagona Arxitekturasi
+
+Ushbu kurs davomida siz noldan boshlab professional foydalanuvchi va kompyuter montajchisi darajasigacha bo'lgan yo'lni bosib o'tdingiz:
 
 ```
 +-------------------------------------------------------------------------------+
@@ -45,13 +53,34 @@ Ushbu kurs davomida siz noldan boshlab professional mutaxassis darajasigacha bo'
              - Raqamli madaniyat, etika va mualliflik huquqi
 ```
 
+### 2.2. Modullararo Nazariy Xulosa:
+
+1. **1-Modul (Apparat Ta'minoti va Operatsion Tizim):**
+   * Texnika xavfsizligi, elektr toki va statik elektr (ESD) bilan ishlash;
+   * Tizim bloki arxitekturasi: Ona plata, CPU, RAM, SSD/HDD, Video karta va Quvvat bloki;
+   * Windows 10/11 operatsion tizimi, fayl tizimi boshqaruvi, printer, skaner va tashqi qurilmalar drayverlari;
+   * Termopasta yangilash, changdan tozalash va tizim profilaktikasi.
+2. **2-Modul (Microsoft Office Dasturlari Ekotizimi):**
+   * **Word:** Standart rasmiy blanklar, shriftlar (14 pt, 1.15 interval), avtomatik jadvallar va mundarija;
+   * **Excel:** Kataklar koordinatasi, formulalar (`SUM`, `AVERAGE`, `IF`), foiz hisoblash va dinamik diagrammalar;
+   * **PowerPoint:** Taqdimotlar arxitekturasi (6x6 qoidasi), zamonaviy Transitions (Morph) va Animations (Fade), OLE orqali dasturlar integratsiyasi.
+3. **3-Modul (Internet, Bulutli Xizmatlar va Sun'iy Intellekt):**
+   * Internet arxitekturasi, DNS, xavfsiz HTTPS protokoli, brauzer teglari va kesh boshqaruvi;
+   * Google professional qidiruv operatorlari (`site:`, `filetype:`, `"..."`);
+   * Gmail orqali rasmiy yozishmalar etiketi (To, Cc, Bcc), Google Drive bulutli hamkorligi (Viewer, Editor);
+   * Masofaviy ish (Google Meet, Zoom) hamda Generativ Sun'iy Intellekt (ChatGPT, Gemini) bilan Prompt Engineering asosida ishlash.
+4. **4-Modul (Axborot Xavfsizligi va Kibergigiyena):**
+   * Axborot xavfsizligi triadasi (CIA: Maxfiylik, Butunlik, Foydalanish ochiqligi);
+   * Kuchli parollar siyosati, 2FA (Ikki bosqichli autentifikatsiya) va OTP kodlar maxfiyligi;
+   * Fishing (Phishing), soxta havolalar va ijtimoiy muhandislik hiylalaridan himoyalanish.
+
 {% hint style="success" %}
-**Pro-Tip (Professional IT-Mutaxassisning "Oltin Qoidasi"):**
-Haqiqiy mutaxassis hech qachon muammo chiqishini kutib o'tirmaydi — u doimo profilaktika bilan shug'ullanadi:
-1. Haftalik zaxira nusxa (Backup) oling;
-2. Tizim va dasturlarni doimiy yangilang;
-3. Hech qachon shubhali fayl va havolalarni ochmang;
-4. Ish joyidan ketayotganda ekranni bloklang (`Win + L`).
+**Pro-Tip (Professional IT-Mutaxassisning "Oltin Qoidalari"):**
+Haqiqiy mutaxassis hech qachon nosozlik sodir bo'lishini kutib o'tirmaydi — u doimo profilaktikaga amal qiladi:
+1. **Muntazam zaxira (Backup):** Muhim hujjatlarni doimo ikkinchi manbada (tashqi disk yoki bulutda) saqlang;
+2. **2FA devori:** Barcha shaxsiy va ishchi akkauntlarda ikki bosqichli himoyani yoniq tuting;
+3. **Kiberhushyorlik:** Notanish elektron xatlar va Telegram havolalarini hech qachon ochmang;
+4. **Ish joyini tark etish:** Kompyuter yonidan ketayotganda darhol `Win + L` tugmasini bosib ekranni bloklang!
 {% endhint %}
 
 ## 3. 💻 Katta Yakuniy Amaliy Imtihon (Final Lab Task)

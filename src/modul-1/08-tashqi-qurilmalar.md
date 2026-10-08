@@ -1,5 +1,9 @@
 # 08-Mavzu: Tashqi Qurilmalar va Axborot Tashuvchilar
 
+Oldingi darsda skaner va OCR texnologiyasi orqali qog'oz hujjatlarni raqamli shaklga o'tkazdik. Kompyuterga ulanadigan qurilmalar faqat printer va skaner bilan cheklanmaydi. Hozirgi kursimizning 8-darsida kompyuter atrofidagi qurilmalar olamini kengaytiramiz.
+
+Zamonaviy kompyuter — bu markaziy hub. U turli xil tashqi qurilmalar bilan bog'lanadi: USB fleshkalar, tashqi disklar, proyektorlar, veb-kameralar, mikrofonlar va boshqalar. Ularni to'g'ri ulash, sozlash va xavfsiz ajratishni bilmaslik — ma'lumot yo'qotish, qurilma buzilishi yoki taqdimot muvaffaqiyatsizligiga olib kelishi mumkin.
+
 {% hint style="info" %}
 **Dars maqsadi:** Kompyuterga ulanadigan periferiya va tashqi saqlash qurilmalari (USB fleshkalar, tashqi HDD/SSD), video va audio interfeyslar (HDMI, DisplayPort), proyektorni ulash va ko'p ekranli rejimlar (`Win + P`), veb-kamera hamda audio kirish-chiqish tizimlarini professional sozlashni o'rganish.
 {% endhint %}
@@ -26,7 +30,7 @@
 
 ### 2.1. USB Interfeyslari va Axborot Tashuvchilar
 
-Kompyuter texnikasida tashqi qurilmalar asosan USB (Universal Serial Bus) portlari orqali ulanadi:
+Kompyuter texnikasida tashqi qurilmalar asosan USB (Universal Serial Bus) portlari orqali ulanadi. USB — "Universal" so'zidan kelib chiqqan, ya'ni bitta standart porta turli xil qurilmalarni ulash imkoni:
 
 | Port Turi | Vizual Belgisi | Maksimal Nazariy Tezligi | Qo'llanilish Sohasi |
 | :--- | :--- | :--- | :--- |
@@ -46,21 +50,33 @@ Fleshka yoki tashqi diskdan ma'lumot o'qilayotgan yoki unga fayl yozilayotgan va
 Har doim System Tray dagi fleshka belgisini bosing va **"Safely Remove Hardware and Eject Media"** buyrug'ini tanlang.
 {% endhint %}
 
-### 2.2. Proyektor va Ikkinchi Ekran Boshqaruvi (`Win + P`)
+### 2.2. Video Interfeyslar: HDMI, VGA, DisplayPort
+
+Noutbuk yoki kompyuterni tashqi monitor yoki proyektorga ulash uchun turli xil video interfeyslar qo'llaniladi:
+
+| Interfeys | Xususiyat | Qo'llanilish |
+| :--- | :--- | :--- |
+| **VGA** | Eski analog, faqat tasvir uzatadi, maksimal 1080p | Eski proyektorlar, eski monitorlar |
+| **HDMI** | Raqamli, tasvir + ovoz birgalikda, 4K va yuqori Hz qo'llab-quvvatlaydi | Zamonaviy monitorlar, televizorlar, proyektorlar |
+| **DisplayPort** | HDMI ga o'xshash, lekin yuqori yangilanish tezligini (144+ Hz) yaxshiroq qo'llaydi | Professional monitorlar, o'yin monitolari |
+
+### 2.3. Proyektor va Ikkinchi Ekran Boshqaruvi (`Win + P`)
 
 HDMI yoki VGA kabel orqali tashqi monitor yoki proyektor ulanganda Windows klaviaturadagi `Win + P` tugmasi orqali 4 ta asosiy rejimni taqdim etadi:
 
 ```
-+-------------------+     +-------------------+
-|  1. PC Screen     |     |  Faqat noutbuk ekrani ishlaydi, tashqi ekran qora bo'ladi.
-+-------------------+     +-------------------+
-|  2. Duplicate     |     |  Noutbukdagi tasvir proyektorda AYNAN takrorlanadi (Taqdimotlar uchun!).
-+-------------------+     +-------------------+
-|  3. Extend        |     |  Ish stoli kengayadi: chapda Word, o'ngdagi proyektorda video ko'rsatish mumkin.
-+-------------------+     +-------------------+
-|  4. Second Screen |     |  Noutbuk ekrani o'chadi, faqat katta monitor yoki proyektor ishlaydi.
-+-------------------+     +-------------------+
++-------------------+
+|  1. PC Screen     |  Faqat noutbuk ekrani ishlaydi, tashqi ekran qora bo'ladi.
++-------------------+
+|  2. Duplicate     |  Noutbukdagi tasvir proyektorda AYNAN takrorlanadi (Taqdimotlar uchun!).
++-------------------+
+|  3. Extend        |  Ish stoli kengayadi: chapda Word, o'ngdagi proyektorda video ko'rsatish mumkin.
++-------------------+
+|  4. Second Screen |  Noutbuk ekrani o'chadi, faqat katta monitor yoki proyektor ishlaydi.
++-------------------+
 ```
+
+> **1-darsdan eslatma:** Xavfsizlik qoidalarida "Qurilmalarning barqaror joylashuvi" va kabellarni tartibga solishni o'rgandik. Proyektor kabellarini ham xuddi shu tamoyil bo'yicha tartibli ulash zarur — oyoq ostida yotmasligi, tortib ketilmasligi kerak!
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -131,3 +147,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 3. Windows Camera dasturini ochib, veb-kamera tasviri va Sound sozlamalaridagi mikrofon faolligi aks etgan skrinshotni oling.
 
 **Topshirish formati:** Bajarilgan topshiriqni `FIO_8-Mavzu_Qurilmalar.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 9-darsimizda kompyuterga apparat va dasturiy texnik xizmat ko'rsatishni o'rganamiz: kompyuterni changdan tozalash, termopasta almashtirish, disk Cleanup va SSD TRIM optimizatsiyasi, antivirus tekshiruvi! Bu 1-modulning yakuniy texnik darslaridan biridir!*

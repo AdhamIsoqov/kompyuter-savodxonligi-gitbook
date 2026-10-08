@@ -1,5 +1,9 @@
 # 10-Mavzu: 1-Modul Bo'yicha Yakuniy Kompleks Amaliy Mashg'ulot
 
+Tabriklaymiz! Siz 1-Modul — "Kompyuter Texnikasi Montajchisi va Raqamli Savodxonlik" kursining birinchi va eng asosiy qismini muvaffaqiyatli o'tib kelmoqdasiz.
+
+1-darsdan 9-darsga qadar nima o'rgandik? Texnika xavfsizligi qoidalaridan boshlab, Windows operatsion tizimini, fayl boshqaruvini, tizim sozlamalarini, dastur o'rnatish va boshqarishni, printer, skaner, tashqi qurilmalar va nihoyat — kompyuterga apparat va dasturiy texnik xizmat ko'rsatishni o'rgandik. Endi barcha bu bilimlarni **bitta yaxlit real loyihada** sinashimiz kerak.
+
 {% hint style="info" %}
 **Dars maqsadi:** 1-Modulda o'rganilgan barcha nazariy va amaliy bilimlarni (texnika xavfsizligi, Windows boshqaruvi, fayllar daraxti, tizim sozlamalari, dasturlar dezinstallyatsiyasi, printer/skaner va profilaktika) yaxlit real amaliy keys doirasida qo'llash va kompleks ko'nikmalarni sinovdan o'tkazish.
 {% endhint %}
@@ -24,7 +28,7 @@
 
 ## 2. 📖 Nazariy Xulosa va Bilimlar Tizimi
 
-1-Modul davomida siz kompyuter texnikasi montajchisi va ilg'or foydalanuvchisi uchun zarur bo'lgan poydevor ko'nikmalarni egalladingiz:
+1-Modul davomida siz kompyuter texnikasi montajchisi va ilg'or foydalanuvchisi uchun zarur bo'lgan poydevor ko'nikmalarni egalladingiz. Ularni bir tizimda ko'rib chiqaylik:
 
 ```
 [1-MODUL INTEGRATSIYALASHGAN TIZIMI]
@@ -38,6 +42,12 @@
   ├── 8. Tashqi Qurilmalar (USB 3.0, Win+P, Proyektor)
   └── 9. Texnik Xizmat (Termopasta, %temp%, cleanmgr, Antivirus)
 ```
+
+Bu bilimlar o'zaro mustahkam bog'liq. Masalan:
+- **1-dars xavfsizligi** → **9-dars texnik xizmati**ga asos bo'ladi (apparat ochishda ESD himoya)
+- **3-dars fayllar** → **10-dars backup**ning asosi (papkalar iyerarxiyasi)
+- **5-dars dasturlar** → **9-dars profilaktika** bilan bog'liq (Startup tozalash)
+- **6-dars printer** → **7-dars skaner** bilan hujjat aylanish siklini to'ldiradi
 
 {% hint style="success" %}
 **Pro-Tip (Professional IT-Montajchi Qoidasi):**
@@ -122,3 +132,8 @@ Ushbu darsning "Bosqichma-bosqich Amaliy Mashg'ulot" bo'limidagi barcha 8 ta top
 Har bir bosqichning skrinshotlarini tartib bilan joylab, **"1-Modul Yakuniy Amaliy Ish Hisoboti"** nomli mukammal hujjat tayyorlang.
 
 **Topshirish formati:** Tayyorlangan keng qamrovli hisobotni `FIO_10-Mavzu_Yakuniy_Loyiha.docx` nomi bilan platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *2-Modulda siz Microsoft Office dasturlar to'plami — professional hujjatchilik olamiga qadam qo'yasiz! 11-darsda Word, Excel, PowerPoint, Outlook va OneNote dasturlari ekotizimi bilan tanishamiz va qaysi ish uchun qaysi dastur eng samarali ekanini o'rganamiz!*

@@ -1,5 +1,9 @@
 # 15-Mavzu: Microsoft Excel Formulalari va Funksiyalari
 
+14-darsimizda Excel'ning asosiy interfeysi, katak koordinatalari, ma'lumot turlari va jadval formatlashni o'rgandik. Endi Excel'ni haqiqiy kuchli qiladigan narsa — **formulalar va funksiyalar** bilan tanishamiz.
+
+Excel'ning asosiy kuchi bu yerda: minglab sonlarni bir zumda hisoblash, shartlarni avtomatik baholash, foizlarni chiqarish — bularning barchasi formulalar orqali amalga oshiriladi. Formulasiz Excel — faqat chiroyli jadval; formulalar bilan — bu kuchli hisoblagich!
+
 {% hint style="info" %}
 **Dars maqsadi:** Excel formulasining sintaksisi (`=`), nisbiy va mutlaq katak havolalari (`$A$1`, `F4`), asosiy matematik va statistik funksiyalar (`SUM`, `AVERAGE`, `MAX`, `MIN`, `COUNT`), shartli mantiqiy funksiya (`IF`) hamda formulalardagi xatoliklarni (`#DIV/0!`, `#VALUE!`, `#NAME?`, `#REF!`) tahlil qilish va tuzatish.
 {% endhint %}
@@ -42,10 +46,11 @@ Excelda har qanday hisob-kitob qat'iyan `=` belgisi bilan boshlanadi. Agar tengl
 * **Ko'paytirish:** `=A1 * B1`
 * **Bo'lish:** `=A1 / B1`
 * **Darajaga ko'tarish:** `=A1 ^ 2`
+* **Foiz hisoblash:** `=A1 * 20%` yoki `=A1 * 0.2`
 
 ### 2.2. Asosiy Funksiyalar Kutubxonasi
 
-Funksiyalar — bu Excel tomonidan oldindan tayyorlab qo'yilgan maxsus hisoblash formulalaridir:
+14-darsda AutoFill orqali ketma-ketliklarni to'ldirgan edik. Bu darsda esa funksiyalar yordamida katta ma'lumotlar ustida avtomatik hisob-kitoblar bajaramiz:
 
 | Funksiya Nomi | Vazifasi | Formula Namunasi | Tushuntirishi |
 | :--- | :--- | :--- | :--- |
@@ -69,6 +74,21 @@ Formulani pastga nusxalaganda barcha katak manzillari ham pastga suriladi (`B2` 
 | **`#VALUE!`** | Arifmetik amalda son o'rniga matn ishtirok etgan | Matnli kataklarni tekshirib, sonli qiymatga keltiring |
 | **`#NAME?`** | Funksiya nomi xato yozilgan (masalan: `=SUMM(...)`) | Funksiya nomini to'g'ri yozing (`=SUM(...)`) |
 | **`#REF!`** | Formulada ko'rsatilgan katak yoki ustun o'chirib yuborilgan | `Ctrl + Z` bosing yoki formulaga to'g'ri katakni qayta ko'rsating |
+
+### 2.4. IF Funksiyasining Kengaytirilgan Qo'llanishi
+
+Oddiy IF:
+```
+=IF(shart; "Agar to'g'ri bo'lsa"; "Agar xato bo'lsa")
+=IF(E2>=60; "O'tdi"; "Yiqildi")
+```
+
+Ko'p shartli (Nested IF):
+```
+=IF(E2>=90; "A'lo"; IF(E2>=70; "Yaxshi"; IF(E2>=55; "Qoniqarli"; "Qoniqarsiz")))
+```
+
+Bu tuzilma talabaning balosiga qarab 4 xil baho darajasini avtomatik chiqaradi.
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
@@ -149,3 +169,8 @@ Ushbu dars bo'yicha olgan bilimlaringizni sinash uchun quyidagi rasmiy testni to
 4. `IF` funksiyasi yordamida agar jami xarajat 5 000 000 dan oshsa "Tejamkorlik zarur", aks holda "Me'yorda" degan natijani chiqaring.
 
 **Topshirish formati:** Jadvalni `FIO_15-Mavzu_Excel_Formulalari.xlsx` nomi bilan saqlab platformaga yuklang.
+
+---
+
+> **Keyingi dars anonsi:**
+> *Keyingi 16-darsimizda raqamli ma'lumotlarni vizual grafik diagrammalarga aylantirish san'atini o'rganamiz: qaysi diagramma qachon ishlatiladi, Column, Line va Pie chartlar, Data Labels va Chart Title sozlamalari!*

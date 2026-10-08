@@ -1,5 +1,13 @@
 # 19-Mavzu: 2-Modul Amaliy Loyihasi: Kompleks Ofis Hujjatlari Paketi
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 19-darsimizga xush kelibsiz.
+
+Ushbu dars — 2-Modulimizning ("Microsoft Office Dasturlari") eng muhim amaliy cho'qqisi hisoblanadi. 11-darsdan to 18-darsgacha biz zamonaviy ofisning uchta ustuni — **Word (matn va rasmiy blanklar)**, **Excel (formulalar, jadvallar va tahliliy diagrammalar)** hamda **PowerPoint (dinamik slaydlar va taqdimotlar)** bilan bosqichma-bosqich tanishdik.
+
+Haqiqiy biznes muhitida yoki davlat tashkilotlarida hech qaysi dastur alohida ajratilgan holda ishlatilmaydi. Har qanday jiddiy loyiha moliya va hisob-kitob (Excel), rasmiy hisobot va xat (Word) hamda rahbariyatga namoyish etish (PowerPoint) zanjirini o'z ichiga oladi. Bugungi darsda biz barcha o'rgangan bilimlarimizni umumlashtirib, professional va yaxlit hujjatlar paketini tayyorlaymiz.
+
+Kelgusi 3-Modulimizda (20-dars) esa ushbu fayllarni internet tarmog'i orqali xavfsiz almashish, Google bulutli xizmatlari va eng so'nggi Sun'iy Intellekt (AI) texnologiyalaridan amaliy foydalanish olamiga qadam qo'yamiz.
+
 {% hint style="info" %}
 **Dars maqsadi:** 2-Modulda o'rganilgan uchta asosiy ofis dasturini — Microsoft Word (rasmiy xat/hisobot), Microsoft Excel (moliyaviy hisob-kitoblar va diagrammalar) hamda Microsoft PowerPoint (loyihaning 5–6 slaydli vizual taqdimoti) dasturlarini yagona real biznes loyihasi doirasida integratsiyalash va to'liq paket tayyorlash.
 {% endhint %}
@@ -13,6 +21,7 @@
   * Word dasturida rasmiy standartlarga javob beruvchi rasmiy loyiha taklifini formatlash.
   * Excelda `SUM`, `AVERAGE`, `IF` formulalari va dinamik diagrammaga ega moliyaviy smeta tuzish.
   * Exceldagi diagrammani PowerPoint taqdimotiga jonli havola (Paste Link) orqali ko'chirib, professional slayd-shou shakllantirish.
+  * Loyiha fayllarini bitta tizimli papkaga jamlab, ZIP formatida arxivlash (3-dars ko'nikmasi).
 
 ## 🎬 1. Video Dars
 
@@ -22,9 +31,14 @@
 
 [Iframe/Embed: 19-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
-## 2. 📖 Nazariy Integratsiya: Ofis Dasturlari Hamkorligi
+## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-Real ish faoliyatida hech bir ofis dasturi alohida ishlatilmaydi. Ular yagona mexanizm sifatida ishlaydi:
+### 2.1. OLE (Object Linking and Embedding) Texnologiyasi
+
+Real ish faoliyatida ma'lumotlar bir dasturdan ikkinchisiga ko'chib yuradi. Microsoft kompaniyasi ushbu dasturlar o'rtasida ma'lumot almashish uchun **OLE** tizimini yaratgan:
+
+* **Embedding (Ichiga joylash):** Obyekt shunchaki nusxalanadi (masalan, Word ichida Excel jadvali paydo bo'ladi, lekin asl fayl bilan aloqa uziladi).
+* **Linking (Jonli havola bog'lash):** Obyekt ikkinchi dasturga havola orqali ulanadi. Asl Excel faylidagi raqam o'zgarishi bilan Word va PowerPointdagi grafiklar avtomatik yangilanadi.
 
 ```
 +-------------------------------------------------------------------------+
@@ -38,8 +52,17 @@ Real ish faoliyatida hech bir ofis dasturi alohida ishlatilmaydi. Ular yagona me
 +-------------------------------------------------------------------------+
                                     │
                                     ▼
-       [Yagona Loyiha Papkasi: Loyiha_2026_FIO/] ---> USB / PDF Export
+       [Yagona Loyiha Papkasi: Loyiha_2026_FIO/] ---> ZIP / PDF Export
 ```
+
+### 2.2. Hujjatlarni Standartlashtirish va Eksport Etikasi
+
+Loyiha tayyorlanganda mijozga yoki rahbariyatga xom `.docx` yoki `.xlsx` fayllarni yuborish ba'zan xavflidir — boshqa kompyuterda shriftlar buzilishi yoki formulalar adashib o'chib ketishi mumkin.
+
+Shuning uchun quyidagi qoidalarga qat'iy amal qilinadi:
+1. **Yakuniy hisobot — har doim PDF:** Matnli hujjat o'zgarmas holatda bo'lishi uchun **PDF (Portable Document Format)** shaklida eksport qilinadi (`F12` -> Save as type: PDF).
+2. **Namoyish uchun `.ppsx` formati:** Taqdimot taqdim etilganda tahrirlash darchasi emas, bir zumda to'liq ekranda ochiladigan PowerPoint Show (`.ppsx`) ishlatiladi.
+3. **Arxivlash tartibi:** Barcha 3 xil hujjatlar 3-darsda o'rganganimizdek maxsus nomlash qoidasi bilan bitta papkaga yig'iladi va ZIP formatida siqiladi.
 
 {% hint style="success" %}
 **Pro-Tip (Excel diagrammasini PowerPointga "jonli" ulash):**

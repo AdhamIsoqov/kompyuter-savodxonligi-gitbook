@@ -1,7 +1,15 @@
 # 22-Mavzu: Onlayn Xizmatlar va Zamonaviy Sun'iy Intellekt (AI) Vositalari
 
+Assalomu alaykum! Kasbtech Akademiyasining Kompyuter savodxonligi kursidagi 22-darsimizga xush kelibsiz.
+
+Oldingi 21-darsimizda biz korporativ elektron pochta (Gmail) madaniyati hamda Google Drive bulutli xotirasida jamoaviy ishlash qoidalarini o'rgangan edik. Bugungi darsimizda esa zamonaviy raqamli olamning eng ilg'or yo'nalishlari — **masofaviy onlayn xizmatlar (Google Meet, Zoom)** hamda dunyoni tubdan o'zgartirayotgan **Generativ Sun'iy Intellekt (AI)** vositalari bilan tanishamiz.
+
+Bugungi kunda sun'iy intellekt inson o'rnini to'liq egallamaydi, lekin **sun'iy intellektdan unumli foydalana oladigan mutaxassis — undan foydalana olmaydigan mutaxassisdan bir necha barobar ustun turadi**. ChatGPT, Google Gemini va Microsoft Copilot kabi neyrotarmoqlar sizning 8 soatlik kundalik matn terish, tahlil qilish yoki xat yozish vazifalaringizni bir necha daqiqada bajarishga yordam beradi.
+
+Kelgusi 4-Modulimizda (23-dars) esa ushbu internet va bulutli xizmatlardan foydalanishda shaxsiy ma'lumotlarimizni himoya qilish, kiberjinoyatchilardan saqlanish va **Axborot xavfsizligi** qoidalarini chuqur o'rganamiz.
+
 {% hint style="info" %}
-**Dars maqsadi:** Zamonaviy videokonferensiya platformalari (Zoom, Google Meet) orqali masofaviy uchrashuvlar tashkil etish, korporativ messenjerlar (Telegram Desktop, WhatsApp Web), generativ Sun'iy Intellekt (AI — ChatGPT, Microsoft Copilot, Google Gemini) vositalaridan kundalik ish unumdorligini oshirishda foydalanish va Prompt Engineering asoslarini egallash.
+**Dars maqsadi:** Zamonaviy videokonferensiya platformalari (Zoom, Google Meet) orqali masofaviy uchrashuvlar tashkil etish, korporativ messenjerlar (Telegram Desktop, WhatsApp Web), generativ Sun'iy Intellekt (AI — ChatGPT, Microsoft Copilot, Google Gemini) vositalaridan kundalik ish unumdorligini oshirishda foydalanish va Prompt Engineering (Rol, Kontekst, Vazifa, Format) asoslarini egallash.
 {% endhint %}
 
 ### 🎯 Kutilayotgan Kompetensiyalar
@@ -9,10 +17,12 @@
   * Videokonferensiyalarda ekran ulashish (Screen Sharing) va mikrofon etiketi (Mute qoidasi).
   * Telegram orqali hujjatlarni sifatini yo'qotmasdan ("File" ko'rinishida) yuborish sababi.
   * Sun'iy intellektning ishlash mantig'i va "Gallyutsinatsiya" (soxta faktlar to'qish) xavfi.
+  * Prompt Engineering tamoyillari (R-C-T-F formulasi).
 * **Bajara olishingiz kerak:**
   * Google Meet orqali uchrashuv yaratish va havolani hamkorlarga ulashish.
   * AI assistentlariga (ChatGPT/Copilot) professional buyruqlar (Prompts) tuzish: Rol, Kontekst, Aniq vazifa va Format belgilash.
   * AI yordamida katta hajmdagi matnlarni umumlashtirish (Summarize) va rasmiy xat qoralamalarini yozdirish.
+  * Neyrotarmoq bergan ma'lumotlarni tanqidiy tahlil qilish va faktlarni tekshirish.
 
 ## 🎬 1. Video Dars
 
@@ -24,40 +34,47 @@
 
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
-### 2.1. Videokonferensiya va Messenjerlar Madaniyati
+### 2.1. Videokonferensiya va Messenjerlar Etiketi
 
-Masofaviy ish va ta'limda Zoom va Google Meet eng yetakchi aloqa vositalaridir:
+Masofaviy ish va onlayn ta'limda Google Meet va Zoom eng yetakchi aloqa vositalaridir. Ulardan foydalanishda quyidagi qoidalarga qat'iy amal qilinadi:
 
 | Vosita | Asosiy Xususiyati | Muhim Etiket Qoidasi |
 | :--- | :--- | :--- |
-| **Google Meet** | O'rnatish shart emas, to'g'ridan-to'g'ri brauzerda ishlaydi | Kirishingiz bilan mikrofoningizni **O'chiring (Mute)**, faqat gapirayotganda yoqing |
-| **Zoom** | Keng qamrovli virtual xonalar (Breakout rooms), doska | Ekran ulashayotganda (Share Screen) shaxsiy Telegram yoki parollar ko'rinmasligini tekshiring |
+| **Google Meet** | O'rnatish shart emas, to'g'ridan-to'g'ri brauzerda ishlaydi | Uchrashuvga kirishingiz bilan mikrofoningizni **O'chiring (Mute)**, faqat gapirayotganda yoqing |
+| **Zoom** | Keng qamrovli virtual xonalar (Breakout rooms), doska | Ekran ulashayotganda (Share Screen) shaxsiy Telegram yoki parollar ko'rinmasligini oldindan tekshiring |
 | **Telegram Desktop** | Katta hajmli fayllarni (2 GB gacha) tezkor yuborish | Rasmlarni "Photo" emas, siqilmasligi uchun **"File" (Fayl)** sifatida yuboring |
 
+### 2.2. Sun'iy Intellekt (Generative AI) nima?
+
+Sun'iy intellekt — inson aqli talab qilinadigan vazifalarni (matn yozish, tarjima qilish, tahlil qilish, xulosalar chiqarish) bajara oluvchi dasturiy algoritmlar tizimidir. Bugungi kunda eng mashhur neyrotarmoqlar Katta Til Modellari (LLM — Large Language Models) deb ataladi:
+* **ChatGPT (OpenAI):** Keng qamrovli savol-javob, matn yaratish va mantiqiy vazifalar;
+* **Google Gemini:** Google qidiruv tizimi va xizmatlari bilan integratsiyalashgan zamonaviy AI;
+* **Microsoft Copilot:** Microsoft Word, Excel va PowerPoint ichiga o'rnatilgan aqlli yordamchi.
+
+### 2.3. Prompt Engineering (AI ga To'g'ri Buyruq Berish San'ati)
+
+AI modeliga beriladigan topshiriq **"Prompt"** deb ataladi. Agar siz "Menga maqola yozib ber" deb umumiy so'rov bersangiz, AI juda zerikarli va umumiy javob qaytaradi. Professional natijaga erishish uchun **R-C-T-F formulasi** qo'llaniladi:
+
 ```
-[Prompt Engineering Formulasi (AI ga to'g'ri buyruq berish)]
+[Prompt Engineering Formulasi (R-C-T-F)]
   +--------------------------------------------------------------------------+
-  |  1. ROL (Sen kimsan?):    "Sen tajribali IT yurist va kotibsan."        |
+  |  1. ROL (Sen kimsan?):    "Sen tajribali IT yurist va korporativ kotibsan."|
   |  2. KONTEKST (Vaziyat):   "Korxonamizda yangi xodim ishga qabul qilinmoqda."|
   |  3. TOPSHIRIQ (Vazifa):   "U bilan tuziladigan 1 sahifalik mehnat       |
   |                           shartnomasi qoralamasini tayyorlab ber."      |
-  |  4. FORMAT (Ko'rinishi):  "Matnni punktlar va jadvallar bilan taqdim et."|
+  |  4. FORMAT (Ko'rinishi):  "Matnni punktlar va rasmiy uslubda taqdim et." |
   +--------------------------------------------------------------------------+
 ```
+
+### 2.4. Muhim Xavfsizlik Qoidasi va Gallyutsinatsiya
+
+1. **Gallyutsinatsiya (Hallucination):** Ba'zan neyrotarmoq o'ziga juda ishongan ohangda mutlaqo mavjud bo'lmagan qonun moddalarini, shaxslarni yoki faktlarni o'ylab topishi mumkin. Shu sababli AI bergan har qanday muhim raqam yoki qonuniy ma'lumotni rasmiy manbalardan tekshirish shart!
+2. **Kiberxavfsizlik:** Neyrotarmoq chatlariga hech qachon shaxsiy pasport raqamlari, bank kartalari, kompaniya moliyaviy sirlari yoki parollarni kiritmang.
 
 {% hint style="success" %}
 **Pro-Tip (Telegramda fayl sifatini saqlash):**
 Fotosurat yoki chizmalarni Telegram orqali yuborayotganda hech qachon shunchaki rasm qilib tashlamang (Telegram ularni 80% ga siqib, sifatini buzadi). Har doim qisqich (Скрепка) belgisini bosing va **"Send as File" (Fayl sifatida yuborish)** bandini tanlang. Tasvir asl 100% tiniqligida yetib boradi!
 {% endhint %}
-
-### 2.2. Sun'iy Intellekt (AI) Bilan Professional Ishlash
-
-Zamonaviy Katta Til Modellari (LLM — Large Language Models: ChatGPT, Gemini, Copilot) sizning raqamli yordamchingizdir:
-
-* **Matnlarni tahrirlash:** Xatodagi imlo va grammatik xatolarni bir zumda tuzatish.
-* **Xulosalash (Summarize):** 50 betlik kitob yoki hisobotni 1 sahifalik asosiy tezislarga keltirish.
-* **Formatlash va jadvalga aylantirish:** Tartibsiz yozilgan ma'lumotlarni tartibli Excel jadvali ko'rinishiga o'tkazish.
-* **Gallyutsinatsiyadan ehtiyot bo'ling:** AI ba'zida mavjud bo'lmagan soxta qonun moddalarini yoki faktlarni to'qib chiqarishi mumkin. Muhim faktlarni doimo o'zingiz tekshiring!
 
 ## 3. 💻 Bosqichma-bosqich Amaliy Mashg'ulot (Lab Task)
 
