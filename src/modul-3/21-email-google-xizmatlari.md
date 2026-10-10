@@ -32,6 +32,17 @@ Kelgusi 22-darsimizda esa bugun o'rganiladigan Google hisobimiz orqali eng so'ng
 
 [Iframe/Embed: 21-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1VIdSApbBdLZXm7LCTiebVhqoDISEKV9W/view?usp=sharing" target="_blank" rel="noopener noreferrer">21-Mavzu: Elektron Pochta va Google Xizmatlari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1VIdSApbBdLZXm7LCTiebVhqoDISEKV9W/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Elektron Pochta va Korporativ Etiket

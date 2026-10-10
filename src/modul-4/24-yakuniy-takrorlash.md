@@ -28,6 +28,17 @@ Ushbu darsimizda biz butun kurs davomida o'zlashtirilgan barcha 4 ta modul bilim
 
 [Iframe/Embed: 24-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1QXKUmnoDHicwUbG8i1eRHKi3QPMR8-9S/view?usp=sharing" target="_blank" rel="noopener noreferrer">24-Mavzu: Barcha 4 Modul Bo'yicha Yakuniy Takrorlash — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1QXKUmnoDHicwUbG8i1eRHKi3QPMR8-9S/preview" %}
+
+
 ## 2. 📖 Kursning Katta Tizimli Xulosasi
 
 ### 2.1. To'rt Modulning Yagona Arxitekturasi

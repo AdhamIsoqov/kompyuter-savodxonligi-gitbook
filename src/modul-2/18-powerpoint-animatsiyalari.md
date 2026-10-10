@@ -31,6 +31,17 @@ Keyingi 19-darsimizda esa butun 2-Modul bo'yicha katta integratsiyalashgan Amali
 
 [Iframe/Embed: 18-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/195Swr8tSokoi22b_UCGwqawMdTvSYgy-/view?usp=sharing" target="_blank" rel="noopener noreferrer">18-Mavzu: PowerPoint Animatsiyalari va Taqdimotlar — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/195Swr8tSokoi22b_UCGwqawMdTvSYgy-/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Transitions (O'tishlar) va Animations (Animatsiyalar) Farqi

@@ -26,6 +26,17 @@ Ariza yozmoqchisizmi? Shartnoma tayyorlamoqchisizmi? Hisobot yoki dissertatsiya 
 
 [Iframe/Embed: 12-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1vMyF-hkpGnPVEMp54nqws0kELrDP1N7R/view?usp=sharing" target="_blank" rel="noopener noreferrer">12-Mavzu: Microsoft Word Asoslari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1vMyF-hkpGnPVEMp54nqws0kELrDP1N7R/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Rasmiy Hujjat Formatlash Standartlari

@@ -26,6 +26,17 @@ Ofisda ishlayotgan har bir mutaxassis ertami-kechmi printerga duch keladi. Shart
 
 [Iframe/Embed: 06-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1ZqevxwVhbncl28rMwioTiTHJ8FXFp4ul/view?usp=sharing" target="_blank" rel="noopener noreferrer">06-Mavzu: Printer Bilan Ishlash va Sozlash — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1ZqevxwVhbncl28rMwioTiTHJ8FXFp4ul/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Lazerli vs Siyohli (Inkjet) Printerlar

@@ -26,6 +26,17 @@ Tabriklaymiz! Siz 1-Modul — "Kompyuter Texnikasi Montajchisi va Raqamli Savodx
 
 [Iframe/Embed: 10-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1bznJ_xe1xyhZCH011l9_Y4qg0R-sEadD/view?usp=sharing" target="_blank" rel="noopener noreferrer">10-Mavzu: 1-Modul Yakuniy Amaliy Mashg'uloti — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1bznJ_xe1xyhZCH011l9_Y4qg0R-sEadD/preview" %}
+
+
 ## 2. 📖 Nazariy Xulosa va Bilimlar Tizimi
 
 1-Modul davomida siz kompyuter texnikasi montajchisi va ilg'or foydalanuvchisi uchun zarur bo'lgan poydevor ko'nikmalarni egalladingiz. Ularni bir tizimda ko'rib chiqaylik:

@@ -26,6 +26,17 @@ Kompyuterni yoqdingiz va ekranda ish stoli (Desktop) paydo bo'ldi. Xo'sh, bu qan
 
 [Iframe/Embed: 02-Mavzu Bo'yicha Video Dars (YouTube / Google Drive Havolasi)]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1oOI92pu9HDqu5uiSgAJUeHhtUviAGZ1E/view?usp=sharing" target="_blank" rel="noopener noreferrer">02-Mavzu: Kompyuter Bilan Tanishuv va Arxitektura — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1oOI92pu9HDqu5uiSgAJUeHhtUviAGZ1E/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.0. Operatsion Tizim Nima va Nima Uchun Kerak?

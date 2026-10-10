@@ -26,6 +26,17 @@ Bugungi raqamli ish olamida Microsoft Office bilimi — bu minimal talab emas, b
 
 [Iframe/Embed: 11-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/18QrFnI-NPzCc2evcA1mmibsv3RL4_qKZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">11-Mavzu: Microsoft Office Paketiga Kirish — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/18QrFnI-NPzCc2evcA1mmibsv3RL4_qKZ/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Qaysi Ish Uchun Qaysi Dastur?

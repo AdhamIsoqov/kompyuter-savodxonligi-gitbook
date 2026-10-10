@@ -26,6 +26,17 @@ Excel'ning asosiy kuchi bu yerda: minglab sonlarni bir zumda hisoblash, shartlar
 
 [Iframe/Embed: 15-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1WOvHUPzOrB4TEqpHydJvBle7T0og41at/view?usp=sharing" target="_blank" rel="noopener noreferrer">15-Mavzu: Microsoft Excel Formulalari va Funksiyalari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1WOvHUPzOrB4TEqpHydJvBle7T0og41at/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Formula Sintaksisi va Arifmetik Amallar

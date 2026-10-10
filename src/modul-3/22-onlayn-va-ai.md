@@ -32,6 +32,17 @@ Kelgusi 4-Modulimizda (23-dars) esa ushbu internet va bulutli xizmatlardan foyda
 
 [Iframe/Embed: 22-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1JvS5YatC0pgVNIwuOm84y9cBw3mIdMBl/view?usp=sharing" target="_blank" rel="noopener noreferrer">22-Mavzu: Onlayn Xizmatlar va Sun'iy Intellekt Vositalari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1JvS5YatC0pgVNIwuOm84y9cBw3mIdMBl/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Videokonferensiya va Messenjerlar Etiketi

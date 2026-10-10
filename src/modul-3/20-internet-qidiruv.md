@@ -34,6 +34,17 @@ Kelgusi 21-darsimizda esa bugun o'rganiladigan brauzer imkoniyatlaridan foydalan
 
 [Iframe/Embed: 20-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1ie2ON9DjM8V2pYHQwlhQPK9P9mzeGBwf/view?usp=sharing" target="_blank" rel="noopener noreferrer">20-Mavzu: Internet va Qidiruv Tizimlari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1ie2ON9DjM8V2pYHQwlhQPK9P9mzeGBwf/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Internet Arxitekturasi: Klient-Server, IP va DNS

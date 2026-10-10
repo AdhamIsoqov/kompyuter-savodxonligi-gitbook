@@ -26,6 +26,17 @@ Katta hujjatlar — dissertatsiyalar, yillik hisobotlar, loyihalar — faqat for
 
 [Iframe/Embed: 13-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1wixlI_TkEmdV6FfyNJhNt3J9yBf1dUvv/view?usp=sharing" target="_blank" rel="noopener noreferrer">13-Mavzu: Microsoft Word Kengaytirilgan Imkoniyatlari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1wixlI_TkEmdV6FfyNJhNt3J9yBf1dUvv/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Jadvallar Bilan Professional Ishlash

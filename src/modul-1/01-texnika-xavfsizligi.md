@@ -14,6 +14,19 @@ Bugungi darsimizda kompyuter bilan ishlash va texnik xizmat ko'rsatish davomida 
 
 ---
 
+
+
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1gProRGyilcYZCy3aFwlGyuuZqlZRkPQm/view?usp=sharing" target="_blank" rel="noopener noreferrer">01-Mavzu: Texnika Xavfsizligi va Mehnatni Muhofaza Qilish — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1gProRGyilcYZCy3aFwlGyuuZqlZRkPQm/preview" %}
+
+---
 ## 1. 📖 Texnika Xavfsizligi va Mehnatni Muhofaza Qilish Nima?
 
 **Texnika xavfsizligi** — kompyuter, elektr qurilmalari, o'lchov asboblari va boshqa texnik vositalardan foydalanish vaqtida inson hayoti va sog'lig'ini, shuningdek, texnika vositalarini shikastlanishdan himoya qilishga qaratilgan qoidalar va texnik tadbirlar majmuasidir.

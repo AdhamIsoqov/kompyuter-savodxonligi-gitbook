@@ -26,6 +26,17 @@ Word matn yozish uchun bo'lsa, Excel — raqamlar bilan ishlash uchun mo'ljallan
 
 [Iframe/Embed: 14-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1FK2OOI6FDxMN6UBK-tav52nK5ZBe224K/view?usp=sharing" target="_blank" rel="noopener noreferrer">14-Mavzu: Microsoft Excel Asoslari — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1FK2OOI6FDxMN6UBK-tav52nK5ZBe224K/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Excel Interfeysi va Koordinata Tizimi

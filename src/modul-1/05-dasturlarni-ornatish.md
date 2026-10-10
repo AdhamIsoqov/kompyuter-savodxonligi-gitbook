@@ -26,6 +26,17 @@ Kompyuter — dasturlarsiz bo'sh qobiq. Dasturlar kompyuterni haqiqiy ish quroli
 
 [Iframe/Embed: 05-Mavzu Bo'yicha YouTube Video Dars Havolasi]
 
+### 📊 Dars Slaydlari va Taqdimoti (EduRecurses)
+
+{% hint style="success" %}
+**📊 Rasmiy Taqdimot Slaydlari (Microsoft PowerPoint / Google Drive):**
+Ushbu darsning barcha mavzulari, grafik sxemalari va ko'rgazmali materiallarini onlayn ko'rish hamda yuklab olish uchun quyidagi rasmiy havoladan foydalaning:
+* 🌐 **Onlayn ko'rish va yuklab olish:** <a href="https://drive.google.com/file/d/1djqkuSqEJgmT2LaG3Ko15yxOss33FqSE/view?usp=sharing" target="_blank" rel="noopener noreferrer">05-Mavzu: Dasturlarni O'rnatish va Boshqarish — Taqdimot Slaydlarini Ochish</a>
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1djqkuSqEJgmT2LaG3Ko15yxOss33FqSE/preview" %}
+
+
 ## 2. 📖 Chuqurlashtirilgan Nazariy Ma'ruza
 
 ### 2.1. Installer vs Portable Dasturlar
